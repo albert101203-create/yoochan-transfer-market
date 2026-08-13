@@ -1,0 +1,47 @@
+{
+  "generatedAt": "2026-08-13T12:58:10.657Z",
+  "basedOnFetchedAt": "2026-08-13T12:58:10.652Z",
+  "itemCount": 2,
+  "drafts": [
+    {
+      "id": "draft:49597770",
+      "player": "Zubimendi",
+      "fromTeam": "Arsenal",
+      "toTeam": "Chelsea",
+      "league": "프리미어리그",
+      "status": "루머",
+      "fee": "미정",
+      "sourceKey": "espn-fc",
+      "sourceTier": "medium",
+      "sourceName": "ESPN FC",
+      "sourceUrl": "https://www.espn.com/soccer/story/_/id/49597770/transfer-rumors-news-chelsea-eye-arsenal-zubimendi-replace-man-city-target-enzo-fernandez",
+      "sourceType": "자동 추출 초안",
+      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
+      "publishedAt": "2026-08-13 21:24",
+      "lastVerifiedAt": "2026-08-13 21:58",
+      "extractionConfidence": "low",
+      "extractionPattern": "club-eye-player",
+      "headlineTitle": "Transfer rumors, news: Chelsea eye Arsenal's Zubimendi to replace Man City target Enzo Fernández"
+    },
+    {
+      "id": "draft:https://www.bbc.co.uk/sport/football/articles/c79g4q44zvro?at_medium=RSS&at_campaign=rss",
+      "player": "Emenalo",
+      "fromTeam": "Chelsea",
+      "toTeam": "Celtic",
+      "league": "스코티시 프리미어십",
+      "status": "루머",
+      "fee": "미정",
+      "sourceKey": "bbc-sport",
+      "sourceTier": "medium",
+      "sourceName": "BBC Sport",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c79g4q44zvro?at_medium=RSS&at_campaign=rss",
+      "sourceType": "자동 추출 초안",
+      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
+      "publishedAt": "2026-08-13 15:55",
+      "lastVerifiedAt": "2026-08-13 21:58",
+      "extractionConfidence": "low",
+      "extractionPattern": "club-want-player",
+      "headlineTitle": "Celtic want Chelsea's Emenalo on loan - gossip"
+    }
+  ]
+}

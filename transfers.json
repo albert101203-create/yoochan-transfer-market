@@ -1,0 +1,54 @@
+[
+  {
+    "player": "김민재",
+    "fromTeam": "바이에른 뮌헨",
+    "toTeam": "인터 밀란",
+    "league": "세리에 A",
+    "status": "루머",
+    "fee": "미정",
+    "sourceKey": "fabrizio-romano",
+    "publishedAt": "2026-08-13 18:20",
+    "sourceReason": "최상위 기자발 루머지만 공식 발표 전 단계라 추가 확인이 필요합니다.",
+    "lastVerifiedAt": "2026-08-13 11:45"
+  },
+  {
+    "player": "브라힘 디아스",
+    "fromTeam": "레알 마드리드",
+    "toTeam": "밀란",
+    "league": "세리에 A",
+    "status": "완료",
+    "fee": "€28M",
+    "sourceKey": "official-club",
+    "sourceName": "Real Madrid Official",
+    "sourceUrl": "https://www.realmadrid.com/",
+    "publishedAt": "2026-08-13 16:40",
+    "sourceReason": "구단 발표 또는 1차 출처 기준으로 확인된 케이스를 가정했습니다.",
+    "lastVerifiedAt": "2026-08-13 11:50"
+  },
+  {
+    "player": "이반 토니",
+    "fromTeam": "알 아흘리",
+    "toTeam": "토트넘",
+    "league": "프리미어리그",
+    "status": "루머",
+    "fee": "€42M",
+    "sourceKey": "sky-sports",
+    "publishedAt": "2026-08-13 14:05",
+    "sourceReason": "메이저 매체발 루머라 추적 가치는 있지만 상 티어나 공식 확인이 더 필요합니다.",
+    "lastVerifiedAt": "2026-08-13 11:30"
+  },
+  {
+    "player": "비토르 호키",
+    "fromTeam": "바르셀로나",
+    "toTeam": "레알 베티스",
+    "league": "라리가",
+    "status": "완료",
+    "fee": "임대",
+    "sourceKey": "official-club",
+    "sourceName": "Real Betis Official",
+    "sourceUrl": "https://en.realbetisbalompie.es/",
+    "publishedAt": "2026-08-13 12:10",
+    "sourceReason": "완료 딜은 공식 발표/등록 여부를 우선으로 판단합니다.",
+    "lastVerifiedAt": "2026-08-13 11:40"
+  }
+]

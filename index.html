@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>축구 이적시장 웹사이트 MVP</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="app-shell">
+    <header class="hero">
+      <div>
+        <p class="eyebrow">Football Transfer Tracker</p>
+        <h1>축구 이적시장 웹사이트</h1>
+        <p class="subtitle">리그와 팀 기준으로 최신 이적 완료/루머를 빠르게 확인하는 MVP 데모</p>
+      </div>
+      <div class="hero-meta">
+        <span id="refreshStatus" class="pill">mock data</span>
+      </div>
+    </header>
+
+    <section class="filters card">
+      <label>
+        리그
+        <select id="leagueFilter">
+          <option value="all">전체</option>
+        </select>
+      </label>
+
+      <label>
+        상태
+        <select id="statusFilter">
+          <option value="all">전체</option>
+          <option value="완료">완료</option>
+          <option value="루머">루머</option>
+        </select>
+      </label>
+
+      <label class="search">
+        팀 검색
+        <input id="teamSearch" type="text" placeholder="예: 토트넘, 바르셀로나" />
+      </label>
+    </section>
+
+    <section class="summary-grid">
+      <article class="card stat">
+        <span>전체 항목</span>
+        <strong id="totalCount">0</strong>
+      </article>
+      <article class="card stat">
+        <span>완료</span>
+        <strong id="doneCount">0</strong>
+      </article>
+      <article class="card stat">
+        <span>루머</span>
+        <strong id="rumorCount">0</strong>
+      </article>
+    </section>
+
+    <section class="card live-section">
+      <div class="section-head">
+        <div>
+          <p class="eyebrow">Live Headlines</p>
+          <h2>실시간 이적시장 헤드라인</h2>
+        </div>
+        <button id="liveRefreshBtn" class="ghost-button" type="button">지금 새로고침</button>
+      </div>
+      <p id="liveStatus" class="subtitle">실시간 피드 준비 중...</p>
+      <div id="liveCards" class="cards live-cards"></div>
+    </section>
+
+    <section class="card live-section">
+      <div class="section-head">
+        <div>
+          <p class="eyebrow">Auto Drafts</p>
+          <h2>자동 생성 이적 카드 초안</h2>
+        </div>
+      </div>
+      <p id="draftStatus" class="subtitle">자동 초안 준비 중...</p>
+      <div id="draftCards" class="cards live-cards"></div>
+    </section>
+
+    <section class="card live-section">
+      <div class="section-head">
+        <div>
+          <p class="eyebrow">Promoted Candidates</p>
+          <h2>메인 노출 후보</h2>
+        </div>
+      </div>
+      <p id="promotedStatus" class="subtitle">승격 후보 준비 중...</p>
+      <div id="promotedCards" class="cards live-cards"></div>
+    </section>
+
+    <main id="cards" class="cards"></main>
+  </div>
+
+  <script src="source-registry.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
