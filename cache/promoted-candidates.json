@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-15T17:49:14.294Z",
-  "basedOnGeneratedAt": "2026-08-15T17:49:14.293Z",
+  "generatedAt": "2026-08-15T19:00:41.098Z",
+  "basedOnGeneratedAt": "2026-08-15T19:00:41.097Z",
   "itemCount": 2,
   "items": [
     {
@@ -18,7 +18,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-08-15 09:32",
-      "lastVerifiedAt": "2026-08-15 17:49",
+      "lastVerifiedAt": "2026-08-15 19:00",
       "extractionConfidence": "high",
       "extractionPattern": "player-club-signs-from",
       "headlineTitle": "Ferran Torres: PSG sign World Cup final hero from Barcelona for &#163;42.7m"
@@ -27,7 +27,7 @@
       "id": "draft:https://news.google.com/rss/articles/CBMibkFVX3lxTE54R3NEZnV3NzY2Qlk2QTNKNmFQQjJmdV90VGZidzhQR1lfeTJhaDBfMllxVW9pcTk5TzhuRnJRZ3d3ZFZhdlhxRk1aR1MxcWZFX21BRFdvcmw5M1Q2eW04WXMwWTNvc1dhWmhYUmNR?oc=5",
       "player": "Colombian Jhon Lucumi",
       "fromTeam": "미상",
-      "toTeam": "Juventus After Four Seasons at Bologna - ColombiaOne.com",
+      "toTeam": "Juventus After Four Seasons at Bologna - colombiaone.com",
       "league": "미분류",
       "status": "완료",
       "fee": "€20M",
@@ -38,10 +38,10 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-08-15 13:00",
-      "lastVerifiedAt": "2026-08-15 17:49",
+      "lastVerifiedAt": "2026-08-15 19:00",
       "extractionConfidence": "medium",
       "extractionPattern": "player-seals-move",
-      "headlineTitle": "Colombian Jhon Lucumi Seals €20 Million Move to Juventus After Four Seasons at Bologna - ColombiaOne.com"
+      "headlineTitle": "Colombian Jhon Lucumi Seals €20 Million Move to Juventus After Four Seasons at Bologna - colombiaone.com"
     }
   ],
   "rules": {
