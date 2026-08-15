@@ -1,6 +1,27 @@
 {
-  "generatedAt": "2026-08-15T08:59:42.532Z",
-  "basedOnFetchedAt": "2026-08-15T08:59:42.529Z",
-  "itemCount": 0,
-  "drafts": []
+  "generatedAt": "2026-08-15T09:54:33.099Z",
+  "basedOnFetchedAt": "2026-08-15T09:54:33.095Z",
+  "itemCount": 1,
+  "drafts": [
+    {
+      "id": "draft:https://www.skysports.com/football/news/11820/13573232/ferran-torres-psg-sign-world-cup-final-hero-from-barcelona-for-42-7m",
+      "player": "Ferran Torres",
+      "fromTeam": "Barcelona for £42.7m",
+      "toTeam": "PSG",
+      "league": "미분류",
+      "status": "완료",
+      "fee": "£42.7M",
+      "sourceKey": "sky-sports",
+      "sourceTier": "medium",
+      "sourceName": "Sky Sports",
+      "sourceUrl": "https://www.skysports.com/football/news/11820/13573232/ferran-torres-psg-sign-world-cup-final-hero-from-barcelona-for-42-7m",
+      "sourceType": "자동 추출 초안",
+      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
+      "publishedAt": "2026-08-15 09:32",
+      "lastVerifiedAt": "2026-08-15 09:54",
+      "extractionConfidence": "high",
+      "extractionPattern": "player-club-signs-from",
+      "headlineTitle": "Ferran Torres: PSG sign World Cup final hero from Barcelona for &#163;42.7m"
+    }
+  ]
 }
