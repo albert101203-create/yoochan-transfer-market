@@ -1,0 +1,48 @@
+{
+  "players": {
+    "김민재": {
+      "src": "./assets/players/asset-80d42047.jpg",
+      "sourcePage": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/FC_Red_Bull_Salzburg_gegen_Bayern_M%C3%BCnchen_%282025-01-06_Testspiel%29_26.jpg/960px-FC_Red_Bull_Salzburg_gegen_Bayern_M%C3%BCnchen_%282025-01-06_Testspiel%29_26.jpg",
+      "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/FC_Red_Bull_Salzburg_gegen_Bayern_M%C3%BCnchen_%282025-01-06_Testspiel%29_26.jpg/960px-FC_Red_Bull_Salzburg_gegen_Bayern_M%C3%BCnchen_%282025-01-06_Testspiel%29_26.jpg",
+      "retrievedAt": "2026-08-16T17:12:42.632Z"
+    },
+    "브라힘 디아스": {
+      "src": "./assets/players/asset-5bac7c01.jpg",
+      "sourcePage": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Brahim_Diaz_Morocco_v_Norway_7_June_2026-36_%28cropped_3-4%29.jpg/960px-Brahim_Diaz_Morocco_v_Norway_7_June_2026-36_%28cropped_3-4%29.jpg",
+      "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Brahim_Diaz_Morocco_v_Norway_7_June_2026-36_%28cropped_3-4%29.jpg/960px-Brahim_Diaz_Morocco_v_Norway_7_June_2026-36_%28cropped_3-4%29.jpg",
+      "retrievedAt": "2026-08-16T17:12:42.633Z"
+    },
+    "이반 토니": {
+      "src": "./assets/players/asset-f8ede172.jpg",
+      "sourcePage": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ivan_Toney_England_v_Ghana_23_June_2026-051.jpg/960px-Ivan_Toney_England_v_Ghana_23_June_2026-051.jpg",
+      "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Ivan_Toney_England_v_Ghana_23_June_2026-051.jpg/960px-Ivan_Toney_England_v_Ghana_23_June_2026-051.jpg",
+      "retrievedAt": "2026-08-16T17:12:42.633Z"
+    },
+    "비토르 호키": {
+      "src": "./assets/players/asset-4ddeae46.jpg",
+      "sourcePage": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Vitor-roque-palmeiras-internacional-sep2025.jpg/960px-Vitor-roque-palmeiras-internacional-sep2025.jpg",
+      "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Vitor-roque-palmeiras-internacional-sep2025.jpg/960px-Vitor-roque-palmeiras-internacional-sep2025.jpg",
+      "retrievedAt": "2026-08-16T17:12:42.633Z"
+    }
+  },
+  "clubs": {
+    "바이에른 뮌헨": {
+      "src": "./assets/clubs/asset-b80a81e6.png",
+      "sourcePage": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/1280px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
+      "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg/1280px-FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg.png",
+      "retrievedAt": "2026-08-16T17:12:43.156Z"
+    },
+    "인터 밀란": {
+      "src": "./assets/clubs/asset-94bd785c.png",
+      "sourcePage": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/1280px-FC_Internazionale_Milano_2021.svg.png",
+      "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/FC_Internazionale_Milano_2021.svg/1280px-FC_Internazionale_Milano_2021.svg.png",
+      "retrievedAt": "2026-08-16T17:12:43.548Z"
+    },
+    "Benfica": {
+      "src": "./assets/clubs/benfica-6c0c5d8f.jpg",
+      "sourcePage": "https://en.wikipedia.org/wiki/S.L._Benfica",
+      "sourceImage": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/SL_Benfica_logo.svg/330px-SL_Benfica_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+      "retrievedAt": "2026-08-16T17:13:01.907Z"
+    }
+  }
+}

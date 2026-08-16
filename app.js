@@ -229,6 +229,7 @@ const fallbackTransfers = [
 ];
 
 let transfers = [];
+let assetMap = { players: {}, clubs: {} };
 let dataMode = "loading";
 let liveMode = "live unavailable";
 let draftMode = "draft unavailable";
@@ -251,6 +252,9 @@ const rumorCount = document.querySelector("#rumorCount");
 const refreshStatus = document.querySelector("#refreshStatus");
 
 function enrichTransfer(item) {
+  const playerAsset = assetMap.players[item.player || ""]?.src;
+  const fromClubAsset = assetMap.clubs[item.fromTeam || ""]?.src;
+  const toClubAsset = assetMap.clubs[item.toTeam || ""]?.src;
   const player = item.player || "미상 선수";
   const fromTeam = item.fromTeam || "미상";
   const toTeam = item.toTeam || "미상";
@@ -266,11 +270,11 @@ function enrichTransfer(item) {
     publishedAt: item.publishedAt || "시간 미상",
     lastVerifiedAt: item.lastVerifiedAt || "검증 전",
     ...getSourceMeta(item.sourceKey, item),
-    playerPhoto: playerPhotoUrls[player] || createPlayerPhoto(player),
+    playerPhoto: playerAsset || playerPhotoUrls[player] || createPlayerPhoto(player),
     playerPhotoFallback: createPlayerPhoto(player),
-    fromLogo: clubLogoUrls[fromTeam] || createClubLogo(fromTeam),
+    fromLogo: fromClubAsset || clubLogoUrls[fromTeam] || createClubLogo(fromTeam),
     fromLogoFallback: createClubLogo(fromTeam),
-    toLogo: clubLogoUrls[toTeam] || createClubLogo(toTeam),
+    toLogo: toClubAsset || clubLogoUrls[toTeam] || createClubLogo(toTeam),
     toLogoFallback: createClubLogo(toTeam),
   };
 }
@@ -417,6 +421,20 @@ async function loadTransfers() {
   initFilters();
   renderCards();
   updateRefreshStatus();
+}
+
+async function loadAssetMap() {
+  try {
+    const response = await fetch("./asset-map.json", { cache: "no-store" });
+    if (!response.ok) throw new Error(`HTTP ${response.status}`);
+    const data = await response.json();
+    assetMap = {
+      players: data.players || {},
+      clubs: data.clubs || {},
+    };
+  } catch (error) {
+    console.warn("asset-map.json load failed, remote/fallback images used.", error);
+  }
 }
 
 function renderDraftCards(items) {
@@ -734,10 +752,12 @@ if (promotedCards) {
   promotedCards.innerHTML = `<article class="card empty">메인 노출 후보를 계산하는 중입니다.</article>`;
 }
 bindEvents();
-loadTransfers();
-loadLiveHeadlines();
-loadAutoDrafts();
-loadPromotedCandidates();
+loadAssetMap().finally(() => {
+  loadTransfers();
+  loadLiveHeadlines();
+  loadAutoDrafts();
+  loadPromotedCandidates();
+});
 setInterval(updateRefreshStatus, 30000);
 setInterval(() => loadLiveHeadlines(), 120000);
 setInterval(() => loadAutoDrafts(), 120000);

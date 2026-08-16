@@ -713,7 +713,7 @@ async function buildLivePayload() {
 function buildDraftPayload(livePayload) {
   const drafts = dedupeDrafts(livePayload.items.map(extractAutoDraft).filter(Boolean))
     .sort(compareDraftPriority)
-    .slice(0, 14);
+    .slice(0, 30);
 
   return {
     generatedAt: new Date().toISOString(),
@@ -728,7 +728,7 @@ function buildPromotedPayload(draftPayload) {
     .filter((item) => ["high", "medium"].includes(item.sourceTier))
     .filter((item) => ["high", "medium"].includes(item.extractionConfidence))
     .sort(compareDraftPriority)
-    .slice(0, 10);
+    .slice(0, 30);
 
   return {
     generatedAt: new Date().toISOString(),
