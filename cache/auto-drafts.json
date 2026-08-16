@@ -1,8 +1,28 @@
 {
-  "generatedAt": "2026-08-16T09:01:20.916Z",
-  "basedOnFetchedAt": "2026-08-16T09:01:20.912Z",
-  "itemCount": 2,
+  "generatedAt": "2026-08-16T09:57:17.480Z",
+  "basedOnFetchedAt": "2026-08-16T09:57:17.476Z",
+  "itemCount": 3,
   "drafts": [
+    {
+      "id": "draft:https://www.skysports.com/football/news/11095/13573640/newcastle-transfer-news-club-agree-deal-to-sign-defender-amar-dedic-from-benfica",
+      "player": "Newcastle transfer news",
+      "fromTeam": "Benfica",
+      "toTeam": "Club agree deal to",
+      "league": "미분류",
+      "status": "완료",
+      "fee": "미정",
+      "sourceKey": "sky-sports",
+      "sourceTier": "medium",
+      "sourceName": "Sky Sports",
+      "sourceUrl": "https://www.skysports.com/football/news/11095/13573640/newcastle-transfer-news-club-agree-deal-to-sign-defender-amar-dedic-from-benfica",
+      "sourceType": "자동 추출 초안",
+      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
+      "publishedAt": "2026-08-16 08:48",
+      "lastVerifiedAt": "2026-08-16 09:57",
+      "extractionConfidence": "high",
+      "extractionPattern": "player-club-signs-from",
+      "headlineTitle": "Newcastle transfer news: Club agree deal to sign defender Amar Dedic from Benfica"
+    },
     {
       "id": "draft:https://news.google.com/rss/articles/CBMibkFVX3lxTE54R3NEZnV3NzY2Qlk2QTNKNmFQQjJmdV90VGZidzhQR1lfeTJhaDBfMllxVW9pcTk5TzhuRnJRZ3d3ZFZhdlhxRk1aR1MxcWZFX21BRFdvcmw5M1Q2eW04WXMwWTNvc1dhWmhYUmNR?oc=5",
       "player": "Colombian Jhon Lucumi",
@@ -18,7 +38,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-08-15 13:00",
-      "lastVerifiedAt": "2026-08-16 09:01",
+      "lastVerifiedAt": "2026-08-16 09:57",
       "extractionConfidence": "medium",
       "extractionPattern": "player-seals-move",
       "headlineTitle": "Colombian Jhon Lucumi Seals €20 Million Move to Juventus After Four Seasons at Bologna - ColombiaOne.com"
@@ -38,7 +58,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-08-15 18:57",
-      "lastVerifiedAt": "2026-08-16 09:01",
+      "lastVerifiedAt": "2026-08-16 09:57",
       "extractionConfidence": "low",
       "extractionPattern": "club-want-player",
       "headlineTitle": "Transfer rumors, news: Como want Chelsea's Delap to bolster attack - ESPN"
