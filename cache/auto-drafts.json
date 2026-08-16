@@ -1,6 +1,27 @@
 {
-  "generatedAt": "2026-08-16T20:45:53.798Z",
-  "basedOnFetchedAt": "2026-08-16T20:45:53.795Z",
-  "itemCount": 0,
-  "drafts": []
+  "generatedAt": "2026-08-16T21:39:04.904Z",
+  "basedOnFetchedAt": "2026-08-16T21:39:04.901Z",
+  "itemCount": 1,
+  "drafts": [
+    {
+      "id": "draft:https://www.skysports.com/football/news/11095/13573640/newcastle-transfer-news-club-agree-deal-to-sign-defender-amar-dedic-from-benfica",
+      "player": "Newcastle transfer news",
+      "fromTeam": "Benfica",
+      "toTeam": "Club agree deal to",
+      "league": "미분류",
+      "status": "완료",
+      "fee": "미정",
+      "sourceKey": "sky-sports",
+      "sourceTier": "medium",
+      "sourceName": "Sky Sports",
+      "sourceUrl": "https://www.skysports.com/football/news/11095/13573640/newcastle-transfer-news-club-agree-deal-to-sign-defender-amar-dedic-from-benfica",
+      "sourceType": "자동 추출 초안",
+      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
+      "publishedAt": "2026-08-16 08:48",
+      "lastVerifiedAt": "2026-08-16 21:39",
+      "extractionConfidence": "high",
+      "extractionPattern": "player-club-signs-from",
+      "headlineTitle": "Newcastle transfer news: Club agree deal to sign defender Amar Dedic from Benfica"
+    }
+  ]
 }
