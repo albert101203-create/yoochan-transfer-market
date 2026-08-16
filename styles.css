@@ -208,6 +208,35 @@ select {
   line-height: 1.6;
 }
 
+.article-link-box,
+.source-link-box {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  margin-top: 14px;
+  padding: 10px 12px;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  background: rgba(97, 165, 255, 0.08);
+  color: var(--muted);
+  font-size: 13px;
+}
+
+.article-link-box a,
+.source-link-box a {
+  color: var(--accent);
+  font-weight: 700;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.article-link-box a:hover,
+.source-link-box a:hover {
+  text-decoration: underline;
+}
+
 .live-meta {
   display: flex;
   flex-wrap: wrap;

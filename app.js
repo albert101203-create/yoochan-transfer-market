@@ -373,9 +373,10 @@ function renderCards() {
           </div>
 
           <div class="source-block">
-            <p class="source">
-              출처: <a href="${item.sourceUrl}" target="_blank" rel="noreferrer">${item.sourceName}</a>
-            </p>
+            <div class="source-link-box">
+              <span>출처 링크</span>
+              <a href="${item.sourceUrl}" target="_blank" rel="noreferrer">원문 열기 ↗</a>
+            </div>
             <div class="source-meta">
               <span class="source-badge ${getReliabilityClass(item.sourceReliability)}">신뢰도 ${item.sourceReliability}</span>
               <span>${item.sourceType}</span>
@@ -484,9 +485,10 @@ function renderDraftCards(items) {
           </div>
 
           <div class="source-block">
-            <p class="source">
-              원문: <a href="${item.sourceUrl}" target="_blank" rel="noreferrer">${item.headlineTitle || item.sourceName}</a>
-            </p>
+            <div class="source-link-box">
+              <span>원문 링크</span>
+              <a href="${item.sourceUrl}" target="_blank" rel="noreferrer">원문 열기 ↗</a>
+            </div>
             <div class="source-meta">
               <span class="source-badge ${reliabilityClass}">출처 ${item.sourceReliability}</span>
               <span class="source-badge ${confidenceClass}">추출 ${getConfidenceLabel(item.extractionConfidence || "low")}</span>
@@ -553,9 +555,10 @@ function renderPromotedCards(items) {
           </div>
 
           <div class="source-block">
-            <p class="source">
-              원문: <a href="${item.sourceUrl}" target="_blank" rel="noreferrer">${item.headlineTitle || item.sourceName}</a>
-            </p>
+            <div class="source-link-box">
+              <span>원문 링크</span>
+              <a href="${item.sourceUrl}" target="_blank" rel="noreferrer">원문 열기 ↗</a>
+            </div>
             <div class="source-meta">
               <span class="source-badge ${reliabilityClass}">출처 ${tierLabel}</span>
               <span class="source-badge ${confidenceClass}">추출 ${getConfidenceLabel(item.extractionConfidence || "low")}</span>
@@ -590,13 +593,15 @@ function renderLiveCards(items) {
           <div class="card-top">
             <div>
               <div class="eyebrow">${item.sourceName}</div>
-              <h3 class="live-title">
-                <a href="${item.url}" target="_blank" rel="noreferrer">${item.title}</a>
-              </h3>
+              <h3 class="live-title">${item.title}</h3>
             </div>
             <span class="badge ${badgeClass}">${item.status}</span>
           </div>
           <p class="live-summary">${item.summary || "요약 없음"}</p>
+          <div class="article-link-box">
+            <span>기사 링크</span>
+            <a href="${item.url}" target="_blank" rel="noreferrer">원문 열기 ↗</a>
+          </div>
           <div class="live-meta">
             <span class="source-badge ${reliabilityClass}">신뢰도 ${item.sourceReliability}</span>
             <span>${item.sourceType || "실시간 헤드라인"}</span>
