@@ -57,41 +57,49 @@
       </article>
     </section>
 
-    <section class="card live-section">
+    <section class="card live-section article-section">
       <div class="section-head">
         <div>
-          <p class="eyebrow">Live Headlines</p>
-          <h2>실시간 이적시장 헤드라인</h2>
+          <p class="eyebrow">Source Articles</p>
+          <h2>기사 원문 카드</h2>
         </div>
         <button id="liveRefreshBtn" class="ghost-button" type="button">지금 새로고침</button>
       </div>
       <p id="liveStatus" class="subtitle">실시간 피드 준비 중...</p>
-      <div id="liveCards" class="cards live-cards"></div>
+      <div id="liveCards" class="cards live-cards article-cards"></div>
     </section>
 
-    <section class="card live-section">
+    <section class="card live-section transfer-section">
       <div class="section-head">
         <div>
-          <p class="eyebrow">Auto Drafts</p>
-          <h2>자동 생성 이적 카드 초안</h2>
+          <p class="eyebrow">Transfer Card Drafts</p>
+          <h2>기사 기반 이적 카드 초안</h2>
         </div>
       </div>
       <p id="draftStatus" class="subtitle">자동 초안 준비 중...</p>
-      <div id="draftCards" class="cards live-cards"></div>
+      <div id="draftCards" class="cards live-cards transfer-cards"></div>
     </section>
 
-    <section class="card live-section">
+    <section class="card live-section transfer-section promoted-section">
       <div class="section-head">
         <div>
-          <p class="eyebrow">Promoted Candidates</p>
-          <h2>메인 노출 후보</h2>
+          <p class="eyebrow">Verified Candidates</p>
+          <h2>검증 우선 이적 카드</h2>
         </div>
       </div>
       <p id="promotedStatus" class="subtitle">승격 후보 준비 중...</p>
-      <div id="promotedCards" class="cards live-cards"></div>
+      <div id="promotedCards" class="cards live-cards transfer-cards"></div>
     </section>
 
-    <main id="cards" class="cards"></main>
+    <section class="main-transfer-section">
+      <div class="section-head">
+        <div>
+          <p class="eyebrow">Transfer Cards</p>
+          <h2>전체 이적 카드</h2>
+        </div>
+      </div>
+      <main id="cards" class="cards transfer-cards"></main>
+    </section>
   </div>
 
   <script src="source-registry.js"></script>

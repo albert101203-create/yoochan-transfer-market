@@ -148,6 +148,36 @@ select {
   padding: 18px;
 }
 
+.article-section {
+  border-top: 3px solid rgba(45, 212, 191, 0.72);
+}
+
+.article-cards {
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+}
+
+.article-cards .live-card {
+  min-height: 190px;
+  background: rgba(12, 27, 47, 0.82);
+}
+
+.transfer-section,
+.main-transfer-section {
+  border-top: 3px solid rgba(139, 92, 246, 0.72);
+}
+
+.main-transfer-section {
+  margin-top: 28px;
+}
+
+.main-transfer-section .section-head {
+  margin-bottom: 14px;
+}
+
+.transfer-cards {
+  margin-top: 14px;
+}
+
 .draft-card {
   padding: 20px;
 }
