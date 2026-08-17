@@ -233,6 +233,9 @@ let assetMap = { players: {}, clubs: {} };
 let dataMode = "loading";
 let liveMode = "live unavailable";
 let draftMode = "draft unavailable";
+let liveHeadlineCount = 0;
+let autoDraftCount = 0;
+let rumorDraftCount = 0;
 
 const leagueFilter = document.querySelector("#leagueFilter");
 const statusFilter = document.querySelector("#statusFilter");
@@ -324,9 +327,9 @@ function getFilteredTransfers() {
 }
 
 function renderStats(items) {
-  totalCount.textContent = items.length;
-  doneCount.textContent = items.filter((item) => item.status === "완료").length;
-  rumorCount.textContent = items.filter((item) => item.status === "루머").length;
+  totalCount.textContent = liveHeadlineCount;
+  doneCount.textContent = autoDraftCount;
+  rumorCount.textContent = rumorDraftCount;
 }
 
 function renderCards() {
@@ -592,6 +595,8 @@ async function loadLiveHeadlines(force = false) {
     const result = await fetchJsonOrCache("/api/live-headlines", "./cache/live-headlines.json", force);
     const { payload } = result;
     const items = payload.items.map((item) => enrichTransfer(item));
+    liveHeadlineCount = payload.itemCount || items.length;
+    renderStats();
     const healthSummary = (payload.sourceHealth || [])
       .map((entry) => `${entry.source}: ${entry.ok ? "OK" : "FAIL"}`)
       .join(" · ");
@@ -630,6 +635,9 @@ async function loadAutoDrafts(force = false) {
     const result = await fetchJsonOrCache("/api/auto-drafts", "./cache/auto-drafts.json", force);
     const { payload } = result;
     const items = payload.drafts.map((item) => enrichTransfer(item));
+    autoDraftCount = payload.itemCount || items.length;
+    rumorDraftCount = payload.drafts.filter((item) => item.status === "루머").length;
+    renderStats();
     renderDraftCards(items);
     draftMode = result.mode;
     draftStatus.textContent = `마지막 생성 ${new Date(payload.generatedAt).toLocaleString(
