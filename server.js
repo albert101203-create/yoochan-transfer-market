@@ -132,11 +132,39 @@ const SOURCE_TIERS = {
   "ornstein-monitor": "medium",
   "athletic-monitor": "medium",
   "dimarzio-monitor": "medium",
+  "matteo-moretto-monitor": "medium",
+  "ben-jacobs-monitor": "medium",
+  "plettenberg-monitor": "medium",
+  "solhekol-monitor": "medium",
+  "santi-aouna-monitor": "medium",
+  "official-arsenal-monitor": "high",
+  "official-barcelona-monitor": "high",
+  "official-real-madrid-monitor": "high",
+  "official-bayern-monitor": "high",
+  "official-man-city-monitor": "high",
+  "official-man-utd-monitor": "high",
+  "official-chelsea-monitor": "high",
+  "official-liverpool-monitor": "high",
   "club-beat-reporter": "medium",
   "aggregator-account": "low",
   "fan-rumor-account": "low",
   "clickbait-outlet": "low",
 };
+
+function googleNewsTransferFeed(source, query, sourceKey, sourceName) {
+  const encodedQuery = encodeURIComponent(query);
+
+  return {
+    source,
+    url: `https://news.google.com/rss/search?q=${encodedQuery}&hl=en-US&gl=US&ceid=US:en`,
+    parser: (xml) =>
+      parseGenericRssFeed(xml, {
+        sourceKey,
+        sourceName,
+        summary: `${sourceName} Google News monitor result.`,
+      }),
+  };
+}
 
 const LIVE_FEED_SOURCES = [
   {
@@ -204,6 +232,84 @@ const LIVE_FEED_SOURCES = [
         summary: "Gianluca Di Marzio 관련 Google News 검색 결과입니다.",
       }),
   },
+  googleNewsTransferFeed(
+    "Matteo Moretto Google News",
+    "Matteo Moretto transfer",
+    "matteo-moretto-monitor",
+    "Matteo Moretto monitor"
+  ),
+  googleNewsTransferFeed(
+    "Ben Jacobs Google News",
+    "Ben Jacobs transfer",
+    "ben-jacobs-monitor",
+    "Ben Jacobs monitor"
+  ),
+  googleNewsTransferFeed(
+    "Florian Plettenberg Google News",
+    "Florian Plettenberg transfer",
+    "plettenberg-monitor",
+    "Florian Plettenberg monitor"
+  ),
+  googleNewsTransferFeed(
+    "Kaveh Solhekol Google News",
+    "Kaveh Solhekol transfer",
+    "solhekol-monitor",
+    "Kaveh Solhekol monitor"
+  ),
+  googleNewsTransferFeed(
+    "Santi Aouna Google News",
+    "Santi Aouna transfer",
+    "santi-aouna-monitor",
+    "Santi Aouna monitor"
+  ),
+  googleNewsTransferFeed(
+    "Arsenal official-site monitor",
+    "site:arsenal.com/news transfer",
+    "official-arsenal-monitor",
+    "Arsenal official-site monitor"
+  ),
+  googleNewsTransferFeed(
+    "Barcelona official-site monitor",
+    "site:fcbarcelona.com/en/news transfer OR site:fcbarcelona.com/en/club/news transfer",
+    "official-barcelona-monitor",
+    "Barcelona official-site monitor"
+  ),
+  googleNewsTransferFeed(
+    "Real Madrid official-site monitor",
+    "site:realmadrid.com transfer football",
+    "official-real-madrid-monitor",
+    "Real Madrid official-site monitor"
+  ),
+  googleNewsTransferFeed(
+    "Bayern official-site monitor",
+    "site:fcbayern.com transfer football",
+    "official-bayern-monitor",
+    "Bayern official-site monitor"
+  ),
+  googleNewsTransferFeed(
+    "Manchester City official-site monitor",
+    "site:mancity.com/news transfer",
+    "official-man-city-monitor",
+    "Manchester City official-site monitor"
+  ),
+  googleNewsTransferFeed(
+    "Manchester United official-site monitor",
+    "site:manutd.com/news transfer",
+    "official-man-utd-monitor",
+    "Manchester United official-site monitor"
+  ),
+  googleNewsTransferFeed(
+    "Chelsea official-site monitor",
+    "site:chelseafc.com/en/news/article transfer",
+    "official-chelsea-monitor",
+    "Chelsea official-site monitor"
+  ),
+  googleNewsTransferFeed(
+    "Liverpool official-site monitor",
+    "site:liverpoolfc.com/news transfer",
+    "official-liverpool-monitor",
+    "Liverpool official-site monitor"
+  ),
 ];
 
 function readJsonCache(filePath) {
