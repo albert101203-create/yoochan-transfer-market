@@ -76,5 +76,17 @@
     "sourcePage": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/Real_Betis_2022_logo.svg/1280px-Real_Betis_2022_logo.svg.png",
     "sourceImage": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/Real_Betis_2022_logo.svg/1280px-Real_Betis_2022_logo.svg.png",
     "note": "Seeded from the existing Wikimedia image reference; verify the image license before redistribution."
+  },
+  "./assets/players/espn-226d124f.jpg": {
+    "name": "- ESPN",
+    "sourcePage": "https://en.wikipedia.org/wiki/Edson_(footballer%2C_born_1991)",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Edson_Felipe_2022.png/330px-Edson_Felipe_2022.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
+  },
+  "./assets/clubs/barcelona-122a417e.jpg": {
+    "name": "Barcelona",
+    "sourcePage": "https://en.wikipedia.org/wiki/Barcelona",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Evening_light_over_Barcelona.jpg/330px-Evening_light_over_Barcelona.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
   }
 }
