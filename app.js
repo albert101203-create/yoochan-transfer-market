@@ -387,7 +387,7 @@ function renderCards() {
               </span>
             </div>
             <div><strong>이적료</strong><br>${formatFeeDisplay(item.fee)}</div>
-            <div><strong>갱신 시간</strong><br>${item.publishedAt}</div>
+            <div><strong>날짜</strong><br>${item.publishedAt}</div>
           </div>
 
           <div class="source-block">
