@@ -26,6 +26,9 @@ const MIME_TYPES = {
 const TRANSFER_KEYWORDS = [
   "transfer",
   "transfers",
+  "here we go",
+  "agreed",
+  "agreement",
   "rumour",
   "rumours",
   "rumor",
@@ -122,6 +125,7 @@ const SOURCE_TIERS = {
   "official-league": "high",
   "fabrizio-romano": "high",
   "david-ornstein": "high",
+  "x-direct-monitor": "high",
   "bbc-sport": "medium",
   "sky-sports": "medium",
   "the-athletic": "medium",
@@ -479,7 +483,24 @@ function extractAutoDraft(item) {
     return null;
   }
 
-  let match =
+  const xStyleTitle = title.replace(/^[🚨⚡️🟢🔴🟡\s]+/, "");
+  let match = xStyleTitle.match(
+    /^(?:here we go[!,:]?\s*)?(?<player>.+?)\s+to\s+(?<to>.+?)(?:,\s*(?:here we go|deal agreed|agreement reached|medical|all documents signed).*)?[.!]?$/i
+  );
+
+  if (match?.groups && item.sourceKey === "x-direct-monitor") {
+    return makeDraft(item, {
+      player: match.groups.player,
+      fromTeam: "미상",
+      toTeam: match.groups.to,
+      status: "루머",
+      extractionConfidence: "medium",
+      extractionPattern: "x-reporter-player-to-club",
+      note: "X 등록 기자의 직접 게시물에서 자동 추출한 카드입니다. 구단 공식 발표 전에는 확정으로 보지 않습니다.",
+    });
+  }
+
+  match =
     title.match(
       /^(?<to>.+?) transfer news: (?<player>.+?) completes move .*? from (?<from>.+)$/i
     ) ||
@@ -690,6 +711,80 @@ async function fetchText(url) {
   return response.text();
 }
 
+const X_MONITORED_HANDLES = (process.env.X_MONITORED_HANDLES ||
+  "FabrizioRomano,David_Ornstein,Plettigoal,MatteoMoretto,Santi_J_FM")
+  .split(",")
+  .map((handle) => handle.trim().replace(/^@/, ""))
+  .filter(Boolean);
+
+const X_TRANSFER_QUERY =
+  process.env.X_TRANSFER_QUERY ||
+  `(${X_MONITORED_HANDLES.map((handle) => `from:${handle}`).join(" OR ")}) (transfer OR "here we go" OR agreed OR agreement OR medical OR signed OR signing) -is:retweet`;
+
+async function fetchXRecentPosts() {
+  const token = process.env.X_BEARER_TOKEN;
+  if (!token) {
+    return {
+      items: [],
+      health: {
+        source: "X API direct monitor",
+        ok: false,
+        disabled: true,
+        error: "X_BEARER_TOKEN is not configured",
+      },
+    };
+  }
+
+  const params = new URLSearchParams({
+    query: X_TRANSFER_QUERY,
+    max_results: "100",
+    "tweet.fields": "created_at,entities,lang,author_id",
+    expansions: "author_id",
+    "user.fields": "name,username",
+  });
+  const response = await fetch(`https://api.x.com/2/tweets/search/recent?${params}`, {
+    headers: {
+      Authorization: `Bearer ${token}`,
+      "user-agent": "yoochan-transfer-market/1.0",
+    },
+  });
+
+  if (!response.ok) {
+    throw new Error(`X API recent search -> HTTP ${response.status}: ${await response.text()}`);
+  }
+
+  const payload = await response.json();
+  const users = new Map((payload.includes?.users || []).map((user) => [user.id, user]));
+  const items = (payload.data || [])
+    .map((post) => {
+      const user = users.get(post.author_id);
+      const username = user?.username || "unknown";
+      const text = normalizeWhitespace(post.text || "");
+
+      return {
+        id: `x:${post.id}`,
+        title: text,
+        url: `https://x.com/${username}/status/${post.id}`,
+        publishedAt: post.created_at || null,
+        summary: `X @${username} 직접 게시물`,
+        sourceKey: "x-direct-monitor",
+        sourceName: `X @${username}`,
+        status: detectHeadlineStatus(text),
+      };
+    })
+    .filter((item) => item.url && isTransferHeadline(`${item.title} ${item.summary}`));
+
+  return {
+    items,
+    health: {
+      source: "X API direct monitor",
+      ok: true,
+      count: items.length,
+      query: X_TRANSFER_QUERY,
+    },
+  };
+}
+
 function parseBbcFeed(xml) {
   const items = [...xml.matchAll(/<item>([\s\S]*?)<\/item>/gi)].map((match) => match[1]);
 
@@ -823,6 +918,18 @@ async function buildLivePayload() {
       error: String(result.reason),
     });
   });
+
+  try {
+    const xResult = await fetchXRecentPosts();
+    items.push(...xResult.items);
+    sourceHealth.push(xResult.health);
+  } catch (error) {
+    sourceHealth.push({
+      source: "X API direct monitor",
+      ok: false,
+      error: String(error),
+    });
+  }
 
   const normalized = dedupeItems(items).sort(compareByDateDesc).slice(0, 40);
 

@@ -17,6 +17,14 @@ window.sourceRegistry = {
       type: "공식 등록",
       note: "리그 등록 페이지는 오피셜 확인용으로 매우 강하지만 루머 단계에는 느릴 수 있습니다.",
     },
+    "x-direct-monitor": {
+      name: "X direct reporter monitor",
+      url: "https://developer.x.com/",
+      tier: "high",
+      reliabilityLabel: "높음",
+      type: "X 직접 모니터",
+      note: "등록된 이적시장 기자의 공개 게시물을 X API로 직접 수집합니다. 공식 발표 전 단계는 별도 확인이 필요합니다.",
+    },
     "fabrizio-romano": {
       name: "Fabrizio Romano",
       url: "https://x.com/FabrizioRomano",
