@@ -140,6 +140,36 @@ select {
   padding: 20px;
 }
 
+.view-toggle {
+  display: flex;
+  gap: 8px;
+  margin-top: 20px;
+  padding: 8px;
+}
+
+.view-toggle-button {
+  flex: 1;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  padding: 11px 14px;
+  background: transparent;
+  color: var(--muted);
+  cursor: pointer;
+  font-weight: 700;
+}
+
+.view-toggle-button:hover,
+.view-toggle-button.active {
+  border-color: var(--accent);
+  background: rgba(97, 165, 255, 0.14);
+  color: var(--text);
+}
+
+.card-view[hidden],
+#articleSection[hidden] {
+  display: none;
+}
+
 .live-cards {
   margin-top: 14px;
 }

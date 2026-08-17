@@ -250,6 +250,10 @@ const totalCount = document.querySelector("#totalCount");
 const doneCount = document.querySelector("#doneCount");
 const rumorCount = document.querySelector("#rumorCount");
 const refreshStatus = document.querySelector("#refreshStatus");
+const articleSection = document.querySelector("#articleSection");
+const cardView = document.querySelector("#cardView");
+const articlesViewBtn = document.querySelector("#articlesViewBtn");
+const cardsViewBtn = document.querySelector("#cardsViewBtn");
 
 function enrichTransfer(item) {
   const playerAsset = assetMap.players[item.player || ""]?.src;
@@ -390,6 +394,14 @@ function renderCards() {
     .join("");
 }
 
+function setContentView(view) {
+  const showArticles = view === "articles";
+  if (articleSection) articleSection.hidden = !showArticles;
+  if (cardView) cardView.hidden = showArticles;
+  articlesViewBtn?.classList.toggle("active", showArticles);
+  cardsViewBtn?.classList.toggle("active", !showArticles);
+}
+
 function bindEvents() {
   [leagueFilter, statusFilter, teamSearch].forEach((element) =>
     element.addEventListener("input", renderCards)
@@ -400,6 +412,9 @@ function bindEvents() {
     loadAutoDrafts(true);
     loadPromotedCandidates(true);
   });
+
+  articlesViewBtn?.addEventListener("click", () => setContentView("articles"));
+  cardsViewBtn?.addEventListener("click", () => setContentView("cards"));
 }
 
 async function loadTransfers() {
