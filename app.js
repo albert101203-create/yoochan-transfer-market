@@ -311,21 +311,41 @@ function initFilters() {
   });
 }
 
+function getTransferDateValue(item) {
+  const rawDate = String(item.publishedAt || item.lastVerifiedAt || "").trim();
+  if (!rawDate) return 0;
+
+  // 수집 데이터의 `YYYY-MM-DD HH:mm` 형식도 브라우저에서 안정적으로 비교합니다.
+  const normalizedDate = rawDate.replace(" ", "T");
+  const timestamp = Date.parse(normalizedDate);
+  return Number.isNaN(timestamp) ? 0 : timestamp;
+}
+
 function getFilteredTransfers() {
   const league = leagueFilter.value;
   const status = statusFilter.value;
   const term = teamSearch.value.trim().toLowerCase();
 
-  return transfers.filter((item) => {
-    const leagueMatch = league === "all" || item.league === league;
-    const statusMatch = status === "all" || item.status === status;
-    const teamMatch =
-      !term ||
-      item.fromTeam.toLowerCase().includes(term) ||
-      item.toTeam.toLowerCase().includes(term);
+  return transfers
+    .filter((item) => {
+      const leagueMatch = league === "all" || item.league === league;
+      const statusMatch = status === "all" || item.status === status;
+      const teamMatch =
+        !term ||
+        item.fromTeam.toLowerCase().includes(term) ||
+        item.toTeam.toLowerCase().includes(term);
 
-    return leagueMatch && statusMatch && teamMatch;
-  });
+      return leagueMatch && statusMatch && teamMatch;
+    })
+    // 최신 날짜가 위에 오도록 정렬합니다. 날짜가 같으면 검증 시각을 비교합니다.
+    .sort((a, b) => {
+      const publishedDiff = getTransferDateValue(b) - getTransferDateValue(a);
+      if (publishedDiff !== 0) return publishedDiff;
+
+      const verifiedA = Date.parse(String(a.lastVerifiedAt || "").replace(" ", "T")) || 0;
+      const verifiedB = Date.parse(String(b.lastVerifiedAt || "").replace(" ", "T")) || 0;
+      return verifiedB - verifiedA;
+    });
 }
 
 function renderStats(items) {
