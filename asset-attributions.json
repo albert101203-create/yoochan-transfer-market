@@ -77,16 +77,34 @@
     "sourceImage": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/Real_Betis_2022_logo.svg/1280px-Real_Betis_2022_logo.svg.png",
     "note": "Seeded from the existing Wikimedia image reference; verify the image license before redistribution."
   },
-  "./assets/players/espn-226d124f.jpg": {
-    "name": "- ESPN",
-    "sourcePage": "https://en.wikipedia.org/wiki/Edson_(footballer%2C_born_1991)",
-    "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Edson_Felipe_2022.png/330px-Edson_Felipe_2022.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "./assets/players/rodri-545c429c.jpg": {
+    "name": "Rodri",
+    "sourcePage": "https://en.wikipedia.org/wiki/Rodri",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Rodri_Argentina_v_Spain_19_July_2026-187_%28cropped%29.jpg/330px-Rodri_Argentina_v_Spain_19_July_2026-187_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
   },
-  "./assets/clubs/barcelona-122a417e.jpg": {
-    "name": "Barcelona",
-    "sourcePage": "https://en.wikipedia.org/wiki/Barcelona",
-    "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Evening_light_over_Barcelona.jpg/330px-Evening_light_over_Barcelona.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "./assets/players/viktor-gy-keres-e3444392.jpg": {
+    "name": "Viktor Gyökeres",
+    "sourcePage": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Viktor_Gy%C3%B6keres_2026-06-04_1_%28cropped%29.jpg/330px-Viktor_Gy%C3%B6keres_2026-06-04_1_%28cropped%29.jpg",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Viktor_Gy%C3%B6keres_2026-06-04_1_%28cropped%29.jpg/330px-Viktor_Gy%C3%B6keres_2026-06-04_1_%28cropped%29.jpg",
+    "note": "Seeded from the existing Wikimedia image reference; verify the image license before redistribution."
+  },
+  "./assets/clubs/city-4271627f.jpg": {
+    "name": "City",
+    "sourcePage": "https://en.wikipedia.org/wiki/City",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Tokyo_Shibuya_Scramble_Crossing_2018-10-09.jpg/330px-Tokyo_Shibuya_Scramble_Crossing_2018-10-09.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
+  },
+  "./assets/clubs/arsenal-a5017f4d.png": {
+    "name": "Arsenal",
+    "sourcePage": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/1280px-Arsenal_FC.svg.png",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/1280px-Arsenal_FC.svg.png",
+    "note": "Seeded from the existing Wikimedia image reference; verify the image license before redistribution."
+  },
+  "./assets/clubs/barcelona-122a417e.png": {
+    "name": "Barcelona",
+    "sourcePage": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/FC_Barcelona_%28crest%29.svg/1280px-FC_Barcelona_%28crest%29.svg.png",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/FC_Barcelona_%28crest%29.svg/1280px-FC_Barcelona_%28crest%29.svg.png",
+    "note": "Seeded from the existing Wikimedia image reference; verify the image license before redistribution."
   }
 }

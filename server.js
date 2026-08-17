@@ -494,6 +494,24 @@ function extractAutoDraft(item) {
     });
   }
 
+  // ESPN-style headlines such as "Barcelona eye Arsenal striker Viktor Gyökeres"
+  // contain a position between the club and player. Handle this before the
+  // generic pattern so the outlet suffix ("- ESPN") cannot become the player.
+  match = title.match(
+    /^(?:transfer rumors?, news:\s*)?(?<to>.+?) eye (?<from>.+?)\s+(?:striker|forward|midfielder|defender|goalkeeper|keeper|winger|centre-back|center-back|full-back|left-back|right-back)\s+(?<player>.+?)\s+-\s+[^-]+$/i
+  );
+
+  if (match?.groups) {
+    return makeDraft(item, {
+      player: match.groups.player,
+      fromTeam: match.groups.from,
+      toTeam: match.groups.to,
+      status: "루머",
+      extractionConfidence: "medium",
+      extractionPattern: "club-eye-positioned-player",
+    });
+  }
+
   match = title.match(
     /^(?:transfer rumors?, news:\s*)?(?<to>.+?) eye (?<from>.+?)'?s (?<player>.+?)(?: to | - |$)/i
   );
