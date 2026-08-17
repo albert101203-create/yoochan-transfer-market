@@ -229,6 +229,8 @@ const fallbackTransfers = [
 ];
 
 let transfers = [];
+let baseTransfers = [];
+let autoDraftTransfers = [];
 let assetMap = { players: {}, clubs: {} };
 let dataMode = "loading";
 let liveMode = "live unavailable";
@@ -332,6 +334,18 @@ function renderStats(items) {
   rumorCount.textContent = rumorDraftCount;
 }
 
+function mergeAllTransfers() {
+  const merged = new Map();
+
+  [...baseTransfers, ...autoDraftTransfers].forEach((item) => {
+    const key = `${item.player || ""}|${item.toTeam || ""}`.trim().toLowerCase();
+    if (key && merged.has(key) && item.cardOrigin === "기본 이적 데이터") return;
+    merged.set(key || `item:${merged.size}`, item);
+  });
+
+  transfers = [...merged.values()];
+}
+
 function renderCards() {
   const items = getFilteredTransfers();
   renderStats(items);
@@ -383,6 +397,7 @@ function renderCards() {
             </div>
             <div class="source-meta">
               <span class="source-badge ${getReliabilityClass(item.sourceReliability)}">신뢰도 ${item.sourceReliability}</span>
+              <span>${item.cardOrigin || "기본 이적 데이터"}</span>
               <span>${item.sourceType}</span>
               <span>검증 ${item.lastVerifiedAt}</span>
             </div>
@@ -425,11 +440,19 @@ async function loadTransfers() {
     }
 
     const data = await response.json();
-    transfers = data.map(enrichTransfer);
+    baseTransfers = data.map((item) => ({
+      ...enrichTransfer(item),
+      cardOrigin: "기본 이적 데이터",
+    }));
+    mergeAllTransfers();
     dataMode = "json data";
   } catch (error) {
     console.warn("transfers.json load failed, fallback data used.", error);
-    transfers = fallbackTransfers.map(enrichTransfer);
+    baseTransfers = fallbackTransfers.map((item) => ({
+      ...enrichTransfer(item),
+      cardOrigin: "기본 이적 데이터",
+    }));
+    mergeAllTransfers();
     dataMode = "fallback data";
   }
 
@@ -616,13 +639,12 @@ async function loadLiveHeadlines(force = false) {
 }
 
 async function loadAutoDrafts(force = false) {
-  if (!draftCards || !draftStatus) return;
+  if (!cards || !draftStatus) return;
 
   if (!window.location.protocol.startsWith("http")) {
     draftMode = "server required";
     draftStatus.textContent =
       "자동 초안 모드는 로컬 서버 실행 후 http://127.0.0.1:4173 로 열어야 합니다.";
-    draftCards.innerHTML = `<article class="card empty">현재는 파일 모드라 자동 초안을 만들 수 없습니다.</article>`;
     updateRefreshStatus();
     return;
   }
@@ -638,7 +660,13 @@ async function loadAutoDrafts(force = false) {
     autoDraftCount = payload.itemCount || items.length;
     rumorDraftCount = payload.drafts.filter((item) => item.status === "루머").length;
     renderStats();
-    renderDraftCards(items);
+    autoDraftTransfers = items.map((item) => ({
+      ...item,
+      cardOrigin: "기사 자동 추출",
+    }));
+    mergeAllTransfers();
+    initFilters();
+    renderCards();
     draftMode = result.mode;
     draftStatus.textContent = `마지막 생성 ${new Date(payload.generatedAt).toLocaleString(
       "ko-KR"
@@ -646,7 +674,10 @@ async function loadAutoDrafts(force = false) {
   } catch (error) {
     draftMode = "draft failed";
     draftStatus.textContent = `자동 초안 생성 실패: ${error.message}`;
-    draftCards.innerHTML = `<article class="card empty">자동 초안을 만들지 못했습니다. 잠시 후 다시 시도해 주세요.</article>`;
+    autoDraftTransfers = [];
+    mergeAllTransfers();
+    initFilters();
+    renderCards();
   }
 
   updateRefreshStatus();
