@@ -1,7 +1,77 @@
 {
-  "fetchedAt": "2026-08-17T16:08:09.998Z",
+  "fetchedAt": "2026-08-17T16:58:21.165Z",
   "itemCount": 40,
   "items": [
+    {
+      "id": "https://www.skysports.com/football/live-blog/11095/13210475/west-ham-latest-news",
+      "title": "West Ham transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
+      "url": "https://www.skysports.com/football/live-blog/11095/13210475/west-ham-latest-news",
+      "publishedAt": "2026-08-17T16:40:00.000Z",
+      "summary": "Sky Sports football sitemap에서 가져온 실시간 헤드라인입니다.",
+      "sourceKey": "sky-sports",
+      "sourceName": "Sky Sports",
+      "status": "루머"
+    },
+    {
+      "id": "https://www.skysports.com/football/live-blog/33808/13353569/leeds-united-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "title": "Leeds United transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
+      "url": "https://www.skysports.com/football/live-blog/33808/13353569/leeds-united-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "publishedAt": "2026-08-17T16:37:00.000Z",
+      "summary": "Sky Sports football sitemap에서 가져온 실시간 헤드라인입니다.",
+      "sourceKey": "sky-sports",
+      "sourceName": "Sky Sports",
+      "status": "루머"
+    },
+    {
+      "id": "https://www.bbc.co.uk/sport/football/articles/c9v4d2z2p7yo?at_medium=RSS&at_campaign=rss",
+      "title": "All done deals in August 2026",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9v4d2z2p7yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-17T16:28:06.000Z",
+      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+      "sourceKey": "bbc-sport",
+      "sourceName": "BBC Sport",
+      "status": "업데이트"
+    },
+    {
+      "id": "https://www.skysports.com/football/live-blog/41916/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "title": "Man Utd transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
+      "url": "https://www.skysports.com/football/live-blog/41916/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "publishedAt": "2026-08-17T16:22:00.000Z",
+      "summary": "Sky Sports football sitemap에서 가져온 실시간 헤드라인입니다.",
+      "sourceKey": "sky-sports",
+      "sourceName": "Sky Sports",
+      "status": "루머"
+    },
+    {
+      "id": "https://www.bbc.co.uk/sport/football/articles/cevmwdjv7vmo?at_medium=RSS&at_campaign=rss",
+      "title": "Brighton reject £7.5m bid from Rangers for Cozier-Duberry",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cevmwdjv7vmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-17T16:14:56.000Z",
+      "summary": "Brighton reject a £7.5m bid from Rangers for winger Amario Cozier-Duberry.",
+      "sourceKey": "bbc-sport",
+      "sourceName": "BBC Sport",
+      "status": "루머"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/11095/13574084/chelsea-podcast-xabi-alonso-enzo-fernandez-future-transfers-and-a-new-era-at-stamford-bridge-analysed",
+      "title": "Chelsea podcast: Xabi Alonso, Enzo Fernandez future, transfers and a new era at Stamford Bridge analysed",
+      "url": "https://www.skysports.com/football/news/11095/13574084/chelsea-podcast-xabi-alonso-enzo-fernandez-future-transfers-and-a-new-era-at-stamford-bridge-analysed",
+      "publishedAt": "2026-08-17T16:11:00.000Z",
+      "summary": "Sky Sports football sitemap에서 가져온 실시간 헤드라인입니다.",
+      "sourceKey": "sky-sports",
+      "sourceName": "Sky Sports",
+      "status": "업데이트"
+    },
+    {
+      "id": "https://www.skysports.com/football/live-blog/11095/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more",
+      "title": "Scottish Premiership news, transfers, rumours, gossip and more",
+      "url": "https://www.skysports.com/football/live-blog/11095/13176154/scottish-premiership-news-transfers-rumours-gossip-and-more",
+      "publishedAt": "2026-08-17T16:09:00.000Z",
+      "summary": "Sky Sports football sitemap에서 가져온 실시간 헤드라인입니다.",
+      "sourceKey": "sky-sports",
+      "sourceName": "Sky Sports",
+      "status": "루머"
+    },
     {
       "id": "https://www.bbc.co.uk/sport/football/articles/cvgjjr90l0lo?at_medium=RSS&at_campaign=rss",
       "title": "Coventry sign Forest striker Awoniyi for £9m",
@@ -11,6 +81,16 @@
       "sourceKey": "bbc-sport",
       "sourceName": "BBC Sport",
       "status": "업데이트"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQcXRhVUFYaWRXLXBXTnFoMDNRVk1zYzB3dEZDcEtacEgxSXRwazJHMm9pZmZ3bWkxbklMSGhKcXJnTm9zVVRhdXhsTVJkUG53X3BrMTQ0anBGOENHdFptX2tKQ3hyLXExTzdjNERGMnRSaXE0S2k2VGpDa25zQUVzYWJ0SFhhbXBLNFVmSUhvQUhuN01KZ1B1NWVadUYzODM1N0RFU0ZZdDlXak1sYzVJSzctQjRwYWZQS2NnSlM2RmU0dXhOeVowS3liYWdaQnozUjdUUDN3M0pPLWFFTXExV1FnNEcwUWpGVmxjX0hNQzFyU0RH?oc=5",
+      "title": "Ethan Nwaneri transfer race heats up as Premier League clubs join Italian and German sides in pursuit - Yardbarker",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQcXRhVUFYaWRXLXBXTnFoMDNRVk1zYzB3dEZDcEtacEgxSXRwazJHMm9pZmZ3bWkxbklMSGhKcXJnTm9zVVRhdXhsTVJkUG53X3BrMTQ0anBGOENHdFptX2tKQ3hyLXExTzdjNERGMnRSaXE0S2k2VGpDa25zQUVzYWJ0SFhhbXBLNFVmSUhvQUhuN01KZ1B1NWVadUYzODM1N0RFU0ZZdDlXak1sYzVJSzctQjRwYWZQS2NnSlM2RmU0dXhOeVowS3liYWdaQnozUjdUUDN3M0pPLWFFTXExV1FnNEcwUWpGVmxjX0hNQzFyU0RH?oc=5",
+      "publishedAt": "2026-08-17T16:02:15.000Z",
+      "summary": "Ethan Nwaneri transfer race heats up as Premier League clubs join Italian and German sides in pursuit &nbsp;&nbsp; Yardbarker",
+      "sourceKey": "romano-monitor",
+      "sourceName": "Fabrizio Romano 검색 모니터",
+      "status": "완료"
     },
     {
       "id": "https://www.skysports.com/football/live-blog/41920/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
@@ -28,6 +108,16 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONmk1M19NTDdKVnBQNHFBLWVCWjJUVElXWTI5Z1Fyc2RtT3p4aHJaSVJNNXhyVTliSTN4cWs2TVh2aWdHaTlpNDBCei1LX3gzUnFISzVpb3pxSU12dEpjN1p6M3I3dkRkVzcyZjZiQUhlN1l1VFRVUEVOWlg0REdpUW5EZUFLTjFVZnk2N1VHSUVLdmV5THcyeGxsc2duNG_SAaQBQVVfeXFMTUdBVFY1Nzd0bUluRmJCd3pyRS1aWEJ6VDVhRk9hX3dvSC0xNXk4aFIyY0tsMUgtU2QzUEpCZWV0Znp5UGlTcDQ1cmxnb1pwajlsUjU4UUpPUnc4MFdMRUhXRFlnSzU2YUVzbXdzUmUwcGhvbUhmZnJyNE1pdi14OS1DbXJXcjNmTE5pd08zRWNmYWlEZ0lCa2tEdzBkendHaFo3bmg?oc=5",
       "publishedAt": "2026-08-17T15:48:37.000Z",
       "summary": "‘Close to 0% chance…’ – Respected journalist’s Liverpool transfer claim could horrify Reds fans &nbsp;&nbsp; The Empire of The Kop",
+      "sourceKey": "romano-monitor",
+      "sourceName": "Fabrizio Romano 검색 모니터",
+      "status": "루머"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVTJMUnYzM0Y2Z29OMU5HWDRRMlVRTzFVNDlJZ2xZVUhpUHBnS0NVTDBLTDliZ055TUVPUVZzM3d5b3I3NHljbi1DamtfSmhFWlBzMThfVmFZOU5kWDRtY2pQUnI1aXVHZnlEaklDRVI5dm5ValdQRUp4M0xDeW52aFFFR0Y0bFN6M3BXTHVnQlgyaEFvbnhvUk95LUNXSW9ldVFfYWNB?oc=5",
+      "title": "Transfer news LIVE: Bruno Fernandes Man Utd bid, Liverpool's new Barcola offer, Osimhen to Arsenal - Daily Mirror",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVTJMUnYzM0Y2Z29OMU5HWDRRMlVRTzFVNDlJZ2xZVUhpUHBnS0NVTDBLTDliZ055TUVPUVZzM3d5b3I3NHljbi1DamtfSmhFWlBzMThfVmFZOU5kWDRtY2pQUnI1aXVHZnlEaklDRVI5dm5ValdQRUp4M0xDeW52aFFFR0Y0bFN6M3BXTHVnQlgyaEFvbnhvUk95LUNXSW9ldVFfYWNB?oc=5",
+      "publishedAt": "2026-08-17T15:44:50.000Z",
+      "summary": "Transfer news LIVE: Bruno Fernandes Man Utd bid, Liverpool's new Barcola offer, Osimhen to Arsenal &nbsp;&nbsp; Daily Mirror",
       "sourceKey": "romano-monitor",
       "sourceName": "Fabrizio Romano 검색 모니터",
       "status": "루머"
@@ -53,16 +143,6 @@
       "status": "업데이트"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTWdtZTlsc1MwOEFjV3Y2UGM4OEdsTTNIR1o3aV9SdllOWVU1eDVNTkxiM3l0UDcxZy16LXRGdGhCZ1IwbjNaNlJSUllUZG01Nl9OaVpoQzJ3M3F5a1hLTHZ3TXpaZ0dzbkhkdzhBdW9iV0phNWFBZXJvOGk4Skk1OGlVcTVCbkFaNVRaTDFoOGotQThVWHdpZUk1U0R0YlljdjFBXzh4dktDdWVHZWpCTTlzcGxrcmJsVmhHMUJPODNCRVlUQVVlLWQwMWJ1QWZ6?oc=5",
-      "title": "Transfer news LIVE: Alvarez to Arsenal twist; Man Utd eye striker deal; double Liverpool boost; Chelsea latest - London Evening Standard",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTWdtZTlsc1MwOEFjV3Y2UGM4OEdsTTNIR1o3aV9SdllOWVU1eDVNTkxiM3l0UDcxZy16LXRGdGhCZ1IwbjNaNlJSUllUZG01Nl9OaVpoQzJ3M3F5a1hLTHZ3TXpaZ0dzbkhkdzhBdW9iV0phNWFBZXJvOGk4Skk1OGlVcTVCbkFaNVRaTDFoOGotQThVWHdpZUk1U0R0YlljdjFBXzh4dktDdWVHZWpCTTlzcGxrcmJsVmhHMUJPODNCRVlUQVVlLWQwMWJ1QWZ6?oc=5",
-      "publishedAt": "2026-08-17T15:19:38.000Z",
-      "summary": "Transfer news LIVE: Alvarez to Arsenal twist; Man Utd eye striker deal; double Liverpool boost; Chelsea latest &nbsp;&nbsp; London Evening Standard",
-      "sourceKey": "romano-monitor",
-      "sourceName": "Fabrizio Romano 검색 모니터",
-      "status": "루머"
-    },
-    {
       "id": "https://www.skysports.com/football/news/11095/13574095/bruno-fernandes-transfer-news-manchester-united-captain-not-for-sale-at-any-price-despite-galatasaray-interest",
       "title": "Bruno Fernandes transfer news: Manchester United captain not for sale at any price despite Galatasaray interest",
       "url": "https://www.skysports.com/football/news/11095/13574095/bruno-fernandes-transfer-news-manchester-united-captain-not-for-sale-at-any-price-despite-galatasaray-interest",
@@ -77,27 +157,17 @@
       "title": "Enzo Maresca’s Manchester City opener was startlingly bad",
       "url": "https://www.theguardian.com/football/2026/aug/17/marescas-man-city-opener-was-startlingly-bad",
       "publishedAt": "2026-08-17T15:00:02.000Z",
-      "summary": "The Community Shield isn’t always a sign of things to come, but City’s form in their defeat to Arsenal is concerning in the wake of Pep Guardiola’s departure Sign up for our free newsletter here There are caveats. It was only the Community Shield – and no side has gone on to win the league after lifting the Community Shield since 2018. It was against the league champions, whose pre-season has involved far less strenuous travel than their own. By the time the season really gets going, there will be greater clarity in central midfield, with Rodri set to complete his move to Barcelona imminently. But this was a startlingly bad opening for Enzo Maresca at Manchester City. Succeeding a manager of Pep Guardiola’s stature is never easy, as numerous clubs have found. But it’s not just Guardiola’s stature, the sense that whoever follows him stands in his shadow. It’s that his style of play is so idiosyncratic that the transition process inevitably becomes more difficult. Even though Maresca was Guardiola’s assistant at City in 2022-23, and his football is Guardiola-inspired, it is not identical, not least because Guardiola was always evolving. Even allowing for all that, though, it was remarkable how poorly City defended in their 3-0 defeat by Arsenal on Sunday . Continue reading...",
+      "summary": "The Community Shield isn’t always a sign of things to come, but City’s form in their defeat to Arsenal is concerning in the wake of Pep Guardiola’s departure Sign up for our free newsletter here There are caveats. It was only the Community Shield – and no side has gone on to win the league after lifting the Community Shield since 2018. It was against the league champions, whose pre-season has involved far less strenuous travel than their own. By the time the season really gets going, there will be greater clarity in central midfield, with Rodri set to complete his move to Barcelona imminently. But this was a startlingly bad opening for Enzo Maresca at Manchester City. Succeeding a manager of Pep Guardiola’s stature is never easy, as numerous clubs have found. But it’s not just Guardiola’s stature, the sense that whoever follows him stands in his shadow. It’s that his style of play is so idiosyncratic that the transition process inevitably becomes more difficult. Even though Maresca was Guardiola’s assistant at City in 2022-23, and his football is Guardiola-inspired, it is not identical, not least because Guardiola was always evolving. Even allowing for all that, though, it was remarkable how poorly City defended in their 3-0 defeat by Arsenal on Sunday . This is an extract from Soccer Desk, a newsletter from the Guardian US. Subscribe for free here. Continue reading...",
       "sourceKey": "guardian-football",
       "sourceName": "The Guardian Football",
       "status": "업데이트"
     },
     {
-      "id": "https://www.bbc.co.uk/sport/football/articles/c9v4d2z2p7yo?at_medium=RSS&at_campaign=rss",
-      "title": "All done deals in August 2026",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9v4d2z2p7yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-17T14:56:24.000Z",
-      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
-      "sourceKey": "bbc-sport",
-      "sourceName": "BBC Sport",
-      "status": "업데이트"
-    },
-    {
       "id": "https://www.bbc.co.uk/sport/football/articles/cwymzjwypezo?at_medium=RSS&at_campaign=rss",
-      "title": "Ipswich sign midfielder Ouattara from Strasbourg",
+      "title": "Ipswich sign Strasbourg duo Enciso & Ouattara ",
       "url": "https://www.bbc.co.uk/sport/football/articles/cwymzjwypezo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "2026-08-17T14:51:19.000Z",
-      "summary": "Ipswich Town complete the signing of midfielder Abdoul Ouattara from French club Strasbourg.",
+      "summary": "Ipswich Town complete the signing of Julio Enciso and Abdoul Ouattara from French club Strasbourg.",
       "sourceKey": "bbc-sport",
       "sourceName": "BBC Sport",
       "status": "업데이트"
@@ -143,14 +213,14 @@
       "status": "업데이트"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWDVaVDVreFhQNmpJUzBHY2dyMU82TExrYVY5c056OUJFN2otdmVZWUpKOFZfcVNEM29YdVlZZDhTMkpZdmgyY2lKaGR0WGtZbmlIQk96cF9QeURDMDJxcEFaRU1uZEFReE1yTEtUTWV2RWZ3S3daQlFTSXIxMVZybnZYZ1hxSTNxS0hMdnA3cnhhR0F0VnFYSmdn?oc=5",
-      "title": "Rodri: Man City dealt huge transfer blow as 'deal agreed' for star midfielder - London Evening Standard",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWDVaVDVreFhQNmpJUzBHY2dyMU82TExrYVY5c056OUJFN2otdmVZWUpKOFZfcVNEM29YdVlZZDhTMkpZdmgyY2lKaGR0WGtZbmlIQk96cF9QeURDMDJxcEFaRU1uZEFReE1yTEtUTWV2RWZ3S3daQlFTSXIxMVZybnZYZ1hxSTNxS0hMdnA3cnhhR0F0VnFYSmdn?oc=5",
-      "publishedAt": "2026-08-17T14:14:59.000Z",
-      "summary": "Rodri: Man City dealt huge transfer blow as 'deal agreed' for star midfielder &nbsp;&nbsp; London Evening Standard",
+      "id": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdmhKX0N5NS05dmplNWR1ZmpHR3ZsdG80dDlUWFZ6T0FjWmFwZHhieDA1U0ZJS0pHQ0tLa09VVUtWcUp4dVF4Qjk3dWhmS3puZzZOMGtrLXk0ZWNwNjhhZjVUZjJuam9jQ29UczlGRDE4NFJoSkVHdF9hekt5dTExWlVRSzNxVTRKXzhORWVlc1pFYVRPN2JiWlpTWXl4aWdjT1FaVGQ5c1NmZ3BoX2hxZ0J2VEs?oc=5",
+      "title": "Fabrizio Romano confirms Premier League club set to bid for Arsenal star - nowarsenal.com",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdmhKX0N5NS05dmplNWR1ZmpHR3ZsdG80dDlUWFZ6T0FjWmFwZHhieDA1U0ZJS0pHQ0tLa09VVUtWcUp4dVF4Qjk3dWhmS3puZzZOMGtrLXk0ZWNwNjhhZjVUZjJuam9jQ29UczlGRDE4NFJoSkVHdF9hekt5dTExWlVRSzNxVTRKXzhORWVlc1pFYVRPN2JiWlpTWXl4aWdjT1FaVGQ5c1NmZ3BoX2hxZ0J2VEs?oc=5",
+      "publishedAt": "2026-08-17T14:19:20.000Z",
+      "summary": "Fabrizio Romano confirms Premier League club set to bid for Arsenal star &nbsp;&nbsp; nowarsenal.com",
       "sourceKey": "romano-monitor",
       "sourceName": "Fabrizio Romano 검색 모니터",
-      "status": "업데이트"
+      "status": "루머"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPczRaa2JoXzN2WHJ6SWlSX3JERk01ek1BZE53X1ZqRWZnNVFSX3RyeEZ6SkFkdm9paUxNRTNwQ2Y2Y3VEdDFBSUFGUEhhX1gtQm9HS2RYcjd6MTE1bGJXZWJsUmhCc0lOOGhmYTk3LXp2Y0xKSElPQURhbF9PMk9IeTk2MEVoQ1QxRXFiSHFrQVhPQmlyRFZQVzFWZw?oc=5",
@@ -173,16 +243,6 @@
       "status": "루머"
     },
     {
-      "id": "https://www.skysports.com/football/live-blog/11685/13210475/west-ham-latest-news",
-      "title": "West Ham transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
-      "url": "https://www.skysports.com/football/live-blog/11685/13210475/west-ham-latest-news",
-      "publishedAt": "2026-08-17T13:51:00.000Z",
-      "summary": "Sky Sports football sitemap에서 가져온 실시간 헤드라인입니다.",
-      "sourceKey": "sky-sports",
-      "sourceName": "Sky Sports",
-      "status": "루머"
-    },
-    {
       "id": "https://www.bbc.co.uk/sport/football/articles/cd7l9n4qnlno?at_medium=RSS&at_campaign=rss",
       "title": "Man City move for £85m Bouaddi and still want Fernandez",
       "url": "https://www.bbc.co.uk/sport/football/articles/cd7l9n4qnlno?at_medium=RSS&at_campaign=rss",
@@ -191,16 +251,6 @@
       "sourceKey": "bbc-sport",
       "sourceName": "BBC Sport",
       "status": "업데이트"
-    },
-    {
-      "id": "49636079",
-      "title": "Transfer rumors, news: Barcelona eye Arsenal striker Viktor Gyökeres",
-      "url": "https://www.espn.com/soccer/story/_/id/49636079/transfer-rumors-news-barcelona-eye-arsenal-striker-viktor-gyokeres",
-      "publishedAt": "2026-08-17T13:45:19.000Z",
-      "summary": "ESPN FC soccer 최신 피드에서 가져온 실시간 헤드라인입니다.",
-      "sourceKey": "espn-fc",
-      "sourceName": "ESPN FC",
-      "status": "루머"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVkNNVU1oNXkwOW56YVFyNkUtREl1TUV2TUxqcUt6dVdLX3A0XzZZYm1RakJheHN2bzlZN1BoQm1GSE42TTZadTcwZERDQm10MllwaEN1Q2UyUnlYeGpjd2NndTA5eGpZbFdtRmh2a0Q3VE5NQm1DeUphVkJlNEFwYzFEdEw4cU15ZGRZbnVuZ2JmRHdUSlNMeXZOX3ROZGhrc2x4WkJXTWhScHpOcEFjX3dZcDI?oc=5",
@@ -223,11 +273,11 @@
       "status": "루머"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVmFPSzJXWTdCQ1lWTExNci1WSVlzVmhDRFhXcHZ1Y01GRllWcmJDOEJOOC15eVllMFNTdUNLUUd3ZWk2bHl3RDk5eFZtM0k4NlEzYjh5eVhGLS12Rm9OdjBNOTVvUHBud0hraVR6QTRnUkJNcFBzSVNqcGhrZ212VzlHUEx1eDlCNzlRNmdwR1EzcW9vU1Z4VTZKWkJpWmhBNWczSTVid0lQSXp0UzFmYzItS2pTLU4wNEtGNDh6TzQ0NldHZUdZWnFKYlBZTV9ja0sxNmJodUNQRmQxX044Mg?oc=5",
-      "title": "Liverpool have ‘opened talks’ with LaLiga side for risky transfer – ‘formula being discussed’ - LiveScore",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVmFPSzJXWTdCQ1lWTExNci1WSVlzVmhDRFhXcHZ1Y01GRllWcmJDOEJOOC15eVllMFNTdUNLUUd3ZWk2bHl3RDk5eFZtM0k4NlEzYjh5eVhGLS12Rm9OdjBNOTVvUHBud0hraVR6QTRnUkJNcFBzSVNqcGhrZ212VzlHUEx1eDlCNzlRNmdwR1EzcW9vU1Z4VTZKWkJpWmhBNWczSTVid0lQSXp0UzFmYzItS2pTLU4wNEtGNDh6TzQ0NldHZUdZWnFKYlBZTV9ja0sxNmJodUNQRmQxX044Mg?oc=5",
-      "publishedAt": "2026-08-17T13:39:12.000Z",
-      "summary": "Liverpool have ‘opened talks’ with LaLiga side for risky transfer – ‘formula being discussed’ &nbsp;&nbsp; LiveScore",
+      "id": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWDVaVDVreFhQNmpJUzBHY2dyMU82TExrYVY5c056OUJFN2otdmVZWUpKOFZfcVNEM29YdVlZZDhTMkpZdmgyY2lKaGR0WGtZbmlIQk96cF9QeURDMDJxcEFaRU1uZEFReE1yTEtUTWV2RWZ3S3daQlFTSXIxMVZybnZYZ1hxSTNxS0hMdnA3cnhhR0F0VnFYSmdn?oc=5",
+      "title": "Rodri: Man City dealt huge transfer blow as 'deal agreed' for star midfielder - London Evening Standard",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWDVaVDVreFhQNmpJUzBHY2dyMU82TExrYVY5c056OUJFN2otdmVZWUpKOFZfcVNEM29YdVlZZDhTMkpZdmgyY2lKaGR0WGtZbmlIQk96cF9QeURDMDJxcEFaRU1uZEFReE1yTEtUTWV2RWZ3S3daQlFTSXIxMVZybnZYZ1hxSTNxS0hMdnA3cnhhR0F0VnFYSmdn?oc=5",
+      "publishedAt": "2026-08-17T13:32:37.000Z",
+      "summary": "Rodri: Man City dealt huge transfer blow as 'deal agreed' for star midfielder &nbsp;&nbsp; London Evening Standard",
       "sourceKey": "romano-monitor",
       "sourceName": "Fabrizio Romano 검색 모니터",
       "status": "업데이트"
@@ -251,6 +301,16 @@
       "sourceKey": "sky-sports",
       "sourceName": "Sky Sports",
       "status": "업데이트"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOd19LcmRYVVBqVTVkLUlqZDN6eldiREZGdWl4R0RGbnhPTEgtaTVuSmFXcHotRVNkUTBuUUg4X0ZSTHNDdnNrLWNZSkZBcGtDaE5NdWhxdlMwdVU2UF9fa0RIcXNIMmhvUThWY2tuS1VCVlM5UEZZUlU3SkhMUnVyb0RxbGtaeXd3QnVqU0pBZzdseldPdTJVMWRrMA?oc=5",
+      "title": "Aston Villa receive new Emiliano Martinez bid from Juventus - The Athletic - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOd19LcmRYVVBqVTVkLUlqZDN6eldiREZGdWl4R0RGbnhPTEgtaTVuSmFXcHotRVNkUTBuUUg4X0ZSTHNDdnNrLWNZSkZBcGtDaE5NdWhxdlMwdVU2UF9fa0RIcXNIMmhvUThWY2tuS1VCVlM5UEZZUlU3SkhMUnVyb0RxbGtaeXd3QnVqU0pBZzdseldPdTJVMWRrMA?oc=5",
+      "publishedAt": "2026-08-17T13:29:00.000Z",
+      "summary": "Aston Villa receive new Emiliano Martinez bid from Juventus - The Athletic &nbsp;&nbsp; The New York Times",
+      "sourceKey": "ornstein-monitor",
+      "sourceName": "David Ornstein 검색 모니터",
+      "status": "루머"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUF9mYmR1dmthWlJRNHlqQ01CcmJSblFfTFZWNXFfVTFKazJmOHBSdXNOb3pRaGhLNlFpV3dsejMzUHZaQ1JpWjBGN0FWZllycWdOOFI1dkV2cll1RkdQNExCd1hfZFhqU0Y5SC1GWlV0NGFfR0JfLTB3OGxxQ080LU9ST3VMS1R2NElvYi02NkZydWpyOXJIN3A5NENNb0pqbGxLYzJfZjFxYmRlZDNySDRETjBiWGRPTnRr?oc=5",
@@ -341,73 +401,13 @@
       "sourceKey": "sky-sports",
       "sourceName": "Sky Sports",
       "status": "루머"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/aug/17/baller-league-live-sky-sports-season-ksi-prime-fc",
-      "title": "Baller League to no longer be shown live on Sky Sports from next season",
-      "url": "https://www.theguardian.com/football/2026/aug/17/baller-league-live-sky-sports-season-ksi-prime-fc",
-      "publishedAt": "2026-08-17T10:34:47.000Z",
-      "summary": "Season 4 of tournament will still be on YouTube KSI’s Prime FC won Season 3 final at the O 2 Arena in May Sky Sports will not broadcast next season’s Baller League, the celebrity six-a-side competition backed by the influencer KSI, the actor Idris Elba and former players including Ian Wright and Alan Shearer. KSI’s Prime FC won last season’s Baller League final at a sold-out O 2 Arena in an event broadcast live on Sky. But the Guardian has learned the broadcaster has opted not to renew the contract next season. While Sky was happy with audience numbers, and particularly the level of engagement on social media, sources say the partnership had come to a natural end. Continue reading...",
-      "sourceKey": "guardian-football",
-      "sourceName": "The Guardian Football",
-      "status": "업데이트"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUWlGeTFNWWdmZzNuZ0tPb3BNRnpSY1E3X1JoSXhDRDlDQXI3eUc1enZqd2dwZHlhTjl5Y3Nsdk50ZndTVk5ERVd1TnBadUstT3F4Q05xQmEwQ2E2bXhSTkxYbmt1d2RoSzg5RU9uUHZKd2J1TjBiWC1iSTVJSFAwSWV4UW9CYU0?oc=5",
-      "title": "Sources: Saudi Giants Want to Sign 'World-Class' Chelsea Star as £100m Demands Emerge - GiveMeSport",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUWlGeTFNWWdmZzNuZ0tPb3BNRnpSY1E3X1JoSXhDRDlDQXI3eUc1enZqd2dwZHlhTjl5Y3Nsdk50ZndTVk5ERVd1TnBadUstT3F4Q05xQmEwQ2E2bXhSTkxYbmt1d2RoSzg5RU9uUHZKd2J1TjBiWC1iSTVJSFAwSWV4UW9CYU0?oc=5",
-      "publishedAt": "2026-08-17T10:13:40.000Z",
-      "summary": "Sources: Saudi Giants Want to Sign 'World-Class' Chelsea Star as £100m Demands Emerge &nbsp;&nbsp; GiveMeSport",
-      "sourceKey": "ben-jacobs-monitor",
-      "sourceName": "Ben Jacobs monitor",
-      "status": "업데이트"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMivAFBVV95cUxON1Uzd3JmY21WTkZ4OFZ5VmdGVXdFNEx2V2VwZ0stMktwNkUxTUJ3Z0E3NzZUVDYyX0Q0dHpQRnJkd0Y0ZmFEYUFmcV85cnN1OUtXWXhRWnM1akRqbDFwRFBQYnhpODlWX1dYWEUxWVItcFl1RGlPN1JJYVVjNWlnZHowNXI0eDFKVHg0ZF9MclVWaGIxZlZNb3FWd3p3V0Z0Sm1QZC00Vi1udm9QT0JRYm1FZEk4d0h2dzhTcg?oc=5",
-      "title": "‘Today’ – Fabrizio Romano confirms Tottenham player has agreed personal terms to leave - Read Tottenham",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxON1Uzd3JmY21WTkZ4OFZ5VmdGVXdFNEx2V2VwZ0stMktwNkUxTUJ3Z0E3NzZUVDYyX0Q0dHpQRnJkd0Y0ZmFEYUFmcV85cnN1OUtXWXhRWnM1akRqbDFwRFBQYnhpODlWX1dYWEUxWVItcFl1RGlPN1JJYVVjNWlnZHowNXI0eDFKVHg0ZF9MclVWaGIxZlZNb3FWd3p3V0Z0Sm1QZC00Vi1udm9QT0JRYm1FZEk4d0h2dzhTcg?oc=5",
-      "publishedAt": "2026-08-17T10:10:11.000Z",
-      "summary": "‘Today’ – Fabrizio Romano confirms Tottenham player has agreed personal terms to leave &nbsp;&nbsp; Read Tottenham",
-      "sourceKey": "romano-monitor",
-      "sourceName": "Fabrizio Romano 검색 모니터",
-      "status": "업데이트"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaEt4WVNISS1HYXZHMmExdU85Rm9rdC1QbkVHTmgzVUNuMUtycUd3UWJ4TEhQaFM1dVR5YWNuRlMxNDVsNnRMT1ZXdnh6LTRUUTNhd2RLN1FoQ09rcUxXcFR1MTdkRUJTZTZIQWM3eEd0NFk5RHdDdFdPRDFTNzlyMmQtR05uSFlxaXdKWmVlMjBoUkJuQlVmUFFQQ0E2dk9CbThremZneWE4bHhRUlpxYklGcHFFTGRS0gG4AUFVX3lxTE1oS3hZU0hJLUdhdkcyYTF1TzlGb2t0LVBuRUdOaDNVQ24xS3JxR3dRYnhMSFBoUzV1VHlhY25GUzE0NWw2dExPVld2eHotNFRRM2F3ZEs3UWhDT2txTFdwVHUxN2RFQlNlNkhBYzd4R3Q0WTlEd0N0V09EMVM3OXIyZC1HTm5IWXFpd0paZWUyMGhSQm5CVWZQUVBDQTZ2T0JtOGt6Zmd5YThseFFSWnFiSUZwcUVMZFI?oc=5",
-      "title": "Luis Enrique promises Bradley Barcola 'solution' as Liverpool eye PSG transfer raid - Liverpool FC",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaEt4WVNISS1HYXZHMmExdU85Rm9rdC1QbkVHTmgzVUNuMUtycUd3UWJ4TEhQaFM1dVR5YWNuRlMxNDVsNnRMT1ZXdnh6LTRUUTNhd2RLN1FoQ09rcUxXcFR1MTdkRUJTZTZIQWM3eEd0NFk5RHdDdFdPRDFTNzlyMmQtR05uSFlxaXdKWmVlMjBoUkJuQlVmUFFQQ0E2dk9CbThremZneWE4bHhRUlpxYklGcHFFTGRS0gG4AUFVX3lxTE1oS3hZU0hJLUdhdkcyYTF1TzlGb2t0LVBuRUdOaDNVQ24xS3JxR3dRYnhMSFBoUzV1VHlhY25GUzE0NWw2dExPVld2eHotNFRRM2F3ZEs3UWhDT2txTFdwVHUxN2RFQlNlNkhBYzd4R3Q0WTlEd0N0V09EMVM3OXIyZC1HTm5IWXFpd0paZWUyMGhSQm5CVWZQUVBDQTZ2T0JtOGt6Zmd5YThseFFSWnFiSUZwcUVMZFI?oc=5",
-      "publishedAt": "2026-08-17T10:01:45.000Z",
-      "summary": "Luis Enrique promises Bradley Barcola 'solution' as Liverpool eye PSG transfer raid &nbsp;&nbsp; Liverpool FC",
-      "sourceKey": "official-liverpool-monitor",
-      "sourceName": "Liverpool official-site monitor",
-      "status": "업데이트"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYS1LMFNPbFN5bWs5U0UwZ0o4QmRibGpOYU82bGZ4TThOOHA1ZTZqWlRtRDFjSXFjcWY4dTF5QWNjR05JYXMwek1Gak5fRk11SGhIaFFxejQ0U0x4eXdiT1JUWTFka1lCekJkcFBpeVhzTVhMYThjRDYxd0F0SkNZcFFob2p3MGVEWWsyU3RGeVFUTE1zWkxDU1BMdE9seG5TS3NGUkN1d9IBrAFBVV95cUxOSFY1bWJkdzUxcmV6TUFsTFFsUE55NGtFMklpZ3ZIczZWRmU1QjZWTWUxREt4MjZ6WUpDT0FiRWFEc2ZOTUNfSnpLOVl1OXpIMDI2SEpRWFJQSy02ZTdEaFRkNmZMZGFYdmRiVFlaUnJmZV9Wa1JwQjg4T3ppMTRzZ2xCdnR1bWotdWlkclBaa1NDVEtZcVJyNjRLaTc5NUdqc0xhWHgtM3ZZSzZq?oc=5",
-      "title": "Fabrizio Romano: ‘New bid anticipated’ for Liverpool player who ‘wants’ out of Anfield - The Empire of The Kop",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYS1LMFNPbFN5bWs5U0UwZ0o4QmRibGpOYU82bGZ4TThOOHA1ZTZqWlRtRDFjSXFjcWY4dTF5QWNjR05JYXMwek1Gak5fRk11SGhIaFFxejQ0U0x4eXdiT1JUWTFka1lCekJkcFBpeVhzTVhMYThjRDYxd0F0SkNZcFFob2p3MGVEWWsyU3RGeVFUTE1zWkxDU1BMdE9seG5TS3NGUkN1d9IBrAFBVV95cUxOSFY1bWJkdzUxcmV6TUFsTFFsUE55NGtFMklpZ3ZIczZWRmU1QjZWTWUxREt4MjZ6WUpDT0FiRWFEc2ZOTUNfSnpLOVl1OXpIMDI2SEpRWFJQSy02ZTdEaFRkNmZMZGFYdmRiVFlaUnJmZV9Wa1JwQjg4T3ppMTRzZ2xCdnR1bWotdWlkclBaa1NDVEtZcVJyNjRLaTc5NUdqc0xhWHgtM3ZZSzZq?oc=5",
-      "publishedAt": "2026-08-17T09:58:37.000Z",
-      "summary": "Fabrizio Romano: ‘New bid anticipated’ for Liverpool player who ‘wants’ out of Anfield &nbsp;&nbsp; The Empire of The Kop",
-      "sourceKey": "romano-monitor",
-      "sourceName": "Fabrizio Romano 검색 모니터",
-      "status": "루머"
-    },
-    {
-      "id": "https://www.theguardian.com/sport/2026/aug/17/extreme-heat-elite-sport-adapt-climate-crisis-the-hotspot",
-      "title": "The Hotspot | Extreme heat has changed elite sport this summer – it must adapt to survive",
-      "url": "https://www.theguardian.com/sport/2026/aug/17/extreme-heat-elite-sport-adapt-climate-crisis-the-hotspot",
-      "publishedAt": "2026-08-17T09:33:51.000Z",
-      "summary": "In today’s newsletter: how climate crisis is affecting athletes and what steps are being taken to protect them from rising temperatures The mercury-shattering European summer pants alongside us on the back straight, looming as we hug the shadows, sweaty sandals on the parched earth. Across Asia, Africa and North America too , inhabitants have endured the warmest July of their lives. In Toronto, Alex Hutchinson, author of the bestseller Endure: Mind, Body, and the Curiously Elastic Limits of Human Performance , has just come back from an early run. “Here I am in Canada, a famously frosty country, and my general take when I wrote ‘Endure ’ in the 2010s was that heat was not that big a deal. Occasionally, people died of heat, often in the deep south of the US, often returning to football practise in August, when they were not prepared, but that was rare. Continue reading...",
-      "sourceKey": "guardian-football",
-      "sourceName": "The Guardian Football",
-      "status": "업데이트"
     }
   ],
   "sourceHealth": [
     {
       "source": "BBC Sport RSS",
       "ok": true,
-      "count": 22
+      "count": 24
     },
     {
       "source": "Sky Sports sitemap",
@@ -417,7 +417,7 @@
     {
       "source": "ESPN FC page",
       "ok": true,
-      "count": 4
+      "count": 0
     },
     {
       "source": "The Guardian Football RSS",
@@ -427,7 +427,7 @@
     {
       "source": "Fabrizio Romano Google News",
       "ok": true,
-      "count": 94
+      "count": 91
     },
     {
       "source": "David Ornstein Google News",
@@ -437,7 +437,7 @@
     {
       "source": "The Athletic Google News",
       "ok": true,
-      "count": 20
+      "count": 19
     },
     {
       "source": "Gianluca Di Marzio Google News",
@@ -452,7 +452,7 @@
     {
       "source": "Ben Jacobs Google News",
       "ok": true,
-      "count": 73
+      "count": 74
     },
     {
       "source": "Florian Plettenberg Google News",
@@ -462,7 +462,7 @@
     {
       "source": "Kaveh Solhekol Google News",
       "ok": true,
-      "count": 30
+      "count": 29
     },
     {
       "source": "Santi Aouna Google News",
@@ -472,12 +472,12 @@
     {
       "source": "Arsenal official-site monitor",
       "ok": true,
-      "count": 72
+      "count": 71
     },
     {
       "source": "Barcelona official-site monitor",
       "ok": true,
-      "count": 98
+      "count": 99
     },
     {
       "source": "Real Madrid official-site monitor",
@@ -502,18 +502,17 @@
     {
       "source": "Chelsea official-site monitor",
       "ok": true,
-      "count": 82
+      "count": 81
     },
     {
       "source": "Liverpool official-site monitor",
       "ok": true,
-      "count": 95
+      "count": 96
     },
     {
       "source": "X API direct monitor",
       "ok": false,
-      "disabled": true,
-      "error": "X_BEARER_TOKEN is not configured"
+      "error": "Error: X API recent search -> HTTP 401: {\n  \"title\": \"Unauthorized\",\n  \"type\": \"about:blank\",\n  \"status\": 401,\n  \"detail\": \"Unauthorized\"\n}"
     }
   ]
 }
