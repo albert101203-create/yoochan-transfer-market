@@ -233,7 +233,6 @@ let assetMap = { players: {}, clubs: {} };
 let dataMode = "loading";
 let liveMode = "live unavailable";
 let draftMode = "draft unavailable";
-let promotedMode = "promoted unavailable";
 
 const leagueFilter = document.querySelector("#leagueFilter");
 const statusFilter = document.querySelector("#statusFilter");
@@ -244,8 +243,6 @@ const liveStatus = document.querySelector("#liveStatus");
 const liveRefreshBtn = document.querySelector("#liveRefreshBtn");
 const draftCards = document.querySelector("#draftCards");
 const draftStatus = document.querySelector("#draftStatus");
-const promotedCards = document.querySelector("#promotedCards");
-const promotedStatus = document.querySelector("#promotedStatus");
 const totalCount = document.querySelector("#totalCount");
 const doneCount = document.querySelector("#doneCount");
 const rumorCount = document.querySelector("#rumorCount");
@@ -410,7 +407,6 @@ function bindEvents() {
   liveRefreshBtn?.addEventListener("click", () => {
     loadLiveHeadlines(true);
     loadAutoDrafts(true);
-    loadPromotedCandidates(true);
   });
 
   articlesViewBtn?.addEventListener("click", () => setContentView("articles"));
@@ -514,74 +510,6 @@ function renderDraftCards(items) {
             <div class="draft-meta">
               <span>자동 검증 ${item.lastVerifiedAt}</span>
             </div>
-          </div>
-        </article>
-      `;
-    })
-    .join("");
-}
-
-function renderPromotedCards(items) {
-  if (!promotedCards) return;
-
-  if (!items.length) {
-    promotedCards.innerHTML = `<article class="card empty">조건에 맞는 메인 노출 후보가 아직 없습니다.</article>`;
-    return;
-  }
-
-  promotedCards.innerHTML = items
-    .map((item) => {
-      const badgeClass = item.status === "완료" ? "done" : item.status === "루머" ? "rumor" : "";
-      const reliabilityClass = getReliabilityClass(item.sourceReliability);
-      const confidenceClass = item.extractionConfidence || "low";
-      const tierLabel =
-        item.sourceTier === "high" ? "상" : item.sourceTier === "medium" ? "중" : "하";
-
-      return `
-        <article class="card transfer-card promoted-card">
-          <div class="card-top">
-            <div class="player-heading">
-              <img class="player-photo" src="${item.playerPhoto}" alt="${item.player} 프로필 사진" loading="lazy" onerror="this.onerror=null;this.src='${item.playerPhotoFallback}'" referrerpolicy="no-referrer" />
-              <div>
-                <div class="eyebrow">${item.league}</div>
-                <h2 class="player">${item.player}</h2>
-              </div>
-            </div>
-            <span class="badge ${badgeClass}">${item.status}</span>
-          </div>
-
-          <div class="transfer-grid">
-            <div>
-              <strong>이전 팀</strong><br>
-              <span class="team-line">
-                <img class="club-logo" src="${item.fromLogo}" alt="${item.fromTeam} 로고" loading="lazy" onerror="this.onerror=null;this.src='${item.fromLogoFallback}'" referrerpolicy="no-referrer" />
-                <span>${item.fromTeam}</span>
-              </span>
-            </div>
-            <div>
-              <strong>새 팀</strong><br>
-              <span class="team-line">
-                <img class="club-logo" src="${item.toLogo}" alt="${item.toTeam} 로고" loading="lazy" onerror="this.onerror=null;this.src='${item.toLogoFallback}'" referrerpolicy="no-referrer" />
-                <span>${item.toTeam}</span>
-              </span>
-            </div>
-            <div><strong>이적료</strong><br>${formatFeeDisplay(item.fee)}</div>
-            <div><strong>갱신 시간</strong><br>${item.publishedAt}</div>
-          </div>
-
-          <div class="source-block">
-            <div class="source-link-box">
-              <span>원문 링크</span>
-              <a href="${item.sourceUrl}" target="_blank" rel="noreferrer">원문 열기 ↗</a>
-            </div>
-            <div class="source-meta">
-              <span class="source-badge ${reliabilityClass}">출처 ${tierLabel}</span>
-              <span class="source-badge ${confidenceClass}">추출 ${getConfidenceLabel(item.extractionConfidence || "low")}</span>
-              <span>${item.sourceName}</span>
-              <span>${item.extractionPattern || "pattern-unknown"}</span>
-            </div>
-            <p class="source-note">${item.sourceReason}</p>
-            <p class="section-note">기준: 출처 중/상 + 추출 신뢰도 보통 이상인 자동 승격 후보</p>
           </div>
         </article>
       `;
@@ -716,47 +644,9 @@ async function loadAutoDrafts(force = false) {
   updateRefreshStatus();
 }
 
-async function loadPromotedCandidates(force = false) {
-  if (!promotedCards || !promotedStatus) return;
-
-  if (!window.location.protocol.startsWith("http")) {
-    promotedMode = "server required";
-    promotedStatus.textContent =
-      "메인 노출 후보는 로컬 서버 실행 후 http://127.0.0.1:4173 로 열어야 합니다.";
-    promotedCards.innerHTML = `<article class="card empty">현재는 파일 모드라 승격 후보를 만들 수 없습니다.</article>`;
-    updateRefreshStatus();
-    return;
-  }
-
-  promotedStatus.textContent = force
-    ? "메인 노출 후보를 다시 계산하는 중..."
-    : "메인 노출 후보를 계산하는 중...";
-
-  try {
-    const result = await fetchJsonOrCache(
-      "/api/promoted-candidates",
-      "./cache/promoted-candidates.json",
-      force
-    );
-    const { payload } = result;
-    const items = payload.items.map((item) => enrichTransfer(item));
-    renderPromotedCards(items);
-    promotedMode = result.mode;
-    promotedStatus.textContent = `마지막 계산 ${new Date(payload.generatedAt).toLocaleString(
-      "ko-KR"
-    )} · 메인 후보 ${payload.itemCount}개`;
-  } catch (error) {
-    promotedMode = "promoted failed";
-    promotedStatus.textContent = `메인 후보 계산 실패: ${error.message}`;
-    promotedCards.innerHTML = `<article class="card empty">메인 노출 후보를 계산하지 못했습니다. 잠시 후 다시 시도해 주세요.</article>`;
-  }
-
-  updateRefreshStatus();
-}
-
 function updateRefreshStatus() {
   const now = new Date();
-  refreshStatus.textContent = `${dataMode} · ${liveMode} · ${draftMode} · ${promotedMode} · 환율 ${exchangeRates.updatedAt} ECB · ${now.toLocaleTimeString(
+  refreshStatus.textContent = `${dataMode} · ${liveMode} · ${draftMode} · 환율 ${exchangeRates.updatedAt} ECB · ${now.toLocaleTimeString(
     "ko-KR"
   )}`;
 }
@@ -768,17 +658,12 @@ if (liveCards) {
 if (draftCards) {
   draftCards.innerHTML = `<article class="card empty">자동 초안을 생성하는 중입니다.</article>`;
 }
-if (promotedCards) {
-  promotedCards.innerHTML = `<article class="card empty">메인 노출 후보를 계산하는 중입니다.</article>`;
-}
 bindEvents();
 loadAssetMap().finally(() => {
   loadTransfers();
   loadLiveHeadlines();
   loadAutoDrafts();
-  loadPromotedCandidates();
 });
 setInterval(updateRefreshStatus, 30000);
 setInterval(() => loadLiveHeadlines(), 120000);
 setInterval(() => loadAutoDrafts(), 120000);
-setInterval(() => loadPromotedCandidates(), 120000);
