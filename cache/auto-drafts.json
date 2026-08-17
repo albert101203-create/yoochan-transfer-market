@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-17T16:05:56.516Z",
-  "basedOnFetchedAt": "2026-08-17T16:05:56.512Z",
-  "itemCount": 2,
+  "generatedAt": "2026-08-17T16:08:10.003Z",
+  "basedOnFetchedAt": "2026-08-17T16:08:09.998Z",
+  "itemCount": 1,
   "drafts": [
     {
       "id": "draft:https://news.google.com/rss/articles/CBMitAFBVV95cUxQVkNNVU1oNXkwOW56YVFyNkUtREl1TUV2TUxqcUt6dVdLX3A0XzZZYm1RakJheHN2bzlZN1BoQm1GSE42TTZadTcwZERDQm10MllwaEN1Q2UyUnlYeGpjd2NndTA5eGpZbFdtRmh2a0Q3VE5NQm1DeUphVkJlNEFwYzFEdEw4cU15ZGRZbnVuZ2JmRHdUSlNMeXZOX3ROZGhrc2x4WkJXTWhScHpOcEFjX3dZcDI?oc=5",
@@ -17,31 +17,11 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVkNNVU1oNXkwOW56YVFyNkUtREl1TUV2TUxqcUt6dVdLX3A0XzZZYm1RakJheHN2bzlZN1BoQm1GSE42TTZadTcwZERDQm10MllwaEN1Q2UyUnlYeGpjd2NndTA5eGpZbFdtRmh2a0Q3VE5NQm1DeUphVkJlNEFwYzFEdEw4cU15ZGRZbnVuZ2JmRHdUSlNMeXZOX3ROZGhrc2x4WkJXTWhScHpOcEFjX3dZcDI?oc=5",
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
-      "publishedAt": "2026-08-17 13:45",
-      "lastVerifiedAt": "2026-08-17 16:05",
+      "publishedAt": "2026-08-17 22:45",
+      "lastVerifiedAt": "2026-08-18 01:08",
       "extractionConfidence": "medium",
       "extractionPattern": "club-eye-positioned-player",
       "headlineTitle": "Transfer rumors, news: Barcelona eye Arsenal striker Viktor Gyökeres - ESPN"
-    },
-    {
-      "id": "draft:https://news.google.com/rss/articles/CBMihwFBVV95cUxPUWlGeTFNWWdmZzNuZ0tPb3BNRnpSY1E3X1JoSXhDRDlDQXI3eUc1enZqd2dwZHlhTjl5Y3Nsdk50ZndTVk5ERVd1TnBadUstT3F4Q05xQmEwQ2E2bXhSTkxYbmt1d2RoSzg5RU9uUHZKd2J1TjBiWC1iSTVJSFAwSWV4UW9CYU0?oc=5",
-      "player": "£100m Demands Emerge",
-      "fromTeam": "to Sign 'World-Class' Chelsea Star a",
-      "toTeam": "Sources: Saudi Giants",
-      "league": "미분류",
-      "status": "루머",
-      "fee": "£100M",
-      "sourceKey": "ben-jacobs-monitor",
-      "sourceTier": "medium",
-      "sourceName": "Ben Jacobs monitor",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUWlGeTFNWWdmZzNuZ0tPb3BNRnpSY1E3X1JoSXhDRDlDQXI3eUc1enZqd2dwZHlhTjl5Y3Nsdk50ZndTVk5ERVd1TnBadUstT3F4Q05xQmEwQ2E2bXhSTkxYbmt1d2RoSzg5RU9uUHZKd2J1TjBiWC1iSTVJSFAwSWV4UW9CYU0?oc=5",
-      "sourceType": "자동 추출 초안",
-      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
-      "publishedAt": "2026-08-17 10:13",
-      "lastVerifiedAt": "2026-08-17 16:05",
-      "extractionConfidence": "low",
-      "extractionPattern": "club-want-player",
-      "headlineTitle": "Sources: Saudi Giants Want to Sign 'World-Class' Chelsea Star as £100m Demands Emerge - GiveMeSport"
     }
   ]
 }

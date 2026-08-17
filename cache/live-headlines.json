@@ -1,7 +1,17 @@
 {
-  "fetchedAt": "2026-08-17T16:05:56.512Z",
+  "fetchedAt": "2026-08-17T16:08:09.998Z",
   "itemCount": 40,
   "items": [
+    {
+      "id": "https://www.bbc.co.uk/sport/football/articles/cvgjjr90l0lo?at_medium=RSS&at_campaign=rss",
+      "title": "Coventry sign Forest striker Awoniyi for £9m",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgjjr90l0lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-17T16:02:31.000Z",
+      "summary": "Coventry City have added striker Taiwo Awoniyi to their squad.",
+      "sourceKey": "bbc-sport",
+      "sourceName": "BBC Sport",
+      "status": "업데이트"
+    },
     {
       "id": "https://www.skysports.com/football/live-blog/41920/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
       "title": "Tottenham transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
@@ -181,6 +191,16 @@
       "sourceKey": "bbc-sport",
       "sourceName": "BBC Sport",
       "status": "업데이트"
+    },
+    {
+      "id": "49636079",
+      "title": "Transfer rumors, news: Barcelona eye Arsenal striker Viktor Gyökeres",
+      "url": "https://www.espn.com/soccer/story/_/id/49636079/transfer-rumors-news-barcelona-eye-arsenal-striker-viktor-gyokeres",
+      "publishedAt": "2026-08-17T13:45:19.000Z",
+      "summary": "ESPN FC soccer 최신 피드에서 가져온 실시간 헤드라인입니다.",
+      "sourceKey": "espn-fc",
+      "sourceName": "ESPN FC",
+      "status": "루머"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVkNNVU1oNXkwOW56YVFyNkUtREl1TUV2TUxqcUt6dVdLX3A0XzZZYm1RakJheHN2bzlZN1BoQm1GSE42TTZadTcwZERDQm10MllwaEN1Q2UyUnlYeGpjd2NndTA5eGpZbFdtRmh2a0Q3VE5NQm1DeUphVkJlNEFwYzFEdEw4cU15ZGRZbnVuZ2JmRHdUSlNMeXZOX3ROZGhrc2x4WkJXTWhScHpOcEFjX3dZcDI?oc=5",
@@ -381,33 +401,13 @@
       "sourceKey": "guardian-football",
       "sourceName": "The Guardian Football",
       "status": "업데이트"
-    },
-    {
-      "id": "https://www.skysports.com/football/news/11095/13573958/enzo-fernandez-transfer-news-man-city-remain-interested-in-chelsea-midfielder-despite-missing-deadline-to-make-bid",
-      "title": "Enzo Fernandez transfer news: Man City remain interested in Chelsea midfielder despite missing deadline to make bid",
-      "url": "https://www.skysports.com/football/news/11095/13573958/enzo-fernandez-transfer-news-man-city-remain-interested-in-chelsea-midfielder-despite-missing-deadline-to-make-bid",
-      "publishedAt": "2026-08-17T09:30:00.000Z",
-      "summary": "Sky Sports football sitemap에서 가져온 실시간 헤드라인입니다.",
-      "sourceKey": "sky-sports",
-      "sourceName": "Sky Sports",
-      "status": "루머"
-    },
-    {
-      "id": "https://www.bbc.co.uk/sport/football/articles/cgk451r4z76o?at_medium=RSS&at_campaign=rss",
-      "title": "Spurs' Vicario set to join Juventus on loan",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cgk451r4z76o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-17T09:05:54.000Z",
-      "summary": "Tottenham accept a loan offer from Juventus for goalkeeper Guglielmo Vicario, which includes an option to buy.",
-      "sourceKey": "bbc-sport",
-      "sourceName": "BBC Sport",
-      "status": "완료"
     }
   ],
   "sourceHealth": [
     {
       "source": "BBC Sport RSS",
       "ok": true,
-      "count": 21
+      "count": 22
     },
     {
       "source": "Sky Sports sitemap",
@@ -417,7 +417,7 @@
     {
       "source": "ESPN FC page",
       "ok": true,
-      "count": 0
+      "count": 4
     },
     {
       "source": "The Guardian Football RSS",
@@ -427,7 +427,7 @@
     {
       "source": "Fabrizio Romano Google News",
       "ok": true,
-      "count": 92
+      "count": 94
     },
     {
       "source": "David Ornstein Google News",
@@ -447,12 +447,12 @@
     {
       "source": "Matteo Moretto Google News",
       "ok": true,
-      "count": 47
+      "count": 48
     },
     {
       "source": "Ben Jacobs Google News",
       "ok": true,
-      "count": 74
+      "count": 73
     },
     {
       "source": "Florian Plettenberg Google News",
@@ -462,12 +462,12 @@
     {
       "source": "Kaveh Solhekol Google News",
       "ok": true,
-      "count": 29
+      "count": 30
     },
     {
       "source": "Santi Aouna Google News",
       "ok": true,
-      "count": 54
+      "count": 55
     },
     {
       "source": "Arsenal official-site monitor",
@@ -512,7 +512,8 @@
     {
       "source": "X API direct monitor",
       "ok": false,
-      "error": "Error: X API recent search -> HTTP 401: {\n  \"title\": \"Unauthorized\",\n  \"type\": \"about:blank\",\n  \"status\": 401,\n  \"detail\": \"Unauthorized\"\n}"
+      "disabled": true,
+      "error": "X_BEARER_TOKEN is not configured"
     }
   ]
 }

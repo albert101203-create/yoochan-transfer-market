@@ -85,6 +85,9 @@ const GENERIC_DRAFT_SKIP_PATTERNS = [
   /transfer market after/i,
   /makes bow/i,
   /amid transfer speculation/i,
+  /world-class .*star/i,
+  /demands emerge/i,
+  /want to sign .*star/i,
 ];
 
 const POSITION_PATTERN =
