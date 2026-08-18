@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-18T22:54:18.371Z",
+  "fetchedAt": "2026-08-18T23:47:37.101Z",
   "itemCount": 40,
   "items": [
     {
@@ -11,6 +11,16 @@
       "sourceKey": "ornstein-monitor",
       "sourceName": "David Ornstein 검색 모니터",
       "status": "업데이트"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxORF9jSVVWa2JsZS1jSkMxQkZRTEJYVGJONk1ScVozSl82S0VQQWxTWm9hb1htY1hYUEhTaElHanBRMlh3TE9TNjJ3RXRvVVpHQlo1MWxGN1RZUXA5eUp6RHl0UTRpUTRTbV9XSng5QkdlQlE3LTFrZXkyV0FfVHBEX1FlLWpWaG1KZ1ZyWTlLcks1ZE1nWkExOVczUFJKSEszcHU5NnFHS202ODZEZ0E3WGFIUW5GajdMY0QxTE5MajVqbFpfOWN4V2NhS2R5em1nSHVxVy1waGRlUzdzbUxXLUhMN2VYc0F1RG9QQXJiT0tER0RpMWFj?oc=5",
+      "title": "Man Utd transfer news: Barcelona midfielder Gavi rejects chance to join Old Trafford - Paper Talk - Sky Sports",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxORF9jSVVWa2JsZS1jSkMxQkZRTEJYVGJONk1ScVozSl82S0VQQWxTWm9hb1htY1hYUEhTaElHanBRMlh3TE9TNjJ3RXRvVVpHQlo1MWxGN1RZUXA5eUp6RHl0UTRpUTRTbV9XSng5QkdlQlE3LTFrZXkyV0FfVHBEX1FlLWpWaG1KZ1ZyWTlLcks1ZE1nWkExOVczUFJKSEszcHU5NnFHS202ODZEZ0E3WGFIUW5GajdMY0QxTE5MajVqbFpfOWN4V2NhS2R5em1nSHVxVy1waGRlUzdzbUxXLUhMN2VYc0F1RG9QQXJiT0tER0RpMWFj?oc=5",
+      "publishedAt": "2026-08-18T21:56:04.000Z",
+      "summary": "Man Utd transfer news: Barcelona midfielder Gavi rejects chance to join Old Trafford - Paper Talk &nbsp;&nbsp; Sky Sports",
+      "sourceKey": "romano-monitor",
+      "sourceName": "Fabrizio Romano 검색 모니터",
+      "status": "완료"
     },
     {
       "id": "https://www.skysports.com/football/live-blog/41908/13025497/chelsea-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
@@ -31,16 +41,6 @@
       "sourceKey": "sky-sports",
       "sourceName": "Sky Sports",
       "status": "완료"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVTJMUnYzM0Y2Z29OMU5HWDRRMlVRTzFVNDlJZ2xZVUhpUHBnS0NVTDBLTDliZ055TUVPUVZzM3d5b3I3NHljbi1DamtfSmhFWlBzMThfVmFZOU5kWDRtY2pQUnI1aXVHZnlEaklDRVI5dm5ValdQRUp4M0xDeW52aFFFR0Y0bFN6M3BXTHVnQlgyaEFvbnhvUk95LUNXSW9ldVFfYWNB?oc=5",
-      "title": "Transfer news LIVE: £60m Man Utd double deal, Liverpool PSG agreement, Viktor Gyokeres 'offer' - The Mirror",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVTJMUnYzM0Y2Z29OMU5HWDRRMlVRTzFVNDlJZ2xZVUhpUHBnS0NVTDBLTDliZ055TUVPUVZzM3d5b3I3NHljbi1DamtfSmhFWlBzMThfVmFZOU5kWDRtY2pQUnI1aXVHZnlEaklDRVI5dm5ValdQRUp4M0xDeW52aFFFR0Y0bFN6M3BXTHVnQlgyaEFvbnhvUk95LUNXSW9ldVFfYWNB?oc=5",
-      "publishedAt": "2026-08-18T21:30:24.000Z",
-      "summary": "Transfer news LIVE: £60m Man Utd double deal, Liverpool PSG agreement, Viktor Gyokeres 'offer' &nbsp;&nbsp; The Mirror",
-      "sourceKey": "romano-monitor",
-      "sourceName": "Fabrizio Romano 검색 모니터",
-      "status": "루머"
     },
     {
       "id": "https://www.bbc.co.uk/sport/football/articles/cpq80q88dyqo?at_medium=RSS&at_campaign=rss",
@@ -90,6 +90,16 @@
       "summary": "Sky Sports football sitemap에서 가져온 실시간 헤드라인입니다.",
       "sourceKey": "sky-sports",
       "sourceName": "Sky Sports",
+      "status": "루머"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQY1JTYnlNLTU2VU5oQ1hBLTQtTnlXOUVhSDB3R0EwQzJHLUZpTG5nMGZkWnd5THBPcUJmX1lHVGhBSEg4V0RKbmJ3eFo0cXV0cjNTemhZczlkR1M0dEZfZzN4NjAtOHJ3ZGZsaHNhRnBQMF9tRjlNYko1LVVIc0pTaHEyUnRvZWFncVNuSnRlSklBU05mU0hHNVpfV1N6d3ZOZG45Q2o2R0hSbDYzdHpPeW11MWp1MS10XzdDZlR6aEh2VWp0T0EwV29VSm9ybE9hOTJHNHc1aGM4UDhFbzVjVVNpRjR5ZVlNZDBjUG1R?oc=5",
+      "title": "Man Utd Transfer News Today: Bruno Fernandes rejects new deal as exit concerns increase - footballtransfers.com",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQY1JTYnlNLTU2VU5oQ1hBLTQtTnlXOUVhSDB3R0EwQzJHLUZpTG5nMGZkWnd5THBPcUJmX1lHVGhBSEg4V0RKbmJ3eFo0cXV0cjNTemhZczlkR1M0dEZfZzN4NjAtOHJ3ZGZsaHNhRnBQMF9tRjlNYko1LVVIc0pTaHEyUnRvZWFncVNuSnRlSklBU05mU0hHNVpfV1N6d3ZOZG45Q2o2R0hSbDYzdHpPeW11MWp1MS10XzdDZlR6aEh2VWp0T0EwV29VSm9ybE9hOTJHNHc1aGM4UDhFbzVjVVNpRjR5ZVlNZDBjUG1R?oc=5",
+      "publishedAt": "2026-08-18T20:01:00.000Z",
+      "summary": "Man Utd Transfer News Today: Bruno Fernandes rejects new deal as exit concerns increase &nbsp;&nbsp; footballtransfers.com",
+      "sourceKey": "romano-monitor",
+      "sourceName": "Fabrizio Romano 검색 모니터",
       "status": "루머"
     },
     {
@@ -303,16 +313,6 @@
       "status": "업데이트"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUEpybVJnbDQ2ZTl2bEFid2NuQ1BxZDlocmNnRzM4c0tzQVZ0MFpmMHJveC0waHlzajdISWl6eXA0cDJWSm01TFRxWjVic0Fham9VQ01Fc3BUMUtqM1NEb3hWeDd1ZVhSbksyekxfcktGTnV6WDE4ODh1a0h0Nl9yd0NYWnVCZmh4TzVtRG5EMmgzQQ?oc=5",
-      "title": "Tottenham goalkeeper Guglielmo Vicario joins Juventus on loan - The Athletic - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUEpybVJnbDQ2ZTl2bEFid2NuQ1BxZDlocmNnRzM4c0tzQVZ0MFpmMHJveC0waHlzajdISWl6eXA0cDJWSm01TFRxWjVic0Fham9VQ01Fc3BUMUtqM1NEb3hWeDd1ZVhSbksyekxfcktGTnV6WDE4ODh1a0h0Nl9yd0NYWnVCZmh4TzVtRG5EMmgzQQ?oc=5",
-      "publishedAt": "2026-08-18T14:24:00.000Z",
-      "summary": "Tottenham goalkeeper Guglielmo Vicario joins Juventus on loan - The Athletic &nbsp;&nbsp; The New York Times",
-      "sourceKey": "ornstein-monitor",
-      "sourceName": "David Ornstein 검색 모니터",
-      "status": "완료"
-    },
-    {
       "id": "https://www.skysports.com/football/news/11095/13574407/guglielmo-vicario-transfer-news-juventus-sign-spurs-goalkeeper-on-loan-as-emi-martinez-alternative",
       "title": "Guglielmo Vicario transfer news: Juventus sign Spurs goalkeeper on loan as Emi Martinez alternative",
       "url": "https://www.skysports.com/football/news/11095/13574407/guglielmo-vicario-transfer-news-juventus-sign-spurs-goalkeeper-on-loan-as-emi-martinez-alternative",
@@ -427,7 +427,7 @@
     {
       "source": "Fabrizio Romano Google News",
       "ok": true,
-      "count": 93
+      "count": 94
     },
     {
       "source": "David Ornstein Google News",
@@ -467,7 +467,7 @@
     {
       "source": "Santi Aouna Google News",
       "ok": true,
-      "count": 55
+      "count": 53
     },
     {
       "source": "Arsenal official-site monitor",
@@ -507,7 +507,7 @@
     {
       "source": "Liverpool official-site monitor",
       "ok": true,
-      "count": 92
+      "count": 89
     },
     {
       "source": "X API direct monitor",
