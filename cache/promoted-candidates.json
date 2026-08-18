@@ -1,29 +1,8 @@
 {
-  "generatedAt": "2026-08-18T09:18:24.325Z",
-  "basedOnGeneratedAt": "2026-08-18T09:18:24.325Z",
-  "itemCount": 1,
-  "items": [
-    {
-      "id": "draft:https://news.google.com/rss/articles/CBMitAFBVV95cUxQVkNNVU1oNXkwOW56YVFyNkUtREl1TUV2TUxqcUt6dVdLX3A0XzZZYm1RakJheHN2bzlZN1BoQm1GSE42TTZadTcwZERDQm10MllwaEN1Q2UyUnlYeGpjd2NndTA5eGpZbFdtRmh2a0Q3VE5NQm1DeUphVkJlNEFwYzFEdEw4cU15ZGRZbnVuZ2JmRHdUSlNMeXZOX3ROZGhrc2x4WkJXTWhScHpOcEFjX3dZcDI?oc=5",
-      "player": "Zubimendi",
-      "fromTeam": "Arsenal",
-      "toTeam": "Real Madrid",
-      "league": "미분류",
-      "status": "루머",
-      "fee": "미정",
-      "sourceKey": "romano-monitor",
-      "sourceTier": "medium",
-      "sourceName": "Fabrizio Romano 검색 모니터",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVkNNVU1oNXkwOW56YVFyNkUtREl1TUV2TUxqcUt6dVdLX3A0XzZZYm1RakJheHN2bzlZN1BoQm1GSE42TTZadTcwZERDQm10MllwaEN1Q2UyUnlYeGpjd2NndTA5eGpZbFdtRmh2a0Q3VE5NQm1DeUphVkJlNEFwYzFEdEw4cU15ZGRZbnVuZ2JmRHdUSlNMeXZOX3ROZGhrc2x4WkJXTWhScHpOcEFjX3dZcDI?oc=5",
-      "sourceType": "자동 추출 초안",
-      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
-      "publishedAt": "2026-08-17 19:24",
-      "lastVerifiedAt": "2026-08-18 09:18",
-      "extractionConfidence": "medium",
-      "extractionPattern": "club-eye-positioned-player",
-      "headlineTitle": "Transfer rumors, news: Real Madrid eye Arsenal midfielder Zubimendi - ESPN"
-    }
-  ],
+  "generatedAt": "2026-08-18T10:52:05.254Z",
+  "basedOnGeneratedAt": "2026-08-18T10:52:05.254Z",
+  "itemCount": 0,
+  "items": [],
   "rules": {
     "minSourceTier": "medium",
     "minExtractionConfidence": "medium",
