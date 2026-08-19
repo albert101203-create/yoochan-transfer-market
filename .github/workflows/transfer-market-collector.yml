@@ -2,6 +2,13 @@ name: Transfer market collector
 
 on:
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths-ignore:
+      - "cache/**"
+      - "asset-map.json"
+      - "asset-attributions.json"
+      - "assets/**"
   schedule:
     - cron: "*/5 * * * *"
 
