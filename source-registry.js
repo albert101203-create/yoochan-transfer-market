@@ -289,6 +289,14 @@ window.sourceRegistry = {
       type: "Verified reporter Bluesky account",
       note: "Supplementary monitoring of public posts from the confirmed Athletic reporter account.",
     },
+    "bluesky-jay-harris": {
+      name: "Jay Harris Bluesky",
+      url: "https://bsky.app/profile/jaydmharris.bsky.social",
+      tier: "medium",
+      reliabilityLabel: "蹂댄넻",
+      type: "Tottenham reporter Bluesky account",
+      note: "Free public monitoring of the Athletic Tottenham reporter's Bluesky posts.",
+    },
     "instagram-indirect-monitor": {
       name: "Instagram indirect search monitor",
       url: "https://www.instagram.com/",

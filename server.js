@@ -155,6 +155,7 @@ const SOURCE_TIERS = {
   "x-direct-monitor": "high",
   "bluesky-fabrizio": "medium",
   "bluesky-ornstein": "medium",
+  "bluesky-jay-harris": "medium",
   "instagram-indirect-monitor": "low",
   "bbc-sport": "medium",
   "sky-sports": "medium",
@@ -1167,6 +1168,12 @@ const BLUESKY_MONITORED_AUTHORS = [
     source: "Bluesky @david-ornstein",
     sourceKey: "bluesky-ornstein",
     sourceName: "David Ornstein Bluesky",
+  },
+  {
+    actor: "jaydmharris.bsky.social",
+    source: "Bluesky @jaydmharris",
+    sourceKey: "bluesky-jay-harris",
+    sourceName: "Jay Harris Bluesky",
   },
 ];
 
