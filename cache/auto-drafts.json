@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-19T11:56:09.315Z",
-  "basedOnFetchedAt": "2026-08-19T11:56:09.303Z",
-  "itemCount": 3,
+  "generatedAt": "2026-08-19T13:48:33.787Z",
+  "basedOnFetchedAt": "2026-08-19T13:48:33.773Z",
+  "itemCount": 4,
   "drafts": [
     {
       "id": "draft:https://www.bbc.co.uk/sport/football/articles/ckgd5732mexo?at_medium=RSS&at_campaign=rss",
@@ -18,7 +18,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-08-19 11:10",
-      "lastVerifiedAt": "2026-08-19 11:56",
+      "lastVerifiedAt": "2026-08-19 13:48",
       "extractionConfidence": "high",
       "extractionPattern": "club-signs-player-from",
       "headlineTitle": "Leeds sign Elvedi from Borussia Monchengladbach"
@@ -38,30 +38,50 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-08-19 09:27",
-      "lastVerifiedAt": "2026-08-19 11:56",
+      "lastVerifiedAt": "2026-08-19 13:48",
       "extractionConfidence": "medium",
       "extractionPattern": "club-talks-to-sign-player",
       "headlineTitle": "Newcastle in talks to sign Nico Gonzalez from Manchester City - The Athletic - The New York Times"
     },
     {
-      "id": "draft:https://www.skysports.com/football/news/12691/13574587/ollie-watkins-transfer-aston-villa-in-talks-with-saudi-club-al-hilal-over-england-striker",
-      "player": "Ollie Watkins",
-      "fromTeam": "Aston Villa",
-      "toTeam": "Al Hilal",
+      "id": "draft:bluesky:at://did:plc:j62szermx6ods7lp3xqyembx/app.bsky.feed.post/3mtgebnzl722f",
+      "player": "Carlos Baleba",
+      "fromTeam": "Brighton & Hove Albion. #MUFC offer for 22yo Cameroon midfielder ~£60+5m; below #BHAFC valuation but amicable talks ongoing as all parties work to reach agreement 🚨 @theathleticfc.bsky.social www.nytimes.com/athletic/724",
+      "toTeam": "🚨 EXCLUSIVE: Manchester United closing in on deal",
       "league": "미분류",
       "status": "루머",
       "fee": "미정",
-      "sourceKey": "sky-sports",
+      "sourceKey": "bluesky-ornstein",
       "sourceTier": "medium",
-      "sourceName": "Sky Sports",
-      "sourceUrl": "https://www.skysports.com/football/news/12691/13574587/ollie-watkins-transfer-aston-villa-in-talks-with-saudi-club-al-hilal-over-england-striker",
+      "sourceName": "David Ornstein Bluesky",
+      "sourceUrl": "https://bsky.app/profile/david-ornstein.bsky.social/post/3mtgebnzl722f",
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
-      "publishedAt": "2026-08-19 07:27",
-      "lastVerifiedAt": "2026-08-19 11:56",
+      "publishedAt": "2026-08-19 08:55",
+      "lastVerifiedAt": "2026-08-19 13:48",
       "extractionConfidence": "medium",
-      "extractionPattern": "player-transfer-talks",
-      "headlineTitle": "Ollie Watkins transfer: Aston Villa in talks with Saudi club Al Hilal over England striker"
+      "extractionPattern": "club-talks-to-sign-player",
+      "headlineTitle": "🚨 EXCLUSIVE: Manchester United closing in on deal to sign Carlos Baleba from Brighton & Hove Albion. #MUFC offer for 22yo Cameroon midfielder ~£60+5m; below #BHAFC valuation but amicable talks ongoing as all parties work to reach agreement 🚨 @theathleticfc.bsky.social www.nytimes.com/athletic/724..."
+    },
+    {
+      "id": "draft:https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zWC12YUtFNHBGMjVwLTdlNHlaVHNPQjZfOFpvUjdmNTBhbWhieHBmdFZoaEtNZzh5a1JweWRSZDBsZUs4WFlEOXlUQktnVExJcVE?oc=5",
+      "player": "plenty of sense for Mamadou to get regular minutes this season A permanent sale sho",
+      "fromTeam": "him on loan according to Santi Aouna A loan move to Spain make",
+      "toTeam": "Al-Hilal are making a move for Mamadou Sarr with discussions ongoing, while Real Sociedad also",
+      "league": "미분류",
+      "status": "루머",
+      "fee": "미정",
+      "sourceKey": "instagram-indirect-monitor",
+      "sourceTier": "low",
+      "sourceName": "Instagram 간접 검색 모니터",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1zWC12YUtFNHBGMjVwLTdlNHlaVHNPQjZfOFpvUjdmNTBhbWhieHBmdFZoaEtNZzh5a1JweWRSZDBsZUs4WFlEOXlUQktnVExJcVE?oc=5",
+      "sourceType": "자동 추출 초안",
+      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
+      "publishedAt": "2026-08-19 09:55",
+      "lastVerifiedAt": "2026-08-19 13:48",
+      "extractionConfidence": "low",
+      "extractionPattern": "club-want-player",
+      "headlineTitle": "Al-Hilal are making a move for Mamadou Sarr with discussions ongoing, while Real Sociedad also want him on loan according to Santi Aouna A loan move to Spain makes plenty of sense for Mamadou to get regular minutes this season A permanent sale sho - instagram.com"
     }
   ]
 }
