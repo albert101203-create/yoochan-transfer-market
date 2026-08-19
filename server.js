@@ -475,6 +475,12 @@ function resolvePlayerName(item, player) {
   return match?.[1] || normalized;
 }
 
+function isUnknownTeamName(team = "") {
+  return ["", "미상", "미정", "unknown", "tbc", "tbd"].includes(
+    normalizeWhitespace(team).toLowerCase()
+  );
+}
+
 function inferLeague(team = "") {
   return TEAM_LEAGUES[team] || "미분류";
 }
@@ -495,6 +501,12 @@ function makeDraft(item, extracted) {
     extractedFromTeam === "미상"
       ? normalizeTeamName(PLAYER_CURRENT_TEAMS[player] || "미상")
       : extractedFromTeam;
+
+  // 양쪽 구단을 확인할 수 없는 기사는 기사 칸에만 두고,
+  // 잘못된 소속팀을 가진 이적 카드로 공개하지 않습니다.
+  if (isUnknownTeamName(fromTeam) || isUnknownTeamName(toTeam)) {
+    return null;
+  }
 
   if (!player || / and /i.test(player) || shouldSkipDraftTitle(player)) {
     return null;

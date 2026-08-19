@@ -190,6 +190,12 @@ async function downloadEntity(kind, name, assetMap, attributions) {
     return "cached";
   }
 
+  // 한 단어 선수명은 동명이인이 많아 위키 검색 결과가 엉뚱한 인물일 수 있습니다.
+  // 검증된 시드 사진이 없으면 사진을 만들지 않고 UI의 안전한 기본 이미지로 둡니다.
+  if (kind === "players" && normalize(name).split(/\s+/).length < 2) {
+    return "not-found";
+  }
+
   try {
     const summary = await fetchWikipediaSummary(name);
     if (!summary?.thumbnail?.source) return "not-found";
