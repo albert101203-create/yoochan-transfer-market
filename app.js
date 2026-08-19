@@ -257,13 +257,31 @@ const cardView = document.querySelector("#cardView");
 const articlesViewBtn = document.querySelector("#articlesViewBtn");
 const cardsViewBtn = document.querySelector("#cardsViewBtn");
 
+const PLAYER_DISPLAY_ALIASES = {
+  Kane: "Harry Kane",
+  Gozo: "Zavier Gozo",
+  David: "Promise David",
+  Parrott: "Troy Parrott",
+};
+
+const PLAYER_DISPLAY_CURRENT_TEAMS = {
+  "Harry Kane": "바이에른 뮌헨",
+  "Zavier Gozo": "Real Salt Lake",
+  "Promise David": "Royale Union Saint-Gilloise",
+  "Troy Parrott": "AZ Alkmaar",
+};
+
 function enrichTransfer(item) {
-  const playerAsset = assetMap.players[item.player || ""]?.src;
-  const fromClubAsset = assetMap.clubs[item.fromTeam || ""]?.src;
-  const toClubAsset = assetMap.clubs[item.toTeam || ""]?.src;
-  const player = item.player || "미상 선수";
-  const fromTeam = item.fromTeam || "미상";
+  const rawPlayer = item.player || "미상 선수";
+  const player = PLAYER_DISPLAY_ALIASES[rawPlayer] || rawPlayer;
+  const unknownFromTeam = !item.fromTeam || ["미상", "소속팀 확인 중"].includes(item.fromTeam);
+  const fromTeam = unknownFromTeam
+    ? PLAYER_DISPLAY_CURRENT_TEAMS[player] || item.fromTeam || "미상"
+    : item.fromTeam;
   const toTeam = item.toTeam || "미상";
+  const playerAsset = assetMap.players[player]?.src;
+  const fromClubAsset = assetMap.clubs[fromTeam]?.src;
+  const toClubAsset = assetMap.clubs[toTeam]?.src;
 
   return {
     ...item,
