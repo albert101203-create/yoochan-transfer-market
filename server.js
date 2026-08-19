@@ -1088,8 +1088,21 @@ const X_MONITORED_HANDLES = (process.env.X_MONITORED_HANDLES ||
 const X_TRANSFER_QUERY =
   process.env.X_TRANSFER_QUERY ||
   `(${X_MONITORED_HANDLES.map((handle) => `from:${handle}`).join(" OR ")}) (transfer OR "here we go" OR agreed OR agreement OR medical OR signed OR signing) -is:retweet`;
+const X_MONITOR_ENABLED = /^(1|true|yes)$/i.test(process.env.ENABLE_X_MONITOR || "");
 
 async function fetchXRecentPosts() {
+  if (!X_MONITOR_ENABLED) {
+    return {
+      items: [],
+      health: {
+        source: "X API direct monitor",
+        ok: true,
+        disabled: true,
+        count: 0,
+        error: "Disabled by default to avoid paid X API usage",
+      },
+    };
+  }
   // GitHub Secret에 토큰만 넣거나 `Bearer ...` 전체를 넣은 경우 모두 지원합니다.
   const token = (process.env.X_BEARER_TOKEN || "")
     .replace(/^Bearer\s+/i, "")
