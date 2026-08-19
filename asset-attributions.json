@@ -107,16 +107,34 @@
     "sourceImage": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/FC_Barcelona_%28crest%29.svg/1280px-FC_Barcelona_%28crest%29.svg.png",
     "note": "Seeded from the existing Wikimedia image reference; verify the image license before redistribution."
   },
-  "./assets/players/zubimendi-0a3b8287.jpg": {
-    "name": "Zubimendi",
-    "sourcePage": "https://en.wikipedia.org/wiki/Mart%C3%ADn_Zubimendi",
-    "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Martin_Zubimendi_Argentina_v_Spain_19_July_2026-012.jpg/330px-Martin_Zubimendi_Argentina_v_Spain_19_July_2026-012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "./assets/players/gozo-a00a43a5.jpg": {
+    "name": "Gozo",
+    "sourcePage": "https://en.wikipedia.org/wiki/Gozo",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Gozo_from_space_via_laser_ESA378503_%28cropped%29.jpg/330px-Gozo_from_space_via_laser_ESA378503_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
   },
-  "./assets/clubs/real-madrid-e81d2b13.jpg": {
-    "name": "Real Madrid",
-    "sourcePage": "https://en.wikipedia.org/wiki/Real_Madrid_CF",
-    "sourceImage": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Real_Madrid_CF.svg/330px-Real_Madrid_CF.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "./assets/players/david-d27937f9.jpg": {
+    "name": "David",
+    "sourcePage": "https://en.wikipedia.org/wiki/David",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/King_David%2C_the_King_of_Israel.jpg/330px-King_David%2C_the_King_of_Israel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
+  },
+  "./assets/players/ollie-watkins-2f1c4cf9.jpg": {
+    "name": "Ollie Watkins",
+    "sourcePage": "https://en.wikipedia.org/wiki/Ollie_Watkins",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Ollie_Watkins_England_v_Ghana_23_June_2026-035.jpg/330px-Ollie_Watkins_England_v_Ghana_23_June_2026-035.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
+  },
+  "./assets/players/kane-ba86ad26.jpg": {
+    "name": "Kane",
+    "sourcePage": "https://en.wikipedia.org/wiki/Kanu_(footballer%2C_born_1987)",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Kanu_%28RSCA%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
+  },
+  "./assets/clubs/england-707fe00a.jpg": {
+    "name": "England",
+    "sourcePage": "https://en.wikipedia.org/wiki/England",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/330px-Flag_of_England.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
   }
 }

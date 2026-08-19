@@ -81,6 +81,7 @@ const GENERIC_DRAFT_SKIP_PATTERNS = [
   /rumors and gossip/i,
   /goals and highlights/i,
   /paper talk/i,
+  /transfer news live/i,
   /scottish premiership news/i,
   /transfer market after/i,
   /makes bow/i,
@@ -119,6 +120,11 @@ const TEAM_ALIASES = {
   Spurs: "Tottenham",
   "Man Utd": "Manchester United",
   "Man City": "Manchester City",
+  Palace: "Crystal Palace",
+  Barça: "Barcelona",
+  Barca: "Barcelona",
+  Philly: "Philadelphia Union",
+  SKC: "Sporting Kansas City",
   Atletico: "Atletico Madrid",
   Atleti: "Atletico Madrid",
 };
@@ -431,7 +437,10 @@ function normalizeTeamName(team = "") {
 }
 
 function normalizePlayerName(player = "") {
-  return normalizeWhitespace(player).replace(/[.,;:]+$/g, "") || "미상 선수";
+  const cleaned = normalizeWhitespace(player)
+    .replace(/^.*\b(?:youth|prospect|winner|striker|forward|midfielder|defender|goalkeeper|keeper|winger)\s+/i, "")
+    .replace(/[.,;:]+$/g, "");
+  return cleaned || "미상 선수";
 }
 
 function inferLeague(team = "") {
@@ -540,6 +549,55 @@ function extractAutoDraft(item) {
     });
   }
 
+  // Common transfer headlines: "Newcastle in talks to sign Player from Club".
+  match = title.match(
+    /^(?<to>.+?)(?: in talks)? to sign (?<player>.+?) from (?<from>.+?)(?:\s+-\s+.*)?$/i
+  );
+
+  if (match?.groups) {
+    return makeDraft(item, {
+      player: match.groups.player,
+      fromTeam: match.groups.from,
+      toTeam: match.groups.to,
+      status: "루머",
+      extractionConfidence: "medium",
+      extractionPattern: "club-talks-to-sign-player",
+    });
+  }
+
+  // A player-specific update can still identify both sides when the headline
+  // says which club is negotiating with the player's current club.
+  match = title.match(
+    /^(?<player>.+?) transfer:\s*(?<from>.+?) in talks with (?:the )?(?:Saudi club )?(?<to>.+?) over /i
+  );
+
+  if (match?.groups) {
+    return makeDraft(item, {
+      player: match.groups.player,
+      fromTeam: match.groups.from,
+      toTeam: match.groups.to,
+      status: "루머",
+      extractionConfidence: "medium",
+      extractionPattern: "player-transfer-talks",
+    });
+  }
+
+  // "Club agree deal for Former Club's Player".
+  match = title.match(
+    /^(?<to>.+?) agree(?:s)?(?: a| an)? deal for (?<from>.+?)'?s (?<player>.+?)(?:\s+-\s+.*)?$/i
+  );
+
+  if (match?.groups) {
+    return makeDraft(item, {
+      player: match.groups.player,
+      fromTeam: match.groups.from,
+      toTeam: match.groups.to,
+      status: "완료",
+      extractionConfidence: "medium",
+      extractionPattern: "club-agrees-deal-for-player",
+    });
+  }
+
   match = title.match(
     /^(?<player>.+?): (?<to>.+?) sign .*? from (?<from>.+?)(?: on .*| worth .*|$)/i
   );
@@ -555,7 +613,7 @@ function extractAutoDraft(item) {
     });
   }
 
-  match = title.match(/^(?<player>.+?) seals .*? move to (?<to>.+)$/i);
+  match = title.match(/^(?<player>.+?)(?:,\s*\d+)?[,]?\s+seals(?: a)? move to (?<to>.+)$/i);
 
   if (match?.groups) {
     return makeDraft(item, {
@@ -568,7 +626,96 @@ function extractAutoDraft(item) {
     });
   }
 
-  match = title.match(/^(?<to>.+?) agree .*? deal for (?<from>.+?)'?s (?<player>.+)$/i);
+  match = title.match(/^(?<player>.+?) on brink of (?<to>.+?) move$/i);
+
+  if (match?.groups) {
+    return makeDraft(item, {
+      player: match.groups.player,
+      fromTeam: "미상",
+      toTeam: match.groups.to,
+      status: "루머",
+      extractionConfidence: "medium",
+      extractionPattern: "player-on-brink-of-move",
+    });
+  }
+
+  // "Club sign Player from Former Club" and its short-form variants.
+  match = title.match(
+    /^(?<to>.+?) sign(?:s|ed)? .*?(?<player>[A-Z][\p{L}'’.-]+(?:\s+[A-Z][\p{L}'’.-]+)?) from (?<from>.+?)(?:\s+-\s+.*)?$/iu
+  );
+
+  if (match?.groups) {
+    return makeDraft(item, {
+      player: match.groups.player,
+      fromTeam: match.groups.from,
+      toTeam: match.groups.to,
+      status: "완료",
+      extractionConfidence: "high",
+      extractionPattern: "club-signs-player-from",
+    });
+  }
+
+  match = title.match(
+    /^(?<to>.+?) sign(?:s|ed)? .*?(?<player>[A-Z][\p{L}'’.-]+(?:\s+[A-Z][\p{L}'’.-]+)?)\s+(?:on loan|for record\b.*)$/iu
+  );
+
+  if (match?.groups) {
+    return makeDraft(item, {
+      player: match.groups.player,
+      fromTeam: "미상",
+      toTeam: match.groups.to,
+      status: "완료",
+      extractionConfidence: "medium",
+      extractionPattern: "club-signs-player",
+    });
+  }
+
+  match = title.match(
+    /^(?<to>.+?) sign(?:s|ed)? .*?prospect (?<player>.+?)(?:\s+-\s+.*)?$/i
+  );
+
+  if (match?.groups) {
+    return makeDraft(item, {
+      player: match.groups.player,
+      fromTeam: "미상",
+      toTeam: match.groups.to,
+      status: "완료",
+      extractionConfidence: "medium",
+      extractionPattern: "club-signs-prospect",
+    });
+  }
+
+  match = title.match(
+    /^(?<to>.+?) steal (?<player>.+?) away from (?<from>.+?)(?:\s+and\s+.*)?$/i
+  );
+
+  if (match?.groups) {
+    return makeDraft(item, {
+      player: match.groups.player,
+      fromTeam: match.groups.from,
+      toTeam: match.groups.to,
+      status: "루머",
+      extractionConfidence: "medium",
+      extractionPattern: "club-steals-player",
+    });
+  }
+
+  match = title.match(
+    /^(?:Source:\s*)?(?:[^:]+?'s )?(?<player>.+?) set to rejoin (?<to>.+)$/i
+  );
+
+  if (match?.groups) {
+    return makeDraft(item, {
+      player: match.groups.player,
+      fromTeam: "미상",
+      toTeam: match.groups.to,
+      status: "루머",
+      extractionConfidence: "low",
+      extractionPattern: "player-set-to-rejoin-club",
+    });
+  }
+
+  match = title.match(/^(?<to>.+?) agree(?:s)?(?: .*?)? deal for (?<from>.+?)'?s (?<player>.+)$/i);
 
   if (match?.groups) {
     return makeDraft(item, {
@@ -654,6 +801,34 @@ function extractAutoDraft(item) {
       status: "루머",
       extractionConfidence: "low",
       extractionPattern: "club-eye-player",
+    });
+  }
+
+  match = title.match(
+    /^(?:transfer rumors?, news:\s*)?(?<to>.+?) eye .*?move for (?<player>.+?)(?:\s+-\s+.*)?$/i
+  );
+
+  if (match?.groups) {
+    return makeDraft(item, {
+      player: match.groups.player,
+      fromTeam: "미상",
+      toTeam: match.groups.to,
+      status: "루머",
+      extractionConfidence: "low",
+      extractionPattern: "club-eye-move-for-player",
+    });
+  }
+
+  match = title.match(/^(?<to>.+?) target (?<from>.+?)'?s (?<player>.+?)(?:\s+-\s+.*|$)/i);
+
+  if (match?.groups) {
+    return makeDraft(item, {
+      player: match.groups.player,
+      fromTeam: match.groups.from,
+      toTeam: match.groups.to,
+      status: "루머",
+      extractionConfidence: "low",
+      extractionPattern: "club-targets-player",
     });
   }
 
