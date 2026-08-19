@@ -152,6 +152,9 @@ const SOURCE_TIERS = {
   "fabrizio-romano": "high",
   "david-ornstein": "high",
   "x-direct-monitor": "high",
+  "bluesky-fabrizio": "medium",
+  "bluesky-ornstein": "medium",
+  "instagram-indirect-monitor": "low",
   "bbc-sport": "medium",
   "sky-sports": "medium",
   "the-athletic": "medium",
@@ -291,6 +294,38 @@ const LIVE_FEED_SOURCES = [
     "Santi Aouna transfer",
     "santi-aouna-monitor",
     "Santi Aouna monitor"
+  ),
+  // Instagram has no unrestricted public feed API for arbitrary reporters.
+  // These Google News queries catch public Instagram posts that search engines index.
+  googleNewsTransferFeed(
+    "Fabrizio Romano Instagram mentions",
+    "site:instagram.com/fabriziorom (transfer OR \"here we go\")",
+    "instagram-indirect-monitor",
+    "Instagram 간접 검색 모니터"
+  ),
+  googleNewsTransferFeed(
+    "Florian Plettenberg Instagram mentions",
+    "site:instagram.com/plettigoal transfer",
+    "instagram-indirect-monitor",
+    "Instagram 간접 검색 모니터"
+  ),
+  googleNewsTransferFeed(
+    "David Ornstein Instagram mentions",
+    "site:instagram.com \"David Ornstein\" transfer",
+    "instagram-indirect-monitor",
+    "Instagram 간접 검색 모니터"
+  ),
+  googleNewsTransferFeed(
+    "Matteo Moretto Instagram mentions",
+    "site:instagram.com \"Matteo Moretto\" transfer",
+    "instagram-indirect-monitor",
+    "Instagram 간접 검색 모니터"
+  ),
+  googleNewsTransferFeed(
+    "Santi Aouna Instagram mentions",
+    "site:instagram.com \"Santi Aouna\" transfer",
+    "instagram-indirect-monitor",
+    "Instagram 간접 검색 모니터"
   ),
   googleNewsTransferFeed(
     "Arsenal official-site monitor",
@@ -1013,6 +1048,70 @@ async function fetchXRecentPosts() {
   };
 }
 
+const BLUESKY_MONITORED_AUTHORS = [
+  {
+    actor: "fabrizioroman.bsky.social",
+    source: "Bluesky @fabrizioroman",
+    sourceKey: "bluesky-fabrizio",
+    sourceName: "Fabrizio Romano Bluesky",
+  },
+  {
+    actor: "david-ornstein.bsky.social",
+    source: "Bluesky @david-ornstein",
+    sourceKey: "bluesky-ornstein",
+    sourceName: "David Ornstein Bluesky",
+  },
+];
+
+async function fetchBlueskyAuthorFeed(author) {
+  const params = new URLSearchParams({
+    actor: author.actor,
+    limit: "100",
+    filter: "posts_no_replies",
+  });
+  const response = await fetch(
+    `https://public.api.bsky.app/xrpc/app.bsky.feed.getAuthorFeed?${params}`,
+    { headers: { "user-agent": "yoochan-transfer-market/1.0" } },
+  );
+
+  if (!response.ok) {
+    throw new Error(`Bluesky ${author.actor} -> HTTP ${response.status}: ${await response.text()}`);
+  }
+
+  const payload = await response.json();
+  const items = (payload.feed || [])
+    .map((entry) => {
+      const post = entry.post || {};
+      const record = post.record || {};
+      const text = normalizeWhitespace(record.text || "");
+      const uriParts = String(post.uri || "").split("/");
+      const rkey = uriParts[uriParts.length - 1];
+      const handle = post.author?.handle || author.actor;
+
+      return {
+        id: `bluesky:${post.uri || `${handle}:${record.createdAt || text}`}`,
+        title: text,
+        url: rkey ? `https://bsky.app/profile/${handle}/post/${rkey}` : `https://bsky.app/profile/${handle}`,
+        publishedAt: record.createdAt || post.indexedAt || null,
+        summary: `Bluesky @${handle} 공개 게시물`,
+        sourceKey: author.sourceKey,
+        sourceName: author.sourceName,
+        status: detectHeadlineStatus(text),
+      };
+    })
+    .filter((item) => item.title && item.url && isTransferHeadline(`${item.title} ${item.summary}`));
+
+  return {
+    items,
+    health: {
+      source: author.source,
+      ok: true,
+      count: items.length,
+      mode: "public-author-feed",
+    },
+  };
+}
+
 function parseBbcFeed(xml) {
   const items = [...xml.matchAll(/<item>([\s\S]*?)<\/item>/gi)].map((match) => match[1]);
 
@@ -1158,6 +1257,23 @@ async function buildLivePayload() {
       error: String(error),
     });
   }
+
+  const blueskyResults = await Promise.allSettled(
+    BLUESKY_MONITORED_AUTHORS.map((author) => fetchBlueskyAuthorFeed(author)),
+  );
+  blueskyResults.forEach((result, index) => {
+    const author = BLUESKY_MONITORED_AUTHORS[index];
+    if (result.status === "fulfilled") {
+      items.push(...result.value.items);
+      sourceHealth.push(result.value.health);
+      return;
+    }
+    sourceHealth.push({
+      source: author.source,
+      ok: false,
+      error: String(result.reason),
+    });
+  });
 
   const normalized = dedupeItems(items).sort(compareByDateDesc).slice(0, 40);
 
