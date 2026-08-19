@@ -10,6 +10,7 @@ const CACHE_DIR = path.join(BASE_DIR, "cache");
 const LIVE_CACHE_FILE = path.join(CACHE_DIR, "live-headlines.json");
 const DRAFT_CACHE_FILE = path.join(CACHE_DIR, "auto-drafts.json");
 const PROMOTED_CACHE_FILE = path.join(CACHE_DIR, "promoted-candidates.json");
+const DRAFT_ARCHIVE_LIMIT = 200;
 
 const MIME_TYPES = {
   ".html": "text/html; charset=utf-8",
@@ -1285,15 +1286,20 @@ async function buildLivePayload() {
   };
 }
 
-function buildDraftPayload(livePayload) {
-  const drafts = dedupeDrafts(livePayload.items.map(extractAutoDraft).filter(Boolean))
+function buildDraftPayload(livePayload, previousPayload = draftCache) {
+  const freshDrafts = livePayload.items.map(extractAutoDraft).filter(Boolean);
+  const previousDrafts = Array.isArray(previousPayload?.drafts)
+    ? previousPayload.drafts
+    : [];
+  const drafts = dedupeDrafts([...freshDrafts, ...previousDrafts])
     .sort(compareDraftPriority)
-    .slice(0, 30);
+    .slice(0, DRAFT_ARCHIVE_LIMIT);
 
   return {
     generatedAt: new Date().toISOString(),
     basedOnFetchedAt: livePayload.fetchedAt,
     itemCount: drafts.length,
+    archiveLimit: DRAFT_ARCHIVE_LIMIT,
     drafts,
   };
 }
@@ -1329,7 +1335,7 @@ async function refreshAllData(reason = "background") {
     };
     writeJsonCache(LIVE_CACHE_FILE, livePayload);
 
-    const draftPayload = buildDraftPayload(livePayload);
+    const draftPayload = buildDraftPayload(livePayload, draftCache);
     draftCache = draftPayload;
     writeJsonCache(DRAFT_CACHE_FILE, draftPayload);
 
@@ -1375,7 +1381,7 @@ async function getLivePayload(force = false) {
 async function getDraftPayload(force = false) {
   await getLivePayload(force);
   if (!force && draftCache) return draftCache;
-  const payload = buildDraftPayload(liveCache.payload);
+  const payload = buildDraftPayload(liveCache.payload, draftCache);
   draftCache = payload;
   writeJsonCache(DRAFT_CACHE_FILE, payload);
   return payload;
