@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-19T13:48:33.787Z",
-  "basedOnGeneratedAt": "2026-08-19T13:48:33.787Z",
-  "itemCount": 3,
+  "generatedAt": "2026-08-19T14:01:52.702Z",
+  "basedOnGeneratedAt": "2026-08-19T14:01:52.702Z",
+  "itemCount": 4,
   "items": [
     {
       "id": "draft:https://www.bbc.co.uk/sport/football/articles/ckgd5732mexo?at_medium=RSS&at_campaign=rss",
@@ -18,10 +18,30 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-08-19 11:10",
-      "lastVerifiedAt": "2026-08-19 13:48",
+      "lastVerifiedAt": "2026-08-19 14:01",
       "extractionConfidence": "high",
       "extractionPattern": "club-signs-player-from",
       "headlineTitle": "Leeds sign Elvedi from Borussia Monchengladbach"
+    },
+    {
+      "id": "draft:https://www.skysports.com/football/news/11670/13574724/ezri-konsa-transfer-news-arsenal-agree-deal-with-aston-villa-to-sign-england-defender",
+      "player": "Ezri Konsa transfer news",
+      "fromTeam": "Aston Villa",
+      "toTeam": "Arsenal",
+      "league": "프리미어리그",
+      "status": "완료",
+      "fee": "미정",
+      "sourceKey": "sky-sports",
+      "sourceTier": "medium",
+      "sourceName": "Sky Sports",
+      "sourceUrl": "https://www.skysports.com/football/news/11670/13574724/ezri-konsa-transfer-news-arsenal-agree-deal-with-aston-villa-to-sign-england-defender",
+      "sourceType": "자동 추출 초안",
+      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
+      "publishedAt": "2026-08-19 10:36",
+      "lastVerifiedAt": "2026-08-19 14:01",
+      "extractionConfidence": "high",
+      "extractionPattern": "player-colon-agree-deal",
+      "headlineTitle": "Ezri Konsa transfer news: Arsenal agree deal with Aston Villa to sign England defender"
     },
     {
       "id": "draft:https://news.google.com/rss/articles/CBMimgFBVV95cUxQN3E3QzVIal93R3RMUW4zbldTbWc5aGZicVZUbVhnb0ZzcEJ4Mm95MVJZTVhFdzR4V0w0clcwWUFfV1Bxek00QjV6UXZJYjJmbHZlNHF0SE1ObDdmblY0YXZGN19WdkR1YW5yLXB5azczQ241b1B5OUlfVEs4R0lNbmxPM01abFBmYW8wQlpld05VbEF5YUNUVGJB?oc=5",
@@ -38,7 +58,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-08-19 09:27",
-      "lastVerifiedAt": "2026-08-19 13:48",
+      "lastVerifiedAt": "2026-08-19 14:01",
       "extractionConfidence": "medium",
       "extractionPattern": "club-talks-to-sign-player",
       "headlineTitle": "Newcastle in talks to sign Nico Gonzalez from Manchester City - The Athletic - The New York Times"
