@@ -179,6 +179,8 @@ const SOURCE_TIERS = {
   "official-man-utd-monitor": "high",
   "official-chelsea-monitor": "high",
   "official-liverpool-monitor": "high",
+  "official-tottenham-monitor": "high",
+  "tottenham-reporters-monitor": "medium",
   "club-beat-reporter": "medium",
   "aggregator-account": "low",
   "fan-rumor-account": "low",
@@ -375,6 +377,18 @@ const LIVE_FEED_SOURCES = [
     "site:liverpoolfc.com/news transfer",
     "official-liverpool-monitor",
     "Liverpool official-site monitor"
+  ),
+  googleNewsTransferFeed(
+    "Tottenham official-site monitor",
+    "site:tottenhamhotspur.com/news (transfer OR signing OR deal OR contract)",
+    "official-tottenham-monitor",
+    "Tottenham official-site monitor"
+  ),
+  googleNewsTransferFeed(
+    "Tottenham reporters Google News",
+    '("Alasdair Gold" OR "Dan Kilpatrick" OR "Rob Guest" OR "Jay Harris" OR "Elias Burke") (Tottenham OR Spurs) (transfer OR signing OR deal OR agreed)',
+    "tottenham-reporters-monitor",
+    "Tottenham reporters monitor"
   ),
 ];
 
@@ -1065,7 +1079,7 @@ async function fetchText(url) {
 }
 
 const X_MONITORED_HANDLES = (process.env.X_MONITORED_HANDLES ||
-  "FabrizioRomano,David_Ornstein,Plettigoal,MatteoMoretto,Santi_J_FM")
+  "FabrizioRomano,David_Ornstein,Plettigoal,MatteoMoretto,Santi_J_FM,AlasdairGold,Dan_KP,RobGuesty,jaydmharris,EliasBurke")
   .split(",")
   .map((handle) => handle.trim().replace(/^@/, ""))
   .filter(Boolean);

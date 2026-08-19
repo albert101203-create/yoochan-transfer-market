@@ -257,6 +257,22 @@ window.sourceRegistry = {
       type: "구단 공식 사이트 모니터",
       note: "Liverpool 공식 뉴스 발표를 확인하기 위한 모니터입니다.",
     },
+    "official-tottenham-monitor": {
+      name: "Tottenham official-site monitor",
+      url: "https://www.tottenhamhotspur.com/news/",
+      tier: "high",
+      reliabilityLabel: "?믪쓬",
+      type: "Official club site monitor",
+      note: "Tottenham official announcements are treated as the primary confirmation source.",
+    },
+    "tottenham-reporters-monitor": {
+      name: "Tottenham reporters monitor",
+      url: "https://news.google.com/search?q=Tottenham%20Alasdair%20Gold%20Dan%20Kilpatrick%20transfer",
+      tier: "medium",
+      reliabilityLabel: "蹂댄넻",
+      type: "Named reporter search monitor",
+      note: "X direct monitor: @AlasdairGold, @Dan_KP, @RobGuesty, @jaydmharris, @EliasBurke. Confirm major claims with the original article or club announcement.",
+    },
     "bluesky-fabrizio": {
       name: "Fabrizio Romano Bluesky",
       url: "https://bsky.app/profile/fabrizioroman.bsky.social",
