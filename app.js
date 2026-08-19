@@ -17,7 +17,7 @@ function getInitials(label = "", limit = 2) {
   return String(label)
     .split(/\s+/)
     .filter(Boolean)
-    .map((part) => part[0])
+    .map((part) => Array.from(part)[0] || "")
     .join("")
     .slice(0, limit)
     .toUpperCase();
