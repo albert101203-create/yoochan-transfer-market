@@ -89,12 +89,6 @@
     "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Viktor_Gy%C3%B6keres_2026-06-04_1_%28cropped%29.jpg/330px-Viktor_Gy%C3%B6keres_2026-06-04_1_%28cropped%29.jpg",
     "note": "Seeded from the existing Wikimedia image reference; verify the image license before redistribution."
   },
-  "./assets/clubs/city-4271627f.jpg": {
-    "name": "City",
-    "sourcePage": "https://en.wikipedia.org/wiki/City",
-    "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Tokyo_Shibuya_Scramble_Crossing_2018-10-09.jpg/330px-Tokyo_Shibuya_Scramble_Crossing_2018-10-09.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
-  },
   "./assets/clubs/arsenal-a5017f4d.png": {
     "name": "Arsenal",
     "sourcePage": "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/1280px-Arsenal_FC.svg.png",
@@ -107,46 +101,70 @@
     "sourceImage": "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/FC_Barcelona_%28crest%29.svg/1280px-FC_Barcelona_%28crest%29.svg.png",
     "note": "Seeded from the existing Wikimedia image reference; verify the image license before redistribution."
   },
-  "./assets/players/gozo-a00a43a5.jpg": {
-    "name": "Gozo",
-    "sourcePage": "https://en.wikipedia.org/wiki/Gozo",
-    "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Gozo_from_space_via_laser_ESA378503_%28cropped%29.jpg/330px-Gozo_from_space_via_laser_ESA378503_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
-  },
-  "./assets/players/david-d27937f9.jpg": {
-    "name": "David",
-    "sourcePage": "https://en.wikipedia.org/wiki/David",
-    "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/King_David%2C_the_King_of_Israel.jpg/330px-King_David%2C_the_King_of_Israel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
-  },
   "./assets/players/ollie-watkins-2f1c4cf9.jpg": {
     "name": "Ollie Watkins",
     "sourcePage": "https://en.wikipedia.org/wiki/Ollie_Watkins",
     "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Ollie_Watkins_England_v_Ghana_23_June_2026-035.jpg/330px-Ollie_Watkins_England_v_Ghana_23_June_2026-035.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
   },
-  "./assets/players/kane-ba86ad26.jpg": {
-    "name": "Kane",
-    "sourcePage": "https://en.wikipedia.org/wiki/Kanu_(footballer%2C_born_1987)",
-    "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Kanu_%28RSCA%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
+  "./assets/players/promise-david-93dc3699.jpg": {
+    "name": "Promise David",
+    "sourcePage": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Promise_David_Canada_v_Qatar_18_June_2026-018.jpg/330px-Promise_David_Canada_v_Qatar_18_June_2026-018.jpg",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Promise_David_Canada_v_Qatar_18_June_2026-018.jpg/330px-Promise_David_Canada_v_Qatar_18_June_2026-018.jpg",
+    "note": "Seeded from the existing Wikimedia image reference; verify the image license before redistribution."
   },
-  "./assets/clubs/england-707fe00a.jpg": {
-    "name": "England",
-    "sourcePage": "https://en.wikipedia.org/wiki/England",
-    "sourceImage": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/330px-Flag_of_England.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
+  "./assets/players/harry-kane-1b023979.jpg": {
+    "name": "Harry Kane",
+    "sourcePage": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Harry_Kane_England_v_Ghana_23_June_2026-219_%28cropped%29.jpg/330px-Harry_Kane_England_v_Ghana_23_June_2026-219_%28cropped%29.jpg",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Harry_Kane_England_v_Ghana_23_June_2026-219_%28cropped%29.jpg/330px-Harry_Kane_England_v_Ghana_23_June_2026-219_%28cropped%29.jpg",
+    "note": "Seeded from the existing Wikimedia image reference; verify the image license before redistribution."
   },
-  "./assets/players/parrott-420eb08e.jpg": {
-    "name": "Parrott",
-    "sourcePage": "https://en.wikipedia.org/wiki/Troy_Parrott",
-    "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Troy_Parrott_2025.png/330px-Troy_Parrott_2025.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
+  "./assets/clubs/crystal-palace-6ecb7ff5.png": {
+    "name": "Crystal Palace",
+    "sourcePage": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Crystal_Palace_FC_logo_%282022%29.svg/330px-Crystal_Palace_FC_logo_%282022%29.svg.png",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Crystal_Palace_FC_logo_%282022%29.svg/330px-Crystal_Palace_FC_logo_%282022%29.svg.png",
+    "note": "Seeded from the existing Wikimedia image reference; verify the image license before redistribution."
+  },
+  "./assets/clubs/brighton-72e81787.png": {
+    "name": "Brighton",
+    "sourcePage": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Brighton_and_Hove_Albion_FC_crest.svg/330px-Brighton_and_Hove_Albion_FC_crest.svg.png",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Brighton_and_Hove_Albion_FC_crest.svg/330px-Brighton_and_Hove_Albion_FC_crest.svg.png",
+    "note": "Seeded from the existing Wikimedia image reference; verify the image license before redistribution."
+  },
+  "./assets/clubs/al-hilal-b2f9cc15.png": {
+    "name": "Al Hilal",
+    "sourcePage": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Al_Hilal_SFC_Logo.svg/330px-Al_Hilal_SFC_Logo.svg.png",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Al_Hilal_SFC_Logo.svg/330px-Al_Hilal_SFC_Logo.svg.png",
+    "note": "Seeded from the existing Wikimedia image reference; verify the image license before redistribution."
   },
   "./assets/players/nico-gonzalez-86fe2b6b.jpg": {
     "name": "Nico Gonzalez",
     "sourcePage": "https://en.wikipedia.org/wiki/Nico_Gonz%C3%A1lez_(footballer%2C_born_2002)",
     "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Nico_Gonzalez_%28cropped%29.jpg/330px-Nico_Gonzalez_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
+  },
+  "./assets/clubs/manchester-city-c1b9627d.jpg": {
+    "name": "Manchester City",
+    "sourcePage": "https://en.wikipedia.org/wiki/Manchester_City_F.C.",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/330px-Manchester_City_FC_badge.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
+  },
+  "./assets/players/zavier-gozo-9e475485.png": {
+    "name": "Zavier Gozo",
+    "sourcePage": "https://r2.thesportsdb.com/images/media/player/cutout/9dsgkd1766758945.png",
+    "sourceImage": "https://r2.thesportsdb.com/images/media/player/cutout/9dsgkd1766758945.png",
+    "note": "Seeded from the existing Wikimedia image reference; verify the image license before redistribution."
+  },
+  "./assets/players/troy-parrott-5e9a8500.png": {
+    "name": "Troy Parrott",
+    "sourcePage": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Troy_Parrott_2025.png/330px-Troy_Parrott_2025.png",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Troy_Parrott_2025.png/330px-Troy_Parrott_2025.png",
+    "note": "Seeded from the existing Wikimedia image reference; verify the image license before redistribution."
+  },
+  "./assets/clubs/aston-villa-ecaefb50.png": {
+    "name": "Aston Villa",
+    "sourcePage": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Aston_Villa_FC_new_crest.svg/330px-Aston_Villa_FC_new_crest.svg.png",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Aston_Villa_FC_new_crest.svg/330px-Aston_Villa_FC_new_crest.svg.png",
+    "note": "Seeded from the existing Wikimedia image reference; verify the image license before redistribution."
   }
 }

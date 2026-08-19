@@ -125,8 +125,17 @@ const TEAM_ALIASES = {
   Barca: "Barcelona",
   Philly: "Philadelphia Union",
   SKC: "Sporting Kansas City",
+  "Al-Hilal": "Al Hilal",
+  "Brighton & Hove Albion": "Brighton",
   Atletico: "Atletico Madrid",
   Atleti: "Atletico Madrid",
+};
+
+const PLAYER_ALIASES = {
+  Gozo: "Zavier Gozo",
+  David: "Promise David",
+  Kane: "Harry Kane",
+  Parrott: "Troy Parrott",
 };
 
 const SOURCE_TIERS = {
@@ -443,6 +452,21 @@ function normalizePlayerName(player = "") {
   return cleaned || "미상 선수";
 }
 
+function resolvePlayerName(item, player) {
+  const normalized = normalizePlayerName(player);
+  if (!normalized || normalized.split(/\s+/).length > 1) return normalized;
+  if (PLAYER_ALIASES[normalized]) return PLAYER_ALIASES[normalized];
+
+  const escaped = normalized.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+  const candidatePattern = new RegExp(
+    `\\b([\\p{Lu}][\\p{L}'’.-]+(?:\\s+[\\p{Lu}][\\p{L}'’.-]+){0,2}\\s+${escaped})\\b`,
+    "u"
+  );
+  const context = `${item.summary || ""} ${item.title || ""}`;
+  const match = context.match(candidatePattern);
+  return match?.[1] || normalized;
+}
+
 function inferLeague(team = "") {
   return TEAM_LEAGUES[team] || "미분류";
 }
@@ -456,7 +480,7 @@ function getSourceTier(sourceKey = "") {
 }
 
 function makeDraft(item, extracted) {
-  const player = normalizePlayerName(extracted.player);
+  const player = resolvePlayerName(item, extracted.player);
   const toTeam = normalizeTeamName(extracted.toTeam);
   const fromTeam = normalizeTeamName(extracted.fromTeam || "미상");
 

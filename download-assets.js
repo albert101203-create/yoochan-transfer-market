@@ -10,6 +10,14 @@ const CLUB_DIR = path.join(BASE_DIR, "assets", "clubs");
 
 const SEEDED_ASSETS = {
   players: {
+    "Zavier Gozo":
+      "https://r2.thesportsdb.com/images/media/player/cutout/9dsgkd1766758945.png",
+    "Promise David":
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Promise_David_Canada_v_Qatar_18_June_2026-018.jpg/330px-Promise_David_Canada_v_Qatar_18_June_2026-018.jpg",
+    "Harry Kane":
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Harry_Kane_England_v_Ghana_23_June_2026-219_%28cropped%29.jpg/330px-Harry_Kane_England_v_Ghana_23_June_2026-219_%28cropped%29.jpg",
+    "Troy Parrott":
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Troy_Parrott_2025.png/330px-Troy_Parrott_2025.png",
     "Viktor Gyökeres":
       "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Viktor_Gy%C3%B6keres_2026-06-04_1_%28cropped%29.jpg/330px-Viktor_Gy%C3%B6keres_2026-06-04_1_%28cropped%29.jpg",
     "김민재":
@@ -22,6 +30,16 @@ const SEEDED_ASSETS = {
       "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Vitor-roque-palmeiras-internacional-sep2025.jpg/960px-Vitor-roque-palmeiras-internacional-sep2025.jpg",
   },
   clubs: {
+    "Crystal Palace":
+      "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Crystal_Palace_FC_logo_%282022%29.svg/330px-Crystal_Palace_FC_logo_%282022%29.svg.png",
+    Brighton:
+      "https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Brighton_and_Hove_Albion_FC_crest.svg/330px-Brighton_and_Hove_Albion_FC_crest.svg.png",
+    "Al Hilal":
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Al_Hilal_SFC_Logo.svg/330px-Al_Hilal_SFC_Logo.svg.png",
+    "Aston Villa":
+      "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Aston_Villa_FC_new_crest.svg/330px-Aston_Villa_FC_new_crest.svg.png",
+    "Manchester City":
+      "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/330px-Manchester_City_FC_badge.svg.png",
     Arsenal:
       "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/1280px-Arsenal_FC.svg.png",
     Barcelona:
@@ -204,7 +222,7 @@ async function downloadSeededAssets(assetMap, attributions) {
     const directory = kind === "players" ? PLAYER_DIR : CLUB_DIR;
     fs.mkdirSync(directory, { recursive: true });
     for (const [name, sourceImage] of Object.entries(entries)) {
-      const extension = sourceImage.includes(".svg") ? ".png" : ".jpg";
+      const extension = /\.(?:svg|png|webp)(?:\?|$)/i.test(sourceImage) ? ".png" : ".jpg";
       const fileName = `${slug(name)}${extension}`;
       const filePath = path.join(directory, fileName);
       if (!fs.existsSync(filePath) && (await downloadFile(sourceImage, filePath))) downloaded += 1;
