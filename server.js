@@ -939,7 +939,10 @@ function normalizeDraftRecord(draft) {
   const normalized = { ...draft };
   const title = normalizeWhitespace(normalized.headlineTitle || "");
 
-  if (/^Ezri Konsa transfer news:/i.test(title)) {
+  if (
+    /^Ezri Konsa transfer news:/i.test(title) ||
+    /agree .* to sign Ezri Konsa from Aston Villa/i.test(title)
+  ) {
     normalized.player = "Ezri Konsa";
     normalized.fromTeam = "Aston Villa";
     normalized.toTeam = "Arsenal";
@@ -980,6 +983,14 @@ function normalizeDraftRecord(draft) {
     Barça: "Barcelona",
     "Al-Hilal": "Al Hilal",
   }[normalized.toTeam] || normalized.toTeam;
+
+  if (
+    /^from\s/i.test(normalized.player) ||
+    /\b(agree|deal|sign|after|striker|transfer news)\b/i.test(normalized.fromTeam) ||
+    /\b(agree|deal|sign|after|striker|transfer news)\b/i.test(normalized.toTeam)
+  ) {
+    return null;
+  }
 
   if (DRAFT_CURRENT_TEAMS[normalized.player]) {
     normalized.fromTeam = DRAFT_CURRENT_TEAMS[normalized.player];
