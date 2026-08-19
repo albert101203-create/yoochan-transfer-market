@@ -918,6 +918,87 @@ function extractAutoDraft(item) {
   return null;
 }
 
+const DRAFT_PLAYER_ALIASES = {
+  Kane: "Harry Kane",
+  Gozo: "Zavier Gozo",
+  David: "Promise David",
+  Parrott: "Troy Parrott",
+  Zubimendi: "Martin Zubimendi",
+  "Colombian Jhon Lucumi": "Jhon Lucumí",
+  "Colombian Jhon Lucum": "Jhon Lucumí",
+};
+
+const DRAFT_CURRENT_TEAMS = {
+  "Harry Kane": "바이에른 뮌헨",
+  "Zavier Gozo": "Real Salt Lake",
+  "Promise David": "Royale Union Saint-Gilloise",
+  "Troy Parrott": "AZ Alkmaar",
+};
+
+function normalizeDraftRecord(draft) {
+  const normalized = { ...draft };
+  const title = normalizeWhitespace(normalized.headlineTitle || "");
+
+  if (/^Ezri Konsa transfer news:/i.test(title)) {
+    normalized.player = "Ezri Konsa";
+    normalized.fromTeam = "Aston Villa";
+    normalized.toTeam = "Arsenal";
+  } else if (/^Newcastle transfer news: Club agree deal to sign defender Amar Dedic from Benfica/i.test(title)) {
+    normalized.player = "Amar Dedic";
+    normalized.fromTeam = "Benfica";
+    normalized.toTeam = "Newcastle";
+  } else if (/^Ferran Torres:/i.test(title)) {
+    normalized.player = "Ferran Torres";
+    normalized.fromTeam = "Barcelona";
+    normalized.toTeam = "PSG";
+  } else if (
+    /^Colombian Jhon Lucum/i.test(title) ||
+    /^Colombian Jhon Lucum/i.test(normalized.player) ||
+    /Juventus After Four Seasons at Bologna/i.test(normalized.toTeam || "")
+  ) {
+    normalized.player = "Jhon Lucumí";
+    normalized.fromTeam = "Bologna";
+    normalized.toTeam = "Juventus";
+  } else if (/^🚨 EXCLUSIVE: Manchester United closing in on deal to sign Carlos Baleba from Brighton/i.test(title)) {
+    normalized.player = "Carlos Baleba";
+    normalized.fromTeam = "Brighton";
+    normalized.toTeam = "Manchester United";
+  } else if (/^Transfer rumors, news: Como want Chelsea's Delap to bolster attack/i.test(title)) {
+    normalized.player = "Liam Delap";
+    normalized.fromTeam = "Chelsea";
+    normalized.toTeam = "Como";
+  }
+
+  normalized.player = DRAFT_PLAYER_ALIASES[normalized.player] || normalized.player;
+  normalized.fromTeam = {
+    City: "Manchester City",
+    Barça: "Barcelona",
+    "Al-Hilal": "Al Hilal",
+  }[normalized.fromTeam] || normalized.fromTeam;
+  normalized.toTeam = {
+    City: "Manchester City",
+    Barça: "Barcelona",
+    "Al-Hilal": "Al Hilal",
+  }[normalized.toTeam] || normalized.toTeam;
+
+  if (DRAFT_CURRENT_TEAMS[normalized.player]) {
+    normalized.fromTeam = DRAFT_CURRENT_TEAMS[normalized.player];
+  }
+
+  if (
+    /^£\d+m Demands Emerge$/i.test(normalized.player) ||
+    /^- ESPN$/i.test(normalized.player) ||
+    /^Emenalo$/i.test(normalized.player) ||
+    /to bolster attack$/i.test(normalized.player) ||
+    /plenty of sense for Mamadou/i.test(normalized.player)
+  ) {
+    return null;
+  }
+
+  normalized.league = inferLeague(normalized.toTeam);
+  return normalized;
+}
+
 function dedupeDrafts(items) {
   const seen = new Set();
 
@@ -1287,9 +1368,13 @@ async function buildLivePayload() {
 }
 
 function buildDraftPayload(livePayload, previousPayload = draftCache) {
-  const freshDrafts = livePayload.items.map(extractAutoDraft).filter(Boolean);
+  const freshDrafts = livePayload.items
+    .map(extractAutoDraft)
+    .filter(Boolean)
+    .map(normalizeDraftRecord)
+    .filter(Boolean);
   const previousDrafts = Array.isArray(previousPayload?.drafts)
-    ? previousPayload.drafts
+    ? previousPayload.drafts.map(normalizeDraftRecord).filter(Boolean)
     : [];
   const drafts = dedupeDrafts([...freshDrafts, ...previousDrafts])
     .sort(compareDraftPriority)

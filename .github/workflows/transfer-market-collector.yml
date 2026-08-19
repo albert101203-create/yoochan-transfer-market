@@ -32,6 +32,9 @@ jobs:
           X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
         run: node cloud-collector.js
 
+      - name: Validate card names and images
+        run: node validate-assets.js
+
       - name: Commit updated cache
         run: |
           git config user.name "github-actions[bot]"

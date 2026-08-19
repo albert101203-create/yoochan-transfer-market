@@ -12,6 +12,10 @@ const SEEDED_ASSETS = {
   players: {
     "Zavier Gozo":
       "https://r2.thesportsdb.com/images/media/player/cutout/9dsgkd1766758945.png",
+    "Jhon Lucumí":
+      "https://r2.thesportsdb.com/images/media/player/thumb/r7hnhc1723963266.jpg",
+    "Liam Delap":
+      "https://r2.thesportsdb.com/images/media/player/thumb/ip9azu1642365788.jpg",
     "Promise David":
       "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Promise_David_Canada_v_Qatar_18_June_2026-018.jpg/330px-Promise_David_Canada_v_Qatar_18_June_2026-018.jpg",
     "Harry Kane":
@@ -46,6 +50,20 @@ const SEEDED_ASSETS = {
       "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/Royale_Union_Saint-Gilloise_logo.svg/330px-Royale_Union_Saint-Gilloise_logo.svg.png",
     "AZ Alkmaar":
       "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/AZ_Alkmaar.svg/330px-AZ_Alkmaar.svg.png",
+    PSG:
+      "https://r2.thesportsdb.com/images/media/team/badge/rwqrrq1473504808.png",
+    Paderborn:
+      "https://r2.thesportsdb.com/images/media/team/badge/kddvva1566048058.png",
+    Celtic:
+      "https://r2.thesportsdb.com/images/media/team/badge/3uv1641758780002.png",
+    Juventus:
+      "https://r2.thesportsdb.com/images/media/team/badge/uxf0gr1742983727.png",
+    "Manchester United":
+      "https://r2.thesportsdb.com/images/media/team/badge/xzqdr11517660252.png",
+    "Real Madrid":
+      "https://r2.thesportsdb.com/images/media/team/badge/vwvwrw1473502969.png",
+    Chelsea:
+      "https://r2.thesportsdb.com/images/media/team/badge/pbf4ul1782638263.png",
     Arsenal:
       "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/1280px-Arsenal_FC.svg.png",
     Barcelona:
