@@ -190,5 +190,11 @@
     "sourcePage": "https://en.wikipedia.org/wiki/Newcastle_United_F.C.",
     "sourceImage": "https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Newcastle_United_Logo.svg/330px-Newcastle_United_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
+  },
+  "./assets/clubs/royale-union-saint-gilloise-55ee4c26.png": {
+    "name": "Royale Union Saint-Gilloise",
+    "sourcePage": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/Royale_Union_Saint-Gilloise_logo.svg/330px-Royale_Union_Saint-Gilloise_logo.svg.png",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/Royale_Union_Saint-Gilloise_logo.svg/330px-Royale_Union_Saint-Gilloise_logo.svg.png",
+    "note": "Seeded from the existing Wikimedia image reference; verify the image license before redistribution."
   }
 }

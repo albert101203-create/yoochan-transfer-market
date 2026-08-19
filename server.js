@@ -476,7 +476,7 @@ function resolvePlayerName(item, player) {
 }
 
 function isUnknownTeamName(team = "") {
-  return ["", "미상", "미정", "unknown", "tbc", "tbd"].includes(
+  return ["", "미상", "미정", "소속팀 확인 중", "unknown", "tbc", "tbd"].includes(
     normalizeWhitespace(team).toLowerCase()
   );
 }
@@ -499,14 +499,12 @@ function makeDraft(item, extracted) {
   const extractedFromTeam = normalizeTeamName(extracted.fromTeam || "미상");
   const fromTeam =
     extractedFromTeam === "미상"
-      ? normalizeTeamName(PLAYER_CURRENT_TEAMS[player] || "미상")
+      ? normalizeTeamName(PLAYER_CURRENT_TEAMS[player] || "소속팀 확인 중")
       : extractedFromTeam;
-
-  // 양쪽 구단을 확인할 수 없는 기사는 기사 칸에만 두고,
-  // 잘못된 소속팀을 가진 이적 카드로 공개하지 않습니다.
-  if (isUnknownTeamName(fromTeam) || isUnknownTeamName(toTeam)) {
-    return null;
-  }
+  const unresolvedTeamNote =
+    isUnknownTeamName(fromTeam) || isUnknownTeamName(toTeam)
+      ? " 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다."
+      : "";
 
   if (!player || / and /i.test(player) || shouldSkipDraftTitle(player)) {
     return null;
@@ -525,9 +523,10 @@ function makeDraft(item, extracted) {
     sourceName: item.sourceName,
     sourceUrl: item.url,
     sourceType: "자동 추출 초안",
-    sourceReason:
+    sourceReason: `${
       extracted.note ||
-      "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
+      "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다."
+    }${unresolvedTeamNote}`,
     publishedAt: item.publishedAt ? formatStamp(new Date(item.publishedAt)) : "시간 미상",
     lastVerifiedAt: formatStamp(),
     extractionConfidence: extracted.extractionConfidence || "medium",
