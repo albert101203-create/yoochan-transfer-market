@@ -136,5 +136,11 @@
     "sourcePage": "https://en.wikipedia.org/wiki/England",
     "sourceImage": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/330px-Flag_of_England.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
+  },
+  "./assets/players/parrott-420eb08e.jpg": {
+    "name": "Parrott",
+    "sourcePage": "https://en.wikipedia.org/wiki/Troy_Parrott",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Troy_Parrott_2025.png/330px-Troy_Parrott_2025.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
   }
 }
