@@ -900,7 +900,10 @@ const X_TRANSFER_QUERY =
   `(${X_MONITORED_HANDLES.map((handle) => `from:${handle}`).join(" OR ")}) (transfer OR "here we go" OR agreed OR agreement OR medical OR signed OR signing) -is:retweet`;
 
 async function fetchXRecentPosts() {
-  const token = process.env.X_BEARER_TOKEN;
+  // GitHub Secret에 토큰만 넣거나 `Bearer ...` 전체를 넣은 경우 모두 지원합니다.
+  const token = (process.env.X_BEARER_TOKEN || "")
+    .replace(/^Bearer\s+/i, "")
+    .trim();
   if (!token) {
     return {
       items: [],
