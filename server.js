@@ -127,6 +127,7 @@ const TEAM_ALIASES = {
   SKC: "Sporting Kansas City",
   "Al-Hilal": "Al Hilal",
   "Brighton & Hove Albion": "Brighton",
+  "Bayern Munich": "바이에른 뮌헨",
   Atletico: "Atletico Madrid",
   Atleti: "Atletico Madrid",
 };
@@ -136,6 +137,13 @@ const PLAYER_ALIASES = {
   David: "Promise David",
   Kane: "Harry Kane",
   Parrott: "Troy Parrott",
+};
+
+const PLAYER_CURRENT_TEAMS = {
+  "Harry Kane": "Bayern Munich",
+  "Zavier Gozo": "Real Salt Lake",
+  "Promise David": "Royale Union Saint-Gilloise",
+  "Troy Parrott": "AZ Alkmaar",
 };
 
 const SOURCE_TIERS = {
@@ -482,7 +490,11 @@ function getSourceTier(sourceKey = "") {
 function makeDraft(item, extracted) {
   const player = resolvePlayerName(item, extracted.player);
   const toTeam = normalizeTeamName(extracted.toTeam);
-  const fromTeam = normalizeTeamName(extracted.fromTeam || "미상");
+  const extractedFromTeam = normalizeTeamName(extracted.fromTeam || "미상");
+  const fromTeam =
+    extractedFromTeam === "미상"
+      ? normalizeTeamName(PLAYER_CURRENT_TEAMS[player] || "미상")
+      : extractedFromTeam;
 
   if (!player || / and /i.test(player) || shouldSkipDraftTitle(player)) {
     return null;
