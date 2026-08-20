@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-19T16:28:18.308Z",
-  "basedOnFetchedAt": "2026-08-19T16:28:18.293Z",
-  "itemCount": 23,
+  "generatedAt": "2026-08-20T11:59:38.389Z",
+  "basedOnFetchedAt": "2026-08-20T11:59:38.371Z",
+  "itemCount": 24,
   "archiveLimit": 200,
   "drafts": [
     {
@@ -19,7 +19,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-08-19 13:50",
-      "lastVerifiedAt": "2026-08-19 16:28",
+      "lastVerifiedAt": "2026-08-20 11:59",
       "extractionConfidence": "high",
       "extractionPattern": "player-colon-agree-deal",
       "headlineTitle": "Ezri Konsa transfer news: Arsenal agree deal with Aston Villa to sign England defender"
@@ -103,6 +103,26 @@
       "extractionConfidence": "high",
       "extractionPattern": "player-club-signs-from",
       "headlineTitle": "Mika Baur: Celtic sign Germany U21 midfielder from Paderborn on initial four-year deal"
+    },
+    {
+      "id": "draft:https://www.bbc.co.uk/sport/football/articles/clye43vge5jo?at_medium=RSS&at_campaign=rss",
+      "player": "Curtis Jones",
+      "fromTeam": "Liverpool",
+      "toTeam": "Inter",
+      "league": "미분류",
+      "status": "완료",
+      "fee": "£30M",
+      "sourceKey": "bbc-sport",
+      "sourceTier": "medium",
+      "sourceName": "BBC Sport",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/clye43vge5jo?at_medium=RSS&at_campaign=rss",
+      "sourceType": "자동 추출 초안",
+      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
+      "publishedAt": "2026-08-20 07:57",
+      "lastVerifiedAt": "2026-08-20 11:59",
+      "extractionConfidence": "medium",
+      "extractionPattern": "club-agree-deal-for-player",
+      "headlineTitle": "Inter agree £30m deal for Liverpool's Jones"
     },
     {
       "id": "draft:49651825",
@@ -239,7 +259,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-08-19 15:16",
-      "lastVerifiedAt": "2026-08-19 16:28",
+      "lastVerifiedAt": "2026-08-20 11:59",
       "extractionConfidence": "medium",
       "extractionPattern": "club-talks-to-sign-player",
       "headlineTitle": "Arsenal agree £51m deal to sign Ezri Konsa from Aston Villa"

@@ -334,5 +334,23 @@
     "sourcePage": "https://en.wikipedia.org/wiki/From_the_Village_to_the_City",
     "sourceImage": "https://upload.wikimedia.org/wikipedia/en/f/f8/From_the_Village_to_the_City.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
     "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
+  },
+  "./assets/players/curtis-jones-e8afc6bc.jpg": {
+    "name": "Curtis Jones",
+    "sourcePage": "https://en.wikipedia.org/wiki/Curtis_Jones_(footballer%2C_born_2001)",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Curtis_Jones_in_2022.jpg/330px-Curtis_Jones_in_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
+  },
+  "./assets/clubs/liverpool-a7e67f80.jpg": {
+    "name": "Liverpool",
+    "sourcePage": "https://en.wikipedia.org/wiki/Liverpool",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Pier_Head%2C_Liverpool_-_geograph.org.uk_-_3059094.jpg/330px-Pier_Head%2C_Liverpool_-_geograph.org.uk_-_3059094.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
+  },
+  "./assets/clubs/inter-de578269.jpg": {
+    "name": "Inter",
+    "sourcePage": "https://en.wikipedia.org/wiki/Internet",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Internet_map_1024_-_transparent%2C_inverted.png/330px-Internet_map_1024_-_transparent%2C_inverted.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
   }
 }
