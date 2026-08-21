@@ -20,6 +20,8 @@ const SEEDED_ASSETS = {
       "https://upload.wikimedia.org/wikipedia/commons/3/3d/Allan-palmeiras-sport-ago-25-4.jpg",
     Savinho:
       "https://upload.wikimedia.org/wikipedia/commons/a/a0/Manchester_City_2025_06_26_Juventus_%28cropped%29.jpg",
+    "Mika Baur":
+      "https://assets.bundesliga.com/player/dfl-obj-j01ea5-dfl-clu-00000l-dfl-sea-0001k9.png",
     "Promise David":
       "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Promise_David_Canada_v_Qatar_18_June_2026-018.jpg/330px-Promise_David_Canada_v_Qatar_18_June_2026-018.jpg",
     "Harry Kane":
@@ -48,8 +50,16 @@ const SEEDED_ASSETS = {
       "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Aston_Villa_FC_new_crest.svg/330px-Aston_Villa_FC_new_crest.svg.png",
     "Manchester City":
       "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/330px-Manchester_City_FC_badge.svg.png",
+    Tottenham:
+      "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Tottenham_Hotspur.svg/960px-Tottenham_Hotspur.svg.png",
     "Real Salt Lake":
       "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Real_Salt_Lake_2010.svg/330px-Real_Salt_Lake_2010.svg.png",
+    Leeds:
+      "https://a.espncdn.com/i/teamlogos/soccer/500/357.png",
+    Bologna:
+      "https://a.espncdn.com/i/teamlogos/soccer/500/107.png",
+    Como:
+      "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png",
     "Royale Union Saint-Gilloise":
       "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/Royale_Union_Saint-Gilloise_logo.svg/330px-Royale_Union_Saint-Gilloise_logo.svg.png",
     "AZ Alkmaar":
