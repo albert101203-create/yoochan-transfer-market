@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-20T14:10:27.511Z",
-  "basedOnFetchedAt": "2026-08-20T14:10:27.496Z",
+  "generatedAt": "2026-08-21T07:09:41.479Z",
+  "basedOnFetchedAt": "2026-08-21T07:09:41.471Z",
   "itemCount": 24,
   "archiveLimit": 200,
   "drafts": [
@@ -18,8 +18,8 @@
       "sourceUrl": "https://www.skysports.com/football/news/11670/13574724/ezri-konsa-transfer-news-arsenal-agree-deal-with-aston-villa-to-sign-england-defender",
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
-      "publishedAt": "2026-08-19 13:50",
-      "lastVerifiedAt": "2026-08-20 11:59",
+      "publishedAt": "2026-08-19 22:50",
+      "lastVerifiedAt": "2026-08-20 01:27",
       "extractionConfidence": "high",
       "extractionPattern": "player-colon-agree-deal",
       "headlineTitle": "Ezri Konsa transfer news: Arsenal agree deal with Aston Villa to sign England defender"
@@ -38,8 +38,8 @@
       "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/ckgd5732mexo?at_medium=RSS&at_campaign=rss",
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
-      "publishedAt": "2026-08-19 11:10",
-      "lastVerifiedAt": "2026-08-19 16:28",
+      "publishedAt": "2026-08-19 20:10",
+      "lastVerifiedAt": "2026-08-20 01:27",
       "extractionConfidence": "high",
       "extractionPattern": "club-signs-player-from",
       "headlineTitle": "Leeds sign Elvedi from Borussia Monchengladbach"
@@ -103,26 +103,6 @@
       "extractionConfidence": "high",
       "extractionPattern": "player-club-signs-from",
       "headlineTitle": "Mika Baur: Celtic sign Germany U21 midfielder from Paderborn on initial four-year deal"
-    },
-    {
-      "id": "draft:https://www.bbc.co.uk/sport/football/articles/clye43vge5jo?at_medium=RSS&at_campaign=rss",
-      "player": "Curtis Jones",
-      "fromTeam": "Liverpool",
-      "toTeam": "Inter",
-      "league": "미분류",
-      "status": "완료",
-      "fee": "£30M",
-      "sourceKey": "bbc-sport",
-      "sourceTier": "medium",
-      "sourceName": "BBC Sport",
-      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/clye43vge5jo?at_medium=RSS&at_campaign=rss",
-      "sourceType": "자동 추출 초안",
-      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
-      "publishedAt": "2026-08-20 07:57",
-      "lastVerifiedAt": "2026-08-20 14:10",
-      "extractionConfidence": "medium",
-      "extractionPattern": "club-agree-deal-for-player",
-      "headlineTitle": "Inter agree £30m deal for Liverpool's Jones"
     },
     {
       "id": "draft:49651825",
@@ -258,8 +238,8 @@
       "sourceUrl": "https://www.theguardian.com/football/2026/aug/19/aston-villa-al-hilal-ollie-watkins",
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
-      "publishedAt": "2026-08-19 15:16",
-      "lastVerifiedAt": "2026-08-20 11:59",
+      "publishedAt": "2026-08-20 00:16",
+      "lastVerifiedAt": "2026-08-20 01:27",
       "extractionConfidence": "medium",
       "extractionPattern": "club-talks-to-sign-player",
       "headlineTitle": "Arsenal agree £51m deal to sign Ezri Konsa from Aston Villa"
@@ -483,6 +463,26 @@
       "extractionConfidence": "low",
       "extractionPattern": "club-eye-player",
       "headlineTitle": "Transfer rumors, news: Chelsea eye Arsenal's Zubimendi to replace Man City target Enzo Fernández"
+    },
+    {
+      "id": "draft:https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NXzZsdktPR001VGlHVGNjdWVjZ045WXZOOC1TZG5zakdxQUJVVS1MXy1UcXh2dTdSQjNydFpOSXUxYm1lTGhHelhiZFN4SnR0NlE?oc=5",
+      "player": "Allan Elias",
+      "fromTeam": "Palmeiras",
+      "toTeam": "Manchester City",
+      "league": "프리미어리그",
+      "status": "루머",
+      "fee": "미정",
+      "sourceKey": "instagram-indirect-monitor",
+      "sourceTier": "low",
+      "sourceName": "Instagram 간접 검색 모니터",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NXzZsdktPR001VGlHVGNjdWVjZ045WXZOOC1TZG5zakdxQUJVVS1MXy1UcXh2dTdSQjNydFpOSXUxYm1lTGhHelhiZFN4SnR0NlE?oc=5",
+      "sourceType": "자동 추출 초안",
+      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
+      "publishedAt": "2026-08-21 10:07",
+      "lastVerifiedAt": "2026-08-21 16:09",
+      "extractionConfidence": "medium",
+      "extractionPattern": "club-talks-to-sign-player",
+      "headlineTitle": "🚨 LATEST: Manchester City have moved forward with plans to sign Brazilian winger Allan Elias! 🇧🇷🔄 The 22-year-old right winger from Palmeiras could serve as a replacement for Savinho, who is expected to join Tottenham in the coming days. [Santi Aouna / - instagram.com"
     }
   ]
 }

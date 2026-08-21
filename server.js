@@ -981,6 +981,10 @@ function normalizeDraftRecord(draft) {
     normalized.player = "Carlos Baleba";
     normalized.fromTeam = "Brighton";
     normalized.toTeam = "Manchester United";
+  } else if (/Manchester City have moved forward with plans.*Allan Elias/i.test(title)) {
+    normalized.player = "Allan Elias";
+    normalized.fromTeam = "Palmeiras";
+    normalized.toTeam = "Manchester City";
   } else if (/^Transfer rumors, news: Como want Chelsea's Delap to bolster attack/i.test(title)) {
     normalized.player = "Liam Delap";
     normalized.fromTeam = "Chelsea";
@@ -1002,7 +1006,11 @@ function normalizeDraftRecord(draft) {
   if (
     /^from\s/i.test(normalized.player) ||
     /\b(agree|deal|sign|after|striker|transfer news)\b/i.test(normalized.fromTeam) ||
-    /\b(agree|deal|sign|after|striker|transfer news)\b/i.test(normalized.toTeam)
+    /\b(agree|deal|sign|after|striker|transfer news)\b/i.test(normalized.toTeam) ||
+    normalized.player.length > 35 ||
+    normalized.fromTeam.length > 60 ||
+    normalized.toTeam.length > 60 ||
+    /[!🚨🔄]/u.test(normalized.player)
   ) {
     return null;
   }
