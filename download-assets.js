@@ -51,7 +51,7 @@ const SEEDED_ASSETS = {
     "Manchester City":
       "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/330px-Manchester_City_FC_badge.svg.png",
     Tottenham:
-      "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Tottenham_Hotspur.svg/960px-Tottenham_Hotspur.svg.png",
+      "https://r2.thesportsdb.com/images/media/team/badge/dfyfhl1604094109.png",
     "Real Salt Lake":
       "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Real_Salt_Lake_2010.svg/330px-Real_Salt_Lake_2010.svg.png",
     Leeds:
@@ -239,8 +239,8 @@ function isTrustedAssetEntry(kind, entry) {
   return true;
 }
 
-async function downloadFile(url, filePath) {
-  if (fs.existsSync(filePath)) return true;
+async function downloadFile(url, filePath, { overwrite = false } = {}) {
+  if (fs.existsSync(filePath) && !overwrite) return true;
   const response = await fetch(url, {
     headers: {
       "user-agent": "Mozilla/5.0 (compatible; YoochanTransferMarket/1.0)",
@@ -313,7 +313,8 @@ async function downloadSeededAssets(assetMap, attributions) {
       const extension = /\.(?:svg|png|webp)(?:\?|$)/i.test(sourceImage) ? ".png" : ".jpg";
       const fileName = `${slug(name)}${extension}`;
       const filePath = path.join(directory, fileName);
-      if (!fs.existsSync(filePath) && (await downloadFile(sourceImage, filePath))) downloaded += 1;
+      const refresh = assetMap[kind][name]?.sourceImage && assetMap[kind][name].sourceImage !== sourceImage;
+      if ((!fs.existsSync(filePath) || refresh) && (await downloadFile(sourceImage, filePath, { overwrite: refresh }))) downloaded += 1;
       if (!fs.existsSync(filePath)) continue;
       const relativePath = `./assets/${kind}/${fileName}`;
       assetMap[kind][name] = {
