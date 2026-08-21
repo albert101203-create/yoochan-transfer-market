@@ -13,6 +13,17 @@ function checkAsset(kind, name) {
   if (!entry?.src) return { kind, name, reason: "missing-entry" };
   const filePath = path.join(ROOT, entry.src.replace(/^\.\//, ""));
   if (!fs.existsSync(filePath)) return { kind, name, reason: "missing-file", src: entry.src };
+  const sourceText = `${entry.sourcePage || ""} ${entry.sourceImage || ""}`.toLowerCase();
+  if (kind === "clubs" && /wikipedia/.test(sourceText) && !/(logo|crest|badge|svg)/.test(sourceText)) {
+    return { kind, name, reason: "untrusted-club-image-source", src: entry.src };
+  }
+  if (
+    kind === "players" &&
+    entry.summaryDescription &&
+    !/football|soccer|midfielder|defender|striker|winger|goalkeeper|forward/i.test(entry.summaryDescription)
+  ) {
+    return { kind, name, reason: "untrusted-player-image-source", src: entry.src };
+  }
   return null;
 }
 

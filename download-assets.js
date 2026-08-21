@@ -164,19 +164,45 @@ async function fetchSummaryTitle(title) {
   return data.type === "standard" && data.thumbnail?.source ? data : null;
 }
 
-async function fetchWikipediaSummary(title) {
+function summaryLooksRelevant(kind, name, summary) {
+  const title = String(summary?.title || "").toLowerCase();
+  const description = String(summary?.description || "").toLowerCase();
+  const extract = String(summary?.extract || "").toLowerCase();
+  const text = `${title} ${description} ${extract}`;
+  const nameTokens = normalize(name)
+    .toLowerCase()
+    .split(/\s+/)
+    .filter((token) => token.length >= 3);
+  const hasNameToken = nameTokens.some((token) => title.includes(token) || extract.includes(token));
+  if (!hasNameToken) return false;
+
+  if (kind === "players") {
+    return /football|soccer|midfielder|defender|striker|winger|goalkeeper|forward/.test(text);
+  }
+
+  if (/city|municipality|capital|town|lake|stadium/.test(description) && !/football club|soccer club/.test(text)) {
+    return false;
+  }
+  return /football club|soccer club|football team|f\.c\.|\bfc\b|united|city|hotspur|albion|rovers|athletic|sporting|club/.test(text);
+}
+
+async function fetchWikipediaSummary(kind, title) {
   const candidates = [
     title,
-    `${title} (footballer)`,
-    `${title} footballer`,
+    ...(kind === "players"
+      ? [`${title} (footballer)`, `${title} footballer`]
+      : [`${title} F.C.`, `${title} football club`, `${title} soccer club`]),
   ];
 
   for (const candidate of candidates) {
     const summary = await fetchSummaryTitle(candidate);
-    if (summary) return summary;
+    if (summary && summaryLooksRelevant(kind, title, summary)) return summary;
   }
 
-  const searchQueries = [`${title} footballer`, `${title} football club`, title];
+  const searchQueries =
+    kind === "players"
+      ? [`${title} footballer`, `${title} soccer player`]
+      : [`${title} football club`, `${title} soccer club`, `${title} F.C.`];
   for (const query of searchQueries) {
     const searchUrl = `https://en.wikipedia.org/w/api.php?action=opensearch&search=${encodeURIComponent(
       query
@@ -188,7 +214,7 @@ async function fetchWikipediaSummary(title) {
     const data = await response.json();
     for (const resultTitle of data[1] || []) {
       const summary = await fetchSummaryTitle(resultTitle);
-      if (summary) return summary;
+      if (summary && summaryLooksRelevant(kind, title, summary)) return summary;
     }
   }
 
@@ -199,6 +225,18 @@ function extensionFromContentType(contentType = "") {
   if (contentType.includes("png")) return ".png";
   if (contentType.includes("webp")) return ".webp";
   return ".jpg";
+}
+
+function isTrustedAssetEntry(kind, entry) {
+  if (!entry?.src) return false;
+  const sourceText = `${entry.sourcePage || ""} ${entry.sourceImage || ""}`.toLowerCase();
+  if (kind === "clubs" && /wikipedia/.test(sourceText) && !/(logo|crest|badge|svg)/.test(sourceText)) {
+    return false;
+  }
+  if (kind === "players" && entry.summaryDescription && !/football|soccer|midfielder|defender|striker|winger|goalkeeper|forward/i.test(entry.summaryDescription)) {
+    return false;
+  }
+  return true;
 }
 
 async function downloadFile(url, filePath) {
@@ -218,8 +256,12 @@ async function downloadFile(url, filePath) {
 
 async function downloadEntity(kind, name, assetMap, attributions) {
   const collection = kind === "players" ? assetMap.players : assetMap.clubs;
-  if (collection[name]?.src && fs.existsSync(path.join(BASE_DIR, collection[name].src))) {
+  if (collection[name]?.src && isTrustedAssetEntry(kind, collection[name]) && fs.existsSync(path.join(BASE_DIR, collection[name].src))) {
     return "cached";
+  }
+
+  if (collection[name] && !isTrustedAssetEntry(kind, collection[name])) {
+    delete collection[name];
   }
 
   // 한 단어 선수명은 동명이인이 많아 위키 검색 결과가 엉뚱한 인물일 수 있습니다.
@@ -229,7 +271,7 @@ async function downloadEntity(kind, name, assetMap, attributions) {
   }
 
   try {
-    const summary = await fetchWikipediaSummary(name);
+    const summary = await fetchWikipediaSummary(kind, name);
     if (!summary?.thumbnail?.source) return "not-found";
 
     const directory = kind === "players" ? PLAYER_DIR : CLUB_DIR;
@@ -245,6 +287,8 @@ async function downloadEntity(kind, name, assetMap, attributions) {
       src: relativePath,
       sourcePage: summary.content_urls?.desktop?.page || `https://en.wikipedia.org/wiki/${encodeURIComponent(name)}`,
       sourceImage: summary.thumbnail.source,
+      summaryTitle: summary.title,
+      summaryDescription: summary.description || "",
       retrievedAt: new Date().toISOString(),
     };
     attributions[relativePath] = {
