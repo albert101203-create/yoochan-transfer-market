@@ -18,6 +18,8 @@ const SEEDED_ASSETS = {
       "https://r2.thesportsdb.com/images/media/player/thumb/ip9azu1642365788.jpg",
     "Allan Elias":
       "https://upload.wikimedia.org/wikipedia/commons/3/3d/Allan-palmeiras-sport-ago-25-4.jpg",
+    Savinho:
+      "https://upload.wikimedia.org/wikipedia/commons/a/a0/Manchester_City_2025_06_26_Juventus_%28cropped%29.jpg",
     "Promise David":
       "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Promise_David_Canada_v_Qatar_18_June_2026-018.jpg/330px-Promise_David_Canada_v_Qatar_18_June_2026-018.jpg",
     "Harry Kane":

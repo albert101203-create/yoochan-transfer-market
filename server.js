@@ -182,6 +182,10 @@ const SOURCE_TIERS = {
   "official-liverpool-monitor": "high",
   "official-tottenham-monitor": "high",
   "tottenham-reporters-monitor": "medium",
+  "tottenham-football-london-monitor": "medium",
+  "tottenham-standard-monitor": "medium",
+  "tottenham-athletic-monitor": "medium",
+  "tottenham-sky-monitor": "medium",
   "club-beat-reporter": "medium",
   "aggregator-account": "low",
   "fan-rumor-account": "low",
@@ -390,6 +394,30 @@ const LIVE_FEED_SOURCES = [
     '("Alasdair Gold" OR "Dan Kilpatrick" OR "Rob Guest" OR "Jay Harris" OR "Elias Burke") (Tottenham OR Spurs) (transfer OR signing OR deal OR agreed)',
     "tottenham-reporters-monitor",
     "Tottenham reporters monitor"
+  ),
+  googleNewsTransferFeed(
+    "Football.London Tottenham monitor",
+    "site:football.london/tottenham-hotspur-fc (transfer OR signing OR deal OR contract)",
+    "tottenham-football-london-monitor",
+    "Football.London Tottenham monitor"
+  ),
+  googleNewsTransferFeed(
+    "The Standard Tottenham monitor",
+    "site:standard.co.uk/sport/football/tottenham (transfer OR signing OR deal)",
+    "tottenham-standard-monitor",
+    "The Standard Tottenham monitor"
+  ),
+  googleNewsTransferFeed(
+    "The Athletic Tottenham monitor",
+    "site:nytimes.com/athletic/football (Tottenham OR Spurs) (transfer OR signing OR deal)",
+    "tottenham-athletic-monitor",
+    "The Athletic Tottenham monitor"
+  ),
+  googleNewsTransferFeed(
+    "Sky Sports Tottenham monitor",
+    "site:skysports.com/football/news Tottenham (transfer OR signing OR deal)",
+    "tottenham-sky-monitor",
+    "Sky Sports Tottenham monitor"
   ),
 ];
 
@@ -981,6 +1009,10 @@ function normalizeDraftRecord(draft) {
     normalized.player = "Carlos Baleba";
     normalized.fromTeam = "Brighton";
     normalized.toTeam = "Manchester United";
+  } else if (/^Sources: Tottenham agree deal for City's Savinho/i.test(title)) {
+    normalized.player = "Savinho";
+    normalized.fromTeam = "Manchester City";
+    normalized.toTeam = "Tottenham";
   } else if (/Manchester City have moved forward with plans.*Allan Elias/i.test(title)) {
     normalized.player = "Allan Elias";
     normalized.fromTeam = "Palmeiras";
