@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-22T16:54:03.758Z",
+  "fetchedAt": "2026-08-22T16:56:30.025Z",
   "itemCount": 80,
   "items": [
     {
@@ -18,16 +18,6 @@
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeDV3NFhVZFJESi1FRTRCRTd5NExEWC1LTF9vV1Z1MjlaLVdJMVJEb1VLdXZ6Y21vd2s3ZEcwYjRlb1Z1WlNoRVNRLWpzYW5ZYzhyWkpDQncwQmZyUHhWNHdNLU5lY3VIQ2YxOVhiQ3V0TEF1blEtYkUwQzhMWXVPVQ?oc=5",
       "publishedAt": "2026-08-10T07:00:00.000Z",
       "summary": "New deal for Micky van de Ven &nbsp;&nbsp; Tottenham Hotspur",
-      "sourceKey": "official-tottenham-monitor",
-      "sourceName": "Tottenham official-site monitor",
-      "status": "업데이트"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ubnA0Y09FemJ1SE1qZk9aZmplLVhpMHZpa1loU3UyZV8xamFOdlExZHZyMklQZVptTmUzT2tieUYtZ3UtUlRtSGYzNlVXVTFFTkFKbzN4SEhrb3lYRDg2YWdNU2lsYXNQYnBtbXpZRHJLNUl0MVR1WVg3bDV1TlU?oc=5",
-      "title": "New deal for Adewole - Tottenham Hotspur",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ubnA0Y09FemJ1SE1qZk9aZmplLVhpMHZpa1loU3UyZV8xamFOdlExZHZyMklQZVptTmUzT2tieUYtZ3UtUlRtSGYzNlVXVTFFTkFKbzN4SEhrb3lYRDg2YWdNU2lsYXNQYnBtbXpZRHJLNUl0MVR1WVg3bDV1TlU?oc=5",
-      "publishedAt": "2026-08-05T07:00:00.000Z",
-      "summary": "New deal for Adewole &nbsp;&nbsp; Tottenham Hotspur",
       "sourceKey": "official-tottenham-monitor",
       "sourceName": "Tottenham official-site monitor",
       "status": "업데이트"
@@ -121,6 +111,16 @@
       "sourceKey": "official-tottenham-monitor",
       "sourceName": "Tottenham official-site monitor",
       "status": "완료"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQT3ludUlfYzhsbkFpUjB2dElWTVA5anVuZGRhMDNMYlIzTmRIYXdrTVctS2VBS2lBSVhOQkwzT2p4ZEk0UXdUTU05ME1hWFdBOFpPanlGbGNNRWRibFdOVjQtaXp1QlFReHVlbDBQVzRRLUZiQmFCVkVpTW9VX3RteW92NHcyWTg?oc=5",
+      "title": "Pelova deal secured - Tottenham Hotspur",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQT3ludUlfYzhsbkFpUjB2dElWTVA5anVuZGRhMDNMYlIzTmRIYXdrTVctS2VBS2lBSVhOQkwzT2p4ZEk0UXdUTU05ME1hWFdBOFpPanlGbGNNRWRibFdOVjQtaXp1QlFReHVlbDBQVzRRLUZiQmFCVkVpTW9VX3RteW92NHcyWTg?oc=5",
+      "publishedAt": "2026-06-25T07:00:00.000Z",
+      "summary": "Pelova deal secured &nbsp;&nbsp; Tottenham Hotspur",
+      "sourceKey": "official-tottenham-monitor",
+      "sourceName": "Tottenham official-site monitor",
+      "status": "업데이트"
     },
     {
       "id": "https://www.theguardian.com/football/live/2026/aug/22/brentford-v-tottenham-premier-league-live",
@@ -827,12 +827,12 @@
     {
       "source": "Fabrizio Romano Google News",
       "ok": true,
-      "count": 94
+      "count": 96
     },
     {
       "source": "David Ornstein Google News",
       "ok": true,
-      "count": 82
+      "count": 83
     },
     {
       "source": "The Athletic Google News",
@@ -842,17 +842,17 @@
     {
       "source": "Gianluca Di Marzio Google News",
       "ok": true,
-      "count": 69
+      "count": 71
     },
     {
       "source": "Matteo Moretto Google News",
       "ok": true,
-      "count": 52
+      "count": 53
     },
     {
       "source": "Ben Jacobs Google News",
       "ok": true,
-      "count": 77
+      "count": 76
     },
     {
       "source": "Florian Plettenberg Google News",
@@ -867,12 +867,12 @@
     {
       "source": "Santi Aouna Google News",
       "ok": true,
-      "count": 48
+      "count": 51
     },
     {
       "source": "Fabrizio Romano Instagram mentions",
       "ok": true,
-      "count": 9
+      "count": 6
     },
     {
       "source": "Florian Plettenberg Instagram mentions",
@@ -887,17 +887,17 @@
     {
       "source": "Matteo Moretto Instagram mentions",
       "ok": true,
-      "count": 73
+      "count": 76
     },
     {
       "source": "Santi Aouna Instagram mentions",
       "ok": true,
-      "count": 86
+      "count": 85
     },
     {
       "source": "Arsenal official-site monitor",
       "ok": true,
-      "count": 70
+      "count": 71
     },
     {
       "source": "Barcelona official-site monitor",
@@ -912,7 +912,7 @@
     {
       "source": "Bayern official-site monitor",
       "ok": true,
-      "count": 31
+      "count": 32
     },
     {
       "source": "Manchester City official-site monitor",
