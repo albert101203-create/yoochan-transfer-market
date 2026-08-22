@@ -376,5 +376,47 @@
     "sourcePage": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png",
     "sourceImage": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png",
     "note": "Seeded from the existing Wikimedia image reference; verify the image license before redistribution."
+  },
+  "./assets/players/cristian-romero-b06d511e.jpg": {
+    "name": "Cristian Romero",
+    "sourcePage": "https://en.wikipedia.org/wiki/Cristian_Romero",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Cristian_Romero_Argentina_v_Egypt_7_July_2026-108.jpg/330px-Cristian_Romero_Argentina_v_Egypt_7_July_2026-108.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
+  },
+  "./assets/players/radu-dragusin-317272d7.jpg": {
+    "name": "Radu Dragusin",
+    "sourcePage": "https://en.wikipedia.org/wiki/Radu_Dr%C4%83gu%C8%99in",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Radu_Dragusin_-_Frosinone_vs_Genoa_14_May_2023.jpg/330px-Radu_Dragusin_-_Frosinone_vs_Genoa_14_May_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
+  },
+  "./assets/players/sandro-tonali-91859021.jpg": {
+    "name": "Sandro Tonali",
+    "sourcePage": "https://en.wikipedia.org/wiki/Sandro_Tonali",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Norway_Italy_-_June_2025_B_03.jpg/330px-Norway_Italy_-_June_2025_B_03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
+  },
+  "./assets/clubs/atletico-madrid-5ea7965d.jpg": {
+    "name": "Atletico Madrid",
+    "sourcePage": "https://en.wikipedia.org/wiki/Atl%C3%A9tico_Madrid",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f9/Atletico_Madrid_Logo_2024.svg/330px-Atletico_Madrid_Logo_2024.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
+  },
+  "./assets/players/will-lankshear-7d27628d.jpg": {
+    "name": "Will Lankshear",
+    "sourcePage": "https://cdn1.tbrfootball.com/uploads/27/2024/07/GettyImages-1781647600-1920x1379.jpg",
+    "sourceImage": "https://cdn1.tbrfootball.com/uploads/27/2024/07/GettyImages-1781647600-1920x1379.jpg",
+    "note": "Seeded from the existing Wikimedia image reference; verify the image license before redistribution."
+  },
+  "./assets/clubs/middlesbrough-fcb26d5b.png": {
+    "name": "Middlesbrough",
+    "sourcePage": "https://a.espncdn.com/i/teamlogos/soccer/500/369.png",
+    "sourceImage": "https://a.espncdn.com/i/teamlogos/soccer/500/369.png",
+    "note": "Seeded from the existing Wikimedia image reference; verify the image license before redistribution."
+  },
+  "./assets/clubs/fiorentina-b19b7a52.png": {
+    "name": "Fiorentina",
+    "sourcePage": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
+    "sourceImage": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
+    "note": "Seeded from the existing Wikimedia image reference; verify the image license before redistribution."
   }
 }

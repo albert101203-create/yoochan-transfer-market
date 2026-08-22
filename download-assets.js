@@ -22,6 +22,8 @@ const SEEDED_ASSETS = {
       "https://upload.wikimedia.org/wikipedia/commons/a/a0/Manchester_City_2025_06_26_Juventus_%28cropped%29.jpg",
     "Mika Baur":
       "https://assets.bundesliga.com/player/dfl-obj-j01ea5-dfl-clu-00000l-dfl-sea-0001k9.png",
+    "Will Lankshear":
+      "https://cdn1.tbrfootball.com/uploads/27/2024/07/GettyImages-1781647600-1920x1379.jpg",
     "Promise David":
       "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Promise_David_Canada_v_Qatar_18_June_2026-018.jpg/330px-Promise_David_Canada_v_Qatar_18_June_2026-018.jpg",
     "Harry Kane":
@@ -60,6 +62,10 @@ const SEEDED_ASSETS = {
       "https://a.espncdn.com/i/teamlogos/soccer/500/107.png",
     Como:
       "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png",
+    Middlesbrough:
+      "https://a.espncdn.com/i/teamlogos/soccer/500/369.png",
+    Fiorentina:
+      "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
     "Royale Union Saint-Gilloise":
       "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/Royale_Union_Saint-Gilloise_logo.svg/330px-Royale_Union_Saint-Gilloise_logo.svg.png",
     "AZ Alkmaar":

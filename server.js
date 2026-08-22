@@ -11,6 +11,10 @@ const LIVE_CACHE_FILE = path.join(CACHE_DIR, "live-headlines.json");
 const DRAFT_CACHE_FILE = path.join(CACHE_DIR, "auto-drafts.json");
 const PROMOTED_CACHE_FILE = path.join(CACHE_DIR, "promoted-candidates.json");
 const DRAFT_ARCHIVE_LIMIT = 200;
+const LIVE_HEADLINE_LIMIT = 80;
+const PINNED_HEADLINE_LIMITS = {
+  "official-tottenham-monitor": 12,
+};
 
 const MIME_TYPES = {
   ".html": "text/html; charset=utf-8",
@@ -619,6 +623,72 @@ function extractAutoDraft(item) {
 
   if (!title || shouldSkipDraftTitle(title)) {
     return null;
+  }
+
+  if (item.sourceKey === "official-tottenham-monitor") {
+    let officialMatch = title.match(/^Romero moves to (?<to>.+?)(?:\s+-\s+.*)?$/i);
+    if (officialMatch?.groups) {
+      return makeDraft(item, {
+        player: "Cristian Romero",
+        fromTeam: "Tottenham",
+        toTeam: officialMatch.groups.to,
+        status: "완료",
+        extractionConfidence: "high",
+        extractionPattern: "tottenham-official-player-moves",
+        note: "토트넘 공식 발표에서 직접 추출한 완료 카드입니다.",
+      });
+    }
+
+    officialMatch = title.match(/^Phillips joins (?<to>.+?)(?:\s+-\s+.*)?$/i);
+    if (officialMatch?.groups) {
+      return makeDraft(item, {
+        player: "Ashley Phillips",
+        fromTeam: "Tottenham",
+        toTeam: officialMatch.groups.to,
+        status: "완료",
+        extractionConfidence: "high",
+        extractionPattern: "tottenham-official-player-joins",
+        note: "토트넘 공식 발표에서 직접 추출한 완료 카드입니다.",
+      });
+    }
+
+    officialMatch = title.match(/^Dragusin joins (?<to>.+?)(?:\s+-\s+.*)?$/i);
+    if (officialMatch?.groups) {
+      return makeDraft(item, {
+        player: "Radu Dragusin",
+        fromTeam: "Tottenham",
+        toTeam: officialMatch.groups.to,
+        status: "완료",
+        extractionConfidence: "high",
+        extractionPattern: "tottenham-official-player-joins",
+        note: "토트넘 공식 발표에서 직접 추출한 완료 카드입니다.",
+      });
+    }
+
+    officialMatch = title.match(/^Lankshear on the move to (?<to>.+?)(?:\s+-\s+.*)?$/i);
+    if (officialMatch?.groups) {
+      return makeDraft(item, {
+        player: "Will Lankshear",
+        fromTeam: "Tottenham",
+        toTeam: officialMatch.groups.to.replace(/^Boro$/i, "Middlesbrough"),
+        status: "완료",
+        extractionConfidence: "high",
+        extractionPattern: "tottenham-official-player-moves",
+        note: "토트넘 공식 발표에서 직접 추출한 완료 카드입니다.",
+      });
+    }
+
+    if (/^Welcome, Sandro! Tonali makes the move to N17/i.test(title)) {
+      return makeDraft(item, {
+        player: "Sandro Tonali",
+        fromTeam: "Newcastle",
+        toTeam: "Tottenham",
+        status: "완료",
+        extractionConfidence: "high",
+        extractionPattern: "tottenham-official-signing",
+        note: "토트넘 공식 발표에서 직접 추출한 완료 카드입니다.",
+      });
+    }
   }
 
   const xStyleTitle = title.replace(/^[🚨⚡️🟢🔴🟡\s]+/, "");
@@ -1442,7 +1512,15 @@ async function buildLivePayload() {
     });
   });
 
-  const normalized = dedupeItems(items).sort(compareByDateDesc).slice(0, 40);
+  const allNormalized = dedupeItems(items).sort(compareByDateDesc);
+  const pinned = Object.entries(PINNED_HEADLINE_LIMITS).flatMap(([sourceKey, limit]) =>
+    allNormalized.filter((item) => item.sourceKey === sourceKey).slice(0, limit)
+  );
+  const pinnedIds = new Set(pinned.map((item) => item.id));
+  const recent = allNormalized
+    .filter((item) => !pinnedIds.has(item.id))
+    .slice(0, Math.max(0, LIVE_HEADLINE_LIMIT - pinned.length));
+  const normalized = dedupeItems([...pinned, ...recent]);
 
   return {
     fetchedAt: new Date().toISOString(),
