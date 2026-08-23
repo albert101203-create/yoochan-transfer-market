@@ -12,6 +12,10 @@ on:
   schedule:
     - cron: "*/5 * * * *"
 
+concurrency:
+  group: transfer-market-collector
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
@@ -41,4 +45,13 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add "cache/*.json" "asset-map.json" "asset-attributions.json" "assets/players/*" "assets/clubs/*"
           git diff --cached --quiet || git commit -m "chore: refresh transfer market cache"
-          git push
+          for attempt in 1 2 3; do
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+            git fetch origin main
+            git reset --soft origin/main
+            git add "cache/*.json" "asset-map.json" "asset-attributions.json" "assets/players/*" "assets/clubs/*"
+            git diff --cached --quiet || git commit -m "chore: refresh transfer market cache"
+          done
+          exit 1
