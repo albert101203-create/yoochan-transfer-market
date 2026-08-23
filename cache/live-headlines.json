@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-23T18:01:39.059Z",
+  "fetchedAt": "2026-08-23T19:03:38.931Z",
   "itemCount": 120,
   "items": [
     {
@@ -63,6 +63,16 @@
       "status": "완료"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWFBxX2JaRlpRZm5XdEdia3NyYkdEY0RQME5zUC1nTlgxWXZVam5DQzNBU25KdWR3OVAtMEtQMkRmbUNPTjM2N29SNFVzZ3laYmpxTDFqZG1MTHUwWV9ybDJLX01iWU5ENC1RUGJIZ0Q3U21WdGhOc2RWdGJtOE1WSUtB?oc=5",
+      "title": "Ramsey joins Under-21s - Tottenham Hotspur",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWFBxX2JaRlpRZm5XdEdia3NyYkdEY0RQME5zUC1nTlgxWXZVam5DQzNBU25KdWR3OVAtMEtQMkRmbUNPTjM2N29SNFVzZ3laYmpxTDFqZG1MTHUwWV9ybDJLX01iWU5ENC1RUGJIZ0Q3U21WdGhOc2RWdGJtOE1WSUtB?oc=5",
+      "publishedAt": "2026-07-07T07:00:00.000Z",
+      "summary": "Ramsey joins Under-21s &nbsp;&nbsp; Tottenham Hotspur",
+      "sourceKey": "official-tottenham-monitor",
+      "sourceName": "Tottenham official-site monitor",
+      "status": "완료"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbVpLdERieDFkdTd3MzU0XzZpTGlRRzFyeDFxa1BzV0NaSS1uSFlhS01mSlNHSGdkakRDUnU0ZUpvOVprQkRhQXNBUTREaUNuRlBrZ2hPdEFKNGxwSlU4YmVpR2tQQ0diWmpidldFTzR3YkFQRlE0NjVGWUFMMTUyWHVQRmFxQnBmOENyMl9IOWdoQk0?oc=5",
       "title": "Welcome, Sandro! Tonali makes the move to N17 - Tottenham Hotspur",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbVpLdERieDFkdTd3MzU0XzZpTGlRRzFyeDFxa1BzV0NaSS1uSFlhS01mSlNHSGdkakRDUnU0ZUpvOVprQkRhQXNBUTREaUNuRlBrZ2hPdEFKNGxwSlU4YmVpR2tQQ0diWmpidldFTzR3YkFQRlE0NjVGWUFMMTUyWHVQRmFxQnBmOENyMl9IOWdoQk0?oc=5",
@@ -113,13 +123,53 @@
       "status": "완료"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQT3ludUlfYzhsbkFpUjB2dElWTVA5anVuZGRhMDNMYlIzTmRIYXdrTVctS2VBS2lBSVhOQkwzT2p4ZEk0UXdUTU05ME1hWFdBOFpPanlGbGNNRWRibFdOVjQtaXp1QlFReHVlbDBQVzRRLUZiQmFCVkVpTW9VX3RteW92NHcyWTg?oc=5",
-      "title": "Pelova deal secured - Tottenham Hotspur",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQT3ludUlfYzhsbkFpUjB2dElWTVA5anVuZGRhMDNMYlIzTmRIYXdrTVctS2VBS2lBSVhOQkwzT2p4ZEk0UXdUTU05ME1hWFdBOFpPanlGbGNNRWRibFdOVjQtaXp1QlFReHVlbDBQVzRRLUZiQmFCVkVpTW9VX3RteW92NHcyWTg?oc=5",
-      "publishedAt": "2026-06-25T07:00:00.000Z",
-      "summary": "Pelova deal secured &nbsp;&nbsp; Tottenham Hotspur",
-      "sourceKey": "official-tottenham-monitor",
-      "sourceName": "Tottenham official-site monitor",
+      "id": "https://www.skysports.com/football/live-blog/11677/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "title": "Aston Villa transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
+      "url": "https://www.skysports.com/football/live-blog/11677/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "publishedAt": "2026-08-23T18:58:00.000Z",
+      "summary": "Sky Sports football sitemap에서 가져온 실시간 헤드라인입니다.",
+      "sourceKey": "sky-sports",
+      "sourceName": "Sky Sports",
+      "status": "루머"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPclZqOHNBbTA3S282VjJRaHVkcFkxemFSN25SZzRFQjlKTVFCN0hMLVBrR2Q1VDZ4VzRENDcyRzBpdm1nVnBUN3NTQ0NMNExsMUllNmxhSzFUdm9aVU9sa3Y2dlBUR19SQjFOandsM3JfYUNPc0tVbGViVDV4bVpvaWNMWC00U2RkcE5lWkN4cEdaT0F2X3IwQmktVXA5d2VYOWJiNlo1UV9maExqQjBOaGZGajZlc1dSTzlLcGE2WEg4Y0xLVGVENE1ILXp2QmlYb2otekRwWTBjMm9UelIyeFRzWHZubXM?oc=5",
+      "title": "Verbal agreement done: Fabrizio Romano shares exciting Tottenham transfer update - LiveScore",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPclZqOHNBbTA3S282VjJRaHVkcFkxemFSN25SZzRFQjlKTVFCN0hMLVBrR2Q1VDZ4VzRENDcyRzBpdm1nVnBUN3NTQ0NMNExsMUllNmxhSzFUdm9aVU9sa3Y2dlBUR19SQjFOandsM3JfYUNPc0tVbGViVDV4bVpvaWNMWC00U2RkcE5lWkN4cEdaT0F2X3IwQmktVXA5d2VYOWJiNlo1UV9maExqQjBOaGZGajZlc1dSTzlLcGE2WEg4Y0xLVGVENE1ILXp2QmlYb2otekRwWTBjMm9UelIyeFRzWHZubXM?oc=5",
+      "publishedAt": "2026-08-23T18:53:04.000Z",
+      "summary": "Verbal agreement done: Fabrizio Romano shares exciting Tottenham transfer update &nbsp;&nbsp; LiveScore",
+      "sourceKey": "romano-monitor",
+      "sourceName": "Fabrizio Romano 검색 모니터",
+      "status": "업데이트"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOU2xXSjEwNzVDUUVLNkNscUNtZS10Y3BYRWRTeWt4c3VJMUlBZjJPZm5Id1NWQm5Pbmx0XzNDeVlqUndJV1Jpdjk0bXRSR21MUk5BdUY2Q2N0MXZ3SjFNc0pycVNjZ0dlNDVsNjEtUDVxN3kzbm1HQ1VjZzIxeG1NRzJsWkY1am04U3hTemtEajY2Ul9IOE1sRDdwNmYxMEZSUFlRUThwdHhEV3NEYkVZUXdyZHFvNXlPdTZPOEsxLTBpZnFqa0FFRXFSd3ZwdkVhd1dWR3VOcGxRX1o2WVNSTC10ODlzWm45YUdFZEZreTZMdHh2TVRwQ2xocEg?oc=5",
+      "title": "Matthias Jaissle: Newcastle head coach says squad needs 'adjustments' in transfer window and previews Liverpool game - Sky Sports",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOU2xXSjEwNzVDUUVLNkNscUNtZS10Y3BYRWRTeWt4c3VJMUlBZjJPZm5Id1NWQm5Pbmx0XzNDeVlqUndJV1Jpdjk0bXRSR21MUk5BdUY2Q2N0MXZ3SjFNc0pycVNjZ0dlNDVsNjEtUDVxN3kzbm1HQ1VjZzIxeG1NRzJsWkY1am04U3hTemtEajY2Ul9IOE1sRDdwNmYxMEZSUFlRUThwdHhEV3NEYkVZUXdyZHFvNXlPdTZPOEsxLTBpZnFqa0FFRXFSd3ZwdkVhd1dWR3VOcGxRX1o2WVNSTC10ODlzWm45YUdFZEZreTZMdHh2TVRwQ2xocEg?oc=5",
+      "publishedAt": "2026-08-23T18:30:33.000Z",
+      "summary": "Matthias Jaissle: Newcastle head coach says squad needs 'adjustments' in transfer window and previews Liverpool game &nbsp;&nbsp; Sky Sports",
+      "sourceKey": "tottenham-sky-monitor",
+      "sourceName": "Sky Sports Tottenham monitor",
+      "status": "업데이트"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/aug/23/european-football-psg-rennes-torino-milan-elche-barcelona-bayern-munich-harry-kane",
+      "title": "European football: Mohamed Salah scores first goals in Trabzonspor victory",
+      "url": "https://www.theguardian.com/football/2026/aug/23/european-football-psg-rennes-torino-milan-elche-barcelona-bayern-munich-harry-kane",
+      "publishedAt": "2026-08-23T18:27:34.000Z",
+      "summary": "Former Liverpool forward nets double Harry Kane named player of year in Germany Mohamed Salah scored his first goals for Trabzonspor with a brace in their 2-1 win over Istanbul Basaksehir. The former Liverpool forward joined the Super Lig side on a two-year deal at the start of August and made his debut for the club from the bench in their 1-1 draw at Kasimpasa last week. Continue reading...",
+      "sourceKey": "guardian-football",
+      "sourceName": "The Guardian Football",
+      "status": "업데이트"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZHpTUXR2ZnEtUHY1TEpuTFlfbFVwc3JVMjFRN0pRTzh5THFJNjlndkFEZlBWRHpDZGVJNDItTEdwODVnM2JKb1RCNkdYblB1Z3FKbWhVbDdEaXpUNGhLUHE1dWlZUHpDOHFSRlBEWm5oMV9xQy1PZUp5UXRxcTlCLUJwQ25vb000T0hHSDBqemU?oc=5",
+      "title": "Fabrizio Romano: Man Utd Want 'More Signings' After Hull Loss - GiveMeSport",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZHpTUXR2ZnEtUHY1TEpuTFlfbFVwc3JVMjFRN0pRTzh5THFJNjlndkFEZlBWRHpDZGVJNDItTEdwODVnM2JKb1RCNkdYblB1Z3FKbWhVbDdEaXpUNGhLUHE1dWlZUHpDOHFSRlBEWm5oMV9xQy1PZUp5UXRxcTlCLUJwQ25vb000T0hHSDBqemU?oc=5",
+      "publishedAt": "2026-08-23T18:15:12.000Z",
+      "summary": "Fabrizio Romano: Man Utd Want 'More Signings' After Hull Loss &nbsp;&nbsp; GiveMeSport",
+      "sourceKey": "romano-monitor",
+      "sourceName": "Fabrizio Romano 검색 모니터",
       "status": "업데이트"
     },
     {
@@ -157,7 +207,7 @@
       "title": "‘Call his agent’: Emery feels Watkins should explain absence from Villa’s rout by Brighton",
       "url": "https://www.theguardian.com/football/2026/aug/23/unai-emery-feels-ollie-watkins-should-explain-absence-from-aston-villa-loss-brighton",
       "publishedAt": "2026-08-23T17:04:17.000Z",
-      "summary": "England forward is considering move to Al-Hilal ‘This question is for him … I answer only with silence’ Unai Emery did nothing to deny that Ollie Watkins had refused to play for Aston Villa in their sobering 4-0 defeat by Brighton at the Amex on Sunday. The head coach had a selection crisis up front with Brian Madjo and Tammy Abraham injured. However, he did not include Watkins in the matchday squad as the England striker considers a move to Al-Hilal in Saudi Arabia. Emery was forced to rely on the attacking midfielder, Emiliano Buendía, as an emergency No 9 and his team disappeared without trace on the south coast. They were 4-0 down after 31 minutes and had their new signing, João Gomes, sent off on his debut in the 40th minute. Gomes kicked up and out at the Brighton striker Georginio Rutter after being dispossessed by him. Continue reading...",
+      "summary": "England forward is considering move to Al-Hilal ‘This question is for him … I answer only with silence’ Unai Emery did nothing to deny that Ollie Watkins had refused to play for Aston Villa in their sobering 4-0 defeat by Brighton at the Amex on Sunday. The head coach had a selection crisis up front with Brian Madjo and Tammy Abraham injured. However, he did not include Watkins in the matchday squad as the England striker considers a move to Al-Hilal in Saudi Arabia. Emery was forced to rely on the attacking midfielder Emiliano Buendía as an emergency striker and his team disappeared without trace on the south coast. They were 4-0 down after 31 minutes and had their new signing João Gomes sent off on his debut in the 40th minute. Gomes kicked up and out at the Brighton striker Georginio Rutter after being dispossessed by him. Continue reading...",
       "sourceKey": "guardian-football",
       "sourceName": "The Guardian Football",
       "status": "업데이트"
@@ -173,6 +223,16 @@
       "status": "루머"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZUhKWWZCZjNOWkJWaFJjNUNTRlNfMDRCdW11bVVwRU85bTkybXVvYU5WQXE5MDZBa1lNS3NoOXcyU0IzdjU1TnE0YmZFckpDcFQtUmJ5Qy16T2VCRHVQRWY4bDVPMzJTSW0xQW43dTNBZUNKb1kxT05xbExBNVUtNQ?oc=5",
+      "title": "Rumour ranking: Assessing the top 20 transfer window whispers - Football365",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZUhKWWZCZjNOWkJWaFJjNUNTRlNfMDRCdW11bVVwRU85bTkybXVvYU5WQXE5MDZBa1lNS3NoOXcyU0IzdjU1TnE0YmZFckpDcFQtUmJ5Qy16T2VCRHVQRWY4bDVPMzJTSW0xQW43dTNBZUNKb1kxT05xbExBNVUtNQ?oc=5",
+      "publishedAt": "2026-08-23T16:57:32.000Z",
+      "summary": "Rumour ranking: Assessing the top 20 transfer window whispers &nbsp;&nbsp; Football365",
+      "sourceKey": "romano-monitor",
+      "sourceName": "Fabrizio Romano 검색 모니터",
+      "status": "루머"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQVQ4T2dyYThKR1p2Y1FqLWhzTW5ELXdDX0ljRWJhay1iQWJmdDJOQXRldG05VmtqeFRKd2laRmROZ0VIbVBRRjBuRENHSFJjWEU0M2hOak9rejBSMnBfaVloVGxtQ21NalFyNHR0RHltTzhiVGVKVXJOOWFGNGlNSy0wWU1FUmFnRUlncklQRkpxRFl2dlJuVW5oWl9NdUZPcWlUVmhsajZMUzdBNXd6VEVXNE9xWmowZUJLVEM3akMzVXo0MVlEOEdNbw?oc=5",
       "title": "With Guéhi in midfield, Maresca makes transfer needs clear in Man City win - ESPN",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQVQ4T2dyYThKR1p2Y1FqLWhzTW5ELXdDX0ljRWJhay1iQWJmdDJOQXRldG05VmtqeFRKd2laRmROZ0VIbVBRRjBuRENHSFJjWEU0M2hOak9rejBSMnBfaVloVGxtQ21NalFyNHR0RHltTzhiVGVKVXJOOWFGNGlNSy0wWU1FUmFnRUlncklQRkpxRFl2dlJuVW5oWl9NdUZPcWlUVmhsajZMUzdBNXd6VEVXNE9xWmowZUJLVEM3akMzVXo0MVlEOEdNbw?oc=5",
@@ -180,16 +240,6 @@
       "summary": "With Guéhi in midfield, Maresca makes transfer needs clear in Man City win &nbsp;&nbsp; ESPN",
       "sourceKey": "rob-dawson-monitor",
       "sourceName": "Rob Dawson monitor",
-      "status": "업데이트"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOU2xXSjEwNzVDUUVLNkNscUNtZS10Y3BYRWRTeWt4c3VJMUlBZjJPZm5Id1NWQm5Pbmx0XzNDeVlqUndJV1Jpdjk0bXRSR21MUk5BdUY2Q2N0MXZ3SjFNc0pycVNjZ0dlNDVsNjEtUDVxN3kzbm1HQ1VjZzIxeG1NRzJsWkY1am04U3hTemtEajY2Ul9IOE1sRDdwNmYxMEZSUFlRUThwdHhEV3NEYkVZUXdyZHFvNXlPdTZPOEsxLTBpZnFqa0FFRXFSd3ZwdkVhd1dWR3VOcGxRX1o2WVNSTC10ODlzWm45YUdFZEZreTZMdHh2TVRwQ2xocEg?oc=5",
-      "title": "Matthias Jaissle: Newcastle head coach says squad needs 'adjustments' in transfer window and previews Liverpool game - Sky Sports",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOU2xXSjEwNzVDUUVLNkNscUNtZS10Y3BYRWRTeWt4c3VJMUlBZjJPZm5Id1NWQm5Pbmx0XzNDeVlqUndJV1Jpdjk0bXRSR21MUk5BdUY2Q2N0MXZ3SjFNc0pycVNjZ0dlNDVsNjEtUDVxN3kzbm1HQ1VjZzIxeG1NRzJsWkY1am04U3hTemtEajY2Ul9IOE1sRDdwNmYxMEZSUFlRUThwdHhEV3NEYkVZUXdyZHFvNXlPdTZPOEsxLTBpZnFqa0FFRXFSd3ZwdkVhd1dWR3VOcGxRX1o2WVNSTC10ODlzWm45YUdFZEZreTZMdHh2TVRwQ2xocEg?oc=5",
-      "publishedAt": "2026-08-23T16:46:21.000Z",
-      "summary": "Matthias Jaissle: Newcastle head coach says squad needs 'adjustments' in transfer window and previews Liverpool game &nbsp;&nbsp; Sky Sports",
-      "sourceKey": "tottenham-sky-monitor",
-      "sourceName": "Sky Sports Tottenham monitor",
       "status": "업데이트"
     },
     {
@@ -207,16 +257,6 @@
       "title": "Tottenham transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
       "url": "https://www.skysports.com/football/live-blog/41920/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
       "publishedAt": "2026-08-23T16:01:00.000Z",
-      "summary": "Sky Sports football sitemap에서 가져온 실시간 헤드라인입니다.",
-      "sourceKey": "sky-sports",
-      "sourceName": "Sky Sports",
-      "status": "루머"
-    },
-    {
-      "id": "https://www.skysports.com/football/live-blog/11677/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "title": "Aston Villa transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
-      "url": "https://www.skysports.com/football/live-blog/11677/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "publishedAt": "2026-08-23T16:00:00.000Z",
       "summary": "Sky Sports football sitemap에서 가져온 실시간 헤드라인입니다.",
       "sourceKey": "sky-sports",
       "sourceName": "Sky Sports",
@@ -251,16 +291,6 @@
       "sourceKey": "sky-sports",
       "sourceName": "Sky Sports",
       "status": "루머"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNY2FRSmdudGtaTy1LTDdoN3k1TTFMcXl3c3hRalFERHF3ekFSME9uMXF2OVJoQU5neDJHYTgzOE1pOUMyNG40Unp4RlNodS16NlEwUHhFSGxGN0ZaN3dUSjZYOHBhWVp2TzhlUUdpU215bWhiMWFMZHFJMEExeXR0UlJCQ3lUNmNSN1ZxU2hzR2pqazU5aDZXODRtWkswRllZTkhMN01OcGtfa0RVQ2hVZHZDNTB0MXpTeUk4U0ZlQzVoc29mdjUtTVVKdmkwMHJTMFkzZHotbDBSdlE4Q0Y1LUl3?oc=5",
-      "title": "Medical tomorrow: details of the Tottenham and Manchester City agreement over the Omar Marmoush deal - Goal.com",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNY2FRSmdudGtaTy1LTDdoN3k1TTFMcXl3c3hRalFERHF3ekFSME9uMXF2OVJoQU5neDJHYTgzOE1pOUMyNG40Unp4RlNodS16NlEwUHhFSGxGN0ZaN3dUSjZYOHBhWVp2TzhlUUdpU215bWhiMWFMZHFJMEExeXR0UlJCQ3lUNmNSN1ZxU2hzR2pqazU5aDZXODRtWkswRllZTkhMN01OcGtfa0RVQ2hVZHZDNTB0MXpTeUk4U0ZlQzVoc29mdjUtTVVKdmkwMHJTMFkzZHotbDBSdlE4Q0Y1LUl3?oc=5",
-      "publishedAt": "2026-08-23T15:42:49.000Z",
-      "summary": "Medical tomorrow: details of the Tottenham and Manchester City agreement over the Omar Marmoush deal &nbsp;&nbsp; Goal.com",
-      "sourceKey": "romano-monitor",
-      "sourceName": "Fabrizio Romano 검색 모니터",
-      "status": "업데이트"
     },
     {
       "id": "https://www.skysports.com/football/live-blog/11741/13279295/brighton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
@@ -307,7 +337,7 @@
       "title": "Hull punished United defence in victory but Carrick’s attack is bigger area of concern | Andrew Beasley",
       "url": "https://www.theguardian.com/football/2026/aug/23/hull-punish-manchester-united-defence-michael-carrick-attack-bigger-concern",
       "publishedAt": "2026-08-23T15:07:39.000Z",
-      "summary": "Manchester United again struggled against a back five as the promoted hosts exploited a set-piece weakness Hull scored nine league goals from set plays last season, the joint-fewest in the Championship. Yet two in 21 minutes earned them a famous victory over Manchester United on Saturday. It was a disastrous start to the campaign for the visitors. While Michael Carrick said before the game it would not be easy , he would not have expected victory being so straightforward for Hull. It was a match United simply had to win given the gulf in resources and expectation. Opta rated their chance of victory at 68.9% before kick-off. Continue reading...",
+      "summary": "Manchester United again struggled against a back five as the promoted hosts exploited a set-piece weakness Hull scored nine league goals from set plays last season, the joint-fewest in the Championship. Yet two in 21 minutes earned them a victory over Manchester United on Saturday. It was a disastrous start to the campaign for the visitors. While Michael Carrick said before the game it would not be easy , he would not have expected victory being so straightforward for Hull. It was a match United simply had to win given the gulf in resources and expectation. Opta rated their chance of victory at 68.9% before kick-off. Continue reading...",
       "sourceKey": "guardian-football",
       "sourceName": "The Guardian Football",
       "status": "업데이트"
@@ -533,26 +563,6 @@
       "status": "업데이트"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYW84RXhaZGhzQk85Wm5HbDNhSU8yN0NIVENqdDY5aTAwQlA2ZHIzZkY2cmJGRnVGZmhPZEhybXpmbFhUWHk1N1hVVENUaU5nYzBKWlhhQnh6MEt4YmdGakExLWcwU2doeG9wZHliTjBOUGVublMwYlBxVThPTVVvMWxoMlRTcFBucVNDQlRXWS02T28?oc=5",
-      "title": "'He Will Join' - Romano Shares News On Man City Signing Omar Marmoush Replacement - GiveMeSport",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYW84RXhaZGhzQk85Wm5HbDNhSU8yN0NIVENqdDY5aTAwQlA2ZHIzZkY2cmJGRnVGZmhPZEhybXpmbFhUWHk1N1hVVENUaU5nYzBKWlhhQnh6MEt4YmdGakExLWcwU2doeG9wZHliTjBOUGVublMwYlBxVThPTVVvMWxoMlRTcFBucVNDQlRXWS02T28?oc=5",
-      "publishedAt": "2026-08-23T11:15:13.000Z",
-      "summary": "'He Will Join' - Romano Shares News On Man City Signing Omar Marmoush Replacement &nbsp;&nbsp; GiveMeSport",
-      "sourceKey": "romano-monitor",
-      "sourceName": "Fabrizio Romano 검색 모니터",
-      "status": "완료"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeHlXOUowOXc4V2xuQ2tHT0c1S19QN29tUS1Xenp0aFpvaENPQmNlX2R0emNwcW9Ld1JpM0ZDWmQ4dEhpMHZnYVI3ZWV6ejFFTUN0aWNka1ozOWNGVXhIQ0d6eUpNeEJHVVNQb0FjRFlkOFBtWkhhSnhkOFNvQ3Z6NnFIVDZjZ3d0bVBZcEh4QWRYQTQybjN6ZXlZRQ?oc=5",
-      "title": "Liverpool have £50m Yankuba Minteh bid rejected by Brighton - The Athletic - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeHlXOUowOXc4V2xuQ2tHT0c1S19QN29tUS1Xenp0aFpvaENPQmNlX2R0emNwcW9Ld1JpM0ZDWmQ4dEhpMHZnYVI3ZWV6ejFFTUN0aWNka1ozOWNGVXhIQ0d6eUpNeEJHVVNQb0FjRFlkOFBtWkhhSnhkOFNvQ3Z6NnFIVDZjZ3d0bVBZcEh4QWRYQTQybjN6ZXlZRQ?oc=5",
-      "publishedAt": "2026-08-23T11:07:00.000Z",
-      "summary": "Liverpool have £50m Yankuba Minteh bid rejected by Brighton - The Athletic &nbsp;&nbsp; The New York Times",
-      "sourceKey": "james-pearce-monitor",
-      "sourceName": "James Pearce monitor",
-      "status": "루머"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeXYwOFlMUXNJcXlNcEFnTVFVTWFVcmQxb0ZXenJhMU9NRkkyS0JXVnJrRnFZbXNCd2hNMGNrWkk2cEtibkIxa1ZTbmNadUxMTVYwSW5wRE55VDdnUFlKNTZMZ1ZUWTFfSFJqQjRnOWI0aThCMll5aFg4c05URmY2SHAzM1BoTERpZ2M3OEs5VFc1ckxRMFNSVmNqVEZXV2FW?oc=5",
       "title": "Liverpool see £60m transfer offer for Yankuba Minteh rejected by Brighton - The Athletic - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeXYwOFlMUXNJcXlNcEFnTVFVTWFVcmQxb0ZXenJhMU9NRkkyS0JXVnJrRnFZbXNCd2hNMGNrWkk2cEtibkIxa1ZTbmNadUxMTVYwSW5wRE55VDdnUFlKNTZMZ1ZUWTFfSFJqQjRnOWI0aThCMll5aFg4c05URmY2SHAzM1BoTERpZ2M3OEs5VFc1ckxRMFNSVmNqVEZXV2FW?oc=5",
@@ -703,6 +713,16 @@
       "status": "업데이트"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0xVlYxUTVVUGFJQS1sZ2gyaGRwb3R2MTZndmNHRDZwMEhWMkhLT29IdDVVSVlHRXMwWlA2U2Z1eGxOcHFPMlVZMEZhLW0tNnhtRTh5YmdTWDFiVVlGTW5ZaEt4c25hbTdsOWtZWENyRjNSOHhvQzV1Uw?oc=5",
+      "title": "Sounders close to finalizing deal for Dejan Joveljić, reports say - Sounder at Heart",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0xVlYxUTVVUGFJQS1sZ2gyaGRwb3R2MTZndmNHRDZwMEhWMkhLT29IdDVVSVlHRXMwWlA2U2Z1eGxOcHFPMlVZMEZhLW0tNnhtRTh5YmdTWDFiVVlGTW5ZaEt4c25hbTdsOWtZWENyRjNSOHhvQzV1Uw?oc=5",
+      "publishedAt": "2026-08-23T03:59:55.000Z",
+      "summary": "Sounders close to finalizing deal for Dejan Joveljić, reports say &nbsp;&nbsp; Sounder at Heart",
+      "sourceKey": "romano-monitor",
+      "sourceName": "Fabrizio Romano 검색 모니터",
+      "status": "업데이트"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB0b2gzVGM1OFJrbnYzaTdaeHpVc3oycDBTSXI3N3ZxcFdoM2dIVXY1ajZDR2gwbTQ4c1BCazhYbHU2N1FnSERSam5yaldPb0pJSkE?oc=5",
       "title": "David Ornstein reveals record transfer fee Manchester City set to receive from Tottenham Hotspur for Savinho 👀. Talks are still developing, so the next step could shape the player's future. Would this be the right move? - instagram.com",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB0b2gzVGM1OFJrbnYzaTdaeHpVc3oycDBTSXI3N3ZxcFdoM2dIVXY1ajZDR2gwbTQ4c1BCazhYbHU2N1FnSERSam5yaldPb0pJSkE?oc=5",
@@ -711,16 +731,6 @@
       "sourceKey": "instagram-indirect-monitor",
       "sourceName": "Instagram 간접 검색 모니터",
       "status": "루머"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0xVlYxUTVVUGFJQS1sZ2gyaGRwb3R2MTZndmNHRDZwMEhWMkhLT29IdDVVSVlHRXMwWlA2U2Z1eGxOcHFPMlVZMEZhLW0tNnhtRTh5YmdTWDFiVVlGTW5ZaEt4c25hbTdsOWtZWENyRjNSOHhvQzV1Uw?oc=5",
-      "title": "Sounders close to finalizing deal for Dejan Joveljić, reports say - Sounder at Heart",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0xVlYxUTVVUGFJQS1sZ2gyaGRwb3R2MTZndmNHRDZwMEhWMkhLT29IdDVVSVlHRXMwWlA2U2Z1eGxOcHFPMlVZMEZhLW0tNnhtRTh5YmdTWDFiVVlGTW5ZaEt4c25hbTdsOWtZWENyRjNSOHhvQzV1Uw?oc=5",
-      "publishedAt": "2026-08-23T02:18:29.000Z",
-      "summary": "Sounders close to finalizing deal for Dejan Joveljić, reports say &nbsp;&nbsp; Sounder at Heart",
-      "sourceKey": "romano-monitor",
-      "sourceName": "Fabrizio Romano 검색 모니터",
-      "status": "업데이트"
     },
     {
       "id": "https://www.theguardian.com/football/2026/aug/23/jose-mourinho-real-madrid-romance-espanyol-la-liga",
@@ -751,16 +761,6 @@
       "sourceKey": "romano-monitor",
       "sourceName": "Fabrizio Romano 검색 모니터",
       "status": "루머"
-    },
-    {
-      "id": "https://www.bbc.co.uk/sport/football/articles/cd9w1zkw7x8o?at_medium=RSS&at_campaign=rss",
-      "title": "Man City will 'try to find the new Rodri' - Maresca",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cd9w1zkw7x8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-22T21:30:32.000Z",
-      "summary": "Manchester City will \"try to find the new Rodri\" after the Spain captain left the club earlier this week to join La Liga champions Barcelona, says manager Enzo Maresca.",
-      "sourceKey": "bbc-sport",
-      "sourceName": "BBC Sport",
-      "status": "업데이트"
     },
     {
       "id": "https://www.skysports.com/football/news/12709/13576128/arsenal-transfer-news-mikel-arteta-and-andrea-berta-in-frequent-contact-with-julian-alvarez-amid-hope-of-luring-atletico-madrid-star-paper-talk",
@@ -873,16 +873,6 @@
       "status": "루머"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUkwxaXc5YTBYV2J4LXYwNDhjZENZdHJua0Y3MnU5cmpONHYyR3YyNzcyRHYwemV0dEFXNWVRN094RVNfRloxbmtzVGFsang1UlphWWVzU044ZFdWQWVJRmN2U2ZIM05DcWlWU3Q5X1FTeW01cXpvNlZGcVh2MVlVNXZocEdlek1UYjhNODBIclNZTlNzdU53azAtSlg2QWt0SE9YaFpkbw?oc=5",
-      "title": "Liverpool transfer news as journalist says £72m deal now looks ‘unlikely’ - readliverpoolfc.com",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUkwxaXc5YTBYV2J4LXYwNDhjZENZdHJua0Y3MnU5cmpONHYyR3YyNzcyRHYwemV0dEFXNWVRN094RVNfRloxbmtzVGFsang1UlphWWVzU044ZFdWQWVJRmN2U2ZIM05DcWlWU3Q5X1FTeW01cXpvNlZGcVh2MVlVNXZocEdlek1UYjhNODBIclNZTlNzdU53azAtSlg2QWt0SE9YaFpkbw?oc=5",
-      "publishedAt": "2026-08-22T16:28:14.000Z",
-      "summary": "Liverpool transfer news as journalist says £72m deal now looks ‘unlikely’ &nbsp;&nbsp; readliverpoolfc.com",
-      "sourceKey": "ornstein-monitor",
-      "sourceName": "David Ornstein 검색 모니터",
-      "status": "루머"
-    },
-    {
       "id": "https://www.skysports.com/football/live-blog/11661/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
       "title": "Arsenal transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
       "url": "https://www.skysports.com/football/live-blog/11661/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
@@ -943,16 +933,6 @@
       "status": "업데이트"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdmFDSzl6VDdSd1BqZ2pQNTYzM1Q2czFlY18zUGtqdk5TWEFVLS16LUxsTHB4VGZUc2F2MmVtNWFFR01VNmRMMG9UVllFR19zM2NiRTNXQ1ktNTFrOFY0NWg5ODM1V01RWjVvYnc0ZmVxX3ZHLVNmYzNwUjZEcDVhM3B0bUs3eS1DMDNzYUVOT0pXTnJHT2QtSkw0UFZUemlJdWh1c3l3?oc=5",
-      "title": "Man Utd chances of signing Barcelona star skyrocket - Fabrizio Romano - Football365",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdmFDSzl6VDdSd1BqZ2pQNTYzM1Q2czFlY18zUGtqdk5TWEFVLS16LUxsTHB4VGZUc2F2MmVtNWFFR01VNmRMMG9UVllFR19zM2NiRTNXQ1ktNTFrOFY0NWg5ODM1V01RWjVvYnc0ZmVxX3ZHLVNmYzNwUjZEcDVhM3B0bUs3eS1DMDNzYUVOT0pXTnJHT2QtSkw0UFZUemlJdWh1c3l3?oc=5",
-      "publishedAt": "2026-08-22T12:25:29.000Z",
-      "summary": "Man Utd chances of signing Barcelona star skyrocket - Fabrizio Romano &nbsp;&nbsp; Football365",
-      "sourceKey": "romano-monitor",
-      "sourceName": "Fabrizio Romano 검색 모니터",
-      "status": "업데이트"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNclBxUnRWQ0pmcWpOMkMtUkF3R3lDZTNMMU9BSlFmeXlZVVpReGx2NG1yMWc3bWlpVjRoR05lRmZyNC1taTVqc3JHV2Z1WGtob3ViUmxRMzV2NHJsd2xBNzc4ampkMkNPX0hGY0N4bWhZSGVBdVE5UkxDX0NTSGYzQXNMam9vWm5tWUlPd3d2WHBJLTY0NEdSRXdBYUp4M3fSAaQBQVVfeXFMT3pFYWloTTRxclJUN2VpZlFZbjRjZ1djTUlVU2VhVGg4Tld4QVJ6ZG5DYi1wVUEtaVBKRnVlQVFTaTlHbEpGNDNIT2FJN01uVnlmT0RwaHJVZFQwY3l1SndlR2ViZDBVRHhiWVlfc241TTFkeTBuRGlxRlpiWnE4LTliS3FjaGpQWkZMSnZtUi10dmNMLW1RdVRkU1B4bDUySzFlQ2s?oc=5",
       "title": "Troy Parrott hailed as 'saviour' in Spanish media transfer verdict after Tottenham windfall - Football London",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNclBxUnRWQ0pmcWpOMkMtUkF3R3lDZTNMMU9BSlFmeXlZVVpReGx2NG1yMWc3bWlpVjRoR05lRmZyNC1taTVqc3JHV2Z1WGtob3ViUmxRMzV2NHJsd2xBNzc4ampkMkNPX0hGY0N4bWhZSGVBdVE5UkxDX0NTSGYzQXNMam9vWm5tWUlPd3d2WHBJLTY0NEdSRXdBYUp4M3fSAaQBQVVfeXFMT3pFYWloTTRxclJUN2VpZlFZbjRjZ1djTUlVU2VhVGg4Tld4QVJ6ZG5DYi1wVUEtaVBKRnVlQVFTaTlHbEpGNDNIT2FJN01uVnlmT0RwaHJVZFQwY3l1SndlR2ViZDBVRHhiWVlfc241TTFkeTBuRGlxRlpiWnE4LTliS3FjaGpQWkZMSnZtUi10dmNMLW1RdVRkU1B4bDUySzFlQ2s?oc=5",
@@ -961,16 +941,6 @@
       "sourceKey": "tottenham-football-london-monitor",
       "sourceName": "Football.London Tottenham monitor",
       "status": "업데이트"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeXh4Yng2MWhLbXJVbUZld3o2U2tTdzNMU1pmbFlBT2lTZ0RzTGRkY1hQTm51dXdDRTV1QkJHOFIwWnBUSnFHTDZXX3hjcjd3dXBrdGpMdUtFRW5tYmN3TWdMQ0cwR20yM3BGZDUwLXlGUXdkWlpSWTdiN3UwUHhOcGdvS1VOcmlCc052NGtENUYyaGltOER6ckMzMDlna0hDSkh4OWx6eEJYYkhUM1lFWGFIT2h2eTdHbnc?oc=5",
-      "title": "Transfer rumors, news: Liverpool eye Endrick in case Minteh deal fails - ESPN",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeXh4Yng2MWhLbXJVbUZld3o2U2tTdzNMU1pmbFlBT2lTZ0RzTGRkY1hQTm51dXdDRTV1QkJHOFIwWnBUSnFHTDZXX3hjcjd3dXBrdGpMdUtFRW5tYmN3TWdMQ0cwR20yM3BGZDUwLXlGUXdkWlpSWTdiN3UwUHhOcGdvS1VOcmlCc052NGtENUYyaGltOER6ckMzMDlna0hDSkh4OWx6eEJYYkhUM1lFWGFIT2h2eTdHbnc?oc=5",
-      "publishedAt": "2026-08-22T10:44:45.000Z",
-      "summary": "Transfer rumors, news: Liverpool eye Endrick in case Minteh deal fails &nbsp;&nbsp; ESPN",
-      "sourceKey": "romano-monitor",
-      "sourceName": "Fabrizio Romano 검색 모니터",
-      "status": "루머"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCWUZSVXRLaFp4UGVxQmtXZEd5WUg3ZjlvcTJ2T1k3ZEEtUU5zRzlUQldTQmZ0X2l3aWo1ZV8zSHlMQV9PN3huOEFOc3R5ZkF0aGVwVTlR?oc=5",
@@ -1053,16 +1023,6 @@
       "status": "업데이트"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOUkzY25NSzRMTzdkY0tCa2dQbTlpcV90QmY2c0JOWTFPb0VnRU1rUjJhbGVhRExlc0J2dG04cnZNdEFoRnRuaWQ1RktfTlhVbGFWeTY3R0daWnhuVk1lMGgxYm1BODFMQ1cxTGU5RTl1S1MxeHNaWWNMZWxwQXJ6TGdhYjEtY0M3QjBWWG15TWdBOURwX2pfRnJQUHZPUV9adHBYWVYwVjQzX1JlVW5sN0wtT3F6QmZ6UVM4S1NaVUJFY2M3eERTcmRR?oc=5",
-      "title": "Transfer news: Summer transfer window 2026 - Premier League deals, ins and outs - Sky Sports",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOUkzY25NSzRMTzdkY0tCa2dQbTlpcV90QmY2c0JOWTFPb0VnRU1rUjJhbGVhRExlc0J2dG04cnZNdEFoRnRuaWQ1RktfTlhVbGFWeTY3R0daWnhuVk1lMGgxYm1BODFMQ1cxTGU5RTl1S1MxeHNaWWNMZWxwQXJ6TGdhYjEtY0M3QjBWWG15TWdBOURwX2pfRnJQUHZPUV9adHBYWVYwVjQzX1JlVW5sN0wtT3F6QmZ6UVM4S1NaVUJFY2M3eERTcmRR?oc=5",
-      "publishedAt": "2026-08-22T07:00:00.000Z",
-      "summary": "Transfer news: Summer transfer window 2026 - Premier League deals, ins and outs &nbsp;&nbsp; Sky Sports",
-      "sourceKey": "tottenham-sky-monitor",
-      "sourceName": "Sky Sports Tottenham monitor",
-      "status": "루머"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUXpFTG9MX3NsLWVCenZwcTJ5aTVqcjdrQ1VPM29VZlFiS21yRWYzYldVNi1oaWRUODhBc3BGNEQwY18xYy10dGpmRmU4TDR0RnNDYXo0UkdMS084N2hraTF6cTVVLUE5ckxYVHBVQnhfUks1WjBraVRxNnJpV29sdG1JYTJGLU15UURxMm84cjJjWGlSWWhYYWdCTVRVYjRrWUE?oc=5",
       "title": "Transfer: Moffi to undergo Hamburg medical ahead of permanent switch - Daily Post Nigeria",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUXpFTG9MX3NsLWVCenZwcTJ5aTVqcjdrQ1VPM29VZlFiS21yRWYzYldVNi1oaWRUODhBc3BGNEQwY18xYy10dGpmRmU4TDR0RnNDYXo0UkdMS084N2hraTF6cTVVLUE5ckxYVHBVQnhfUks1WjBraVRxNnJpV29sdG1JYTJGLU15UURxMm84cjJjWGlSWWhYYWdCTVRVYjRrWUE?oc=5",
@@ -1081,6 +1041,16 @@
       "sourceKey": "instagram-indirect-monitor",
       "sourceName": "Instagram 간접 검색 모니터",
       "status": "업데이트"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYmRLUUVPelQ5bXVnUjNqNnpwZlhOeWo2bmxpZlc5Q3hRd3k3R3FPNnpMY2oxb2YzV2xNc1pweDd6UmlHUUhqSHltR2ZTVy0weDNqb2ZYTU9oa2dPa2NDRG9fc0stQUxxTGU4el9XS1ZCdllpVWhiOWdhTUhYVGV2VDhFRXIwbW9HU3lDaF9IaHhhaDN2V0xaTDZXWWdaYklsUVdkUUdDVFNzS2lDVWpleFZRc2NCQnJaYnV6LXJMQ1dGT3piVXU0S2dBZ2xyYTg?oc=5",
+      "title": "Transfer news LIVE: Arsenal triple deal, Alvarez boost; Man Utd medical - London Evening Standard",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOYmRLUUVPelQ5bXVnUjNqNnpwZlhOeWo2bmxpZlc5Q3hRd3k3R3FPNnpMY2oxb2YzV2xNc1pweDd6UmlHUUhqSHltR2ZTVy0weDNqb2ZYTU9oa2dPa2NDRG9fc0stQUxxTGU4el9XS1ZCdllpVWhiOWdhTUhYVGV2VDhFRXIwbW9HU3lDaF9IaHhhaDN2V0xaTDZXWWdaYklsUVdkUUdDVFNzS2lDVWpleFZRc2NCQnJaYnV6LXJMQ1dGT3piVXU0S2dBZ2xyYTg?oc=5",
+      "publishedAt": "2026-08-21T23:35:43.000Z",
+      "summary": "Transfer news LIVE: Arsenal triple deal, Alvarez boost; Man Utd medical &nbsp;&nbsp; London Evening Standard",
+      "sourceKey": "romano-monitor",
+      "sourceName": "Fabrizio Romano 검색 모니터",
+      "status": "루머"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQRk8tUi1ERXg3V2JqYXFvUDV4VW1tS0thMjRJZm1ET2h0WFZ3LWNXMzZDVmR6X1dlZ0tOZWpweVZnQTBiUkZGZDFEbU14LWU3ajhrY1RfbFRud1p4c0VXeVdzZDdPX1F6VFByT0M0RmpsSFVOR2ktME5tTVQzdWgwYUpNLUVDRmJEUGtpVEpvUzlSM01HYWtwdC1FeDlQU055OTliTU5aT3NvdWZ4Z3ZoTU5JUVcwM3loZW1Jc0N6ZEs5bXFvN0VWczlicGx6cmthQ2NQWmdGLWRLQVY4UUhEYkRkbWVBcEo4dmhxSl9iVjJqS3RmbUc5ZENXdTd4OHFYMFBIUC1Ua09jNWNSdWxzMU8zcU8wdGR5SExDWThpS0c?oc=5",
@@ -1163,11 +1133,21 @@
       "status": "업데이트"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWUFIUnNqSTF3UUl0bmxiVERSMm05b0tIYlltNkJreHVydE80bUFmWE9NX2lCbVRyb0pKLVZRX3VGbmdLeUpuMzFvSnZBcHR1QlRYOHYxU0pvOVlJd1FpOUtCbmhUcWtZZ3JONWw0WGd0Z2ZOekNCbDBFVUNZTWVNU2dSZllGMGZhOFRkal9feFUwbnJvcVVaUl9rdkNRbmkyU0JZ?oc=5",
-      "title": "Man United agree to £70m deal for Brighton's Carlos Baleba - sources - ESPN Philippines",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWUFIUnNqSTF3UUl0bmxiVERSMm05b0tIYlltNkJreHVydE80bUFmWE9NX2lCbVRyb0pKLVZRX3VGbmdLeUpuMzFvSnZBcHR1QlRYOHYxU0pvOVlJd1FpOUtCbmhUcWtZZ3JONWw0WGd0Z2ZOekNCbDBFVUNZTWVNU2dSZllGMGZhOFRkal9feFUwbnJvcVVaUl9rdkNRbmkyU0JZ?oc=5",
-      "publishedAt": "2026-08-21T20:34:42.000Z",
-      "summary": "Man United agree to £70m deal for Brighton's Carlos Baleba - sources &nbsp;&nbsp; ESPN Philippines",
+      "id": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYnh3VmRLMDF0aXhTNXJDZk9kY0RoYnRnNFZ4Vll6WkJJaUJwNzZEQlplMVJMMElKSll3TFdlQnFKWWFWWXFHNDYxMlMzU1BhUUdjcVgteXZNYXJKd01qYzlIYTNvQVo0Q2lvWERENllSeVhuWXpwUTBTdk9YaXNkN241dUxIUFFELWJnd3hDdHdLTUZzQ0RXeW8xLUYzVDhRc2MxblFmRkFKREtJdEVYeWQxazR1NklPdDFQeA?oc=5",
+      "title": "Fabrizio Romano’s latest Tottenham transfer update could define their entire summer - Read Tottenham",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNYnh3VmRLMDF0aXhTNXJDZk9kY0RoYnRnNFZ4Vll6WkJJaUJwNzZEQlplMVJMMElKSll3TFdlQnFKWWFWWXFHNDYxMlMzU1BhUUdjcVgteXZNYXJKd01qYzlIYTNvQVo0Q2lvWERENllSeVhuWXpwUTBTdk9YaXNkN241dUxIUFFELWJnd3hDdHdLTUZzQ0RXeW8xLUYzVDhRc2MxblFmRkFKREtJdEVYeWQxazR1NklPdDFQeA?oc=5",
+      "publishedAt": "2026-08-21T21:26:14.000Z",
+      "summary": "Fabrizio Romano’s latest Tottenham transfer update could define their entire summer &nbsp;&nbsp; Read Tottenham",
+      "sourceKey": "romano-monitor",
+      "sourceName": "Fabrizio Romano 검색 모니터",
+      "status": "루머"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeloyZG1QX002bWlzNVBlcUtsZ1B2aURvakdRdG01X3RSMWh2eWVmRmlKc21ZUC03NU1CeE1vUWZlRS1GODUtS2hwVWJ6dl9rSS12WTV1ckNEZF9vbl9XbzN2REJNNWZtdmVGaTNWMWpESFNlNC0xdTlWQkhSaXFGeVAxQkJ2RGVYei13bFV3SFFXbm9kR2txOHlROHFpdjBwOE5oOHkyby0?oc=5",
+      "title": "Man United agree to £70m deal for Brighton's Carlos Baleba - sources - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeloyZG1QX002bWlzNVBlcUtsZ1B2aURvakdRdG01X3RSMWh2eWVmRmlKc21ZUC03NU1CeE1vUWZlRS1GODUtS2hwVWJ6dl9rSS12WTV1ckNEZF9vbl9XbzN2REJNNWZtdmVGaTNWMWpESFNlNC0xdTlWQkhSaXFGeVAxQkJ2RGVYei13bFV3SFFXbm9kR2txOHlROHFpdjBwOE5oOHkyby0?oc=5",
+      "publishedAt": "2026-08-21T20:47:57.000Z",
+      "summary": "Man United agree to £70m deal for Brighton's Carlos Baleba - sources &nbsp;&nbsp; ESPN",
       "sourceKey": "rob-dawson-monitor",
       "sourceName": "Rob Dawson monitor",
       "status": "업데이트"
@@ -1201,18 +1181,38 @@
       "sourceKey": "official-liverpool-monitor",
       "sourceName": "Liverpool official-site monitor",
       "status": "루머"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMEFEZ0dyYm1lUlNuREdzYXNKRmYxeTh4S3VQcThGTmlLN0JZcmloTnUxQTJQb0RtRWFhQ1YwWFRwcXZlNUpfbk9uOGNrZHg1ZDNndkxUWTVvbE9NWWpWUi1zSnh3TXZiVF9tM3RCRk1fRVVXSTRlMHpob050TUZvSVZRNzduam5DN1Z5X0dYMXUyMlZIZ20wMmU0WmU3Z3JRTVBBS2J5empiTnZLNE93ZFhsd194dnhUN3FpM3hEYjlMVEQ5TGlMSjFUMWxrZTF1U2FNOV9iYWZxZHp4TkE?oc=5",
+      "title": "Carlos Baleba transfer news: Manchester United and Brighton agree £70m deal for midfielder - Sky Sports",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMEFEZ0dyYm1lUlNuREdzYXNKRmYxeTh4S3VQcThGTmlLN0JZcmloTnUxQTJQb0RtRWFhQ1YwWFRwcXZlNUpfbk9uOGNrZHg1ZDNndkxUWTVvbE9NWWpWUi1zSnh3TXZiVF9tM3RCRk1fRVVXSTRlMHpob050TUZvSVZRNzduam5DN1Z5X0dYMXUyMlZIZ20wMmU0WmU3Z3JRTVBBS2J5empiTnZLNE93ZFhsd194dnhUN3FpM3hEYjlMVEQ5TGlMSjFUMWxrZTF1U2FNOV9iYWZxZHp4TkE?oc=5",
+      "publishedAt": "2026-08-21T19:43:26.000Z",
+      "summary": "Carlos Baleba transfer news: Manchester United and Brighton agree £70m deal for midfielder &nbsp;&nbsp; Sky Sports",
+      "sourceKey": "tottenham-sky-monitor",
+      "sourceName": "Sky Sports Tottenham monitor",
+      "status": "루머"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/11095/13575603/carlos-baleba-transfer-news-manchester-united-and-brighton-agree-70m-deal-for-midfielder",
+      "title": "Carlos Baleba transfer news: Manchester United and Brighton agree &#163;70m deal for midfielder",
+      "url": "https://www.skysports.com/football/news/11095/13575603/carlos-baleba-transfer-news-manchester-united-and-brighton-agree-70m-deal-for-midfielder",
+      "publishedAt": "2026-08-21T19:38:00.000Z",
+      "summary": "Sky Sports football sitemap에서 가져온 실시간 헤드라인입니다.",
+      "sourceKey": "sky-sports",
+      "sourceName": "Sky Sports",
+      "status": "루머"
     }
   ],
   "sourceHealth": [
     {
       "source": "BBC Sport RSS",
       "ok": true,
-      "count": 16
+      "count": 15
     },
     {
       "source": "Sky Sports sitemap",
       "ok": true,
-      "count": 25
+      "count": 24
     },
     {
       "source": "ESPN FC page",
@@ -1222,7 +1222,7 @@
     {
       "source": "The Guardian Football RSS",
       "ok": true,
-      "count": 27
+      "count": 28
     },
     {
       "source": "Fabrizio Romano Google News",
@@ -1232,22 +1232,22 @@
     {
       "source": "David Ornstein Google News",
       "ok": true,
-      "count": 86
+      "count": 85
     },
     {
       "source": "The Athletic Google News",
       "ok": true,
-      "count": 18
+      "count": 16
     },
     {
       "source": "Gianluca Di Marzio Google News",
       "ok": true,
-      "count": 67
+      "count": 68
     },
     {
       "source": "Matteo Moretto Google News",
       "ok": true,
-      "count": 52
+      "count": 53
     },
     {
       "source": "Ben Jacobs Google News",
@@ -1257,7 +1257,7 @@
     {
       "source": "Florian Plettenberg Google News",
       "ok": true,
-      "count": 62
+      "count": 63
     },
     {
       "source": "Kaveh Solhekol Google News",
@@ -1272,12 +1272,12 @@
     {
       "source": "Tom Barclay Google News",
       "ok": true,
-      "count": 35
+      "count": 36
     },
     {
       "source": "Sami Mokbel Google News",
       "ok": true,
-      "count": 58
+      "count": 59
     },
     {
       "source": "Mike McGrath Google News",
@@ -1287,12 +1287,12 @@
     {
       "source": "James Pearce Google News",
       "ok": true,
-      "count": 45
+      "count": 44
     },
     {
       "source": "Laurie Whitwell Google News",
       "ok": true,
-      "count": 41
+      "count": 40
     },
     {
       "source": "Simon Stone Google News",
@@ -1337,7 +1337,7 @@
     {
       "source": "Fabrizio Romano Instagram mentions",
       "ok": true,
-      "count": 4
+      "count": 5
     },
     {
       "source": "Florian Plettenberg Instagram mentions",
@@ -1352,12 +1352,12 @@
     {
       "source": "Matteo Moretto Instagram mentions",
       "ok": true,
-      "count": 75
+      "count": 74
     },
     {
       "source": "Santi Aouna Instagram mentions",
       "ok": true,
-      "count": 85
+      "count": 86
     },
     {
       "source": "Arsenal official-site monitor",
@@ -1377,7 +1377,7 @@
     {
       "source": "Bayern official-site monitor",
       "ok": true,
-      "count": 32
+      "count": 31
     },
     {
       "source": "Manchester City official-site monitor",
@@ -1392,7 +1392,7 @@
     {
       "source": "Chelsea official-site monitor",
       "ok": true,
-      "count": 83
+      "count": 84
     },
     {
       "source": "Liverpool official-site monitor",
@@ -1417,12 +1417,12 @@
     {
       "source": "Charlie Eccleshare Tottenham monitor",
       "ok": true,
-      "count": 22
+      "count": 21
     },
     {
       "source": "Jack Pitt-Brooke Tottenham monitor",
       "ok": true,
-      "count": 28
+      "count": 27
     },
     {
       "source": "James Maw Tottenham monitor",
@@ -1447,7 +1447,7 @@
     {
       "source": "Sky Sports Tottenham monitor",
       "ok": true,
-      "count": 72
+      "count": 66
     },
     {
       "source": "X API direct monitor",
