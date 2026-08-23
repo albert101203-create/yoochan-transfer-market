@@ -11,7 +11,7 @@ const LIVE_CACHE_FILE = path.join(CACHE_DIR, "live-headlines.json");
 const DRAFT_CACHE_FILE = path.join(CACHE_DIR, "auto-drafts.json");
 const PROMOTED_CACHE_FILE = path.join(CACHE_DIR, "promoted-candidates.json");
 const DRAFT_ARCHIVE_LIMIT = 200;
-const LIVE_HEADLINE_LIMIT = 80;
+const LIVE_HEADLINE_LIMIT = 120;
 const PINNED_HEADLINE_LIMITS = {
   "official-tottenham-monitor": 12,
 };
@@ -124,6 +124,7 @@ const TEAM_ALIASES = {
   Gunners: "Arsenal",
   Spurs: "Tottenham",
   "Man Utd": "Manchester United",
+  "Man United": "Manchester United",
   "Man City": "Manchester City",
   Palace: "Crystal Palace",
   Barça: "Barcelona",
@@ -176,6 +177,23 @@ const SOURCE_TIERS = {
   "plettenberg-monitor": "medium",
   "solhekol-monitor": "medium",
   "santi-aouna-monitor": "medium",
+  "tom-barclay-monitor": "medium",
+  "sami-mokbel-monitor": "medium",
+  "mike-mcgrath-monitor": "medium",
+  "james-pearce-monitor": "medium",
+  "laurie-whitwell-monitor": "medium",
+  "simon-stone-monitor": "medium",
+  "rob-dawson-monitor": "medium",
+  "mark-ogden-monitor": "medium",
+  "david-hytner-monitor": "medium",
+  "paul-joyce-monitor": "medium",
+  "fabrice-hawkins-monitor": "medium",
+  "miguel-delaney-monitor": "medium",
+  "melissa-reddy-monitor": "medium",
+  "michael-bridge-monitor": "medium",
+  "charlie-eccleshare-monitor": "medium",
+  "jack-pitt-brooke-monitor": "medium",
+  "james-maw-monitor": "medium",
   "official-arsenal-monitor": "high",
   "official-barcelona-monitor": "high",
   "official-real-madrid-monitor": "high",
@@ -307,6 +325,84 @@ const LIVE_FEED_SOURCES = [
     "santi-aouna-monitor",
     "Santi Aouna monitor"
   ),
+  googleNewsTransferFeed(
+    "Tom Barclay Google News",
+    '"Tom Barclay" (transfer OR signing OR agreed OR deal)',
+    "tom-barclay-monitor",
+    "Tom Barclay monitor"
+  ),
+  googleNewsTransferFeed(
+    "Sami Mokbel Google News",
+    '"Sami Mokbel" (transfer OR signing OR agreed OR deal)',
+    "sami-mokbel-monitor",
+    "Sami Mokbel monitor"
+  ),
+  googleNewsTransferFeed(
+    "Mike McGrath Google News",
+    '"Mike McGrath" football (transfer OR signing OR agreed OR deal)',
+    "mike-mcgrath-monitor",
+    "Mike McGrath monitor"
+  ),
+  googleNewsTransferFeed(
+    "James Pearce Google News",
+    '"James Pearce" Liverpool (transfer OR signing OR agreed OR deal)',
+    "james-pearce-monitor",
+    "James Pearce monitor"
+  ),
+  googleNewsTransferFeed(
+    "Laurie Whitwell Google News",
+    '"Laurie Whitwell" (Manchester United OR transfer OR signing OR deal)',
+    "laurie-whitwell-monitor",
+    "Laurie Whitwell monitor"
+  ),
+  googleNewsTransferFeed(
+    "Simon Stone Google News",
+    '"Simon Stone" football (transfer OR signing OR agreed OR deal)',
+    "simon-stone-monitor",
+    "Simon Stone monitor"
+  ),
+  googleNewsTransferFeed(
+    "Rob Dawson Google News",
+    '"Rob Dawson" football (transfer OR signing OR agreed OR deal)',
+    "rob-dawson-monitor",
+    "Rob Dawson monitor"
+  ),
+  googleNewsTransferFeed(
+    "Mark Ogden Google News",
+    '"Mark Ogden" football (transfer OR signing OR agreed OR deal)',
+    "mark-ogden-monitor",
+    "Mark Ogden monitor"
+  ),
+  googleNewsTransferFeed(
+    "David Hytner Google News",
+    '"David Hytner" football (transfer OR signing OR agreed OR deal)',
+    "david-hytner-monitor",
+    "David Hytner monitor"
+  ),
+  googleNewsTransferFeed(
+    "Paul Joyce Google News",
+    '"Paul Joyce" Liverpool (transfer OR signing OR agreed OR deal)',
+    "paul-joyce-monitor",
+    "Paul Joyce monitor"
+  ),
+  googleNewsTransferFeed(
+    "Fabrice Hawkins Google News",
+    '"Fabrice Hawkins" (transfer OR signing OR agreed OR deal)',
+    "fabrice-hawkins-monitor",
+    "Fabrice Hawkins monitor"
+  ),
+  googleNewsTransferFeed(
+    "Miguel Delaney Google News",
+    '"Miguel Delaney" football (transfer OR signing OR agreed OR deal)',
+    "miguel-delaney-monitor",
+    "Miguel Delaney monitor"
+  ),
+  googleNewsTransferFeed(
+    "Melissa Reddy Google News",
+    '"Melissa Reddy" football (transfer OR signing OR agreed OR deal)',
+    "melissa-reddy-monitor",
+    "Melissa Reddy monitor"
+  ),
   // Instagram has no unrestricted public feed API for arbitrary reporters.
   // These Google News queries catch public Instagram posts that search engines index.
   googleNewsTransferFeed(
@@ -398,6 +494,30 @@ const LIVE_FEED_SOURCES = [
     '("Alasdair Gold" OR "Dan Kilpatrick" OR "Rob Guest" OR "Jay Harris" OR "Elias Burke") (Tottenham OR Spurs) (transfer OR signing OR deal OR agreed)',
     "tottenham-reporters-monitor",
     "Tottenham reporters monitor"
+  ),
+  googleNewsTransferFeed(
+    "Michael Bridge Tottenham monitor",
+    '"Michael Bridge" Tottenham (transfer OR signing OR agreed OR deal)',
+    "michael-bridge-monitor",
+    "Michael Bridge monitor"
+  ),
+  googleNewsTransferFeed(
+    "Charlie Eccleshare Tottenham monitor",
+    '"Charlie Eccleshare" Tottenham (transfer OR signing OR agreed OR deal)',
+    "charlie-eccleshare-monitor",
+    "Charlie Eccleshare monitor"
+  ),
+  googleNewsTransferFeed(
+    "Jack Pitt-Brooke Tottenham monitor",
+    '"Jack Pitt-Brooke" Tottenham (transfer OR signing OR agreed OR deal)',
+    "jack-pitt-brooke-monitor",
+    "Jack Pitt-Brooke monitor"
+  ),
+  googleNewsTransferFeed(
+    "James Maw Tottenham monitor",
+    '"James Maw" Tottenham (transfer OR signing OR agreed OR deal)',
+    "james-maw-monitor",
+    "James Maw monitor"
   ),
   googleNewsTransferFeed(
     "Football.London Tottenham monitor",
@@ -539,6 +659,7 @@ function normalizeTeamName(team = "") {
 function normalizePlayerName(player = "") {
   const cleaned = normalizeWhitespace(player)
     .replace(/^.*\b(?:youth|prospect|winner|striker|forward|midfielder|defender|goalkeeper|keeper|winger)\s+/i, "")
+    .replace(/\s+-\s+(?:sources?|ESPN|The Athletic|DailySports|Goal(?:\.com)?|Sky Sports|BBC Sport|The New York Times).*$/i, "")
     .replace(/[.,;:]+$/g, "");
   return cleaned || "미상 선수";
 }
@@ -775,6 +896,22 @@ function extractAutoDraft(item) {
       status: "루머",
       extractionConfidence: "medium",
       extractionPattern: "player-transfer-talks",
+    });
+  }
+
+  // "Manchester City reach €100m agreement to sign Moroccan star Ayyoub Bouaddi from Lille".
+  match = title.match(
+    /^(?<to>.+?) reach .*? agreement to sign (?:[A-Za-z]+\s+star\s+)?(?<player>[A-Z][\p{L}'-]+(?:\s+[A-Z][\p{L}'-]+){1,3}) from (?<from>.+?)(?:\s+-\s+.*)?$/iu
+  );
+
+  if (match?.groups) {
+    return makeDraft(item, {
+      player: match.groups.player,
+      fromTeam: match.groups.from,
+      toTeam: match.groups.to,
+      status: "루머",
+      extractionConfidence: "medium",
+      extractionPattern: "club-reaches-agreement-to-sign-player",
     });
   }
 
@@ -1086,6 +1223,14 @@ function normalizeDraftRecord(draft) {
   } else if (/Manchester City have moved forward with plans.*Allan Elias/i.test(title)) {
     normalized.player = "Allan Elias";
     normalized.fromTeam = "Palmeiras";
+    normalized.toTeam = "Manchester City";
+  } else if (/^Man United agree to .* deal for Brighton's Carlos Baleba/i.test(title)) {
+    normalized.player = "Carlos Baleba";
+    normalized.fromTeam = "Brighton";
+    normalized.toTeam = "Manchester United";
+  } else if (/^Manchester City Reach .*Agreement to Sign .*Ayyoub Bouaddi from Lille/i.test(title)) {
+    normalized.player = "Ayyoub Bouaddi";
+    normalized.fromTeam = "Lille";
     normalized.toTeam = "Manchester City";
   } else if (/^Transfer rumors, news: Como want Chelsea's Delap to bolster attack/i.test(title)) {
     normalized.player = "Liam Delap";

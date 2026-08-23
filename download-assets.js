@@ -66,6 +66,8 @@ const SEEDED_ASSETS = {
       "https://a.espncdn.com/i/teamlogos/soccer/500/369.png",
     Fiorentina:
       "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
+    Lille:
+      "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
     "Royale Union Saint-Gilloise":
       "https://upload.wikimedia.org/wikipedia/en/thumb/1/11/Royale_Union_Saint-Gilloise_logo.svg/330px-Royale_Union_Saint-Gilloise_logo.svg.png",
     "AZ Alkmaar":

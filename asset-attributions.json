@@ -418,5 +418,17 @@
     "sourcePage": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
     "sourceImage": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png",
     "note": "Seeded from the existing Wikimedia image reference; verify the image license before redistribution."
+  },
+  "./assets/clubs/lille-511a314e.png": {
+    "name": "Lille",
+    "sourcePage": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
+    "sourceImage": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png",
+    "note": "Seeded from the existing Wikimedia image reference; verify the image license before redistribution."
+  },
+  "./assets/players/ayyoub-bouaddi-9de0f212.jpg": {
+    "name": "Ayyoub Bouaddi",
+    "sourcePage": "https://en.wikipedia.org/wiki/Ayyoub_Bouaddi",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Ayyoub_Bouaddi_Morocco_v_Norway_7_June_2026-71_%28cropped%29.jpg/330px-Ayyoub_Bouaddi_Morocco_v_Norway_7_June_2026-71_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
   }
 }
