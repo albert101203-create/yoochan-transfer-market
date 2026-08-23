@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-23T17:42:12.920Z",
-  "basedOnFetchedAt": "2026-08-23T17:42:12.900Z",
+  "generatedAt": "2026-08-23T18:01:39.083Z",
+  "basedOnFetchedAt": "2026-08-23T18:01:39.059Z",
   "itemCount": 32,
   "archiveLimit": 200,
   "drafts": [
@@ -19,7 +19,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "토트넘 공식 발표에서 직접 추출한 완료 카드입니다.",
       "publishedAt": "2026-08-15 07:12",
-      "lastVerifiedAt": "2026-08-23 17:42",
+      "lastVerifiedAt": "2026-08-23 18:01",
       "extractionConfidence": "high",
       "extractionPattern": "tottenham-official-player-moves",
       "headlineTitle": "Romero moves to Atletico Madrid - Tottenham Hotspur"
@@ -39,7 +39,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "토트넘 공식 발표에서 직접 추출한 완료 카드입니다.",
       "publishedAt": "2026-07-22 07:00",
-      "lastVerifiedAt": "2026-08-23 17:42",
+      "lastVerifiedAt": "2026-08-23 18:01",
       "extractionConfidence": "high",
       "extractionPattern": "tottenham-official-player-moves",
       "headlineTitle": "Lankshear on the move to Boro - Tottenham Hotspur"
@@ -59,7 +59,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "토트넘 공식 발표에서 직접 추출한 완료 카드입니다.",
       "publishedAt": "2026-07-08 07:00",
-      "lastVerifiedAt": "2026-08-23 17:42",
+      "lastVerifiedAt": "2026-08-23 18:01",
       "extractionConfidence": "high",
       "extractionPattern": "tottenham-official-player-joins",
       "headlineTitle": "Dragusin joins Fiorentina - Tottenham Hotspur"
@@ -79,7 +79,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "토트넘 공식 발표에서 직접 추출한 완료 카드입니다.",
       "publishedAt": "2026-07-06 07:00",
-      "lastVerifiedAt": "2026-08-23 17:42",
+      "lastVerifiedAt": "2026-08-23 18:01",
       "extractionConfidence": "high",
       "extractionPattern": "tottenham-official-signing",
       "headlineTitle": "Welcome, Sandro! Tonali makes the move to N17 - Tottenham Hotspur"
@@ -219,7 +219,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-08-21 20:34",
-      "lastVerifiedAt": "2026-08-23 16:55",
+      "lastVerifiedAt": "2026-08-23 18:01",
       "extractionConfidence": "medium",
       "extractionPattern": "club-agree-deal-for-player",
       "headlineTitle": "Man United agree to £70m deal for Brighton's Carlos Baleba - sources - ESPN Philippines"
@@ -379,7 +379,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-08-23 12:28",
-      "lastVerifiedAt": "2026-08-23 17:42",
+      "lastVerifiedAt": "2026-08-23 18:01",
       "extractionConfidence": "medium",
       "extractionPattern": "club-talks-to-sign-player",
       "headlineTitle": "Manchester City Reach €100m Agreement to Sign Moroccan Star Ayyoub Bouaddi from Lille - Dailysports"
