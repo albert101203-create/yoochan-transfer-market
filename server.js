@@ -1328,6 +1328,14 @@ function normalizeDraftRecord(draft) {
     normalized.extractionConfidence = "medium";
     normalized.extractionPattern = "athletic-martinelli-talks";
     normalized.needsVerification = false;
+  } else if (/^Liverpool see .*transfer offer for Yankuba Minteh rejected by Brighton/i.test(title)) {
+    normalized.player = "Yankuba Minteh";
+    normalized.fromTeam = "Brighton";
+    normalized.toTeam = "Liverpool";
+    normalized.status = "\uB8E8\uBA38";
+    normalized.extractionConfidence = "medium";
+    normalized.extractionPattern = "athletic-yankuba-minteh-bid";
+    normalized.needsVerification = false;
   } else if (/^Inter closing in on deal for Liverpool[\u2019']s Curtis Jones/i.test(title)) {
     normalized.player = "Curtis Jones";
     normalized.fromTeam = "Liverpool";
