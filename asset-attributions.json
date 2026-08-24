@@ -436,5 +436,11 @@
     "sourcePage": "https://en.wikipedia.org/wiki/Ashley_Phillips",
     "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Ashley_Phillips_20092025_%283%29_%28cropped%29.jpg/330px-Ashley_Phillips_20092025_%283%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
+  },
+  "./assets/players/manchester-city-c1b9627d.jpg": {
+    "name": "Manchester City",
+    "sourcePage": "https://en.wikipedia.org/wiki/Manchester_City_F.C.",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/330px-Manchester_City_FC_badge.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
   }
 }
