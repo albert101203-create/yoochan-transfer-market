@@ -478,5 +478,11 @@
     "sourcePage": "https://en.wikipedia.org/wiki/Venda_F.C.",
     "sourceImage": "https://upload.wikimedia.org/wikipedia/en/b/b1/Venda_Football_Club_logo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
     "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
+  },
+  "./assets/clubs/brentford-d44ee8b6.jpg": {
+    "name": "Brentford",
+    "sourcePage": "https://en.wikipedia.org/wiki/Brentford_F.C.",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2a/Brentford_FC_crest.svg/330px-Brentford_FC_crest.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
   }
 }

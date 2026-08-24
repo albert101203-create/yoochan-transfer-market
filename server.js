@@ -1352,8 +1352,21 @@ function normalizeDraftRecord(draft) {
 
 function dedupeDrafts(items) {
   const seen = new Set();
+  const resolvedHeadlines = new Set(
+    items
+      .filter((item) => item.headlineTitle && !isUnknownTeamName(item.fromTeam) && !isUnknownTeamName(item.toTeam))
+      .map((item) => `${item.player}|${normalizeWhitespace(item.headlineTitle)}`)
+  );
 
   return items.filter((item) => {
+    const headlineKey = `${item.player}|${normalizeWhitespace(item.headlineTitle || "")}`;
+    if (
+      item.needsVerification &&
+      resolvedHeadlines.has(headlineKey) &&
+      (isUnknownTeamName(item.fromTeam) || isUnknownTeamName(item.toTeam))
+    ) {
+      return false;
+    }
     const key = `${item.player}|${item.toTeam}|${item.sourceUrl}`;
     if (seen.has(key)) return false;
     seen.add(key);
