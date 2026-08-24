@@ -1,7 +1,17 @@
 {
-  "fetchedAt": "2026-08-24T14:06:03.207Z",
+  "fetchedAt": "2026-08-24T14:07:21.912Z",
   "itemCount": 120,
   "items": [
+    {
+      "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wd2taVmdHQU9CZjRSelNXUWNDMjBJR1A5cFJRTDUySTFBZzdGVWxxdlV1a1NrbEVCUjFVOUdqY3F2bFZYeTdyZHVCb1d2aGlWcU9PcDNacTdPQzRNZFVkRGs0eEhVYk53U3FjMlhPOWtNN0lmYjktcTdfMF9GWU0?oc=5",
+      "title": "Phillips joins Middlesbrough - Tottenham Hotspur",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wd2taVmdHQU9CZjRSelNXUWNDMjBJR1A5cFJRTDUySTFBZzdGVWxxdlV1a1NrbEVCUjFVOUdqY3F2bFZYeTdyZHVCb1d2aGlWcU9PcDNacTdPQzRNZFVkRGs0eEhVYk53U3FjMlhPOWtNN0lmYjktcTdfMF9GWU0?oc=5",
+      "publishedAt": "2026-08-15T11:29:28.000Z",
+      "summary": "Phillips joins Middlesbrough &nbsp;&nbsp; Tottenham Hotspur",
+      "sourceKey": "official-tottenham-monitor",
+      "sourceName": "Tottenham official-site monitor",
+      "status": "완료"
+    },
     {
       "id": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPN0h1ZERzTXJPLWJfdEpBVWFtcU1ERXdQc1ZwdGFOR0dXU2prWUVUWno2eWM2UTJjaS0wb2JFb0I1ekFjajJIbG1ybmRVS0RmRzdhdHB5X011dmVzdW9MX2RzbXUtRG1hckRvc3MzY3loaGJZR1VZQlJLWkdXQnhyX0Rfbw?oc=5",
       "title": "Romero moves to Atletico Madrid - Tottenham Hotspur",
@@ -113,24 +123,14 @@
       "status": "업데이트"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRGJYWDhHXy1PNW5SNklwSFllaDRoU21KSWRGWnhYTTJQR0hvSFgxVm1RM2Z5bUpsVlotYUlSc1ZQZDhoYlg1cmprbnE3dS1sU3hDcG1DYU5qOGpwY09qRmd4R1ROMWFDT3kybVVvYjZmSThqbU96SS1QT3YybXN5QUg2SHdreDFJVXlWZmlB?oc=5",
-      "title": "Panengstuen signs for Spurs - Tottenham Hotspur",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRGJYWDhHXy1PNW5SNklwSFllaDRoU21KSWRGWnhYTTJQR0hvSFgxVm1RM2Z5bUpsVlotYUlSc1ZQZDhoYlg1cmprbnE3dS1sU3hDcG1DYU5qOGpwY09qRmd4R1ROMWFDT3kybVVvYjZmSThqbU96SS1QT3YybXN5QUg2SHdreDFJVXlWZmlB?oc=5",
-      "publishedAt": "2026-06-30T07:00:00.000Z",
-      "summary": "Panengstuen signs for Spurs &nbsp;&nbsp; Tottenham Hotspur",
-      "sourceKey": "official-tottenham-monitor",
-      "sourceName": "Tottenham official-site monitor",
-      "status": "완료"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUFI2dngwQXBscEdhdjFGaGZaQ096WnA2Y211eFVETTU3UFNrYXI5eFVtVWNsV1RJVGZleE1nVld3aDRpcXo4TTVlSC1CMTJ4bmM3Q2xZRWxwRmZVT0RpVDFHQkhXb24tajAxSVExSTNDbHlnSXVxSVg4a2pGQ1ZCY3BLNWlZMTRSQ0wwaGQ5XzBCZlJMZkE4VHZXZw?oc=5",
-      "title": "Arsenal transfer news LIVE - Julian Alvarez bombshell, Yildiz update, Martinelli record sale - Football London",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUFI2dngwQXBscEdhdjFGaGZaQ096WnA2Y211eFVETTU3UFNrYXI5eFVtVWNsV1RJVGZleE1nVld3aDRpcXo4TTVlSC1CMTJ4bmM3Q2xZRWxwRmZVT0RpVDFHQkhXb24tajAxSVExSTNDbHlnSXVxSVg4a2pGQ1ZCY3BLNWlZMTRSQ0wwaGQ5XzBCZlJMZkE4VHZXZw?oc=5",
-      "publishedAt": "2026-08-24T13:52:53.000Z",
-      "summary": "Arsenal transfer news LIVE - Julian Alvarez bombshell, Yildiz update, Martinelli record sale &nbsp;&nbsp; Football London",
+      "id": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR0h2NlBwUFF3S1FHSGk1XzNlWmV2LUpiWEpzWmpyVFM4SXpRN3Y5RloxM05rZUptN2pyY3Z0WEctQzVKeG5fVGY5Wm13UWNrSkVTUGxobmFJSmNUMV9PU0Z0cWt2cmtPc2MwUnNndnp4VUptNzJDLVE1WjJrOEllTUtKbmFiWl9uRkxuM1plU2YtTTZrNkJTYVY3aUxRU3NIMUNfVWh2d1VJNHJu?oc=5",
+      "title": "Revealed: How many signings Liverpool will make before the transfer deadline - Football365",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR0h2NlBwUFF3S1FHSGk1XzNlWmV2LUpiWEpzWmpyVFM4SXpRN3Y5RloxM05rZUptN2pyY3Z0WEctQzVKeG5fVGY5Wm13UWNrSkVTUGxobmFJSmNUMV9PU0Z0cWt2cmtPc2MwUnNndnp4VUptNzJDLVE1WjJrOEllTUtKbmFiWl9uRkxuM1plU2YtTTZrNkJTYVY3aUxRU3NIMUNfVWh2d1VJNHJu?oc=5",
+      "publishedAt": "2026-08-24T14:04:37.000Z",
+      "summary": "Revealed: How many signings Liverpool will make before the transfer deadline &nbsp;&nbsp; Football365",
       "sourceKey": "romano-monitor",
       "sourceName": "Fabrizio Romano 검색 모니터",
-      "status": "루머"
+      "status": "업데이트"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQM1Q2M0FsMDFfb0VGbnZRUDFGdy1takV2UmIzV291UzNjczU1WjdUdnZYamtDT0FBRkJjaXo1QnNGRzVqeUN5UVdtOUd2WVNPQ09uQjQ4czhSUDlycW9waEZRWWV3dXdEQjFxb1lxX0NXNGhvNm5ucU5JSGNSbVBaYlRha2VwM0MtM2pHTl93?oc=5",
@@ -174,13 +174,23 @@
     },
     {
       "id": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbkpjaU11WmZEaWVWMHo5NGhOVEVJSUdwQmdVeGRkWS0xVGFzNlBVU2NzNVdMTHI2SkdZVjc3S2loSmtZaTkyMERnOTFqUTZvZXMtX3dmbzJkWHA1eXg4TnJ1bmZ4d3ZPVDljb0tZaDZaOWkwWlNjem04RlFrOGZwUFh1XzBtUFU?oc=5",
-      "title": "Transfer news LIVE: Julian Alvarez meeting, announcement imminent, Liverpool and Man Utd latest - Daily Mirror",
+      "title": "Transfer news LIVE: Julian Alvarez meeting, announcement imminent, Liverpool and Man Utd latest - The Mirror",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbkpjaU11WmZEaWVWMHo5NGhOVEVJSUdwQmdVeGRkWS0xVGFzNlBVU2NzNVdMTHI2SkdZVjc3S2loSmtZaTkyMERnOTFqUTZvZXMtX3dmbzJkWHA1eXg4TnJ1bmZ4d3ZPVDljb0tZaDZaOWkwWlNjem04RlFrOGZwUFh1XzBtUFU?oc=5",
       "publishedAt": "2026-08-24T13:26:36.000Z",
-      "summary": "Transfer news LIVE: Julian Alvarez meeting, announcement imminent, Liverpool and Man Utd latest &nbsp;&nbsp; Daily Mirror",
+      "summary": "Transfer news LIVE: Julian Alvarez meeting, announcement imminent, Liverpool and Man Utd latest &nbsp;&nbsp; The Mirror",
       "sourceKey": "romano-monitor",
       "sourceName": "Fabrizio Romano 검색 모니터",
       "status": "루머"
+    },
+    {
+      "id": "https://www.theguardian.com/football/video/2026/aug/24/manchester-united-mauled-and-sorry-spurs-mark-premier-league-kick-off-football-weekly-video",
+      "title": "Manchester United mauled and sorry Spurs mark Premier League kick-off | Football Weekly – video",
+      "url": "https://www.theguardian.com/football/video/2026/aug/24/manchester-united-mauled-and-sorry-spurs-mark-premier-league-kick-off-football-weekly-video",
+      "publishedAt": "2026-08-24T13:25:55.000Z",
+      "summary": "Max Rushden is joined by Barry Glendenning , Lars Sivertsen and Sam Dalling as United and Spurs have dismal starts to their seasons Continue reading...",
+      "sourceKey": "guardian-football",
+      "sourceName": "The Guardian Football",
+      "status": "업데이트"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZlJQeFEzOEQ0ZlhRNnJBZVdGRTJvZU1wc2tyc0pmMlBDVW9jYXB2ZGx4enpUZ01abTRFR3VfQlItTVdQV0xVanQ5WmNhMVhVa252T0tEdDdqSXNFOWVnSU5KM0tyWGViSWR5MXFPeGZQUHlEUDFVS1BWU0VhdWk5SzlWdXJPYVp5RURjSXFYaFczSGpodDFHb2MtOEZycHdtc0Rld1hzQdIBrAFBVV95cUxOQi13cEl1Mk94Szc1czlvRFZMNnNHMXg5RW0zUUw3ZnY3eGlGdzUxbTZtaXZydjZTUHFRUzJUczBieG8zM0NJSHFrbENBYkhMNlVpNWJrX0JveGRtd0RMTUNJRGE0X3FRN3ViaXd6YlJHN2pfNER1d2RJTWlHb0FUNkZETUhMQ282b3EtMGFkRHFQbm9JYzNtazlMM0RONEhLSFViZldER3RmeHYt?oc=5",
@@ -213,16 +223,6 @@
       "status": "루머"
     },
     {
-      "id": "49709318",
-      "title": "Transfer rumors, news: Man City ready to sign Enzo Fernández for £120M",
-      "url": "https://www.espn.com/soccer/story/_/id/49709318/transfer-rumors-news-man-city-ready-sign-enzo-fernandez-120m",
-      "publishedAt": "2026-08-24T13:07:00.000Z",
-      "summary": "ESPN FC soccer 최신 피드에서 가져온 실시간 헤드라인입니다.",
-      "sourceKey": "espn-fc",
-      "sourceName": "ESPN FC",
-      "status": "루머"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQM0R1N1hyUXc2dVNVamU1SFBYdzF0MkljY0JtVmt5R1hxZE9yMXljaURCT3VfX3NLTG9iTFlINnRubVFyU21YeDJvcTJrdTNnMFRELVNpYmpfY3NPSGFnOWdoYzZCWXBiTi1Tall3WmVOZU5VMjd1Q3VYeGwyQ0UtUUFyNVd4VDR5cEZfVm9IR1p6YU4yMGhXeUVxV25YTU9iWkR5QW91STVjdC1MMFJHMlNQR1hDV1VONlYtZHZ6TzktdFB2YlZGMHp4dG12MWZzT0E?oc=5",
       "title": "Romano: Premier League team in “daily contact” with Chelsea over big transfer - LiveScore",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQM0R1N1hyUXc2dVNVamU1SFBYdzF0MkljY0JtVmt5R1hxZE9yMXljaURCT3VfX3NLTG9iTFlINnRubVFyU21YeDJvcTJrdTNnMFRELVNpYmpfY3NPSGFnOWdoYzZCWXBiTi1Tall3WmVOZU5VMjd1Q3VYeGwyQ0UtUUFyNVd4VDR5cEZfVm9IR1p6YU4yMGhXeUVxV25YTU9iWkR5QW91STVjdC1MMFJHMlNQR1hDV1VONlYtZHZ6TzktdFB2YlZGMHp4dG12MWZzT0E?oc=5",
@@ -243,26 +243,6 @@
       "status": "루머"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeXYwOFlMUXNJcXlNcEFnTVFVTWFVcmQxb0ZXenJhMU9NRkkyS0JXVnJrRnFZbXNCd2hNMGNrWkk2cEtibkIxa1ZTbmNadUxMTVYwSW5wRE55VDdnUFlKNTZMZ1ZUWTFfSFJqQjRnOWI0aThCMll5aFg4c05URmY2SHAzM1BoTERpZ2M3OEs5VFc1ckxRMFNSVmNqVEZXV2FW?oc=5",
-      "title": "Liverpool see £60m transfer offer for Yankuba Minteh rejected by Brighton - The Athletic - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeXYwOFlMUXNJcXlNcEFnTVFVTWFVcmQxb0ZXenJhMU9NRkkyS0JXVnJrRnFZbXNCd2hNMGNrWkk2cEtibkIxa1ZTbmNadUxMTVYwSW5wRE55VDdnUFlKNTZMZ1ZUWTFfSFJqQjRnOWI0aThCMll5aFg4c05URmY2SHAzM1BoTERpZ2M3OEs5VFc1ckxRMFNSVmNqVEZXV2FW?oc=5",
-      "publishedAt": "2026-08-24T13:02:00.000Z",
-      "summary": "Liverpool see £60m transfer offer for Yankuba Minteh rejected by Brighton - The Athletic &nbsp;&nbsp; The New York Times",
-      "sourceKey": "ornstein-monitor",
-      "sourceName": "David Ornstein 검색 모니터",
-      "status": "업데이트"
-    },
-    {
-      "id": "48990955",
-      "title": "Men's transfer grades: Arsenal get a B for Konsa",
-      "url": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
-      "publishedAt": "2026-08-24T12:57:58.000Z",
-      "summary": "ESPN FC soccer 최신 피드에서 가져온 실시간 헤드라인입니다.",
-      "sourceKey": "espn-fc",
-      "sourceName": "ESPN FC",
-      "status": "업데이트"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOR0R0X044V1JhOHlMb1ExeTUyWDRqODlyc1JuVi1mcGd0WWM1bndEa0kwZkxJWEVKMkdkZXd5REliUkQtQnZLVmtZb28yZ2FrNk5TcFZaQ3U4TDY0YW4zQm9Fb3E3UGZfWVd5ejAzbk9RcjlESVg1YkVidkc3QkVlVUFKTEVqdXVGeGQya3BXZEFCZ21vODZkSWhlRGRvMUVVbjVqMmpGWWZDT2l5?oc=5",
       "title": "Transfer rumors, news: Man City ready to sign Enzo Fernández for £120M - ESPN",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOR0R0X044V1JhOHlMb1ExeTUyWDRqODlyc1JuVi1mcGd0WWM1bndEa0kwZkxJWEVKMkdkZXd5REliUkQtQnZLVmtZb28yZ2FrNk5TcFZaQ3U4TDY0YW4zQm9Fb3E3UGZfWVd5ejAzbk9RcjlESVg1YkVidkc3QkVlVUFKTEVqdXVGeGQya3BXZEFCZ21vODZkSWhlRGRvMUVVbjVqMmpGWWZDT2l5?oc=5",
@@ -271,16 +251,6 @@
       "sourceKey": "romano-monitor",
       "sourceName": "Fabrizio Romano 검색 모니터",
       "status": "루머"
-    },
-    {
-      "id": "https://www.theguardian.com/football/audio/2026/aug/24/manchester-united-mauled-and-a-sorry-spurs-as-premier-league-kicks-off-football-weekly",
-      "title": "Manchester United mauled and sorry Spurs mark Premier League kick-off: Football Weekly – podcast",
-      "url": "https://www.theguardian.com/football/audio/2026/aug/24/manchester-united-mauled-and-a-sorry-spurs-as-premier-league-kicks-off-football-weekly",
-      "publishedAt": "2026-08-24T12:51:25.000Z",
-      "summary": "Max Rushden is joined by Barry Glendenning , Lars Sivertsen and Sam Dalling as United and Spurs have dismal starts to their seasons Rate, review, share on Apple Podcasts and join the conversation on email . On the podcast today: the instant popping of any enthusiasm for Spurs and Manchester United’s seasons as they were beaten by a superb Brentford and returning heroes Hull City, respectively. Continue reading...",
-      "sourceKey": "guardian-football",
-      "sourceName": "The Guardian Football",
-      "status": "업데이트"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4bkhPSWVOZUxJbTZaQVFRN3RzVTNabzYyWWxYOFVfdGoweDNvNXRidTJTVFlLMTk4SzRDM21PLVdELW9ac0pXNWxiWnlUem1ZSVE?oc=5",
@@ -300,16 +270,6 @@
       "summary": "Sky Sports football sitemap에서 가져온 실시간 헤드라인입니다.",
       "sourceKey": "sky-sports",
       "sourceName": "Sky Sports",
-      "status": "루머"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONm50R0JGcFhCMGNFX0Y0QlZDc3BwU3M4eGtkSDVwMW5uVmc3a1hPY2Nmb0NPZ0RpOXpYdEdDVDNWa01HUkVTaE9pb21XV2Y5UXRHTllIVkdkLUJHX2c3ZXVuR0FrNm01MlNWZkw5a2dmd1NOQjBXdlo4RnNtdjByY3VKQmdyZkdXaEF0Uzl2WEl1SVhabUYtSWdZc0dpN2lRM2pOTndsbk9IZldMeUxyUndWRm1MOWYyYUtRenhFQlM5MDZUQmlEQ2czeXV5UQ?oc=5",
-      "title": "Transfer news LIVE: Arsenal medicals done, Alvarez talks; Man Utd deal - London Evening Standard",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONm50R0JGcFhCMGNFX0Y0QlZDc3BwU3M4eGtkSDVwMW5uVmc3a1hPY2Nmb0NPZ0RpOXpYdEdDVDNWa01HUkVTaE9pb21XV2Y5UXRHTllIVkdkLUJHX2c3ZXVuR0FrNm01MlNWZkw5a2dmd1NOQjBXdlo4RnNtdjByY3VKQmdyZkdXaEF0Uzl2WEl1SVhabUYtSWdZc0dpN2lRM2pOTndsbk9IZldMeUxyUndWRm1MOWYyYUtRenhFQlM5MDZUQmlEQ2czeXV5UQ?oc=5",
-      "publishedAt": "2026-08-24T11:59:39.000Z",
-      "summary": "Transfer news LIVE: Arsenal medicals done, Alvarez talks; Man Utd deal &nbsp;&nbsp; London Evening Standard",
-      "sourceKey": "romano-monitor",
-      "sourceName": "Fabrizio Romano 검색 모니터",
       "status": "루머"
     },
     {
@@ -333,14 +293,14 @@
       "status": "업데이트"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA0OHZRcEpJZDdqOXFDZnU1NzZOTlo2dE1JNVBEdjdLODJ4anQ2QVdlVkdUSXI0THFwVVFHb25zMC1FS19QbUVYREMxUGF2VExLRUE?oc=5",
-      "title": "Terem Moffi gets a fresh start in Germany 🇳🇬🇩🇪 Terem Moffi, 27, has completed a permanent move from OGC Nice to Hamburg, giving the Nigerian striker a new chapter in the Bundesliga. - instagram.com",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA0OHZRcEpJZDdqOXFDZnU1NzZOTlo2dE1JNVBEdjdLODJ4anQ2QVdlVkdUSXI0THFwVVFHb25zMC1FS19QbUVYREMxUGF2VExLRUE?oc=5",
-      "publishedAt": "2026-08-24T11:01:10.000Z",
-      "summary": "Terem Moffi gets a fresh start in Germany 🇳🇬🇩🇪 Terem Moffi, 27, has completed a permanent move from OGC Nice to Hamburg, giving the Nigerian striker a new chapter in the Bundesliga. &nbsp;&nbsp; instagram.com",
-      "sourceKey": "instagram-indirect-monitor",
-      "sourceName": "Instagram 간접 검색 모니터",
-      "status": "완료"
+      "id": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNWpjQm5NY2loc2RvZEpQRzUyNFB3V0NaaTB6SEhGNVAxMkJrbXh3Tnk0QmNFNmFWRUhRdTFDR014MmY3RlAxbTVFTTRsSWtsaXd0Y0lvd01BbjJOeHdwMTVrOGRTcV9waUp6aHZwa3JZNzRxWkpCdTFGNnBvS1U1NDBQaVhaTjJ5TDZzRFBXX0pYZWRtRnFlY3lLSHo5cFdwcVE?oc=5",
+      "title": "Fabrizio Romano: Arsenal Can Complete Julian Alvarez Transfer if Two Things Happen - GiveMeSport",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNWpjQm5NY2loc2RvZEpQRzUyNFB3V0NaaTB6SEhGNVAxMkJrbXh3Tnk0QmNFNmFWRUhRdTFDR014MmY3RlAxbTVFTTRsSWtsaXd0Y0lvd01BbjJOeHdwMTVrOGRTcV9waUp6aHZwa3JZNzRxWkpCdTFGNnBvS1U1NDBQaVhaTjJ5TDZzRFBXX0pYZWRtRnFlY3lLSHo5cFdwcVE?oc=5",
+      "publishedAt": "2026-08-24T11:15:12.000Z",
+      "summary": "Fabrizio Romano: Arsenal Can Complete Julian Alvarez Transfer if Two Things Happen &nbsp;&nbsp; GiveMeSport",
+      "sourceKey": "romano-monitor",
+      "sourceName": "Fabrizio Romano 검색 모니터",
+      "status": "업데이트"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhVjhkdHlGRUh5enNoYUJyWEtlMmdPUzEzYVZEWERORW1VSGVYYWwwNkZiZDdQYU1CVVVwSDR1cUVmblZ1OV84cmNFSkNwSUZ4c0E?oc=5",
@@ -363,16 +323,6 @@
       "status": "완료"
     },
     {
-      "id": "49704497",
-      "title": "UEFA boss Čeferin rules out FIFA presidency bid",
-      "url": "https://www.espn.com/soccer/story/_/id/49704497/aleksander-ceferin-uefa-boss-rules-fifa-presidency-bid",
-      "publishedAt": "2026-08-24T10:13:51.000Z",
-      "summary": "ESPN FC soccer 최신 피드에서 가져온 실시간 헤드라인입니다.",
-      "sourceKey": "espn-fc",
-      "sourceName": "ESPN FC",
-      "status": "루머"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNc0c0MVY4T1VvSlF5LTRRMHZOOF9sOFZTS1N5VklsWkx3dDlUNmFvaHpVSkFXR3NpaTdUWUlza0ViUVF3V2p1ZldQQXBtQWtKb1p4MTVXR0NTRV9raC1IclF1N2xzVnRRbnhiU3dobUtBSjNrdzJvLXlGeko2b2duT3RNa2dlckpWdE1uT0VqRQ?oc=5",
       "title": "Quick! Liverpool must hijack Newcastle deal, Fabrizio Romano confirms 'big progress' - Yahoo Sports",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNc0c0MVY4T1VvSlF5LTRRMHZOOF9sOFZTS1N5VklsWkx3dDlUNmFvaHpVSkFXR3NpaTdUWUlza0ViUVF3V2p1ZldQQXBtQWtKb1p4MTVXR0NTRV9raC1IclF1N2xzVnRRbnhiU3dobUtBSjNrdzJvLXlGeko2b2duT3RNa2dlckpWdE1uT0VqRQ?oc=5",
@@ -390,16 +340,6 @@
       "summary": "Julian Alvarez: Does Atletico Madrid fans booing their own striker increase his chances of an Arsenal or Barcelona move? &nbsp;&nbsp; Sky Sports",
       "sourceKey": "tottenham-sky-monitor",
       "sourceName": "Sky Sports Tottenham monitor",
-      "status": "업데이트"
-    },
-    {
-      "id": "49704190",
-      "title": "Are Tottenham ready to compete with WSL elite after a superb transfer window?",
-      "url": "https://www.espn.com/soccer/story/_/id/49704190/inside-tottenham-plan-break-wsl-elite-superb-transfer-window",
-      "publishedAt": "2026-08-24T09:03:46.000Z",
-      "summary": "ESPN FC soccer 최신 피드에서 가져온 실시간 헤드라인입니다.",
-      "sourceKey": "espn-fc",
-      "sourceName": "ESPN FC",
       "status": "업데이트"
     },
     {
@@ -451,6 +391,16 @@
       "sourceKey": "bbc-sport",
       "sourceName": "BBC Sport",
       "status": "업데이트"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVFFkSGRIOGVqZ0oxV3I4TmZTU2RJd3QwMmdEU3I5QTNFb3dQcDVkd2lDdHhXVTE4UUtHclFPR2FwVTdDeFREcjI3aVVmVFFrTkNsUDRCQkRvUW1taktTNGxNUTFFZnJFWDUzVmRnQUhhVnl6NWFxSl85SWJub0hudFE1enpKM2xpZ01McUkzT0dqSFBMbWZaMkJEdG9xSG1jMjhNVUNqZmZMSC0xOEU0V3I2VmJEaUUzdXdxby00Yw?oc=5",
+      "title": "Transfer rumors, news: Barcelona's Balde open to Man United move - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVFFkSGRIOGVqZ0oxV3I4TmZTU2RJd3QwMmdEU3I5QTNFb3dQcDVkd2lDdHhXVTE4UUtHclFPR2FwVTdDeFREcjI3aVVmVFFrTkNsUDRCQkRvUW1taktTNGxNUTFFZnJFWDUzVmRnQUhhVnl6NWFxSl85SWJub0hudFE1enpKM2xpZ01McUkzT0dqSFBMbWZaMkJEdG9xSG1jMjhNVUNqZmZMSC0xOEU0V3I2VmJEaUUzdXdxby00Yw?oc=5",
+      "publishedAt": "2026-08-24T07:24:00.000Z",
+      "summary": "Transfer rumors, news: Barcelona's Balde open to Man United move &nbsp;&nbsp; ESPN",
+      "sourceKey": "romano-monitor",
+      "sourceName": "Fabrizio Romano 검색 모니터",
+      "status": "루머"
     },
     {
       "id": "https://www.theguardian.com/football/2026/aug/24/football-transfer-rumour-mill-julian-alvarez-arsenal-booed-atletico",
@@ -760,16 +710,6 @@
       "summary": "Cody Gakpo sends Tottenham perfect message after Liverpool transfer update &nbsp;&nbsp; Football London",
       "sourceKey": "tottenham-football-london-monitor",
       "sourceName": "Football.London Tottenham monitor",
-      "status": "업데이트"
-    },
-    {
-      "id": "49701850",
-      "title": "With Guéhi in midfield, Maresca makes transfer needs clear in Man City win",
-      "url": "https://www.espn.com/soccer/story/_/id/49701850/with-marc-guehi-midfield-enzo-maresca-sends-statement-man-city-win-bournemouth",
-      "publishedAt": "2026-08-23T17:38:36.000Z",
-      "summary": "ESPN FC soccer 최신 피드에서 가져온 실시간 헤드라인입니다.",
-      "sourceKey": "espn-fc",
-      "sourceName": "ESPN FC",
       "status": "업데이트"
     },
     {
@@ -1143,6 +1083,16 @@
       "status": "업데이트"
     },
     {
+      "id": "https://www.bbc.co.uk/sport/football/articles/c3w0wpy86z7o?at_medium=RSS&at_campaign=rss",
+      "title": "What does Savinho's £75m move reveal about Man City's multi-club model?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c3w0wpy86z7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-23T07:43:38.000Z",
+      "summary": "Does Savinho's £75m move from Manchester City to Tottenham represent a sporting success for the Abu Dhabi-owned club?",
+      "sourceKey": "bbc-sport",
+      "sourceName": "BBC Sport",
+      "status": "업데이트"
+    },
+    {
       "id": "bluesky:at://did:plc:j62szermx6ods7lp3xqyembx/app.bsky.feed.post/3mtqbdos77k2b",
       "title": "🚨 Aston Villa make contact with Club Brugge for Joel Ordonez. 22yo Ecuador int’l among options #AVFC considering to bolster at centre-back & approach made to #ClubBrugge. No agreement so far on Harwood-Bellis 🚨 W/ @jacobtanswell.bsky.social @theathleticfc.bsky.social www.nytimes.com/athletic/753...",
       "url": "https://bsky.app/profile/david-ornstein.bsky.social/post/3mtqbdos77k2b",
@@ -1201,13 +1151,63 @@
       "sourceKey": "romano-monitor",
       "sourceName": "Fabrizio Romano 검색 모니터",
       "status": "업데이트"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0xVlYxUTVVUGFJQS1sZ2gyaGRwb3R2MTZndmNHRDZwMEhWMkhLT29IdDVVSVlHRXMwWlA2U2Z1eGxOcHFPMlVZMEZhLW0tNnhtRTh5YmdTWDFiVVlGTW5ZaEt4c25hbTdsOWtZWENyRjNSOHhvQzV1Uw?oc=5",
+      "title": "Sounders close to finalizing deal for Dejan Joveljić, reports say - Sounder at Heart",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0xVlYxUTVVUGFJQS1sZ2gyaGRwb3R2MTZndmNHRDZwMEhWMkhLT29IdDVVSVlHRXMwWlA2U2Z1eGxOcHFPMlVZMEZhLW0tNnhtRTh5YmdTWDFiVVlGTW5ZaEt4c25hbTdsOWtZWENyRjNSOHhvQzV1Uw?oc=5",
+      "publishedAt": "2026-08-23T03:59:55.000Z",
+      "summary": "Sounders close to finalizing deal for Dejan Joveljić, reports say &nbsp;&nbsp; Sounder at Heart",
+      "sourceKey": "romano-monitor",
+      "sourceName": "Fabrizio Romano 검색 모니터",
+      "status": "업데이트"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB0b2gzVGM1OFJrbnYzaTdaeHpVc3oycDBTSXI3N3ZxcFdoM2dIVXY1ajZDR2gwbTQ4c1BCazhYbHU2N1FnSERSam5yaldPb0pJSkE?oc=5",
+      "title": "David Ornstein reveals record transfer fee Manchester City set to receive from Tottenham Hotspur for Savinho 👀. Talks are still developing, so the next step could shape the player's future. Would this be the right move? - instagram.com",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB0b2gzVGM1OFJrbnYzaTdaeHpVc3oycDBTSXI3N3ZxcFdoM2dIVXY1ajZDR2gwbTQ4c1BCazhYbHU2N1FnSERSam5yaldPb0pJSkE?oc=5",
+      "publishedAt": "2026-08-23T03:04:00.000Z",
+      "summary": "David Ornstein reveals record transfer fee Manchester City set to receive from Tottenham Hotspur for Savinho 👀. Talks are still developing, so the next step could shape the player's future. Would this be the right move? &nbsp;&nbsp; instagram.com",
+      "sourceKey": "instagram-indirect-monitor",
+      "sourceName": "Instagram 간접 검색 모니터",
+      "status": "루머"
+    },
+    {
+      "id": "https://www.theguardian.com/football/2026/aug/23/jose-mourinho-real-madrid-romance-espanyol-la-liga",
+      "title": "José Mourinho marks Real Madrid return with late drama and touch of humility",
+      "url": "https://www.theguardian.com/football/2026/aug/23/jose-mourinho-real-madrid-romance-espanyol-la-liga",
+      "publishedAt": "2026-08-22T23:21:58.000Z",
+      "summary": "The old master is back at Madrid as he begins with celebrations, frustrations and relief in a 2-1 win at Espanyol José Mourinho says he is calmer now so when the rest of the bench emptied, sprinting down the touchline to celebrate the 90th-minute goal that finally delivered victory on his first game in charge of Real Madrid in 4,380 days, he did not set off with them. Instead, he clenched his fists, got to his feet and walked down the touchline behind the subs, watching them head, shouting, towards Carlos Espí. As they piled on down in the corner, he pulled over his captain Fede Valverde for a word. Which might just have been: phew . For all those stars; for all that Mourinho’s main task might just have been to find a way to fit Kylian Mbappé, Vinícius Júnior and Jude Bellingham together; for all that he had introduced Yan Diomande, the most expensive player in the club’s history , it was a 21-year-old, unknown six months ago and unexpectedly signed from Levante, who got the goal that secured victory upon the coach’s second coming. Continue reading...",
+      "sourceKey": "guardian-football",
+      "sourceName": "The Guardian Football",
+      "status": "업데이트"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12709/13576128/arsenal-transfer-news-mikel-arteta-and-andrea-berta-in-frequent-contact-with-julian-alvarez-amid-hope-of-luring-atletico-madrid-star-paper-talk",
+      "title": "Arsenal transfer news: Mikel Arteta and Andrea Berta in &#039;frequent contact&#039; with Julian Alvarez amid hope of luring Atletico Madrid star - Paper Talk",
+      "url": "https://www.skysports.com/football/news/12709/13576128/arsenal-transfer-news-mikel-arteta-and-andrea-berta-in-frequent-contact-with-julian-alvarez-amid-hope-of-luring-atletico-madrid-star-paper-talk",
+      "publishedAt": "2026-08-22T21:00:00.000Z",
+      "summary": "Sky Sports football sitemap에서 가져온 실시간 헤드라인입니다.",
+      "sourceKey": "sky-sports",
+      "sourceName": "Sky Sports",
+      "status": "루머"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVmtLS01IMFRiSllzd2wwa3Nnenhubno2X2N0Mkt3UWVnanlRRG82SjJsUGwwT2RwajdVS3lCNUtFRzkyMlM3SFFIZDVSRllZYjVBVVB5dkdCaUtQTkJualpBLUFweFpZRlJCNGlNa29ZMkZZWWE4MGRqTE1lTE9fa3owT2lwOTQ0TGJIMGFOWS1tZ3pBRXZoNmZ4RdIBoAFBVV95cUxQcDR1WW1PbzFqYWp0eFNsdU1UeHFxR0pJTGRrdmtzSjVFdkM0QjM4cnBjV0xVWkNMdGJzLXdEdWhIYWtwamN3c2t0T0N5a0xwSzJ3ZTgySkNvT3NJd3FETGJTdmpQVnBmWXlaYTdkdElIOVUzc3NiOHVJZUhTTXhPeTVwMDAyZ3ExNXRYX2hra2F1VDZfc1RWVEhydDlvUTZw?oc=5",
+      "title": "Every word De Zerbi said on the transfer market and why he knew Tottenham might lose - Football London",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVmtLS01IMFRiSllzd2wwa3Nnenhubno2X2N0Mkt3UWVnanlRRG82SjJsUGwwT2RwajdVS3lCNUtFRzkyMlM3SFFIZDVSRllZYjVBVVB5dkdCaUtQTkJualpBLUFweFpZRlJCNGlNa29ZMkZZWWE4MGRqTE1lTE9fa3owT2lwOTQ0TGJIMGFOWS1tZ3pBRXZoNmZ4RdIBoAFBVV95cUxQcDR1WW1PbzFqYWp0eFNsdU1UeHFxR0pJTGRrdmtzSjVFdkM0QjM4cnBjV0xVWkNMdGJzLXdEdWhIYWtwamN3c2t0T0N5a0xwSzJ3ZTgySkNvT3NJd3FETGJTdmpQVnBmWXlaYTdkdElIOVUzc3NiOHVJZUhTTXhPeTVwMDAyZ3ExNXRYX2hra2F1VDZfc1RWVEhydDlvUTZw?oc=5",
+      "publishedAt": "2026-08-22T20:28:17.000Z",
+      "summary": "Every word De Zerbi said on the transfer market and why he knew Tottenham might lose &nbsp;&nbsp; Football London",
+      "sourceKey": "tottenham-football-london-monitor",
+      "sourceName": "Football.London Tottenham monitor",
+      "status": "업데이트"
     }
   ],
   "sourceHealth": [
     {
       "source": "BBC Sport RSS",
       "ok": true,
-      "count": 17
+      "count": 18
     },
     {
       "source": "Sky Sports sitemap",
@@ -1217,7 +1217,7 @@
     {
       "source": "ESPN FC page",
       "ok": true,
-      "count": 5
+      "count": 0
     },
     {
       "source": "The Guardian Football RSS",
@@ -1227,32 +1227,32 @@
     {
       "source": "Fabrizio Romano Google News",
       "ok": true,
-      "count": 93
+      "count": 92
     },
     {
       "source": "David Ornstein Google News",
       "ok": true,
-      "count": 85
+      "count": 84
     },
     {
       "source": "The Athletic Google News",
       "ok": true,
-      "count": 19
+      "count": 18
     },
     {
       "source": "Gianluca Di Marzio Google News",
       "ok": true,
-      "count": 67
+      "count": 66
     },
     {
       "source": "Matteo Moretto Google News",
       "ok": true,
-      "count": 53
+      "count": 52
     },
     {
       "source": "Ben Jacobs Google News",
       "ok": true,
-      "count": 79
+      "count": 78
     },
     {
       "source": "Florian Plettenberg Google News",
@@ -1262,37 +1262,37 @@
     {
       "source": "Kaveh Solhekol Google News",
       "ok": true,
-      "count": 28
+      "count": 29
     },
     {
       "source": "Santi Aouna Google News",
       "ok": true,
-      "count": 46
+      "count": 48
     },
     {
       "source": "Tom Barclay Google News",
       "ok": true,
-      "count": 36
+      "count": 35
     },
     {
       "source": "Sami Mokbel Google News",
       "ok": true,
-      "count": 61
+      "count": 63
     },
     {
       "source": "Mike McGrath Google News",
       "ok": true,
-      "count": 39
+      "count": 40
     },
     {
       "source": "James Pearce Google News",
       "ok": true,
-      "count": 44
+      "count": 45
     },
     {
       "source": "Laurie Whitwell Google News",
       "ok": true,
-      "count": 40
+      "count": 41
     },
     {
       "source": "Simon Stone Google News",
@@ -1307,27 +1307,27 @@
     {
       "source": "Mark Ogden Google News",
       "ok": true,
-      "count": 14
+      "count": 15
     },
     {
       "source": "David Hytner Google News",
       "ok": true,
-      "count": 31
+      "count": 29
     },
     {
       "source": "Paul Joyce Google News",
       "ok": true,
-      "count": 47
+      "count": 48
     },
     {
       "source": "Fabrice Hawkins Google News",
       "ok": true,
-      "count": 47
+      "count": 46
     },
     {
       "source": "Miguel Delaney Google News",
       "ok": true,
-      "count": 36
+      "count": 37
     },
     {
       "source": "Melissa Reddy Google News",
@@ -1352,17 +1352,17 @@
     {
       "source": "Matteo Moretto Instagram mentions",
       "ok": true,
-      "count": 75
+      "count": 74
     },
     {
       "source": "Santi Aouna Instagram mentions",
       "ok": true,
-      "count": 85
+      "count": 84
     },
     {
       "source": "Arsenal official-site monitor",
       "ok": true,
-      "count": 76
+      "count": 75
     },
     {
       "source": "Barcelona official-site monitor",
@@ -1392,27 +1392,27 @@
     {
       "source": "Chelsea official-site monitor",
       "ok": true,
-      "count": 84
+      "count": 85
     },
     {
       "source": "Liverpool official-site monitor",
       "ok": true,
-      "count": 96
+      "count": 95
     },
     {
       "source": "Tottenham official-site monitor",
       "ok": true,
-      "count": 93
+      "count": 92
     },
     {
       "source": "Tottenham reporters Google News",
       "ok": true,
-      "count": 48
+      "count": 47
     },
     {
       "source": "Michael Bridge Tottenham monitor",
       "ok": true,
-      "count": 25
+      "count": 24
     },
     {
       "source": "Charlie Eccleshare Tottenham monitor",
@@ -1432,7 +1432,7 @@
     {
       "source": "Football.London Tottenham monitor",
       "ok": true,
-      "count": 85
+      "count": 84
     },
     {
       "source": "The Standard Tottenham monitor",
@@ -1447,7 +1447,7 @@
     {
       "source": "Sky Sports Tottenham monitor",
       "ok": true,
-      "count": 65
+      "count": 67
     },
     {
       "source": "X API direct monitor",
