@@ -690,7 +690,10 @@ function inferLeague(team = "") {
 }
 
 function shouldSkipDraftTitle(title = "") {
-  return GENERIC_DRAFT_SKIP_PATTERNS.some((pattern) => pattern.test(title));
+  return (
+    GENERIC_DRAFT_SKIP_PATTERNS.some((pattern) => pattern.test(title)) ||
+    /^Amorim[\u2019']s Milan live up to billing/i.test(title)
+  );
 }
 
 function getSourceTier(sourceKey = "") {
@@ -1258,6 +1261,21 @@ function normalizeDraftRecord(draft) {
   }
   const title = normalizeWhitespace(normalized.headlineTitle || "");
 
+  if (/^Amorim[\u2019']s Milan live up to billing/i.test(title)) {
+    return null;
+  }
+
+  if (/^Transfer rumors, news: Barcelona[\u2019']s Balde open to Man United move/i.test(title)) {
+    normalized.player = "Alejandro Balde";
+    normalized.fromTeam = "Barcelona";
+    normalized.toTeam = "Manchester United";
+    normalized.status = "\uB8E8\uBA38";
+    normalized.extractionConfidence = "medium";
+    normalized.extractionPattern = "espn-transfer-talk-balde";
+    normalized.needsVerification = false;
+    normalized.sourceReason = "ESPN Transfer Talk ??? ???? ????? ????? ??? ??????.";
+  }
+
   if (
     /^Ezri Konsa transfer news:/i.test(title) ||
     /agree .* to sign Ezri Konsa from Aston Villa/i.test(title)
@@ -1357,13 +1375,19 @@ function dedupeDrafts(items) {
       .filter((item) => item.headlineTitle && !isUnknownTeamName(item.fromTeam) && !isUnknownTeamName(item.toTeam))
       .map((item) => `${item.player}|${normalizeWhitespace(item.headlineTitle)}`)
   );
+  const resolvedMoves = new Set(
+    items
+      .filter((item) => !item.needsVerification && !isUnknownTeamName(item.toTeam))
+      .map((item) => `${item.player}|${item.toTeam}`)
+  );
 
   return items.filter((item) => {
     const headlineKey = `${item.player}|${normalizeWhitespace(item.headlineTitle || "")}`;
     if (
       item.needsVerification &&
-      resolvedHeadlines.has(headlineKey) &&
-      (isUnknownTeamName(item.fromTeam) || isUnknownTeamName(item.toTeam))
+      (resolvedMoves.has(`${item.player}|${item.toTeam}`) ||
+        (resolvedHeadlines.has(headlineKey) &&
+          (isUnknownTeamName(item.fromTeam) || isUnknownTeamName(item.toTeam))))
     ) {
       return false;
     }
