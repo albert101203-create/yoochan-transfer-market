@@ -437,10 +437,46 @@
     "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Ashley_Phillips_20092025_%283%29_%28cropped%29.jpg/330px-Ashley_Phillips_20092025_%283%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
   },
+  "./assets/players/alejandro-balde-61546ca7.jpg": {
+    "name": "Alejandro Balde",
+    "sourcePage": "https://en.wikipedia.org/wiki/Alejandro_Balde",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Esapana-inglaterra-74_%2848899354493%29.jpg/330px-Esapana-inglaterra-74_%2848899354493%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
+  },
   "./assets/players/manchester-city-c1b9627d.jpg": {
     "name": "Manchester City",
     "sourcePage": "https://en.wikipedia.org/wiki/Manchester_City_F.C.",
     "sourceImage": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/330px-Manchester_City_FC_badge.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
+  },
+  "./assets/players/gabriel-martinelli-0cf739f9.jpg": {
+    "name": "Gabriel Martinelli",
+    "sourcePage": "https://en.wikipedia.org/wiki/Gabriel_Martinelli",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Gabriel_Martinelli_Brazil_V_Morocco_13_June_2026-144.jpg/330px-Gabriel_Martinelli_Brazil_V_Morocco_13_June_2026-144.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
+  },
+  "./assets/clubs/liverpool-a7e67f80.jpg": {
+    "name": "Liverpool",
+    "sourcePage": "https://en.wikipedia.org/wiki/Liverpool_F.C.",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Liverpool_FC.svg/330px-Liverpool_FC.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
+  },
+  "./assets/players/curtis-jones-e8afc6bc.jpg": {
+    "name": "Curtis Jones",
+    "sourcePage": "https://en.wikipedia.org/wiki/Curtis_Jones_(footballer%2C_born_2001)",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Curtis_Jones_in_2022.jpg/330px-Curtis_Jones_in_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
+  },
+  "./assets/players/crystal-palace-6ecb7ff5.jpg": {
+    "name": "Crystal Palace",
+    "sourcePage": "https://en.wikipedia.org/wiki/Crystal_Palace_F.C.",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Crystal_Palace_FC_logo_%282022%29.svg/330px-Crystal_Palace_FC_logo_%282022%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
+  },
+  "./assets/clubs/ven-f72f53c1.jpg": {
+    "name": "Ven",
+    "sourcePage": "https://en.wikipedia.org/wiki/Venda_F.C.",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/en/b/b1/Venda_Football_Club_logo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
     "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
   }
 }

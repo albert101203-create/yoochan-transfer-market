@@ -750,32 +750,46 @@ function isFallbackCardCandidate(title = "") {
 
 function extractFallbackPlayer(title = "") {
   const normalized = normalizeWhitespace(title);
+  const possessiveMatch = normalized.match(/(?:'s|\u2019s)\s*(?<player>\p{Lu}[\p{L}'\u2019-]+(?:\s+\p{Lu}[\p{L}'\u2019-]+){0,1})/u);
+  if (possessiveMatch?.groups?.player) return possessiveMatch.groups.player.trim().replace(/\s+(?:signing|deal|transfer|news)$/i, "");
+
   const patterns = [
-    /(?:to sign|sign|signing|deal for|deal to sign|agrees? deal for|bid for|move for|target(?:s|ed|ing)?|want(?:s)?|eye(?:s|ing)?|interest in)\s+(?:a|an|the)\s+(?<player>\p{Lu}[\p{L}'?-]+(?:\s+\p{Lu}[\p{L}'?-]+){0,2})/u,
-    /^(?<player>\p{Lu}[\p{L}'?-]+(?:\s+\p{Lu}[\p{L}'?-]+){1,2})\s+(?:to|joins|join|moves|move|set to|agrees?)/u,
+    /(?:to sign|sign|signing|deal for|deal to sign|agrees? deal for|bid for|move for|target(?:s|ed|ing)?|want(?:s)?|eye(?:s|ing)?|interest in)\s+(?:a|an|the)\s+(?<player>\p{Lu}[\p{L}'\u2019-]+(?:\s+\p{Lu}[\p{L}'\u2019-]+){0,2})/u,
+    /^(?<player>\p{Lu}[\p{L}'\u2019-]+(?:\s+\p{Lu}[\p{L}'\u2019-]+){1,2})\s+(?:to|joins|join|moves|move|set to|agrees?)/u,
   ];
 
   for (const pattern of patterns) {
     const match = normalized.match(pattern);
     const candidate = match?.groups?.player?.trim();
-    if (candidate && !/^(?:club|clubs|deal|agreement|player|striker|forward|defender|midfielder|star|world-class)$/i.test(candidate)) {
+    const isKnownClub = Boolean(TEAM_LEAGUES[candidate] || TEAM_ALIASES[candidate]);
+    if (candidate && !isKnownClub && !/^(?:club|clubs|deal|agreement|player|striker|forward|defender|midfielder|star|world-class)$/i.test(candidate)) {
       return candidate;
     }
   }
 
-  return "?? ??";
+  return "\uD655\uC778 \uD544\uC694";
 }
 
 function makeFallbackDraft(item) {
+  const title = normalizeWhitespace(`${item.title || ""} ${item.summary || ""}`);
+  const player = extractFallbackPlayer(title);
+  const directMove = title.match(/^(?<player>\p{Lu}[\p{L}'\u2019-]+(?:\s+\p{Lu}[\p{L}'\u2019-]+){1,2})\s+to\s+(?<to>[^?|-]+)\?/u);
+  const possessiveClub = title.match(/\b(?<from>\p{Lu}[\p{L}-]+(?:\s+\p{Lu}[\p{L}-]+){0,2})['\u2019]s\s+/u);
+  const toTeam = directMove?.groups?.to?.trim() ||
+    (/^Manchester City\b/i.test(title) ? "Manchester City" : "\uBBF8\uC0C1");
+  const fromTeam = directMove && /\bBarcelona\b/i.test(title)
+    ? "Barcelona"
+    : possessiveClub?.groups?.from?.trim() || "\uBBF8\uC0C1";
+
   return makeDraft(item, {
-    player: extractFallbackPlayer(`${item.title || ""} ${item.summary || ""}`),
-    fromTeam: "??",
-    toTeam: "??",
-    status: "?? ??",
+    player,
+    fromTeam,
+    toTeam,
+    status: "\uD655\uC778 \uD544\uC694",
     extractionConfidence: "low",
     extractionPattern: "fallback-unparsed-transfer-headline",
     needsVerification: true,
-    note: "??? ????? ??? ?? ?? ?? ??? ??? ??? ?? ?????. ?? ?? ? ???????? ??? ?? ???? ???.",
+    note: "\uAE30\uC0AC\uB294 \uC218\uC9D1\ub410\uC9C0\uB9CC \uC81C\uBAA9\uC758 \uC790\uB3D9 \uC774\uC801 \uC815\uBCF4 \uCD94\uCD9C\uC774 \uC2E4\uD328\uD574 \uCE74\uB4DC\uB97C \uBA3C\uC800 \uD45C\uC2DC\uD569\uB2C8\uB2E4. \uC6D0\uBB38 \uD655\uC778 \uD6C4 \uC120\uC218\u00B7\uAD6C\uB2E8\u00B7\uC0AC\uC9C4 \uC815\uBCF4\uB97C \uC790\uB3D9 \uBCF4\uC644\uD574\uC57C \uD569\uB2C8\uB2E4.",
   });
 }
 
@@ -1233,6 +1247,15 @@ const DRAFT_CURRENT_TEAMS = {
 
 function normalizeDraftRecord(draft) {
   const normalized = { ...draft };
+  // Remove cards written by the earlier broken-encoding fallback. New fallback
+  // cards use proper Korean labels and are retained for review.
+  const corruptedFields = ["player", "fromTeam", "toTeam", "status", "sourceReason"];
+  if (corruptedFields.some((field) => /^(?:\?{2,}\s*)+$/.test(String(normalized[field] || "").trim()))) {
+    return null;
+  }
+  if (normalized.needsVerification && TEAM_LEAGUES[normalized.player]) {
+    return null;
+  }
   const title = normalizeWhitespace(normalized.headlineTitle || "");
 
   if (
@@ -1285,6 +1308,7 @@ function normalizeDraftRecord(draft) {
   }
 
   normalized.player = DRAFT_PLAYER_ALIASES[normalized.player] || normalized.player;
+  normalized.player = normalized.player.replace(/\s+(?:signing|deal|transfer|news)$/i, "").trim();
   normalized.fromTeam = {
     City: "Manchester City",
     Barça: "Barcelona",
