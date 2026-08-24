@@ -30,6 +30,9 @@ function checkAsset(kind, name) {
 const missing = [];
 for (const draft of drafts) {
   const label = `${draft.player || "unknown"} -> ${draft.toTeam || "unknown"}`;
+  // Fallback cards intentionally wait for enrichment. They must remain visible
+  // with their source link, but should not block a deployment for missing assets.
+  if (draft.needsVerification) continue;
   for (const [kind, name] of [
     ["players", draft.player],
     ["clubs", draft.fromTeam],

@@ -735,14 +735,54 @@ function makeDraft(item, extracted) {
     lastVerifiedAt: formatStamp(),
     extractionConfidence: extracted.extractionConfidence || "medium",
     extractionPattern: extracted.extractionPattern || "generic",
+    needsVerification: Boolean(extracted.needsVerification),
     headlineTitle: item.title,
   };
+}
+
+function isFallbackCardCandidate(title = "") {
+  const normalized = normalizeWhitespace(title);
+  if (!isTransferHeadline(normalized)) return false;
+  return !/(?:transfer show|live updates|rumours and gossip|rumors and gossip|goals and highlights|paper talk|transfer news live|scottish premiership news)/i.test(
+    normalized
+  );
+}
+
+function extractFallbackPlayer(title = "") {
+  const normalized = normalizeWhitespace(title);
+  const patterns = [
+    /(?:to sign|sign|signing|deal for|deal to sign|agrees? deal for|bid for|move for|target(?:s|ed|ing)?|want(?:s)?|eye(?:s|ing)?|interest in)\s+(?:a|an|the)\s+(?<player>\p{Lu}[\p{L}'?-]+(?:\s+\p{Lu}[\p{L}'?-]+){0,2})/u,
+    /^(?<player>\p{Lu}[\p{L}'?-]+(?:\s+\p{Lu}[\p{L}'?-]+){1,2})\s+(?:to|joins|join|moves|move|set to|agrees?)/u,
+  ];
+
+  for (const pattern of patterns) {
+    const match = normalized.match(pattern);
+    const candidate = match?.groups?.player?.trim();
+    if (candidate && !/^(?:club|clubs|deal|agreement|player|striker|forward|defender|midfielder|star|world-class)$/i.test(candidate)) {
+      return candidate;
+    }
+  }
+
+  return "?? ??";
+}
+
+function makeFallbackDraft(item) {
+  return makeDraft(item, {
+    player: extractFallbackPlayer(`${item.title || ""} ${item.summary || ""}`),
+    fromTeam: "??",
+    toTeam: "??",
+    status: "?? ??",
+    extractionConfidence: "low",
+    extractionPattern: "fallback-unparsed-transfer-headline",
+    needsVerification: true,
+    note: "??? ????? ??? ?? ?? ?? ??? ??? ??? ?? ?????. ?? ?? ? ???????? ??? ?? ???? ???.",
+  });
 }
 
 function extractAutoDraft(item) {
   const title = normalizeWhitespace(item.title);
 
-  if (!title || shouldSkipDraftTitle(title)) {
+  if (!title) {
     return null;
   }
 
@@ -1163,6 +1203,12 @@ function extractAutoDraft(item) {
       extractionConfidence: "low",
       extractionPattern: "club-targets-player",
     });
+  }
+
+  // Do not silently drop a transfer article when a strict parser misses it.
+  // Keep a clearly marked verification card with the original source link.
+  if (isFallbackCardCandidate(title)) {
+    return makeFallbackDraft(item);
   }
 
   return null;
