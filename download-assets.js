@@ -10,6 +10,11 @@ const CLUB_DIR = path.join(BASE_DIR, "assets", "clubs");
 
 const SEEDED_ASSETS = {
   players: {
+    "Alice Sombath": "https://resources.thfc.pulselive.com/thfc/photo/2026/07/21/a9978239-d0de-4c67-be19-88ffae1bfc67/Alice-Sombath-New-Signing.jpg",
+    "Mateus Fernandes": "https://resources.thfc.pulselive.com/thfc/photo/2026/07/02/1e662c9c-aeb0-48bb-94c7-c9dc7964927f/Mateus-Fernandes-reveal.jpg",
+    "Selma Panengstuen": "https://resources.thfc.pulselive.com/thfc/photo/2026/06/30/dd488451-3133-47d5-ad30-e79f7010fc31/SelmaPanenstugenSigning.jpg",
+    "Mathys Tel": "https://resources.thfc.pulselive.com/thfc/photo/2026/02/02/ad0fe2b8-b2dc-49b1-8273-76c851e16b2e/eihU2YxN.jpg",
+    "Dejan Jovelji\u0107": "https://storage.ghost.io/c/3b/1b/3b1bf1ed-99b4-491a-8ed0-5ce99bdabf77/content/images/size/w1200/2026/08/USATSI_28660571.jpg",
     "Zavier Gozo":
       "https://r2.thesportsdb.com/images/media/player/cutout/9dsgkd1766758945.png",
     "Jhon Lucumí":
@@ -42,6 +47,13 @@ const SEEDED_ASSETS = {
       "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Vitor-roque-palmeiras-internacional-sep2025.jpg/960px-Vitor-roque-palmeiras-internacional-sep2025.jpg",
   },
   clubs: {
+    "West Ham United": "https://upload.wikimedia.org/wikipedia/en/c/c2/West_Ham_United_FC_logo.svg",
+    "Bayern Munich": "https://r2.thesportsdb.com/images/media/team/badge/01ogkh1716960412.png",
+    "OL Lyonnes": "https://upload.wikimedia.org/wikipedia/en/7/7a/Olympique_Lyonnais_Feminin_logo.svg",
+    "SK Brann": "https://r2.thesportsdb.com/images/media/team/badge/ovuad71690695412.png",
+    "Inter Milan": "https://upload.wikimedia.org/wikipedia/commons/0/05/FC_Internazionale_Milano_2021.svg",
+    "Sporting Kansas City": "https://r2.thesportsdb.com/images/media/team/badge/tqupxw1473536504.png",
+    "Seattle Sounders": "https://r2.thesportsdb.com/images/media/team/badge/2dy5cx1706711036.png",
     "Crystal Palace":
       "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Crystal_Palace_FC_logo_%282022%29.svg/330px-Crystal_Palace_FC_logo_%282022%29.svg.png",
     Brighton:

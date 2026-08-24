@@ -490,5 +490,83 @@
     "sourcePage": "https://en.wikipedia.org/wiki/Savinho",
     "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Manchester_City_2025_06_26_Juventus_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
     "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
+  },
+  "./assets/players/micky-van-de-ven-9da033a2.jpg": {
+    "name": "Micky van de Ven",
+    "sourcePage": "https://en.wikipedia.org/wiki/Micky_van_de_Ven",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Micky_Van_De_Ven_pre-match_training_%28cropped%29.jpg/330px-Micky_Van_De_Ven_pre-match_training_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
+  },
+  "./assets/players/alice-sombath-ea08dc17.jpg": {
+    "name": "Alice Sombath",
+    "sourcePage": "https://resources.thfc.pulselive.com/thfc/photo/2026/07/21/a9978239-d0de-4c67-be19-88ffae1bfc67/Alice-Sombath-New-Signing.jpg",
+    "sourceImage": "https://resources.thfc.pulselive.com/thfc/photo/2026/07/21/a9978239-d0de-4c67-be19-88ffae1bfc67/Alice-Sombath-New-Signing.jpg",
+    "note": "Seeded from the existing Wikimedia image reference; verify the image license before redistribution."
+  },
+  "./assets/players/mateus-fernandes-d8cfb526.jpg": {
+    "name": "Mateus Fernandes",
+    "sourcePage": "https://resources.thfc.pulselive.com/thfc/photo/2026/07/02/1e662c9c-aeb0-48bb-94c7-c9dc7964927f/Mateus-Fernandes-reveal.jpg",
+    "sourceImage": "https://resources.thfc.pulselive.com/thfc/photo/2026/07/02/1e662c9c-aeb0-48bb-94c7-c9dc7964927f/Mateus-Fernandes-reveal.jpg",
+    "note": "Seeded from the existing Wikimedia image reference; verify the image license before redistribution."
+  },
+  "./assets/clubs/ol-lyonnes-32de918b.jpg": {
+    "name": "OL Lyonnes",
+    "sourcePage": "https://en.wikipedia.org/wiki/OL_Lyonnes",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/en/thumb/6/62/OL_Lyonnes.svg/330px-OL_Lyonnes.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
+  },
+  "./assets/players/selma-panengstuen-2a376806.jpg": {
+    "name": "Selma Panengstuen",
+    "sourcePage": "https://resources.thfc.pulselive.com/thfc/photo/2026/06/30/dd488451-3133-47d5-ad30-e79f7010fc31/SelmaPanenstugenSigning.jpg",
+    "sourceImage": "https://resources.thfc.pulselive.com/thfc/photo/2026/06/30/dd488451-3133-47d5-ad30-e79f7010fc31/SelmaPanenstugenSigning.jpg",
+    "note": "Seeded from the existing Wikimedia image reference; verify the image license before redistribution."
+  },
+  "./assets/players/mathys-tel-adadb1b8.jpg": {
+    "name": "Mathys Tel",
+    "sourcePage": "https://resources.thfc.pulselive.com/thfc/photo/2026/02/02/ad0fe2b8-b2dc-49b1-8273-76c851e16b2e/eihU2YxN.jpg",
+    "sourceImage": "https://resources.thfc.pulselive.com/thfc/photo/2026/02/02/ad0fe2b8-b2dc-49b1-8273-76c851e16b2e/eihU2YxN.jpg",
+    "note": "Seeded from the existing Wikimedia image reference; verify the image license before redistribution."
+  },
+  "./assets/players/dejan-jovelji-4d8700e8.jpg": {
+    "name": "Dejan Joveljić",
+    "sourcePage": "https://storage.ghost.io/c/3b/1b/3b1bf1ed-99b4-491a-8ed0-5ce99bdabf77/content/images/size/w1200/2026/08/USATSI_28660571.jpg",
+    "sourceImage": "https://storage.ghost.io/c/3b/1b/3b1bf1ed-99b4-491a-8ed0-5ce99bdabf77/content/images/size/w1200/2026/08/USATSI_28660571.jpg",
+    "note": "Seeded from the existing Wikimedia image reference; verify the image license before redistribution."
+  },
+  "./assets/clubs/west-ham-united-6f49c976.png": {
+    "name": "West Ham United",
+    "sourcePage": "https://upload.wikimedia.org/wikipedia/en/c/c2/West_Ham_United_FC_logo.svg",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/en/c/c2/West_Ham_United_FC_logo.svg",
+    "note": "Seeded from the existing Wikimedia image reference; verify the image license before redistribution."
+  },
+  "./assets/clubs/inter-milan-909ca32a.png": {
+    "name": "Inter Milan",
+    "sourcePage": "https://upload.wikimedia.org/wikipedia/commons/0/05/FC_Internazionale_Milano_2021.svg",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/0/05/FC_Internazionale_Milano_2021.svg",
+    "note": "Seeded from the existing Wikimedia image reference; verify the image license before redistribution."
+  },
+  "./assets/clubs/bayern-munich-0ec5c97f.png": {
+    "name": "Bayern Munich",
+    "sourcePage": "https://r2.thesportsdb.com/images/media/team/badge/01ogkh1716960412.png",
+    "sourceImage": "https://r2.thesportsdb.com/images/media/team/badge/01ogkh1716960412.png",
+    "note": "Seeded from the existing Wikimedia image reference; verify the image license before redistribution."
+  },
+  "./assets/clubs/sk-brann-4437745e.png": {
+    "name": "SK Brann",
+    "sourcePage": "https://r2.thesportsdb.com/images/media/team/badge/ovuad71690695412.png",
+    "sourceImage": "https://r2.thesportsdb.com/images/media/team/badge/ovuad71690695412.png",
+    "note": "Seeded from the existing Wikimedia image reference; verify the image license before redistribution."
+  },
+  "./assets/clubs/sporting-kansas-city-02bd6d7a.png": {
+    "name": "Sporting Kansas City",
+    "sourcePage": "https://r2.thesportsdb.com/images/media/team/badge/tqupxw1473536504.png",
+    "sourceImage": "https://r2.thesportsdb.com/images/media/team/badge/tqupxw1473536504.png",
+    "note": "Seeded from the existing Wikimedia image reference; verify the image license before redistribution."
+  },
+  "./assets/clubs/seattle-sounders-35d54f36.png": {
+    "name": "Seattle Sounders",
+    "sourcePage": "https://r2.thesportsdb.com/images/media/team/badge/2dy5cx1706711036.png",
+    "sourceImage": "https://r2.thesportsdb.com/images/media/team/badge/2dy5cx1706711036.png",
+    "note": "Seeded from the existing Wikimedia image reference; verify the image license before redistribution."
   }
 }

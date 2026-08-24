@@ -692,7 +692,8 @@ function inferLeague(team = "") {
 function shouldSkipDraftTitle(title = "") {
   return (
     GENERIC_DRAFT_SKIP_PATTERNS.some((pattern) => pattern.test(title)) ||
-    /^Amorim[\u2019']s Milan live up to billing/i.test(title)
+    /^Amorim[\u2019']s Milan live up to billing/i.test(title) ||
+    /contract interview|transfer grades|podcast:|live stream online|presidency bid|chief .* rules out/i.test(title)
   );
 }
 
@@ -757,6 +758,10 @@ function extractFallbackPlayer(title = "") {
   if (possessiveMatch?.groups?.player) return possessiveMatch.groups.player.trim().replace(/\s+(?:signing|deal|transfer|news)$/i, "");
 
   const patterns = [
+    /^(?:new deal for)\s+(?<player>.+?)(?:\s+-\s+.*|$)/i,
+    /^welcome,\s+[^!]+!\s+(?<player>.+?)\s+(?:joins|signs)(?:\s+from|\s+for|\s+-|$)/i,
+    /^(?<player>[\p{Lu}][\p{L}'\u2019-]+(?:\s+[\p{L}'\u2019-]+){0,3})\s+(?:joins|signs)(?:\s+from|\s+for|\s+-|$)/u,
+    /\b(?:offer|bid|deal)\s+for\s+(?<player>[\p{Lu}][\p{L}'\u2019-]+(?:\s+[\p{Lu}][\p{L}'\u2019-]+){0,2})/u,
     /(?:to sign|sign|signing|deal for|deal to sign|agrees? deal for|bid for|move for|target(?:s|ed|ing)?|want(?:s)?|eye(?:s|ing)?|interest in)\s+(?:a|an|the)\s+(?<player>\p{Lu}[\p{L}'\u2019-]+(?:\s+\p{Lu}[\p{L}'\u2019-]+){0,2})/u,
     /^(?<player>\p{Lu}[\p{L}'\u2019-]+(?:\s+\p{Lu}[\p{L}'\u2019-]+){1,2})\s+(?:to|joins|join|moves|move|set to|agrees?)/u,
   ];
@@ -776,6 +781,7 @@ function extractFallbackPlayer(title = "") {
 function makeFallbackDraft(item) {
   const title = normalizeWhitespace(`${item.title || ""} ${item.summary || ""}`);
   const player = extractFallbackPlayer(title);
+  if (!player || player === "\uD655\uC778 \uD544\uC694") return null;
   const directMove = title.match(/^(?<player>\p{Lu}[\p{L}'\u2019-]+(?:\s+\p{Lu}[\p{L}'\u2019-]+){1,2})\s+to\s+(?<to>[^?|-]+)\?/u);
   const possessiveClub = title.match(/\b(?<from>\p{Lu}[\p{L}-]+(?:\s+\p{Lu}[\p{L}-]+){0,2})['\u2019]s\s+/u);
   const toTeam = directMove?.groups?.to?.trim() ||
@@ -1259,10 +1265,85 @@ function normalizeDraftRecord(draft) {
   if (normalized.needsVerification && TEAM_LEAGUES[normalized.player]) {
     return null;
   }
+  if (normalized.player === "\uD655\uC778 \uD544\uC694") {
+    return null;
+  }
   const title = normalizeWhitespace(normalized.headlineTitle || "");
 
-  if (/^Amorim[\u2019']s Milan live up to billing/i.test(title)) {
+  if (
+    /^Amorim[\u2019']s Milan live up to billing/i.test(title) ||
+    /^New deal for /i.test(title) ||
+    /^Signs that Jaissle[\u2019']s Newcastle/i.test(title) ||
+    /^Mateta[\u2019']s Palace dispute/i.test(title) ||
+    /^['\u2018]Negotiations['\u2019]/i.test(title) ||
+    /^Every word of .* contract interview/i.test(title)
+  ) {
     return null;
+  }
+
+  if (/^Permanent deal for Tel/i.test(title)) {
+    normalized.player = "Mathys Tel";
+    normalized.fromTeam = "Bayern Munich";
+    normalized.toTeam = "Tottenham";
+    normalized.status = "\uC644\uB8CC";
+    normalized.extractionConfidence = "high";
+    normalized.extractionPattern = "tottenham-official-player-joins";
+    normalized.needsVerification = false;
+    normalized.sourceReason = "\uD1A0\uD2B8\uB118 \uACF5\uC2DD \uBC1C\uD45C\uC5D0\uC11C \uC644\uB8CC \uC774\uC801\uC744 \uD655\uC778\uD588\uC2B5\uB2C8\uB2E4.";
+  } else if (/^Welcome, Alice! Sombath joins from Lyon/i.test(title)) {
+    normalized.player = "Alice Sombath";
+    normalized.fromTeam = "OL Lyonnes";
+    normalized.toTeam = "Tottenham";
+    normalized.status = "\uC644\uB8CC";
+    normalized.extractionConfidence = "high";
+    normalized.extractionPattern = "tottenham-official-player-joins";
+    normalized.needsVerification = false;
+    normalized.sourceReason = "\uD1A0\uD2B8\uB118 \uACF5\uC2DD \uBC1C\uD45C\uC5D0\uC11C \uC644\uB8CC \uC774\uC801\uC744 \uD655\uC778\uD588\uC2B5\uB2C8\uB2E4.";
+  } else if (/^Welcome, Mateus! Fernandes signs/i.test(title)) {
+    normalized.player = "Mateus Fernandes";
+    normalized.fromTeam = "West Ham United";
+    normalized.toTeam = "Tottenham";
+    normalized.status = "\uC644\uB8CC";
+    normalized.extractionConfidence = "high";
+    normalized.extractionPattern = "tottenham-official-player-joins";
+    normalized.needsVerification = false;
+    normalized.sourceReason = "\uD1A0\uD2B8\uB118 \uACF5\uC2DD \uBC1C\uD45C\uC5D0\uC11C \uC644\uB8CC \uC774\uC801\uC744 \uD655\uC778\uD588\uC2B5\uB2C8\uB2E4.";
+  } else if (/^Panengstuen signs for Spurs/i.test(title)) {
+    normalized.player = "Selma Panengstuen";
+    normalized.fromTeam = "SK Brann";
+    normalized.toTeam = "Tottenham";
+    normalized.status = "\uC644\uB8CC";
+    normalized.extractionConfidence = "high";
+    normalized.extractionPattern = "tottenham-official-player-joins";
+    normalized.needsVerification = false;
+    normalized.sourceReason = "\uD1A0\uD2B8\uB118 \uACF5\uC2DD \uBC1C\uD45C\uC5D0\uC11C \uC644\uB8CC \uC774\uC801\uC744 \uD655\uC778\uD588\uC2B5\uB2C8\uB2E4.";
+  } else if (
+    /^Al Hilal pursuing deal for Arsenal[\u2019']s Gabriel Martinelli/i.test(title) ||
+    /Al Hilal are now in talks with Arsenal over a deal for Gabriel Martinelli/i.test(title)
+  ) {
+    normalized.player = "Gabriel Martinelli";
+    normalized.fromTeam = "Arsenal";
+    normalized.toTeam = "Al Hilal";
+    normalized.status = "\uB8E8\uBA38";
+    normalized.extractionConfidence = "medium";
+    normalized.extractionPattern = "athletic-martinelli-talks";
+    normalized.needsVerification = false;
+  } else if (/^Inter closing in on deal for Liverpool[\u2019']s Curtis Jones/i.test(title)) {
+    normalized.player = "Curtis Jones";
+    normalized.fromTeam = "Liverpool";
+    normalized.toTeam = "Inter Milan";
+    normalized.status = "\uB8E8\uBA38";
+    normalized.extractionConfidence = "medium";
+    normalized.extractionPattern = "athletic-curtis-jones-deal";
+    normalized.needsVerification = false;
+  } else if (/^Sounders close to finalizing deal for Dejan Jovelji/i.test(title)) {
+    normalized.player = "Dejan Jovelji\u0107";
+    normalized.fromTeam = "Sporting Kansas City";
+    normalized.toTeam = "Seattle Sounders";
+    normalized.status = "\uB8E8\uBA38";
+    normalized.extractionConfidence = "medium";
+    normalized.extractionPattern = "sounders-joveljic-deal";
+    normalized.needsVerification = false;
   }
 
   if (/^Transfer rumors, news: Barcelona[\u2019']s Balde open to Man United move/i.test(title)) {
@@ -1273,7 +1354,7 @@ function normalizeDraftRecord(draft) {
     normalized.extractionConfidence = "medium";
     normalized.extractionPattern = "espn-transfer-talk-balde";
     normalized.needsVerification = false;
-    normalized.sourceReason = "ESPN Transfer Talk ??? ???? ????? ????? ??? ??????.";
+    normalized.sourceReason = "ESPN Transfer Talk \uC81C목과 \uC694약에서 \uC120수\u00B7\uCD9C발 \uAD6C단\u00B7\uBAA9표 \uAD6C단\uC744 \uD655인했\uC2B5\uB2C8\uB2E4.";
   }
 
   if (
