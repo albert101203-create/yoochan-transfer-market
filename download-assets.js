@@ -35,6 +35,12 @@ const SEEDED_ASSETS = {
       "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Harry_Kane_England_v_Ghana_23_June_2026-219_%28cropped%29.jpg/330px-Harry_Kane_England_v_Ghana_23_June_2026-219_%28cropped%29.jpg",
     "Troy Parrott":
       "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Troy_Parrott_2025.png/330px-Troy_Parrott_2025.png",
+    "Eli Junior Kroupi":
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Eli%20Junior%20Kroupi.jpg?width=512",
+    "Nicolas Jackson":
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Nicolas%20Jackson%2020042025%20%281%29.jpg?width=512",
+    "Julián Álvarez":
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Juli%C3%A1n%20%C3%81lvarez.jpg?width=512",
     "Viktor Gyökeres":
       "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Viktor_Gy%C3%B6keres_2026-06-04_1_%28cropped%29.jpg/330px-Viktor_Gy%C3%B6keres_2026-06-04_1_%28cropped%29.jpg",
     "김민재":
@@ -100,6 +106,10 @@ const SEEDED_ASSETS = {
       "https://r2.thesportsdb.com/images/media/team/badge/pbf4ul1782638263.png",
     Arsenal:
       "https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Arsenal_FC.svg/1280px-Arsenal_FC.svg.png",
+    Bournemouth:
+      "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/AFC_Bournemouth_%282013%29.svg/330px-AFC_Bournemouth_%282013%29.svg.png",
+    "Atlético Madrid":
+      "https://r2.thesportsdb.com/images/media/team/badge/0ulh3q1719984315.png",
     Barcelona:
       "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/FC_Barcelona_%28crest%29.svg/1280px-FC_Barcelona_%28crest%29.svg.png",
     "바이에른 뮌헨":

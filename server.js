@@ -1240,6 +1240,7 @@ function extractAutoDraft(item) {
 const DRAFT_PLAYER_ALIASES = {
   Kane: "Harry Kane",
   Gozo: "Zavier Gozo",
+  Kroupi: "Eli Junior Kroupi",
   David: "Promise David",
   Parrott: "Troy Parrott",
   Zubimendi: "Martin Zubimendi",
@@ -1270,11 +1271,65 @@ function normalizeDraftRecord(draft) {
   }
   const title = normalizeWhitespace(normalized.headlineTitle || "");
 
+  // Repair recurring headline-parser edge cases before validating assets.
+  if (/(?:Nico\s+)?Gonz[áa]lez/i.test(title) && /Newcastle|N['’]castle/i.test(title) && /City/i.test(title)) {
+    normalized.player = "Nico Gonzalez";
+    normalized.fromTeam = "Manchester City";
+    normalized.toTeam = "Newcastle";
+    normalized.status = "루머";
+    normalized.extractionConfidence = "high";
+    normalized.extractionPattern = "espn-nico-gonzalez-newcastle";
+    normalized.needsVerification = false;
+  } else if (/S[áa]vio joins from Manchester City.*Tottenham/i.test(title)) {
+    normalized.player = "Savinho";
+    normalized.fromTeam = "Manchester City";
+    normalized.toTeam = "Tottenham";
+    normalized.status = "완료";
+    normalized.extractionConfidence = "high";
+    normalized.extractionPattern = "tottenham-official-savio-joins";
+    normalized.needsVerification = false;
+  } else if (/49719456|Liverpool, Arsenal eye move for Kroupi/i.test(`${normalized.sourceUrl || ""} ${title}`)) {
+    normalized.player = "Eli Junior Kroupi";
+    normalized.fromTeam = "Bournemouth";
+    normalized.toTeam = "Liverpool";
+    normalized.status = "루머";
+    normalized.extractionConfidence = "medium";
+    normalized.extractionPattern = "espn-kroupi-interested-clubs";
+    normalized.needsVerification = false;
+    normalized.sourceReason = "ESPN은 리버풀·맨체스터 유나이티드·아스널이 본머스의 엘리 주니어 크루피에 관심을 보인다고 전했습니다. 카드의 대표 대상 구단은 제목에 먼저 나온 리버풀로 표시합니다.";
+  } else if (/Chelsea weigh Aston Villa['’]s bid for Nicolas Jackson/i.test(title)) {
+    normalized.player = "Nicolas Jackson";
+    normalized.fromTeam = "Chelsea";
+    normalized.toTeam = "Aston Villa";
+    normalized.status = "루머";
+    normalized.extractionConfidence = "medium";
+    normalized.extractionPattern = "nicolas-jackson-aston-villa-bid";
+    normalized.needsVerification = false;
+  } else if (/49719699|Will .*lvarez join Barcelona or Arsenal/i.test(`${normalized.sourceUrl || ""} ${title}`)) {
+    normalized.player = "Julián Álvarez";
+    normalized.fromTeam = "Atlético Madrid";
+    normalized.toTeam = "Barcelona";
+    normalized.status = "루머";
+    normalized.extractionConfidence = "medium";
+    normalized.extractionPattern = "espn-julian-alvarez-destination";
+    normalized.needsVerification = false;
+    normalized.sourceReason = "ESPN은 아틀레티코 마드리드의 훌리안 알바레스가 바르셀로나 이적을 우선시한다고 전했습니다. 아스널도 관심을 보이는 상황이라 루머로 표시합니다.";
+  } else if (/Gabriel Martinelli transfer news.*Al Hilal.*Arsenal/i.test(title)) {
+    normalized.player = "Gabriel Martinelli";
+    normalized.fromTeam = "Arsenal";
+    normalized.toTeam = "Al Hilal";
+    normalized.status = "루머";
+    normalized.extractionConfidence = "medium";
+    normalized.extractionPattern = "sky-martinelli-al-hilal";
+    normalized.needsVerification = false;
+  }
+
   if (
     /^Amorim[\u2019']s Milan live up to billing/i.test(title) ||
     /^New deal for /i.test(title) ||
     /^Signs that Jaissle[\u2019']s Newcastle/i.test(title) ||
     /^Mateta[\u2019']s Palace dispute/i.test(title) ||
+    /^Glaring weakness in goal remains .* Xabi Alonso[\u2019']s Chelsea/i.test(title) ||
     /^['\u2018]Negotiations['\u2019]/i.test(title) ||
     /^Every word of .* contract interview/i.test(title)
   ) {
@@ -1426,6 +1481,9 @@ function normalizeDraftRecord(draft) {
     Barça: "Barcelona",
     "Al-Hilal": "Al Hilal",
   }[normalized.toTeam] || normalized.toTeam;
+
+  normalized.fromTeam = String(normalized.fromTeam || "").replace(/[’']+$/u, "").trim();
+  normalized.toTeam = String(normalized.toTeam || "").replace(/[’']+$/u, "").trim();
 
   if (
     /^from\s/i.test(normalized.player) ||

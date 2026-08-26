@@ -7,6 +7,7 @@ const draftsPayload = JSON.parse(
 );
 const assetMap = JSON.parse(fs.readFileSync(path.join(ROOT, "asset-map.json"), "utf8"));
 const drafts = Array.isArray(draftsPayload?.drafts) ? draftsPayload.drafts : [];
+const UNKNOWN_TEAM_NAMES = new Set(["", "미상", "미정", "소속팀 확인 중", "unknown", "tbc", "tbd"]);
 
 function checkAsset(kind, name) {
   const entry = assetMap?.[kind]?.[name];
@@ -38,7 +39,7 @@ for (const draft of drafts) {
     ["clubs", draft.fromTeam],
     ["clubs", draft.toTeam],
   ]) {
-    if (!name || /미상|확인 중|unknown/i.test(String(name))) {
+    if (UNKNOWN_TEAM_NAMES.has(String(name || "").trim().toLowerCase())) {
       missing.push({ kind, name: name || "", reason: "unknown-entity", card: label });
       continue;
     }

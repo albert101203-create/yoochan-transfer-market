@@ -574,5 +574,41 @@
     "sourcePage": "https://en.wikipedia.org/wiki/Yankuba_Minteh",
     "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Yankuba_Minteh_24012026_%281%29.jpg/330px-Yankuba_Minteh_24012026_%281%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
+  },
+  "./assets/players/eli-junior-kroupi-8f1e0a0e.jpg": {
+    "name": "Eli Junior Kroupi",
+    "sourcePage": "https://commons.wikimedia.org/wiki/Special:FilePath/Eli%20Junior%20Kroupi.jpg?width=512",
+    "sourceImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Eli%20Junior%20Kroupi.jpg?width=512",
+    "note": "Seeded from the existing Wikimedia image reference; verify the image license before redistribution."
+  },
+  "./assets/players/nicolas-jackson-d0ae1359.jpg": {
+    "name": "Nicolas Jackson",
+    "sourcePage": "https://commons.wikimedia.org/wiki/Special:FilePath/Nicolas%20Jackson%2020042025%20%281%29.jpg?width=512",
+    "sourceImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Nicolas%20Jackson%2020042025%20%281%29.jpg?width=512",
+    "note": "Seeded from the existing Wikimedia image reference; verify the image license before redistribution."
+  },
+  "./assets/clubs/bournemouth-39b029b6.png": {
+    "name": "Bournemouth",
+    "sourcePage": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/AFC_Bournemouth_%282013%29.svg/330px-AFC_Bournemouth_%282013%29.svg.png",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/AFC_Bournemouth_%282013%29.svg/330px-AFC_Bournemouth_%282013%29.svg.png",
+    "note": "Seeded from the existing Wikimedia image reference; verify the image license before redistribution."
+  },
+  "./assets/players/juli-n-lvarez-67fe6eb2.jpg": {
+    "name": "Julián Álvarez",
+    "sourcePage": "https://commons.wikimedia.org/wiki/Special:FilePath/Juli%C3%A1n%20%C3%81lvarez.jpg?width=512",
+    "sourceImage": "https://commons.wikimedia.org/wiki/Special:FilePath/Juli%C3%A1n%20%C3%81lvarez.jpg?width=512",
+    "note": "Seeded from the existing Wikimedia image reference; verify the image license before redistribution."
+  },
+  "./assets/clubs/atl-tico-madrid-6dec52f6.png": {
+    "name": "Atlético Madrid",
+    "sourcePage": "https://r2.thesportsdb.com/images/media/team/badge/0ulh3q1719984315.png",
+    "sourceImage": "https://r2.thesportsdb.com/images/media/team/badge/0ulh3q1719984315.png",
+    "note": "Seeded from the existing Wikimedia image reference; verify the image license before redistribution."
+  },
+  "./assets/clubs/xabi-alonso-e5d623d5.jpg": {
+    "name": "Xabi Alonso",
+    "sourcePage": "https://en.wikipedia.org/wiki/Xabi_Alonso",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Los_Caminos_del_f%C3%BAtbol._Xabi_Alonso_%2839666778464%29_%28cropped%29.jpg/330px-Los_Caminos_del_f%C3%BAtbol._Xabi_Alonso_%2839666778464%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
   }
 }
