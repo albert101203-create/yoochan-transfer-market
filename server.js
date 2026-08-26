@@ -1322,6 +1322,31 @@ function normalizeDraftRecord(draft) {
     normalized.extractionConfidence = "medium";
     normalized.extractionPattern = "sky-martinelli-al-hilal";
     normalized.needsVerification = false;
+  } else if (/Al-Hilal in advanced talks to sign Arsenal['’]s Martinelli/i.test(title)) {
+    normalized.player = "Gabriel Martinelli";
+    normalized.fromTeam = "Arsenal";
+    normalized.toTeam = "Al Hilal";
+    normalized.status = "루머";
+    normalized.extractionConfidence = "medium";
+    normalized.extractionPattern = "martinelli-al-hilal-advanced-talks";
+    normalized.needsVerification = false;
+  } else if (/Aston Villa step up efforts to sign AC Milan['’]s Leao/i.test(title)) {
+    normalized.player = "Rafael Leão";
+    normalized.fromTeam = "AC Milan";
+    normalized.toTeam = "Aston Villa";
+    normalized.status = "루머";
+    normalized.extractionConfidence = "medium";
+    normalized.extractionPattern = "di-marzio-leao-aston-villa";
+    normalized.needsVerification = false;
+  } else if (/Fabrizio Romano jumped the gun.*Omar Marmoush/i.test(title)) {
+    normalized.player = "Omar Marmoush";
+    normalized.fromTeam = "Manchester City";
+    normalized.toTeam = "Tottenham";
+    normalized.status = "루머";
+    normalized.extractionConfidence = "low";
+    normalized.extractionPattern = "hotspur-hq-marmoush-doubt";
+    normalized.needsVerification = false;
+    normalized.sourceReason = "보도된 임대 합의가 아직 확정되지 않았다는 내용입니다. 맨체스터 시티에서 토트넘으로의 가능성만 루머로 표시합니다.";
   }
 
   if (
@@ -1329,7 +1354,7 @@ function normalizeDraftRecord(draft) {
     /^New deal for /i.test(title) ||
     /^Signs that Jaissle[\u2019']s Newcastle/i.test(title) ||
     /^Mateta[\u2019']s Palace dispute/i.test(title) ||
-    /^Glaring weakness in goal remains .* Xabi Alonso[\u2019']s Chelsea/i.test(title) ||
+    /^Glaring weakness in goal remains/i.test(title) ||
     /^['\u2018]Negotiations['\u2019]/i.test(title) ||
     /^Every word of .* contract interview/i.test(title)
   ) {

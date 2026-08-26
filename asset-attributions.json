@@ -610,5 +610,23 @@
     "sourcePage": "https://en.wikipedia.org/wiki/Xabi_Alonso",
     "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Los_Caminos_del_f%C3%BAtbol._Xabi_Alonso_%2839666778464%29_%28cropped%29.jpg/330px-Los_Caminos_del_f%C3%BAtbol._Xabi_Alonso_%2839666778464%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
+  },
+  "./assets/players/rafael-le-o-e4065748.jpg": {
+    "name": "Rafael Leão",
+    "sourcePage": "https://r2.thesportsdb.com/images/media/player/thumb/m1sh9x1549742563.jpg",
+    "sourceImage": "https://r2.thesportsdb.com/images/media/player/thumb/m1sh9x1549742563.jpg",
+    "note": "Seeded from the existing Wikimedia image reference; verify the image license before redistribution."
+  },
+  "./assets/clubs/ac-milan-fd692f18.png": {
+    "name": "AC Milan",
+    "sourcePage": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png",
+    "sourceImage": "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png",
+    "note": "Seeded from the existing Wikimedia image reference; verify the image license before redistribution."
+  },
+  "./assets/players/omar-marmoush-1d309351.jpg": {
+    "name": "Omar Marmoush",
+    "sourcePage": "https://r2.thesportsdb.com/images/media/player/thumb/w1jx521658324336.jpg",
+    "sourceImage": "https://r2.thesportsdb.com/images/media/player/thumb/w1jx521658324336.jpg",
+    "note": "Seeded from the existing Wikimedia image reference; verify the image license before redistribution."
   }
 }

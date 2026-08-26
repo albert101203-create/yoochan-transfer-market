@@ -41,6 +41,10 @@ const SEEDED_ASSETS = {
       "https://commons.wikimedia.org/wiki/Special:FilePath/Nicolas%20Jackson%2020042025%20%281%29.jpg?width=512",
     "Julián Álvarez":
       "https://commons.wikimedia.org/wiki/Special:FilePath/Juli%C3%A1n%20%C3%81lvarez.jpg?width=512",
+    "Rafael Leão":
+      "https://r2.thesportsdb.com/images/media/player/thumb/m1sh9x1549742563.jpg",
+    "Omar Marmoush":
+      "https://r2.thesportsdb.com/images/media/player/thumb/w1jx521658324336.jpg",
     "Viktor Gyökeres":
       "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Viktor_Gy%C3%B6keres_2026-06-04_1_%28cropped%29.jpg/330px-Viktor_Gy%C3%B6keres_2026-06-04_1_%28cropped%29.jpg",
     "김민재":
@@ -110,6 +114,8 @@ const SEEDED_ASSETS = {
       "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/AFC_Bournemouth_%282013%29.svg/330px-AFC_Bournemouth_%282013%29.svg.png",
     "Atlético Madrid":
       "https://r2.thesportsdb.com/images/media/team/badge/0ulh3q1719984315.png",
+    "AC Milan":
+      "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png",
     Barcelona:
       "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/FC_Barcelona_%28crest%29.svg/1280px-FC_Barcelona_%28crest%29.svg.png",
     "바이에른 뮌헨":
