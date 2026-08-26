@@ -1355,6 +1355,22 @@ function normalizeDraftRecord(draft) {
     normalized.extractionConfidence = "medium";
     normalized.extractionPattern = "bbc-marmoush-tottenham-loan";
     normalized.needsVerification = false;
+  } else if (/Omar Marmoush.*Tottenham.*Manchester City/i.test(title)) {
+    normalized.player = "Omar Marmoush";
+    normalized.fromTeam = "Manchester City";
+    normalized.toTeam = "Tottenham";
+    normalized.status = "루머";
+    normalized.extractionConfidence = "medium";
+    normalized.extractionPattern = "marmoush-tottenham-medical";
+    normalized.needsVerification = false;
+  } else if (/^Tottenham transfer target set to undergo medical as .*deal edges closer/i.test(title)) {
+    normalized.player = "Omar Marmoush";
+    normalized.fromTeam = "Manchester City";
+    normalized.toTeam = "Tottenham";
+    normalized.status = "루머";
+    normalized.extractionConfidence = "medium";
+    normalized.extractionPattern = "football-london-marmoush-medical";
+    normalized.needsVerification = false;
   } else if (/Ethan Pinnock to Coventry City.*agreement reached/i.test(title)) {
     normalized.player = "Ethan Pinnock";
     normalized.fromTeam = "Brentford";
@@ -1362,6 +1378,14 @@ function normalizeDraftRecord(draft) {
     normalized.status = "루머";
     normalized.extractionConfidence = "medium";
     normalized.extractionPattern = "ornstein-pinnock-coventry";
+    normalized.needsVerification = false;
+  } else if (/Wrexham close in on Ekomie and Kabore deals/i.test(title)) {
+    normalized.player = "Issa Kaboré";
+    normalized.fromTeam = "Manchester City";
+    normalized.toTeam = "Wrexham";
+    normalized.status = "루머";
+    normalized.extractionConfidence = "medium";
+    normalized.extractionPattern = "bbc-kabore-wrexham";
     normalized.needsVerification = false;
   }
 

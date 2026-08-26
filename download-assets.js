@@ -45,6 +45,8 @@ const SEEDED_ASSETS = {
       "https://r2.thesportsdb.com/images/media/player/thumb/m1sh9x1549742563.jpg",
     "Omar Marmoush":
       "https://r2.thesportsdb.com/images/media/player/thumb/w1jx521658324336.jpg",
+    "Issa Kaboré":
+      "https://r2.thesportsdb.com/images/media/player/thumb/dvzvzl1631966178.jpg",
     "Viktor Gyökeres":
       "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Viktor_Gy%C3%B6keres_2026-06-04_1_%28cropped%29.jpg/330px-Viktor_Gy%C3%B6keres_2026-06-04_1_%28cropped%29.jpg",
     "김민재":
@@ -118,6 +120,8 @@ const SEEDED_ASSETS = {
       "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png",
     "Coventry City":
       "https://r2.thesportsdb.com/images/media/team/badge/uxyqys1424033798.png",
+    Wrexham:
+      "https://r2.thesportsdb.com/images/media/team/badge/ezpymt1675092551.png",
     Barcelona:
       "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/FC_Barcelona_%28crest%29.svg/1280px-FC_Barcelona_%28crest%29.svg.png",
     "바이에른 뮌헨":
