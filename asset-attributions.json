@@ -670,5 +670,23 @@
     "sourcePage": "https://r2.thesportsdb.com/images/media/team/badge/ezpymt1675092551.png",
     "sourceImage": "https://r2.thesportsdb.com/images/media/team/badge/ezpymt1675092551.png",
     "note": "Seeded from the existing Wikimedia image reference; verify the image license before redistribution."
+  },
+  "./assets/players/ismaila-sarr-6ff44475.jpg": {
+    "name": "Ismaila Sarr",
+    "sourcePage": "https://en.wikipedia.org/wiki/Isma%C3%AFla_Sarr",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Ismaila_Sarr_France_v_Senegal_16_June_2026-425_%28cropped%29.jpg/330px-Ismaila_Sarr_France_v_Senegal_16_June_2026-425_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
+  },
+  "./assets/players/exequiel-palacios-7b3d214c.jpg": {
+    "name": "Exequiel Palacios",
+    "sourcePage": "https://en.wikipedia.org/wiki/Exequiel_Palacios",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Exequiel_Palacios_Argentina_v_Spain_19_July_2026-022.jpg/330px-Exequiel_Palacios_Argentina_v_Spain_19_July_2026-022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
+  },
+  "./assets/players/axel-disasi-48bf2cfd.jpg": {
+    "name": "Axel Disasi",
+    "sourcePage": "https://en.wikipedia.org/wiki/Axel_Disasi",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/AxelDisasi_%28cropped%29.jpg/330px-AxelDisasi_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
   }
 }
