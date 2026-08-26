@@ -187,7 +187,9 @@ function collectRecords() {
   const records = files.flatMap((file) => {
     const data = readJson(path.join(BASE_DIR, file), null);
     if (Array.isArray(data)) return data;
-    if (Array.isArray(data?.drafts)) return data.drafts;
+    if (Array.isArray(data?.drafts) || Array.isArray(data?.reviewItems)) {
+      return [...(data.drafts || []), ...(data.reviewItems || [])];
+    }
     if (Array.isArray(data?.items)) return data.items;
     return [];
   });
@@ -279,6 +281,74 @@ function extensionFromContentType(contentType = "") {
   return ".jpg";
 }
 
+function detectImageExtension(filePath) {
+  if (!fs.existsSync(filePath)) return null;
+  const buffer = fs.readFileSync(filePath).subarray(0, 256);
+  const hex = buffer.subarray(0, 12).toString("hex");
+  const text = buffer.toString("utf8").trimStart().toLowerCase();
+
+  if (hex.startsWith("89504e470d0a1a0a")) return ".png";
+  if (hex.startsWith("ffd8ff")) return ".jpg";
+  if (hex.startsWith("52494646") && hex.slice(16, 24) === "57454250") return ".webp";
+  if (text.startsWith("<?xml") || text.startsWith("<svg")) return ".svg";
+  return null;
+}
+
+function normalizeAssetFile(kind, name, directory, fileName) {
+  const currentPath = path.join(directory, fileName);
+  const detectedExtension = detectImageExtension(currentPath);
+  if (!detectedExtension || path.extname(fileName).toLowerCase() === detectedExtension) {
+    return { fileName, filePath: currentPath };
+  }
+
+  const correctedFileName = `${slug(name)}${detectedExtension}`;
+  const correctedPath = path.join(directory, correctedFileName);
+  if (correctedPath !== currentPath) {
+    if (fs.existsSync(correctedPath)) fs.unlinkSync(correctedPath);
+    fs.renameSync(currentPath, correctedPath);
+  }
+  console.log(`Normalized ${kind}/${name}: ${fileName} -> ${correctedFileName}`);
+  return { fileName: correctedFileName, filePath: correctedPath };
+}
+
+function normalizeMappedAssetFiles(assetMap) {
+  for (const kind of ["players", "clubs"]) {
+    const directory = kind === "players" ? PLAYER_DIR : CLUB_DIR;
+    for (const [name, entry] of Object.entries(assetMap[kind] || {})) {
+      if (!entry?.src) continue;
+      const normalizedFile = normalizeAssetFile(kind, name, directory, path.basename(entry.src));
+      entry.src = `./assets/${kind}/${normalizedFile.fileName}`;
+    }
+  }
+}
+
+function removeClubNamesFromPlayerAssets(assetMap, attributions) {
+  const clubNames = new Set(Object.keys(assetMap.clubs || {}));
+  for (const name of Object.keys(assetMap.players || {})) {
+    if (!clubNames.has(name)) continue;
+    const src = assetMap.players[name]?.src;
+    delete assetMap.players[name];
+    if (src) delete attributions[src];
+  }
+
+  // A previous parser mistake created a club asset using a player's name.
+  // Keep the player asset and remove the ambiguous club entry.
+  const playerNames = new Set(Object.keys(assetMap.players || {}));
+  for (const name of Object.keys(assetMap.clubs || {})) {
+    if (!playerNames.has(name)) continue;
+    const src = assetMap.clubs[name]?.src;
+    delete assetMap.clubs[name];
+    if (src) delete attributions[src];
+  }
+
+  const invalidClubNames = new Set(["City", "Savinho", "Xabi Alonso", "Ven"]);
+  for (const name of invalidClubNames) {
+    const src = assetMap.clubs[name]?.src;
+    delete assetMap.clubs[name];
+    if (src) delete attributions[src];
+  }
+}
+
 function isTrustedAssetEntry(kind, entry) {
   if (!entry?.src) return false;
   const sourceText = `${entry.sourcePage || ""} ${entry.sourceImage || ""}`.toLowerCase();
@@ -334,7 +404,8 @@ async function downloadEntity(kind, name, assetMap, attributions) {
     const downloaded = await downloadFile(summary.thumbnail.source, filePath);
     if (!downloaded) return "download-failed";
 
-    const relativePath = `./assets/${kind}/${fileName}`;
+    const normalizedFile = normalizeAssetFile(kind, name, directory, fileName);
+    const relativePath = `./assets/${kind}/${normalizedFile.fileName}`;
     collection[name] = {
       src: relativePath,
       sourcePage: summary.content_urls?.desktop?.page || `https://en.wikipedia.org/wiki/${encodeURIComponent(name)}`,
@@ -369,11 +440,16 @@ async function downloadSeededAssets(assetMap, attributions) {
           : /\.webp(?:\?|$)/i.test(sourceImage)
             ? ".webp"
             : ".jpg";
-      const fileName = `${slug(name)}${extension}`;
-      const filePath = path.join(directory, fileName);
       const refresh = assetMap[kind][name]?.sourceImage && assetMap[kind][name].sourceImage !== sourceImage;
+      let fileName = refresh
+        ? `${slug(name)}${extension}`
+        : path.basename(assetMap[kind][name]?.src || `${slug(name)}${extension}`);
+      let filePath = path.join(directory, fileName);
       if ((!fs.existsSync(filePath) || refresh) && (await downloadFile(sourceImage, filePath, { overwrite: refresh }))) downloaded += 1;
       if (!fs.existsSync(filePath)) continue;
+      const normalizedFile = normalizeAssetFile(kind, name, directory, fileName);
+      fileName = normalizedFile.fileName;
+      filePath = normalizedFile.filePath;
       const relativePath = `./assets/${kind}/${fileName}`;
       assetMap[kind][name] = {
         src: relativePath,
@@ -400,6 +476,8 @@ async function downloadAssets() {
   const attributions = readJson(ATTRIBUTIONS_FILE, {});
   const counts = { downloaded: 0, cached: 0, notFound: 0, failed: 0 };
 
+  removeClubNamesFromPlayerAssets(assetMap, attributions);
+
   counts.downloaded += await downloadSeededAssets(assetMap, attributions);
 
   for (const player of players) {
@@ -417,6 +495,8 @@ async function downloadAssets() {
     else if (result === "not-found") counts.notFound += 1;
     else counts.failed += 1;
   }
+
+  normalizeMappedAssetFiles(assetMap);
 
   writeJson(ASSET_MAP_FILE, assetMap);
   writeJson(ATTRIBUTIONS_FILE, attributions);

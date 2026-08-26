@@ -381,6 +381,27 @@ function renderStats(items) {
   if (reviewCount) reviewCount.textContent = reviewItemCount;
 }
 
+function renderSourceLinks(item) {
+  const links = item.sourceLinks || [
+    { sourceName: item.sourceName, sourceUrl: item.sourceUrl, headlineTitle: item.headlineTitle },
+  ];
+  const unique = links.filter(
+    (link, index, all) => link.sourceUrl && all.findIndex((candidate) => candidate.sourceUrl === link.sourceUrl) === index
+  );
+  if (unique.length <= 1) return "";
+  return `
+    <div class="source-links-list">
+      <span>추가 출처 ${unique.length - 1}개</span>
+      ${unique
+        .slice(1)
+        .map(
+          (link) => `<a href="${link.sourceUrl}" target="_blank" rel="noreferrer">${link.sourceName || "원문"} ↗</a>`
+        )
+        .join("")}
+    </div>
+  `;
+}
+
 function mergeAllTransfers() {
   const merged = new Map();
 
@@ -405,6 +426,7 @@ function renderCards() {
   cards.innerHTML = items
     .map((item) => {
       const badgeClass = item.status === "완료" ? "done" : "rumor";
+      const sourceLinks = renderSourceLinks(item);
       return `
         <article class="card transfer-card">
           <div class="card-top">
@@ -446,8 +468,10 @@ function renderCards() {
               <span class="source-badge ${getReliabilityClass(item.sourceReliability)}">신뢰도 ${item.sourceReliability}</span>
               <span>${item.cardOrigin || "기본 이적 데이터"}</span>
               <span>${item.sourceType}</span>
+              <span>출처 ${item.sourceCount || 1}개</span>
               <span>검증 ${item.lastVerifiedAt}</span>
             </div>
+            ${sourceLinks}
             <p class="source-note">${item.sourceReason}</p>
           </div>
         </article>

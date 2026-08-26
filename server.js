@@ -94,6 +94,7 @@ const GENERIC_DRAFT_SKIP_PATTERNS = [
   /world-class .*star/i,
   /demands emerge/i,
   /want to sign .*star/i,
+  /^all done deals in /i,
 ];
 
 const POSITION_PATTERN =
@@ -747,6 +748,7 @@ function makeDraft(item, extracted) {
 function isFallbackCardCandidate(title = "") {
   const normalized = normalizeWhitespace(title);
   if (!isTransferHeadline(normalized)) return false;
+  if (shouldSkipDraftTitle(normalized)) return false;
   return !/(?:transfer show|live updates|rumours and gossip|rumors and gossip|goals and highlights|paper talk|transfer news live|scottish premiership news)/i.test(
     normalized
   );
@@ -1411,6 +1413,15 @@ function normalizeDraftRecord(draft) {
     normalized.extractionConfidence = "high";
     normalized.extractionPattern = "chelsea-disasi-palace-loan";
     normalized.needsVerification = false;
+  } else if (/Jack Grealish.*Sunderland|Sunderland.*Jack Grealish/i.test(title)) {
+    normalized.player = "Jack Grealish";
+    normalized.fromTeam = "Manchester City";
+    normalized.toTeam = "Sunderland";
+    normalized.status = "루머";
+    normalized.extractionConfidence = "medium";
+    normalized.extractionPattern = "sunderland-grealish-loan-review";
+    normalized.needsVerification = true;
+    normalized.sourceReason = "맨체스터 시티의 잭 그릴리시가 선덜랜드 임대 후보로 언급된 기사입니다. 임대 제안과 최종 합의 여부를 원문에서 확인해야 하므로 검수 대기 카드로 보관합니다.";
   }
 
   if (
@@ -1617,7 +1628,6 @@ function normalizeDraftRecord(draft) {
 }
 
 function dedupeDrafts(items) {
-  const seen = new Set();
   const resolvedHeadlines = new Set(
     items
       .filter((item) => item.headlineTitle && !isUnknownTeamName(item.fromTeam) && !isUnknownTeamName(item.toTeam))
@@ -1629,7 +1639,8 @@ function dedupeDrafts(items) {
       .map((item) => `${item.player}|${item.toTeam}`)
   );
 
-  return items.filter((item) => {
+  const filtered = items.filter((item) => {
+    if (shouldSkipDraftTitle(item.headlineTitle || "")) return false;
     const headlineKey = `${item.player}|${normalizeWhitespace(item.headlineTitle || "")}`;
     if (
       item.needsVerification &&
@@ -1639,16 +1650,64 @@ function dedupeDrafts(items) {
     ) {
       return false;
     }
-    const key = `${item.player}|${item.toTeam}|${item.sourceUrl}`;
-    if (seen.has(key)) return false;
-    seen.add(key);
     return true;
   });
+
+  const grouped = new Map();
+  for (const item of filtered) {
+    const moveKey = isUnknownTeamName(item.fromTeam) || isUnknownTeamName(item.toTeam)
+      ? `${item.player}|${item.fromTeam}|${item.toTeam}|${normalizeWhitespace(item.headlineTitle || "")}`
+      : `${item.player}|${item.fromTeam}|${item.toTeam}`;
+    const existing = grouped.get(moveKey);
+    if (!existing) {
+      grouped.set(moveKey, {
+        ...item,
+        sourceLinks: item.sourceLinks || [
+          {
+            sourceName: item.sourceName,
+            sourceUrl: item.sourceUrl,
+            sourceTier: item.sourceTier,
+            sourceReliability: item.sourceReliability,
+            headlineTitle: item.headlineTitle,
+            publishedAt: item.publishedAt,
+          },
+        ],
+      });
+      continue;
+    }
+
+    const preferred = compareDraftPriority(item, existing) < 0 ? item : existing;
+    const sourceLinks = [...(existing.sourceLinks || []), ...(item.sourceLinks || [])];
+    if (!item.sourceLinks) {
+      sourceLinks.push({
+        sourceName: item.sourceName,
+        sourceUrl: item.sourceUrl,
+        sourceTier: item.sourceTier,
+        sourceReliability: item.sourceReliability,
+        headlineTitle: item.headlineTitle,
+        publishedAt: item.publishedAt,
+      });
+    }
+    const uniqueSourceLinks = sourceLinks.filter(
+      (link, index, links) => link.sourceUrl && links.findIndex((candidate) => candidate.sourceUrl === link.sourceUrl) === index
+    );
+    grouped.set(moveKey, {
+      ...preferred,
+      sourceLinks: uniqueSourceLinks,
+      sourceCount: uniqueSourceLinks.length,
+    });
+  }
+
+  return [...grouped.values()].map((item) => ({
+    ...item,
+    sourceCount: item.sourceCount || (item.sourceLinks || []).length || 1,
+  }));
 }
 
 function isPublishableDraft(item) {
   if (!item || item.needsVerification) return false;
   if (!item.player || isUnknownTeamName(item.fromTeam) || isUnknownTeamName(item.toTeam)) return false;
+  if (TEAM_LEAGUES[item.player]) return false;
   if (/[!?\uFF1F\uFF01]/u.test(`${item.player} ${item.fromTeam} ${item.toTeam}`)) return false;
   return true;
 }
