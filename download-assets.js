@@ -47,6 +47,12 @@ const SEEDED_ASSETS = {
       "https://r2.thesportsdb.com/images/media/player/thumb/w1jx521658324336.jpg",
     "Issa Kaboré":
       "https://r2.thesportsdb.com/images/media/player/thumb/dvzvzl1631966178.jpg",
+    "Ismaïla Sarr":
+      "https://r2.thesportsdb.com/images/media/player/thumb/d6a8by1772141525.jpg",
+    "Exequiel Palacios":
+      "https://r2.thesportsdb.com/images/media/player/thumb/yteipb1780010763.jpg",
+    "Axel Disasi":
+      "https://r2.thesportsdb.com/images/media/player/thumb/yzffmg1771427113.jpg",
     "Viktor Gyökeres":
       "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Viktor_Gy%C3%B6keres_2026-06-04_1_%28cropped%29.jpg/330px-Viktor_Gy%C3%B6keres_2026-06-04_1_%28cropped%29.jpg",
     "김민재":
@@ -122,6 +128,10 @@ const SEEDED_ASSETS = {
       "https://r2.thesportsdb.com/images/media/team/badge/uxyqys1424033798.png",
     Wrexham:
       "https://r2.thesportsdb.com/images/media/team/badge/ezpymt1675092551.png",
+    "Bayer Leverkusen":
+      "https://r2.thesportsdb.com/images/media/team/badge/3x9k851726760113.png",
+    "Ipswich Town":
+      "https://r2.thesportsdb.com/images/media/team/badge/mdj1ey1634670785.png",
     Barcelona:
       "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/FC_Barcelona_%28crest%29.svg/1280px-FC_Barcelona_%28crest%29.svg.png",
     "바이에른 뮌헨":

@@ -1387,6 +1387,30 @@ function normalizeDraftRecord(draft) {
     normalized.extractionConfidence = "medium";
     normalized.extractionPattern = "bbc-kabore-wrexham";
     normalized.needsVerification = false;
+  } else if (/Romano drops Liverpool transfer bombshell.*Ismaila Sarr|Liverpool make .*bid for .*Ismaila Sarr/i.test(title)) {
+    normalized.player = "Ismaïla Sarr";
+    normalized.fromTeam = "Crystal Palace";
+    normalized.toTeam = "Liverpool";
+    normalized.status = "루머";
+    normalized.extractionConfidence = "medium";
+    normalized.extractionPattern = "romano-sarr-liverpool-bid";
+    normalized.needsVerification = false;
+  } else if (/Exequiel Palacios to Ipswich Town.*medical|Ipswich.*Palacios.*Leverkusen/i.test(title)) {
+    normalized.player = "Exequiel Palacios";
+    normalized.fromTeam = "Bayer Leverkusen";
+    normalized.toTeam = "Ipswich Town";
+    normalized.status = "루머";
+    normalized.extractionConfidence = "high";
+    normalized.extractionPattern = "palacios-ipswich-agreement";
+    normalized.needsVerification = false;
+  } else if (/Axel Disasi joins Crystal Palace on loan/i.test(title)) {
+    normalized.player = "Axel Disasi";
+    normalized.fromTeam = "Chelsea";
+    normalized.toTeam = "Crystal Palace";
+    normalized.status = "완료";
+    normalized.extractionConfidence = "high";
+    normalized.extractionPattern = "chelsea-disasi-palace-loan";
+    normalized.needsVerification = false;
   }
 
   if (
@@ -1398,6 +1422,7 @@ function normalizeDraftRecord(draft) {
     /^Transfer gurus Fabrizio and Plettigoal clash over Diomande/i.test(title) ||
     /^Hull City make new .* Bundesliga star/i.test(title) ||
     /^Alvarez[\u2019']s Arsenal dilemma/i.test(title) ||
+    /^Man Utd to launch bid for Real Madrid star/i.test(title) ||
     /^['\u2018]Negotiations['\u2019]/i.test(title) ||
     /^Every word of .* contract interview/i.test(title)
   ) {

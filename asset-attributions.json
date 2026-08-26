@@ -671,22 +671,34 @@
     "sourceImage": "https://r2.thesportsdb.com/images/media/team/badge/ezpymt1675092551.png",
     "note": "Seeded from the existing Wikimedia image reference; verify the image license before redistribution."
   },
-  "./assets/players/ismaila-sarr-6ff44475.jpg": {
-    "name": "Ismaila Sarr",
-    "sourcePage": "https://en.wikipedia.org/wiki/Isma%C3%AFla_Sarr",
-    "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Ismaila_Sarr_France_v_Senegal_16_June_2026-425_%28cropped%29.jpg/330px-Ismaila_Sarr_France_v_Senegal_16_June_2026-425_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
+  "./assets/players/isma-la-sarr-c80b3b24.jpg": {
+    "name": "Ismaïla Sarr",
+    "sourcePage": "https://r2.thesportsdb.com/images/media/player/thumb/d6a8by1772141525.jpg",
+    "sourceImage": "https://r2.thesportsdb.com/images/media/player/thumb/d6a8by1772141525.jpg",
+    "note": "Seeded from the existing Wikimedia image reference; verify the image license before redistribution."
   },
   "./assets/players/exequiel-palacios-7b3d214c.jpg": {
     "name": "Exequiel Palacios",
-    "sourcePage": "https://en.wikipedia.org/wiki/Exequiel_Palacios",
-    "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Exequiel_Palacios_Argentina_v_Spain_19_July_2026-022.jpg/330px-Exequiel_Palacios_Argentina_v_Spain_19_July_2026-022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
+    "sourcePage": "https://r2.thesportsdb.com/images/media/player/thumb/yteipb1780010763.jpg",
+    "sourceImage": "https://r2.thesportsdb.com/images/media/player/thumb/yteipb1780010763.jpg",
+    "note": "Seeded from the existing Wikimedia image reference; verify the image license before redistribution."
   },
   "./assets/players/axel-disasi-48bf2cfd.jpg": {
     "name": "Axel Disasi",
-    "sourcePage": "https://en.wikipedia.org/wiki/Axel_Disasi",
-    "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/AxelDisasi_%28cropped%29.jpg/330px-AxelDisasi_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
+    "sourcePage": "https://r2.thesportsdb.com/images/media/player/thumb/yzffmg1771427113.jpg",
+    "sourceImage": "https://r2.thesportsdb.com/images/media/player/thumb/yzffmg1771427113.jpg",
+    "note": "Seeded from the existing Wikimedia image reference; verify the image license before redistribution."
+  },
+  "./assets/clubs/bayer-leverkusen-54ce8111.png": {
+    "name": "Bayer Leverkusen",
+    "sourcePage": "https://r2.thesportsdb.com/images/media/team/badge/3x9k851726760113.png",
+    "sourceImage": "https://r2.thesportsdb.com/images/media/team/badge/3x9k851726760113.png",
+    "note": "Seeded from the existing Wikimedia image reference; verify the image license before redistribution."
+  },
+  "./assets/clubs/ipswich-town-0a10e415.png": {
+    "name": "Ipswich Town",
+    "sourcePage": "https://r2.thesportsdb.com/images/media/team/badge/mdj1ey1634670785.png",
+    "sourceImage": "https://r2.thesportsdb.com/images/media/team/badge/mdj1ey1634670785.png",
+    "note": "Seeded from the existing Wikimedia image reference; verify the image license before redistribution."
   }
 }
