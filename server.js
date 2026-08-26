@@ -1347,6 +1347,22 @@ function normalizeDraftRecord(draft) {
     normalized.extractionPattern = "hotspur-hq-marmoush-doubt";
     normalized.needsVerification = false;
     normalized.sourceReason = "보도된 임대 합의가 아직 확정되지 않았다는 내용입니다. 맨체스터 시티에서 토트넘으로의 가능성만 루머로 표시합니다.";
+  } else if (/Tottenham agree loan for Man City['’]s Marmoush/i.test(title)) {
+    normalized.player = "Omar Marmoush";
+    normalized.fromTeam = "Manchester City";
+    normalized.toTeam = "Tottenham";
+    normalized.status = "루머";
+    normalized.extractionConfidence = "medium";
+    normalized.extractionPattern = "bbc-marmoush-tottenham-loan";
+    normalized.needsVerification = false;
+  } else if (/Ethan Pinnock to Coventry City.*agreement reached/i.test(title)) {
+    normalized.player = "Ethan Pinnock";
+    normalized.fromTeam = "Brentford";
+    normalized.toTeam = "Coventry City";
+    normalized.status = "루머";
+    normalized.extractionConfidence = "medium";
+    normalized.extractionPattern = "ornstein-pinnock-coventry";
+    normalized.needsVerification = false;
   }
 
   if (
@@ -1355,6 +1371,9 @@ function normalizeDraftRecord(draft) {
     /^Signs that Jaissle[\u2019']s Newcastle/i.test(title) ||
     /^Mateta[\u2019']s Palace dispute/i.test(title) ||
     /^Glaring weakness in goal remains/i.test(title) ||
+    /^Transfer gurus Fabrizio and Plettigoal clash over Diomande/i.test(title) ||
+    /^Hull City make new .* Bundesliga star/i.test(title) ||
+    /^Alvarez[\u2019']s Arsenal dilemma/i.test(title) ||
     /^['\u2018]Negotiations['\u2019]/i.test(title) ||
     /^Every word of .* contract interview/i.test(title)
   ) {
@@ -1480,6 +1499,14 @@ function normalizeDraftRecord(draft) {
     normalized.player = "Allan Elias";
     normalized.fromTeam = "Palmeiras";
     normalized.toTeam = "Manchester City";
+  } else if (/^Man City agree deal for Palmeiras winger Allan/i.test(title)) {
+    normalized.player = "Allan Elias";
+    normalized.fromTeam = "Palmeiras";
+    normalized.toTeam = "Manchester City";
+    normalized.status = "완료";
+    normalized.extractionConfidence = "high";
+    normalized.extractionPattern = "bbc-allan-elias-deal";
+    normalized.needsVerification = false;
   } else if (/^Man United agree to .* deal for Brighton's Carlos Baleba/i.test(title)) {
     normalized.player = "Carlos Baleba";
     normalized.fromTeam = "Brighton";

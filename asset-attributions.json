@@ -628,5 +628,29 @@
     "sourcePage": "https://r2.thesportsdb.com/images/media/player/thumb/w1jx521658324336.jpg",
     "sourceImage": "https://r2.thesportsdb.com/images/media/player/thumb/w1jx521658324336.jpg",
     "note": "Seeded from the existing Wikimedia image reference; verify the image license before redistribution."
+  },
+  "./assets/clubs/west-ham-united-6f49c976.svg": {
+    "name": "West Ham United",
+    "sourcePage": "https://upload.wikimedia.org/wikipedia/en/c/c2/West_Ham_United_FC_logo.svg",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/en/c/c2/West_Ham_United_FC_logo.svg",
+    "note": "Seeded from the existing Wikimedia image reference; verify the image license before redistribution."
+  },
+  "./assets/clubs/inter-milan-909ca32a.svg": {
+    "name": "Inter Milan",
+    "sourcePage": "https://upload.wikimedia.org/wikipedia/commons/0/05/FC_Internazionale_Milano_2021.svg",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/0/05/FC_Internazionale_Milano_2021.svg",
+    "note": "Seeded from the existing Wikimedia image reference; verify the image license before redistribution."
+  },
+  "./assets/players/ethan-pinnock-b752dfcf.jpg": {
+    "name": "Ethan Pinnock",
+    "sourcePage": "https://en.wikipedia.org/wiki/Ethan_Pinnock",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Ethan_Pinnock%2C_Brentford_F.C._footballer%2C_November_2025.jpg/330px-Ethan_Pinnock%2C_Brentford_F.C._footballer%2C_November_2025.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
+  },
+  "./assets/clubs/coventry-city-92b4f121.png": {
+    "name": "Coventry City",
+    "sourcePage": "https://r2.thesportsdb.com/images/media/team/badge/uxyqys1424033798.png",
+    "sourceImage": "https://r2.thesportsdb.com/images/media/team/badge/uxyqys1424033798.png",
+    "note": "Seeded from the existing Wikimedia image reference; verify the image license before redistribution."
   }
 }

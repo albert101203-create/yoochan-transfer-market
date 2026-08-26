@@ -116,6 +116,8 @@ const SEEDED_ASSETS = {
       "https://r2.thesportsdb.com/images/media/team/badge/0ulh3q1719984315.png",
     "AC Milan":
       "https://r2.thesportsdb.com/images/media/team/badge/wvspur1448806617.png",
+    "Coventry City":
+      "https://r2.thesportsdb.com/images/media/team/badge/uxyqys1424033798.png",
     Barcelona:
       "https://upload.wikimedia.org/wikipedia/en/thumb/4/47/FC_Barcelona_%28crest%29.svg/1280px-FC_Barcelona_%28crest%29.svg.png",
     "바이에른 뮌헨":
@@ -346,7 +348,13 @@ async function downloadSeededAssets(assetMap, attributions) {
     const directory = kind === "players" ? PLAYER_DIR : CLUB_DIR;
     fs.mkdirSync(directory, { recursive: true });
     for (const [name, sourceImage] of Object.entries(entries)) {
-      const extension = /\.(?:svg|png|webp)(?:\?|$)/i.test(sourceImage) ? ".png" : ".jpg";
+      const extension = /\.svg(?:\?|$)/i.test(sourceImage)
+        ? ".svg"
+        : /\.png(?:\?|$)/i.test(sourceImage)
+          ? ".png"
+          : /\.webp(?:\?|$)/i.test(sourceImage)
+            ? ".webp"
+            : ".jpg";
       const fileName = `${slug(name)}${extension}`;
       const filePath = path.join(directory, fileName);
       const refresh = assetMap[kind][name]?.sourceImage && assetMap[kind][name].sourceImage !== sourceImage;

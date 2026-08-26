@@ -14,6 +14,11 @@ function checkAsset(kind, name) {
   if (!entry?.src) return { kind, name, reason: "missing-entry" };
   const filePath = path.join(ROOT, entry.src.replace(/^\.\//, ""));
   if (!fs.existsSync(filePath)) return { kind, name, reason: "missing-file", src: entry.src };
+  const extension = path.extname(filePath).toLowerCase();
+  const signature = fs.readFileSync(filePath).subarray(0, 12).toString("hex");
+  if (extension === ".png" && signature.startsWith("3c3f786d6c20")) {
+    return { kind, name, reason: "svg-content-served-as-png", src: entry.src };
+  }
   const sourceText = `${entry.sourcePage || ""} ${entry.sourceImage || ""}`.toLowerCase();
   if (kind === "clubs" && /wikipedia/.test(sourceText) && !/(logo|crest|badge|svg)/.test(sourceText)) {
     return { kind, name, reason: "untrusted-club-image-source", src: entry.src };
