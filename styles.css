@@ -75,7 +75,7 @@ select {
 
 .summary-grid {
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-template-columns: repeat(4, minmax(0, 1fr));
   gap: 14px;
   margin-top: 20px;
 }
@@ -200,6 +200,33 @@ select {
   margin-top: 28px;
 }
 
+.review-section {
+  border-top-color: rgba(255, 99, 132, 0.8);
+}
+
+.review-card {
+  border-color: rgba(255, 99, 132, 0.35);
+  box-shadow: 0 0 0 1px rgba(255, 99, 132, 0.08) inset;
+}
+
+.review-warning {
+  margin-top: 14px;
+  padding: 12px;
+  border: 1px solid rgba(255, 180, 84, 0.32);
+  border-radius: 10px;
+  background: rgba(255, 180, 84, 0.08);
+  color: var(--warning);
+  font-size: 13px;
+  line-height: 1.5;
+}
+
+.review-headline {
+  margin: 10px 0 0;
+  color: var(--text);
+  font-size: 13px;
+  line-height: 1.5;
+}
+
 .main-transfer-section .section-head {
   margin-bottom: 14px;
 }
@@ -308,6 +335,11 @@ select {
 .badge.rumor {
   background: rgba(255, 180, 84, 0.14);
   color: var(--warning);
+}
+
+.badge.review {
+  background: rgba(255, 99, 132, 0.16);
+  color: #ff9fb6;
 }
 
 .transfer-grid {

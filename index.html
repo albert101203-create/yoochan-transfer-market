@@ -54,6 +54,10 @@
         <span>루머 카드</span>
         <strong id="rumorCount">0</strong>
       </article>
+      <article class="card stat review-stat">
+        <span>검수 대기</span>
+        <strong id="reviewCount">0</strong>
+      </article>
     </section>
 
     <nav class="view-toggle card" aria-label="콘텐츠 보기 전환">
@@ -62,6 +66,9 @@
       </button>
       <button id="cardsViewBtn" class="view-toggle-button" type="button" data-view="cards">
         이적 카드 칸
+      </button>
+      <button id="reviewViewBtn" class="view-toggle-button" type="button" data-view="review">
+        검수 대기 칸
       </button>
     </nav>
 
@@ -79,7 +86,7 @@
     </section>
 
     <div id="cardView" class="card-view" hidden>
-    <section class="main-transfer-section">
+    <section id="transferSection" class="main-transfer-section">
       <div class="section-head">
         <div>
           <p class="eyebrow">Transfer Cards</p>
@@ -89,6 +96,17 @@
       <p id="draftStatus" class="subtitle">기사 기반 이적 카드 준비 중...</p>
       <p class="section-note">기본 이적 데이터와 기사 기반 자동 카드를 하나의 목록으로 통합했습니다.</p>
       <main id="cards" class="cards transfer-cards"></main>
+    </section>
+    <section id="reviewSection" class="main-transfer-section review-section" hidden>
+      <div class="section-head">
+        <div>
+          <p class="eyebrow">Review Queue</p>
+          <h2>검수 대기 카드</h2>
+        </div>
+      </div>
+      <p id="reviewStatus" class="subtitle">자동 확인이 필요한 카드입니다.</p>
+      <p class="section-note">팀·선수·사진 중 하나라도 확인되지 않은 기사는 이곳에 보관합니다. 원문을 확인하기 전에는 공개 이적 카드로 표시하지 않습니다.</p>
+      <main id="reviewCards" class="cards transfer-cards"></main>
     </section>
     </div>
   </div>

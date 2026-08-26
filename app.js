@@ -238,6 +238,8 @@ let draftMode = "draft unavailable";
 let liveHeadlineCount = 0;
 let autoDraftCount = 0;
 let rumorDraftCount = 0;
+let reviewTransfers = [];
+let reviewItemCount = 0;
 
 const leagueFilter = document.querySelector("#leagueFilter");
 const statusFilter = document.querySelector("#statusFilter");
@@ -254,8 +256,14 @@ const rumorCount = document.querySelector("#rumorCount");
 const refreshStatus = document.querySelector("#refreshStatus");
 const articleSection = document.querySelector("#articleSection");
 const cardView = document.querySelector("#cardView");
+const transferSection = document.querySelector("#transferSection");
+const reviewSection = document.querySelector("#reviewSection");
+const reviewCards = document.querySelector("#reviewCards");
+const reviewStatus = document.querySelector("#reviewStatus");
+const reviewCount = document.querySelector("#reviewCount");
 const articlesViewBtn = document.querySelector("#articlesViewBtn");
 const cardsViewBtn = document.querySelector("#cardsViewBtn");
+const reviewViewBtn = document.querySelector("#reviewViewBtn");
 
 const PLAYER_DISPLAY_ALIASES = {
   Kane: "Harry Kane",
@@ -370,6 +378,7 @@ function renderStats(items) {
   totalCount.textContent = liveHeadlineCount;
   doneCount.textContent = autoDraftCount;
   rumorCount.textContent = rumorDraftCount;
+  if (reviewCount) reviewCount.textContent = reviewItemCount;
 }
 
 function mergeAllTransfers() {
@@ -449,10 +458,14 @@ function renderCards() {
 
 function setContentView(view) {
   const showArticles = view === "articles";
+  const showReview = view === "review";
   if (articleSection) articleSection.hidden = !showArticles;
   if (cardView) cardView.hidden = showArticles;
+  if (transferSection) transferSection.hidden = showReview;
+  if (reviewSection) reviewSection.hidden = !showReview;
   articlesViewBtn?.classList.toggle("active", showArticles);
-  cardsViewBtn?.classList.toggle("active", !showArticles);
+  cardsViewBtn?.classList.toggle("active", !showArticles && !showReview);
+  reviewViewBtn?.classList.toggle("active", showReview);
 }
 
 function bindEvents() {
@@ -467,6 +480,7 @@ function bindEvents() {
 
   articlesViewBtn?.addEventListener("click", () => setContentView("articles"));
   cardsViewBtn?.addEventListener("click", () => setContentView("cards"));
+  reviewViewBtn?.addEventListener("click", () => setContentView("review"));
 }
 
 async function loadTransfers() {
@@ -574,6 +588,83 @@ function renderDraftCards(items) {
             <div class="draft-meta">
               <span>자동 검증 ${item.lastVerifiedAt}</span>
             </div>
+          </div>
+        </article>
+      `;
+    })
+    .join("");
+}
+
+function renderReviewCards(items) {
+  if (!reviewCards) return;
+
+  if (!items.length) {
+    reviewCards.innerHTML = `<article class="card empty">현재 검수 대기 중인 카드가 없습니다.</article>`;
+    if (reviewStatus) reviewStatus.textContent = "모든 후보가 자동 검증을 통과했습니다.";
+    return;
+  }
+
+  if (reviewStatus) {
+    reviewStatus.textContent = `${items.length}개 카드가 원문 확인을 기다리고 있습니다. 확인 전에는 공개 이적 카드에 포함하지 않습니다.`;
+  }
+
+  reviewCards.innerHTML = items
+    .slice()
+    .sort((a, b) => getTransferDateValue(b) - getTransferDateValue(a))
+    .map((item) => {
+      const reliabilityClass = getReliabilityClass(item.sourceReliability || "낮음");
+      const missing = [];
+      if (!item.player || item.player === "미상 선수") missing.push("선수");
+      if (!item.fromTeam || ["미상", "미정", "소속팀 확인 중"].includes(item.fromTeam)) missing.push("이전 팀");
+      if (!item.toTeam || ["미상", "미정", "소속팀 확인 중"].includes(item.toTeam)) missing.push("새 팀");
+      const missingLabel = missing.length ? `${missing.join(", ")} 확인 필요` : "자동 검증 필요";
+
+      return `
+        <article class="card transfer-card review-card">
+          <div class="card-top">
+            <div class="player-heading">
+              <img class="player-photo" src="${item.playerPhoto}" alt="${item.player} 프로필 사진" loading="lazy" onerror="this.onerror=null;this.src='${item.playerPhotoFallback}'" referrerpolicy="no-referrer" />
+              <div>
+                <div class="eyebrow">검수 필요 · ${item.league}</div>
+                <h2 class="player">${item.player || "미상 선수"}</h2>
+              </div>
+            </div>
+            <span class="badge review">확인 필요</span>
+          </div>
+
+          <div class="transfer-grid">
+            <div>
+              <strong>이전 팀</strong><br>
+              <span class="team-line">
+                <img class="club-logo" src="${item.fromLogo}" alt="${item.fromTeam || "미상"} 로고" loading="lazy" onerror="this.onerror=null;this.src='${item.fromLogoFallback}'" referrerpolicy="no-referrer" />
+                <span>${item.fromTeam || "미상"}</span>
+              </span>
+            </div>
+            <div>
+              <strong>새 팀</strong><br>
+              <span class="team-line">
+                <img class="club-logo" src="${item.toLogo}" alt="${item.toTeam || "미상"} 로고" loading="lazy" onerror="this.onerror=null;this.src='${item.toLogoFallback}'" referrerpolicy="no-referrer" />
+                <span>${item.toTeam || "미상"}</span>
+              </span>
+            </div>
+            <div><strong>이적료</strong><br>${formatFeeDisplay(item.fee || "미정")}</div>
+            <div><strong>기사 날짜</strong><br>${item.publishedAt || "시간 미상"}</div>
+          </div>
+
+          <div class="source-block review-details">
+            <div class="review-warning">${missingLabel}. 이 카드는 원문 확인 전까지 공개 카드로 승격하지 않습니다.</div>
+            <div class="source-link-box">
+              <span>원문 링크</span>
+              <a href="${item.sourceUrl || "#"}" target="_blank" rel="noreferrer">원문 열기 ↗</a>
+            </div>
+            <div class="source-meta">
+              <span class="source-badge ${reliabilityClass}">출처 ${item.sourceReliability || "낮음"}</span>
+              <span>${item.sourceName || "출처 미상"}</span>
+              <span>${item.extractionPattern || "pattern-unknown"}</span>
+              <span>자동 검증 ${item.lastVerifiedAt || "시간 미상"}</span>
+            </div>
+            <p class="source-note">${item.sourceReason || "선수·구단 정보를 자동으로 확정하지 못했습니다. 원문을 직접 확인해 주세요."}</p>
+            <p class="review-headline">원문 제목: ${item.headlineTitle || "제목 없음"}</p>
           </div>
         </article>
       `;
@@ -695,6 +786,8 @@ async function loadAutoDrafts(force = false) {
     const result = await fetchJsonOrCache("/api/auto-drafts", "./cache/auto-drafts.json", force);
     const { payload } = result;
     const items = payload.drafts.map((item) => enrichTransfer(item));
+    reviewTransfers = (payload.reviewItems || []).map((item) => enrichTransfer(item));
+    reviewItemCount = payload.reviewItemCount ?? reviewTransfers.length;
     autoDraftCount = payload.itemCount || items.length;
     rumorDraftCount = payload.drafts.filter((item) => item.status === "루머").length;
     renderStats();
@@ -705,6 +798,7 @@ async function loadAutoDrafts(force = false) {
     mergeAllTransfers();
     initFilters();
     renderCards();
+    renderReviewCards(reviewTransfers);
     draftMode = result.mode;
     draftStatus.textContent = `마지막 생성 ${new Date(payload.generatedAt).toLocaleString(
       "ko-KR"
@@ -713,9 +807,12 @@ async function loadAutoDrafts(force = false) {
     draftMode = "draft failed";
     draftStatus.textContent = `자동 초안 생성 실패: ${error.message}`;
     autoDraftTransfers = [];
+    reviewTransfers = [];
+    reviewItemCount = 0;
     mergeAllTransfers();
     initFilters();
     renderCards();
+    renderReviewCards(reviewTransfers);
   }
 
   updateRefreshStatus();
@@ -734,6 +831,9 @@ if (liveCards) {
 }
 if (draftCards) {
   draftCards.innerHTML = `<article class="card empty">자동 초안을 생성하는 중입니다.</article>`;
+}
+if (reviewCards) {
+  reviewCards.innerHTML = `<article class="card empty">검수 대기 카드를 불러오는 중입니다.</article>`;
 }
 bindEvents();
 loadAssetMap().finally(() => {

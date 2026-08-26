@@ -2046,7 +2046,15 @@ function buildDraftPayload(livePayload, previousPayload = draftCache) {
   const previousDrafts = Array.isArray(previousPayload?.drafts)
     ? previousPayload.drafts.map(normalizeDraftRecord).filter(Boolean)
     : [];
-  const drafts = dedupeDrafts([...freshDrafts, ...previousDrafts])
+  const previousReviewItems = Array.isArray(previousPayload?.reviewItems)
+    ? previousPayload.reviewItems.map(normalizeDraftRecord).filter(Boolean)
+    : [];
+  const candidates = dedupeDrafts([...freshDrafts, ...previousDrafts, ...previousReviewItems]);
+  const reviewItems = candidates
+    .filter((item) => !isPublishableDraft(item))
+    .sort(compareDraftPriority)
+    .slice(0, DRAFT_ARCHIVE_LIMIT);
+  const drafts = candidates
     .filter(isPublishableDraft)
     .sort(compareDraftPriority)
     .slice(0, DRAFT_ARCHIVE_LIMIT);
@@ -2055,8 +2063,10 @@ function buildDraftPayload(livePayload, previousPayload = draftCache) {
     generatedAt: new Date().toISOString(),
     basedOnFetchedAt: livePayload.fetchedAt,
     itemCount: drafts.length,
+    reviewItemCount: reviewItems.length,
     archiveLimit: DRAFT_ARCHIVE_LIMIT,
     drafts,
+    reviewItems,
   };
 }
 
