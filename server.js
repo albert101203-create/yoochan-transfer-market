@@ -1646,6 +1646,13 @@ function dedupeDrafts(items) {
   });
 }
 
+function isPublishableDraft(item) {
+  if (!item || item.needsVerification) return false;
+  if (!item.player || isUnknownTeamName(item.fromTeam) || isUnknownTeamName(item.toTeam)) return false;
+  if (/[!?\uFF1F\uFF01]/u.test(`${item.player} ${item.fromTeam} ${item.toTeam}`)) return false;
+  return true;
+}
+
 function getTierRank(tier = "low") {
   if (tier === "high") return 3;
   if (tier === "medium") return 2;
@@ -2040,6 +2047,7 @@ function buildDraftPayload(livePayload, previousPayload = draftCache) {
     ? previousPayload.drafts.map(normalizeDraftRecord).filter(Boolean)
     : [];
   const drafts = dedupeDrafts([...freshDrafts, ...previousDrafts])
+    .filter(isPublishableDraft)
     .sort(compareDraftPriority)
     .slice(0, DRAFT_ARCHIVE_LIMIT);
 
