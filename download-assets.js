@@ -40,7 +40,7 @@ const SEEDED_ASSETS = {
     "Nicolas Jackson":
       "https://commons.wikimedia.org/wiki/Special:FilePath/Nicolas%20Jackson%2020042025%20%281%29.jpg?width=512",
     "Julián Álvarez":
-      "https://commons.wikimedia.org/wiki/Special:FilePath/Juli%C3%A1n%20%C3%81lvarez.jpg?width=512",
+      "https://r2.thesportsdb.com/images/media/player/thumb/rm3tj11741979331.jpg",
     "Rafael Leão":
       "https://r2.thesportsdb.com/images/media/player/thumb/m1sh9x1549742563.jpg",
     "Omar Marmoush":
@@ -385,7 +385,9 @@ async function downloadSeededAssets(assetMap, attributions) {
         name,
         sourcePage: sourceImage,
         sourceImage,
-        note: "Seeded from the existing Wikimedia image reference; verify the image license before redistribution.",
+        note: /thesportsdb\.com/i.test(sourceImage)
+          ? "Seeded from TheSportsDB player artwork; verify the image license before redistribution."
+          : "Seeded from the existing Wikimedia image reference; verify the image license before redistribution.",
       };
     }
   }
