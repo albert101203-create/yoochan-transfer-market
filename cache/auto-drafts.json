@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-29T16:47:14.013Z",
-  "basedOnFetchedAt": "2026-08-29T16:47:13.958Z",
+  "generatedAt": "2026-08-29T16:55:49.656Z",
+  "basedOnFetchedAt": "2026-08-29T16:55:49.601Z",
   "itemCount": 57,
-  "reviewItemCount": 5,
+  "reviewItemCount": 6,
   "archiveLimit": 200,
   "drafts": [
     {
@@ -2133,6 +2133,37 @@
           "sourceTier": "high",
           "headlineTitle": "Felipe Chávez joins 1. FC Magdeburg on loan - FC Bayern",
           "publishedAt": "2026-08-26 19:30"
+        }
+      ],
+      "sourceCount": 1
+    },
+    {
+      "id": "draft:https://news.google.com/rss/articles/CBMikgFBVV95cUxQMTYyS0R1V3ZUV0EzSXJ0NjBBaW1tQ2Nzb0RnSjJVdkNTLVZMZFppckhzS2hxSGpLZjA1VmgtTDd6ZzFNeVUxQTkxU0pvRFF5dXVxT0trZ21vX2pVZ0pSVWVWNGlVTDFkamtRc0VRcWJHaE5YQzJrMkVtS2tNVmVXdVczSHZ4T3dfdUNMMWJpREs1UQ?oc=5",
+      "player": "Daniel Munoz",
+      "fromTeam": "Crystal Palace",
+      "toTeam": "미상",
+      "league": "미분류",
+      "status": "확인 필요",
+      "fee": "£22M",
+      "sourceKey": "ornstein-monitor",
+      "sourceTier": "medium",
+      "sourceName": "David Ornstein 검색 모니터",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMTYyS0R1V3ZUV0EzSXJ0NjBBaW1tQ2Nzb0RnSjJVdkNTLVZMZFppckhzS2hxSGpLZjA1VmgtTDd6ZzFNeVUxQTkxU0pvRFF5dXVxT0trZ21vX2pVZ0pSVWVWNGlVTDFkamtRc0VRcWJHaE5YQzJrMkVtS2tNVmVXdVczSHZ4T3dfdUNMMWJpREs1UQ?oc=5",
+      "sourceType": "자동 추출 초안",
+      "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
+      "publishedAt": "2026-08-29 16:47",
+      "lastVerifiedAt": "2026-08-29 16:55",
+      "extractionConfidence": "low",
+      "extractionPattern": "fallback-unparsed-transfer-headline",
+      "needsVerification": true,
+      "headlineTitle": "Nottingham Forest agree £22m plus add-ons deal to sign Crystal Palace’s Daniel Munoz - The New York Times",
+      "sourceLinks": [
+        {
+          "sourceName": "David Ornstein 검색 모니터",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMTYyS0R1V3ZUV0EzSXJ0NjBBaW1tQ2Nzb0RnSjJVdkNTLVZMZFppckhzS2hxSGpLZjA1VmgtTDd6ZzFNeVUxQTkxU0pvRFF5dXVxT0trZ21vX2pVZ0pSVWVWNGlVTDFkamtRc0VRcWJHaE5YQzJrMkVtS2tNVmVXdVczSHZ4T3dfdUNMMWJpREs1UQ?oc=5",
+          "sourceTier": "medium",
+          "headlineTitle": "Nottingham Forest agree £22m plus add-ons deal to sign Crystal Palace’s Daniel Munoz - The New York Times",
+          "publishedAt": "2026-08-29 16:47"
         }
       ],
       "sourceCount": 1
