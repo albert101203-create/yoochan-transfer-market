@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-29T20:05:36.420Z",
+  "fetchedAt": "2026-08-29T20:14:36.988Z",
   "itemCount": 120,
   "items": [
     {
@@ -126,11 +126,21 @@
       "id": "https://www.bbc.co.uk/sport/football/articles/c39m0z4m2mpo?at_medium=RSS&at_campaign=rss",
       "title": "Man City open talks with Liverpool over Gakpo",
       "url": "https://www.bbc.co.uk/sport/football/articles/c39m0z4m2mpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-29T19:56:11.000Z",
+      "publishedAt": "2026-08-29T20:05:30.000Z",
       "summary": "Manchester City open talks with Liverpool about signing Netherlands winger Cody Gakpo.",
       "sourceKey": "bbc-sport",
       "sourceName": "BBC Sport",
       "status": "업데이트"
+    },
+    {
+      "id": "https://www.skysports.com/football/live-blog/11675/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "title": "Tottenham transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
+      "url": "https://www.skysports.com/football/live-blog/11675/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "publishedAt": "2026-08-29T20:04:00.000Z",
+      "summary": "Sky Sports football sitemap에서 가져온 실시간 헤드라인입니다.",
+      "sourceKey": "sky-sports",
+      "sourceName": "Sky Sports",
+      "status": "루머"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DZE5VWVhMSnczQzZQbm1Sd0dEeDd0UzdkOFEycW1vVDVWeTBIRV80ZFVBRng0RnJVOU5iRU1jdjRLYnRMb0JmQTFIbU8wUkc1cUE?oc=5",
@@ -161,6 +171,16 @@
       "sourceKey": "sky-sports",
       "sourceName": "Sky Sports",
       "status": "루머"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWHp1VHBISnUyZXh4Z3lLVGRSM25oVWpPV2FDVl9zVG5FZE9RWVZodXlRMFZQRzljUG12Y3U1U1g3RGlNcDNRQTFXYzFFdTdyNjBpbDlXTEQyRmx5RUFMQXBZeExfY3daaGNHV3dxbFRfUVFQenZOZ01nS2QzZ0VOeDk3eWJ6SmNOLS1OVXpRVlFvRHphZWVCal9HWXViZndi?oc=5",
+      "title": "Liverpool’s Cody Gakpo wants to join Manchester City, clubs in talks to reach agreement - The Athletic - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWHp1VHBISnUyZXh4Z3lLVGRSM25oVWpPV2FDVl9zVG5FZE9RWVZodXlRMFZQRzljUG12Y3U1U1g3RGlNcDNRQTFXYzFFdTdyNjBpbDlXTEQyRmx5RUFMQXBZeExfY3daaGNHV3dxbFRfUVFQenZOZ01nS2QzZ0VOeDk3eWJ6SmNOLS1OVXpRVlFvRHphZWVCal9HWXViZndi?oc=5",
+      "publishedAt": "2026-08-29T19:35:34.000Z",
+      "summary": "Liverpool’s Cody Gakpo wants to join Manchester City, clubs in talks to reach agreement - The Athletic &nbsp;&nbsp; The New York Times",
+      "sourceKey": "ornstein-monitor",
+      "sourceName": "David Ornstein 검색 모니터",
+      "status": "완료"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMXQxMzRGWWtOM3ZXYm9GWU4yQW1QMGZhOHNOSzFteWhUYzljRzFJcXNtUUIzLVRIU2NDd0NfQ19KMUN0NS1VQUgwTHIzWmFKNEFaaE84NW13eGJsSUtHdGRud3UwSEVkLWtQTTVfa0dsSHFWN0I5cmR2WV9MVWRZM1ctdW0xb0Q3QzhiQnR0MjUycW10UnRLbjB1eWliRlA4Y0E?oc=5",
@@ -201,6 +221,16 @@
       "sourceKey": "bluesky-ornstein",
       "sourceName": "David Ornstein Bluesky",
       "status": "완료"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/12691/13578859/cody-gakpo-transfer-news-manchester-city-open-talks-to-sign-liverpool-forward",
+      "title": "Cody Gakpo transfer news: Manchester City open talks to sign Liverpool forward",
+      "url": "https://www.skysports.com/football/news/12691/13578859/cody-gakpo-transfer-news-manchester-city-open-talks-to-sign-liverpool-forward",
+      "publishedAt": "2026-08-29T19:23:00.000Z",
+      "summary": "Sky Sports football sitemap에서 가져온 실시간 헤드라인입니다.",
+      "sourceKey": "sky-sports",
+      "sourceName": "Sky Sports",
+      "status": "루머"
     },
     {
       "id": "https://www.skysports.com/football/live-blog/11715/13353569/leeds-united-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
@@ -351,6 +381,16 @@
       "sourceKey": "tottenham-sky-monitor",
       "sourceName": "Sky Sports Tottenham monitor",
       "status": "루머"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMTYyS0R1V3ZUV0EzSXJ0NjBBaW1tQ2Nzb0RnSjJVdkNTLVZMZFppckhzS2hxSGpLZjA1VmgtTDd6ZzFNeVUxQTkxU0pvRFF5dXVxT0trZ21vX2pVZ0pSVWVWNGlVTDFkamtRc0VRcWJHaE5YQzJrMkVtS2tNVmVXdVczSHZ4T3dfdUNMMWJpREs1UQ?oc=5",
+      "title": "Nottingham Forest agree £22m Daniel Munoz transfer with Crystal Palace - The Athletic - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMTYyS0R1V3ZUV0EzSXJ0NjBBaW1tQ2Nzb0RnSjJVdkNTLVZMZFppckhzS2hxSGpLZjA1VmgtTDd6ZzFNeVUxQTkxU0pvRFF5dXVxT0trZ21vX2pVZ0pSVWVWNGlVTDFkamtRc0VRcWJHaE5YQzJrMkVtS2tNVmVXdVczSHZ4T3dfdUNMMWJpREs1UQ?oc=5",
+      "publishedAt": "2026-08-29T17:16:26.000Z",
+      "summary": "Nottingham Forest agree £22m Daniel Munoz transfer with Crystal Palace - The Athletic &nbsp;&nbsp; The New York Times",
+      "sourceKey": "ornstein-monitor",
+      "sourceName": "David Ornstein 검색 모니터",
+      "status": "업데이트"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQjVhNzA0akJXMUdmU2plOXBpUDl4aUxZMDBFeU1OLUFSZFo5ZGxrRTEwdUtCNnlwTVpUbnFnOVoyZEVUVC0xWFZ2MHlwcGxBWEw0cUFOTi1fMWMxdjNEb2NHOTFxNjU0dkNtUzFncFBJZmhmTEIyR0lEazl5SnFDaTJB?oc=5",
@@ -1161,46 +1201,6 @@
       "sourceKey": "romano-monitor",
       "sourceName": "Fabrizio Romano 검색 모니터",
       "status": "업데이트"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSVFvdzZ5MzNBQi03TnIxWDBYN1ZVVFJINHJRUzJWRm1IMjJuUEpVTm0wa3Z1a2JiZnMtdnozdEtwUlhFTXRLUV9NczFkU0dpTkRlaG1BYUk1cXVYcEZpOHJxUVF5ZXh6NHZVZy0yRkdNclU2UnZFbTFEVm90MDhVUG1vbVBQUkhqTnNHZ09OZ2FoMkVVWW1yc2E4UXhIMmFQazdrRDUxME1CVlExTlJuOHpsdw?oc=5",
-      "title": "Laurie Whitwell provides a key transfer update on Man Utd striker Joshua Zirkzee - United In Focus",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSVFvdzZ5MzNBQi03TnIxWDBYN1ZVVFJINHJRUzJWRm1IMjJuUEpVTm0wa3Z1a2JiZnMtdnozdEtwUlhFTXRLUV9NczFkU0dpTkRlaG1BYUk1cXVYcEZpOHJxUVF5ZXh6NHZVZy0yRkdNclU2UnZFbTFEVm90MDhVUG1vbVBQUkhqTnNHZ09OZ2FoMkVVWW1yc2E4UXhIMmFQazdrRDUxME1CVlExTlJuOHpsdw?oc=5",
-      "publishedAt": "2026-08-28T17:09:33.000Z",
-      "summary": "Laurie Whitwell provides a key transfer update on Man Utd striker Joshua Zirkzee &nbsp;&nbsp; United In Focus",
-      "sourceKey": "laurie-whitwell-monitor",
-      "sourceName": "Laurie Whitwell monitor",
-      "status": "업데이트"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQlYyaklvaDZ4QU1vU3NuaFlfeUlDVUwxS2dLZU51Q2FWTHdqWFQyTjRka2lXWnRva2VmVlJxWkxIVl9tQkpLNUNuQnl0Znp0eThFODJQdGRFSTB4OEJOa25DVWQyUmYxdDN5dUI4UzRnczJoTlhJeXhwV29YTzRaZVdGTnJaVU9GcWRaLVVrRmp1eVJkVE40ZmFUMFdpMERQcWFVRUEyX1ltUGVqQzdtUVhPQ0JhTEhBbGc?oc=5",
-      "title": "Liverpool star reaches 'agreement' for 'very advanced' deal as Gakpo update revealed - Football365",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQlYyaklvaDZ4QU1vU3NuaFlfeUlDVUwxS2dLZU51Q2FWTHdqWFQyTjRka2lXWnRva2VmVlJxWkxIVl9tQkpLNUNuQnl0Znp0eThFODJQdGRFSTB4OEJOa25DVWQyUmYxdDN5dUI4UzRnczJoTlhJeXhwV29YTzRaZVdGTnJaVU9GcWRaLVVrRmp1eVJkVE40ZmFUMFdpMERQcWFVRUEyX1ltUGVqQzdtUVhPQ0JhTEhBbGc?oc=5",
-      "publishedAt": "2026-08-28T16:37:38.000Z",
-      "summary": "Liverpool star reaches 'agreement' for 'very advanced' deal as Gakpo update revealed &nbsp;&nbsp; Football365",
-      "sourceKey": "romano-monitor",
-      "sourceName": "Fabrizio Romano 검색 모니터",
-      "status": "업데이트"
-    },
-    {
-      "id": "https://www.bbc.co.uk/sport/football/articles/c14dlme86d8o?at_medium=RSS&at_campaign=rss",
-      "title": "Man Utd sign Swedish winger Jusu Bah for £400K",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c14dlme86d8o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-28T16:13:12.000Z",
-      "summary": "Manchester United have confirmed the signing of Sweden winger Monica Jusu Bah from BK Hacken for just under £400,000.",
-      "sourceKey": "bbc-sport",
-      "sourceName": "BBC Sport",
-      "status": "업데이트"
-    },
-    {
-      "id": "https://www.skysports.com/football/live-blog/11095/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "title": "Crystal Palace transfers, latest news, rumours and gossip: Live updates, goals and highlights",
-      "url": "https://www.skysports.com/football/live-blog/11095/13279298/crystal-palace-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "publishedAt": "2026-08-28T16:00:00.000Z",
-      "summary": "Sky Sports football sitemap에서 가져온 실시간 헤드라인입니다.",
-      "sourceKey": "sky-sports",
-      "sourceName": "Sky Sports",
-      "status": "루머"
     }
   ],
   "sourceHealth": [
@@ -1212,7 +1212,7 @@
     {
       "source": "Sky Sports sitemap",
       "ok": true,
-      "count": 27
+      "count": 28
     },
     {
       "source": "ESPN FC page",
@@ -1232,7 +1232,7 @@
     {
       "source": "David Ornstein Google News",
       "ok": true,
-      "count": 88
+      "count": 89
     },
     {
       "source": "The Athletic Google News",
@@ -1247,7 +1247,7 @@
     {
       "source": "Matteo Moretto Google News",
       "ok": true,
-      "count": 50
+      "count": 32
     },
     {
       "source": "Ben Jacobs Google News",
@@ -1287,7 +1287,7 @@
     {
       "source": "James Pearce Google News",
       "ok": true,
-      "count": 44
+      "count": 45
     },
     {
       "source": "Laurie Whitwell Google News",
@@ -1297,7 +1297,7 @@
     {
       "source": "Simon Stone Google News",
       "ok": true,
-      "count": 47
+      "count": 48
     },
     {
       "source": "Rob Dawson Google News",
@@ -1327,7 +1327,7 @@
     {
       "source": "Miguel Delaney Google News",
       "ok": true,
-      "count": 36
+      "count": 37
     },
     {
       "source": "Melissa Reddy Google News",
@@ -1362,7 +1362,7 @@
     {
       "source": "Arsenal official-site monitor",
       "ok": true,
-      "count": 83
+      "count": 82
     },
     {
       "source": "Barcelona official-site monitor",
@@ -1412,7 +1412,7 @@
     {
       "source": "Michael Bridge Tottenham monitor",
       "ok": true,
-      "count": 29
+      "count": 28
     },
     {
       "source": "Charlie Eccleshare Tottenham monitor",
