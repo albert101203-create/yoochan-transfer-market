@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-29T17:47:20.749Z",
-  "basedOnFetchedAt": "2026-08-29T17:47:20.695Z",
+  "generatedAt": "2026-08-29T17:55:50.753Z",
+  "basedOnFetchedAt": "2026-08-29T17:55:50.697Z",
   "itemCount": 57,
   "reviewItemCount": 6,
   "archiveLimit": 200,
@@ -1315,6 +1315,37 @@
       "sourceCount": 3
     },
     {
+      "id": "draft:https://news.google.com/rss/articles/CBMimAFBVV95cUxOUDFueXNzQzFOZTBtQ3J1SlI0c2dGTzRpcGZHc1dCYlhYSnBQX2JwRm92bi0zZV8tNHl3c25XMnI3UTl6eHFyd09hXzQzclYzbERFZXgya2tGcDJKOGlFZTNCdnBROXB5RVFwQkFKalJHNWxxQXlmXzlyVUU0c1RNMWNGU3JtWHBKXzR2TG5FNkJNekFUaFBXUg?oc=5",
+      "player": "Toby Collyer",
+      "fromTeam": "Manchester United",
+      "toTeam": "West Bromwich Albion",
+      "league": "미분류",
+      "status": "루머",
+      "fee": "£3M",
+      "sourceKey": "laurie-whitwell-monitor",
+      "sourceTier": "medium",
+      "sourceName": "Laurie Whitwell monitor",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUDFueXNzQzFOZTBtQ3J1SlI0c2dGTzRpcGZHc1dCYlhYSnBQX2JwRm92bi0zZV8tNHl3c25XMnI3UTl6eHFyd09hXzQzclYzbERFZXgya2tGcDJKOGlFZTNCdnBROXB5RVFwQkFKalJHNWxxQXlmXzlyVUU0c1RNMWNGU3JtWHBKXzR2TG5FNkJNekFUaFBXUg?oc=5",
+      "sourceType": "자동 추출 초안",
+      "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
+      "publishedAt": "2026-08-29 13:23",
+      "lastVerifiedAt": "2026-08-29 17:55",
+      "extractionConfidence": "medium",
+      "extractionPattern": "toby-collyer-west-brom-move",
+      "needsVerification": false,
+      "headlineTitle": "Manchester United’s Toby Collyer joining West Brom in transfer worth initial £3m - The Athletic - The New York Times",
+      "sourceLinks": [
+        {
+          "sourceName": "Laurie Whitwell monitor",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUDFueXNzQzFOZTBtQ3J1SlI0c2dGTzRpcGZHc1dCYlhYSnBQX2JwRm92bi0zZV8tNHl3c25XMnI3UTl6eHFyd09hXzQzclYzbERFZXgya2tGcDJKOGlFZTNCdnBROXB5RVFwQkFKalJHNWxxQXlmXzlyVUU0c1RNMWNGU3JtWHBKXzR2TG5FNkJNekFUaFBXUg?oc=5",
+          "sourceTier": "medium",
+          "headlineTitle": "Manchester United’s Toby Collyer joining West Brom in transfer worth initial £3m - The Athletic - The New York Times",
+          "publishedAt": "2026-08-29 13:23"
+        }
+      ],
+      "sourceCount": 1
+    },
+    {
       "id": "draft:49753093",
       "player": "Gabriel Martinelli",
       "fromTeam": "Arsenal",
@@ -1372,37 +1403,6 @@
         }
       ],
       "sourceCount": 5
-    },
-    {
-      "id": "draft:https://news.google.com/rss/articles/CBMimAFBVV95cUxOUDFueXNzQzFOZTBtQ3J1SlI0c2dGTzRpcGZHc1dCYlhYSnBQX2JwRm92bi0zZV8tNHl3c25XMnI3UTl6eHFyd09hXzQzclYzbERFZXgya2tGcDJKOGlFZTNCdnBROXB5RVFwQkFKalJHNWxxQXlmXzlyVUU0c1RNMWNGU3JtWHBKXzR2TG5FNkJNekFUaFBXUg?oc=5",
-      "player": "Toby Collyer",
-      "fromTeam": "Manchester United",
-      "toTeam": "West Bromwich Albion",
-      "league": "미분류",
-      "status": "루머",
-      "fee": "£3M",
-      "sourceKey": "laurie-whitwell-monitor",
-      "sourceTier": "medium",
-      "sourceName": "Laurie Whitwell monitor",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUDFueXNzQzFOZTBtQ3J1SlI0c2dGTzRpcGZHc1dCYlhYSnBQX2JwRm92bi0zZV8tNHl3c25XMnI3UTl6eHFyd09hXzQzclYzbERFZXgya2tGcDJKOGlFZTNCdnBROXB5RVFwQkFKalJHNWxxQXlmXzlyVUU0c1RNMWNGU3JtWHBKXzR2TG5FNkJNekFUaFBXUg?oc=5",
-      "sourceType": "자동 추출 초안",
-      "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
-      "publishedAt": "2026-08-28 23:11",
-      "lastVerifiedAt": "2026-08-29 22:56",
-      "extractionConfidence": "medium",
-      "extractionPattern": "toby-collyer-west-brom-move",
-      "needsVerification": false,
-      "headlineTitle": "Manchester United’s Toby Collyer joining West Brom in transfer worth initial £3m - The Athletic - The New York Times",
-      "sourceLinks": [
-        {
-          "sourceName": "Laurie Whitwell monitor",
-          "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUDFueXNzQzFOZTBtQ3J1SlI0c2dGTzRpcGZHc1dCYlhYSnBQX2JwRm92bi0zZV8tNHl3c25XMnI3UTl6eHFyd09hXzQzclYzbERFZXgya2tGcDJKOGlFZTNCdnBROXB5RVFwQkFKalJHNWxxQXlmXzlyVUU0c1RNMWNGU3JtWHBKXzR2TG5FNkJNekFUaFBXUg?oc=5",
-          "sourceTier": "medium",
-          "headlineTitle": "Manchester United’s Toby Collyer joining West Brom in transfer worth initial £3m - The Athletic - The New York Times",
-          "publishedAt": "2026-08-28 14:08"
-        }
-      ],
-      "sourceCount": 1
     },
     {
       "id": "draft:https://news.google.com/rss/articles/CBMiyAFBVV95cUxQM3lkQ0hfb1JONExEa0RSdGE4aGJkckhTMDdWWFNuSG9NcFFGNUpwSTcydGllZk9jbHJHa0VBZGc4MTFFekZBcVRVVHkzLWRJVGgyVDVHeVB5S0ZsLVkxWWVRMkFDbksycUxzdFB5R09aSXNOTDhKV0Y0ZFFEQUVtZWozZVJLZXI4MWpRakhnUEk1S3Z0YTVPRFNCNHRQMlJZYjBydHpMOEtNcWhfVDJZT3dTUVV0RTByM3hIcThkMS1QWVVxYVpwYdIBzgFBVV95cUxON1dsa3c1bUFYQUxiSE13NlVZTkVkeldaYU5rSjNtdFBwUHFKTTRwcUo3VEwxSkxtNk1nLVdiSGtfZGtaS216R0FwZkV4SWFwQ2JGanE2WXJFZVEzMHF6WjhHTnBiZ0htZGlPRVVDU3ZzanQ3RjhtTWNfdVdmOFYxeFBUaHhSeEpIalA2ZFNhQXM1NG9kOFZlSV9ORUtqNHprTnBEN05MeXRONkVsMy1zamdWaWNLTmxHYkp1cWwwRGRLS0s5OW9OSnpBREp6Zw?oc=5",
