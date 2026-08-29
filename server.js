@@ -95,6 +95,22 @@ const GENERIC_DRAFT_SKIP_PATTERNS = [
   /demands emerge/i,
   /want to sign .*star/i,
   /^all done deals in /i,
+  /^transfer latest:/i,
+  /^what will .* bring to /i,
+  /^is .* top transfer target .* replacement/i,
+  /carabao cup .* cruise past/i,
+  /carabao cup cruise past/i,
+  /admits .* want more leaders/i,
+  /^what arsenal's premier league title rivals/i,
+  /^how can arsenal's premier league rivals/i,
+  /^football daily \| why the transfer window/i,
+  /^why spurs' under-the-radar buy/i,
+  /^fan backlash as .* world cup star/i,
+  /^['\u2018]here we go['\u2019].* latest signing/i,
+  /private investors for u-15 world cup/i,
+  /^de zerbi wants one more signing/i,
+  /^football transfer rumours:/i,
+  /^arsenal beat .* to signing/i,
 ];
 
 const POSITION_PATTERN =
@@ -137,6 +153,11 @@ const TEAM_ALIASES = {
   "Bayern Munich": "바이에른 뮌헨",
   Atletico: "Atletico Madrid",
   Atleti: "Atletico Madrid",
+  "West Ham": "West Ham United",
+  Palace: "Crystal Palace",
+  Forest: "Nottingham Forest",
+  Swans: "Swansea City",
+  Coventry: "Coventry City",
 };
 
 const PLAYER_ALIASES = {
@@ -144,6 +165,7 @@ const PLAYER_ALIASES = {
   David: "Promise David",
   Kane: "Harry Kane",
   Parrott: "Troy Parrott",
+  Munoz: "Daniel Muñoz",
 };
 
 const PLAYER_CURRENT_TEAMS = {
@@ -1272,6 +1294,7 @@ function normalizeDraftRecord(draft) {
     return null;
   }
   const title = normalizeWhitespace(normalized.headlineTitle || "");
+  if (title && shouldSkipDraftTitle(title)) return null;
 
   // Repair recurring headline-parser edge cases before validating assets.
   if (/(?:Nico\s+)?Gonz[áa]lez/i.test(title) && /Newcastle|N['’]castle/i.test(title) && /City/i.test(title)) {
@@ -1422,6 +1445,176 @@ function normalizeDraftRecord(draft) {
     normalized.extractionPattern = "sunderland-grealish-loan-review";
     normalized.needsVerification = true;
     normalized.sourceReason = "맨체스터 시티의 잭 그릴리시가 선덜랜드 임대 후보로 언급된 기사입니다. 임대 제안과 최종 합의 여부를 원문에서 확인해야 하므로 검수 대기 카드로 보관합니다.";
+  } else if (
+    /Aston Villa sign (?:striker )?Jackson from Chelsea/i.test(title) ||
+    /Nicolas Jackson (?:transfer news: )?Aston Villa confirm/i.test(title) ||
+    /Nicolas Jackson departs Chelsea on permanent transfer/i.test(title)
+  ) {
+    normalized.player = "Nicolas Jackson";
+    normalized.fromTeam = "Chelsea";
+    normalized.toTeam = "Aston Villa";
+    normalized.status = "완료";
+    normalized.extractionConfidence = "high";
+    normalized.extractionPattern = "aston-villa-jackson-official";
+    normalized.needsVerification = false;
+  } else if (
+    /Brentford sign .*Diouf from West Ham/i.test(title) ||
+    /El Hadji Malick Diouf.*Brentford/i.test(title)
+  ) {
+    normalized.player = "El Hadji Malick Diouf";
+    normalized.fromTeam = "West Ham";
+    normalized.toTeam = "Brentford";
+    normalized.status = "완료";
+    normalized.extractionConfidence = "high";
+    normalized.extractionPattern = "brentford-diouf-official";
+    normalized.needsVerification = false;
+  } else if (/Swans sign .*Eustaquio from Porto|Stephen Eustaquio.*Swans/i.test(title)) {
+    normalized.player = "Stephen Eustaquio";
+    normalized.fromTeam = "Porto";
+    normalized.toTeam = "Swansea City";
+    normalized.status = "완료";
+    normalized.extractionConfidence = "high";
+    normalized.extractionPattern = "swansea-eustaquio-official";
+    normalized.needsVerification = false;
+  } else if (
+    /Wrexham sign Kabor[ée] from City/i.test(title) ||
+    /Wrexham.*(?:Issa )?Kabor[ée].*Manchester City/i.test(title)
+  ) {
+    normalized.player = "Issa Kaboré";
+    normalized.fromTeam = "Manchester City";
+    normalized.toTeam = "Wrexham";
+    normalized.status = "완료";
+    normalized.extractionConfidence = "high";
+    normalized.extractionPattern = "wrexham-kabore-official";
+    normalized.needsVerification = false;
+  } else if (/Bradley Barcola.*(?:Liverpool|PSG)|Liverpool.*Bradley Barcola/i.test(title)) {
+    normalized.player = "Bradley Barcola";
+    normalized.fromTeam = "PSG";
+    normalized.toTeam = "Liverpool";
+    normalized.status = /agree|complete|finalise|finalize|official|sign/i.test(title) ? "완료" : "루머";
+    normalized.extractionConfidence = /official|complete|agree/i.test(title) ? "high" : "medium";
+    normalized.extractionPattern = "barcola-liverpool-transfer";
+    normalized.needsVerification = false;
+  } else if (/Everton eye .*Sunderland[\u2019']s Trai Hume/i.test(title)) {
+    normalized.player = "Trai Hume";
+    normalized.fromTeam = "Sunderland";
+    normalized.toTeam = "Everton";
+    normalized.status = "루머";
+    normalized.extractionConfidence = "medium";
+    normalized.extractionPattern = "everton-trai-hume-interest";
+    normalized.needsVerification = false;
+  } else if (/Aston Villa sign Jackson and close on .*Mbaye/i.test(title)) {
+    normalized.player = "Ibrahim Mbaye";
+    normalized.fromTeam = "PSG";
+    normalized.toTeam = "Aston Villa";
+    normalized.status = "완료";
+    normalized.extractionConfidence = "high";
+    normalized.extractionPattern = "aston-villa-mbaye-signing";
+    normalized.needsVerification = false;
+  } else if (/Enzo Fernandez agrees terms with Man City/i.test(title)) {
+    normalized.player = "Enzo Fernández";
+    normalized.fromTeam = "Chelsea";
+    normalized.toTeam = "Manchester City";
+    normalized.status = "루머";
+    normalized.extractionConfidence = "medium";
+    normalized.extractionPattern = "enzo-fernandez-manchester-city-interest";
+    normalized.needsVerification = false;
+  } else if (/Manchester United[\u2019']s Toby Collyer joining West Brom/i.test(title)) {
+    normalized.player = "Toby Collyer";
+    normalized.fromTeam = "Manchester United";
+    normalized.toTeam = "West Bromwich Albion";
+    normalized.status = "루머";
+    normalized.extractionConfidence = "medium";
+    normalized.extractionPattern = "toby-collyer-west-brom-move";
+    normalized.needsVerification = false;
+  } else if (/Emiliano Martinez transfer news: Chelsea agree .* Aston Villa/i.test(title)) {
+    normalized.player = "Emiliano Martínez";
+    normalized.fromTeam = "Aston Villa";
+    normalized.toTeam = "Chelsea";
+    normalized.status = "완료";
+    normalized.extractionConfidence = "high";
+    normalized.extractionPattern = "chelsea-martinez-signing";
+    normalized.needsVerification = false;
+  } else if (/Liam Delap joins Nottingham Forest/i.test(title)) {
+    normalized.player = "Liam Delap";
+    normalized.fromTeam = "Chelsea";
+    normalized.toTeam = "Nottingham Forest";
+    normalized.status = "완료";
+    normalized.extractionConfidence = "high";
+    normalized.extractionPattern = "nottingham-forest-delap-signing";
+    normalized.needsVerification = false;
+  } else if (/Villa close to .* Chelsea[\u2019']s Jackson/i.test(title)) {
+    normalized.player = "Nicolas Jackson";
+    normalized.fromTeam = "Chelsea";
+    normalized.toTeam = "Aston Villa";
+    normalized.status = "루머";
+    normalized.extractionConfidence = "medium";
+    normalized.extractionPattern = "aston-villa-jackson-interest";
+    normalized.needsVerification = false;
+  } else if (/Fiorentina submit first official offer for Joshua Zirkzee/i.test(title)) {
+    normalized.player = "Joshua Zirkzee";
+    normalized.fromTeam = "Manchester United";
+    normalized.toTeam = "Fiorentina";
+    normalized.status = "루머";
+    normalized.extractionConfidence = "medium";
+    normalized.extractionPattern = "fiorentina-zirkzee-offer";
+    normalized.needsVerification = false;
+  } else if (/Sources: Al Hilal near deal for Arsenal[\u2019']s Martinelli/i.test(title)) {
+    normalized.player = "Gabriel Martinelli";
+    normalized.fromTeam = "Arsenal";
+    normalized.toTeam = "Al Hilal";
+    normalized.status = "루머";
+    normalized.extractionConfidence = "medium";
+    normalized.extractionPattern = "espn-martinelli-al-hilal-deal";
+    normalized.needsVerification = false;
+  } else if (/Forest in advanced talks to sign (?:Daniel )?Munoz from Palace/i.test(title)) {
+    normalized.player = "Daniel Muñoz";
+    normalized.fromTeam = "Crystal Palace";
+    normalized.toTeam = "Nottingham Forest";
+    normalized.status = "루머";
+    normalized.extractionConfidence = "medium";
+    normalized.extractionPattern = "nottingham-forest-munoz-interest";
+    normalized.needsVerification = false;
+  } else if (/Sources: Liverpool agree .*deal for Barcola|Liverpool close .* PSG[\u2019']s Barcola/i.test(title)) {
+    normalized.player = "Bradley Barcola";
+    normalized.fromTeam = "PSG";
+    normalized.toTeam = "Liverpool";
+    normalized.status = "루머";
+    normalized.extractionConfidence = "medium";
+    normalized.extractionPattern = "barcola-liverpool-interest";
+    normalized.needsVerification = false;
+  } else if (/Joshua Zirkzee to Fiorentina: official bid submitted/i.test(title)) {
+    normalized.player = "Joshua Zirkzee";
+    normalized.fromTeam = "Manchester United";
+    normalized.toTeam = "Fiorentina";
+    normalized.status = "루머";
+    normalized.extractionConfidence = "medium";
+    normalized.extractionPattern = "fiorentina-zirkzee-offer";
+    normalized.needsVerification = false;
+  } else if (/Nottingham Forest working on .* Everton[\u2019']s Harrison Armstrong/i.test(title)) {
+    normalized.player = "Harrison Armstrong";
+    normalized.fromTeam = "Everton";
+    normalized.toTeam = "Nottingham Forest";
+    normalized.status = "루머";
+    normalized.extractionConfidence = "medium";
+    normalized.extractionPattern = "nottingham-forest-armstrong-interest";
+    normalized.needsVerification = false;
+  } else if (/Harrison Armstrong.*Nottingham Forest transfer latest/i.test(title)) {
+    normalized.player = "Harrison Armstrong";
+    normalized.fromTeam = "Everton";
+    normalized.toTeam = "Nottingham Forest";
+    normalized.status = "루머";
+    normalized.extractionConfidence = "medium";
+    normalized.extractionPattern = "nottingham-forest-armstrong-interest";
+    normalized.needsVerification = false;
+  } else if (/Transfer rumors, news: Man City expected to send offer for Fernández/i.test(title)) {
+    normalized.player = "Enzo Fernández";
+    normalized.fromTeam = "Chelsea";
+    normalized.toTeam = "Manchester City";
+    normalized.status = "루머";
+    normalized.extractionConfidence = "medium";
+    normalized.extractionPattern = "enzo-fernandez-manchester-city-interest";
+    normalized.needsVerification = false;
   }
 
   if (
@@ -1433,6 +1626,11 @@ function normalizeDraftRecord(draft) {
     /^Transfer gurus Fabrizio and Plettigoal clash over Diomande/i.test(title) ||
     /^Hull City make new .* Bundesliga star/i.test(title) ||
     /^Alvarez[\u2019']s Arsenal dilemma/i.test(title) ||
+    /^Transfer latest:/i.test(title) ||
+    /^What will .* bring to /i.test(title) ||
+    /^Is Liverpool[\u2019']s top transfer target/i.test(title) ||
+    /Carabao Cup .* cruise past Wimbledon/i.test(title) ||
+    /Maresca admits Manchester City want more leaders/i.test(title) ||
     /^Man Utd to launch bid for Real Madrid star/i.test(title) ||
     /^['\u2018]Negotiations['\u2019]/i.test(title) ||
     /^Every word of .* contract interview/i.test(title)
@@ -1579,6 +1777,14 @@ function normalizeDraftRecord(draft) {
     normalized.player = "Liam Delap";
     normalized.fromTeam = "Chelsea";
     normalized.toTeam = "Como";
+  } else if (/Rangers agree deal for Venezuela striker Kelsy/i.test(title)) {
+    normalized.player = "Kevin Kelsy";
+    normalized.fromTeam = "소속팀 확인 중";
+    normalized.toTeam = "Rangers";
+    normalized.status = "확인 필요";
+    normalized.extractionConfidence = "low";
+    normalized.extractionPattern = "rangers-kelsy-review";
+    normalized.needsVerification = true;
   }
 
   normalized.player = DRAFT_PLAYER_ALIASES[normalized.player] || normalized.player;
@@ -1587,11 +1793,15 @@ function normalizeDraftRecord(draft) {
     City: "Manchester City",
     Barça: "Barcelona",
     "Al-Hilal": "Al Hilal",
+    "West Ham": "West Ham United",
+    Forest: "Nottingham Forest",
   }[normalized.fromTeam] || normalized.fromTeam;
   normalized.toTeam = {
     City: "Manchester City",
     Barça: "Barcelona",
     "Al-Hilal": "Al Hilal",
+    Swans: "Swansea City",
+    Coventry: "Coventry City",
   }[normalized.toTeam] || normalized.toTeam;
 
   normalized.fromTeam = String(normalized.fromTeam || "").replace(/[’']+$/u, "").trim();
@@ -1611,6 +1821,10 @@ function normalizeDraftRecord(draft) {
 
   if (DRAFT_CURRENT_TEAMS[normalized.player]) {
     normalized.fromTeam = DRAFT_CURRENT_TEAMS[normalized.player];
+  }
+
+  if (normalized.player === "Rodri" && normalized.fromTeam === "Real Madrid") {
+    normalized.fromTeam = "Manchester City";
   }
 
   if (
@@ -1709,6 +1923,14 @@ function isPublishableDraft(item) {
   if (!item.player || isUnknownTeamName(item.fromTeam) || isUnknownTeamName(item.toTeam)) return false;
   if (TEAM_LEAGUES[item.player]) return false;
   if (/[!?\uFF1F\uFF01]/u.test(`${item.player} ${item.fromTeam} ${item.toTeam}`)) return false;
+  if (
+    item.player.length > 35 ||
+    item.fromTeam.length > 45 ||
+    item.toTeam.length > 45 ||
+    /transfer latest|carabao cup|want more leaders|what will .* bring|top transfer target/i.test(
+      `${item.player} ${item.fromTeam} ${item.toTeam}`
+    )
+  ) return false;
   return true;
 }
 

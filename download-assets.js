@@ -43,6 +43,15 @@ const SEEDED_ASSETS = {
       "https://r2.thesportsdb.com/images/media/player/thumb/rm3tj11741979331.jpg",
     "Rafael Leão":
       "https://r2.thesportsdb.com/images/media/player/thumb/m1sh9x1549742563.jpg",
+    "El Hadji Malick Diouf": "https://r2.thesportsdb.com/images/media/player/thumb/nuctm81755776005.jpg",
+    "Stephen Eustaquio": "https://r2.thesportsdb.com/images/media/player/thumb/1ifbip1523975738.jpg",
+    "Daniel Muñoz": "https://r2.thesportsdb.com/images/media/player/thumb/bb6uua1779766697.jpg",
+    "Trai Hume": "https://r2.thesportsdb.com/images/media/player/thumb/coumg71674660350.jpg",
+    "Harrison Armstrong": "https://r2.thesportsdb.com/images/media/player/thumb/31pakx1756816044.jpg",
+    "Ibrahim Mbaye": "https://r2.thesportsdb.com/images/media/player/thumb/ex2mk11770217409.jpg",
+    "Toby Collyer": "https://r2.thesportsdb.com/images/media/player/thumb/sg136o1761158856.jpg",
+    "Joshua Zirkzee": "https://r2.thesportsdb.com/images/media/player/thumb/89ei0i1592732470.jpg",
+    "Kevin Kelsy": "https://r2.thesportsdb.com/images/media/player/thumb/3kk7ux1726582614.jpg",
     "Omar Marmoush":
       "https://r2.thesportsdb.com/images/media/player/thumb/w1jx521658324336.jpg",
     "Issa Kaboré":
@@ -66,6 +75,11 @@ const SEEDED_ASSETS = {
   },
   clubs: {
     "West Ham United": "https://upload.wikimedia.org/wikipedia/en/c/c2/West_Ham_United_FC_logo.svg",
+    Porto: "https://r2.thesportsdb.com/images/media/team/badge/xu47rb1628855600.png",
+    "Swansea City": "https://r2.thesportsdb.com/images/media/team/badge/474rco1686920744.png",
+    Everton: "https://r2.thesportsdb.com/images/media/team/badge/eqayrf1523184794.png",
+    "Nottingham Forest": "https://r2.thesportsdb.com/images/media/team/badge/1i2kvh1719918076.png",
+    "West Bromwich Albion": "https://r2.thesportsdb.com/images/media/team/badge/rsvuxw1448813527.png",
     "Bayern Munich": "https://r2.thesportsdb.com/images/media/team/badge/01ogkh1716960412.png",
     "OL Lyonnes": "https://upload.wikimedia.org/wikipedia/en/7/7a/Olympique_Lyonnais_Feminin_logo.svg",
     "SK Brann": "https://r2.thesportsdb.com/images/media/team/badge/ovuad71690695412.png",

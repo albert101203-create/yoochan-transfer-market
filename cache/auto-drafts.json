@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-26T15:20:24.199Z",
-  "basedOnFetchedAt": "2026-08-26T15:20:24.151Z",
-  "itemCount": 47,
-  "reviewItemCount": 2,
+  "generatedAt": "2026-08-29T16:31:48.256Z",
+  "basedOnFetchedAt": "2026-08-29T16:31:48.218Z",
+  "itemCount": 57,
+  "reviewItemCount": 4,
   "archiveLimit": 200,
   "drafts": [
     {
@@ -20,7 +20,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
       "publishedAt": "2026-08-25 18:00",
-      "lastVerifiedAt": "2026-08-27 00:17",
+      "lastVerifiedAt": "2026-08-28 21:08",
       "extractionConfidence": "high",
       "extractionPattern": "tottenham-official-savio-joins",
       "needsVerification": false,
@@ -31,7 +31,7 @@
           "sourceUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPREN6LWg2UE01YkN5TWk1ZW8zYVpOSWc3d1V2b3dQanlsTlJqX1VmS19oRGxhVzZEVjRJRWR4cUZHdUJ4b05sTWVSZHhZeGtYN3dqWlE1UkM4T1V5SEhiMDFEWnN3d0lQNU85WkF3Y1paWlhMR2t5WWwyLVZXbjJoMFN6VVE?oc=5",
           "sourceTier": "high",
           "headlineTitle": "Sávio joins from Manchester City - Tottenham Hotspur",
-          "publishedAt": "2026-08-25 09:00"
+          "publishedAt": "2026-08-25 18:00"
         },
         {
           "sourceName": "ESPN FC",
@@ -69,7 +69,7 @@
           "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wd2taVmdHQU9CZjRSelNXUWNDMjBJR1A5cFJRTDUySTFBZzdGVWxxdlV1a1NrbEVCUjFVOUdqY3F2bFZYeTdyZHVCb1d2aGlWcU9PcDNacTdPQzRNZFVkRGs0eEhVYk53U3FjMlhPOWtNN0lmYjktcTdfMF9GWU0?oc=5",
           "sourceTier": "high",
           "headlineTitle": "Phillips joins Middlesbrough - Tottenham Hotspur",
-          "publishedAt": "2026-08-15 20:29"
+          "publishedAt": "2026-08-15 16:00"
         }
       ],
       "sourceCount": 1
@@ -89,7 +89,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "토트넘 공식 발표에서 직접 추출한 완료 카드입니다.",
       "publishedAt": "2026-08-15 16:00",
-      "lastVerifiedAt": "2026-08-24 23:23",
+      "lastVerifiedAt": "2026-08-30 01:31",
       "extractionConfidence": "high",
       "extractionPattern": "tottenham-official-player-moves",
       "needsVerification": false,
@@ -120,7 +120,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "토트넘 공식 발표에서 직접 추출한 완료 카드입니다.",
       "publishedAt": "2026-07-22 16:00",
-      "lastVerifiedAt": "2026-08-27 00:17",
+      "lastVerifiedAt": "2026-08-28 21:08",
       "extractionConfidence": "high",
       "extractionPattern": "tottenham-official-player-moves",
       "needsVerification": false,
@@ -151,7 +151,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "토트넘 공식 발표에서 완료 이적을 확인했습니다.",
       "publishedAt": "2026-07-21 16:00",
-      "lastVerifiedAt": "2026-08-27 00:17",
+      "lastVerifiedAt": "2026-08-30 01:31",
       "extractionConfidence": "high",
       "extractionPattern": "tottenham-official-player-joins",
       "needsVerification": false,
@@ -182,7 +182,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "토트넘 공식 발표에서 직접 추출한 완료 카드입니다.",
       "publishedAt": "2026-07-08 16:00",
-      "lastVerifiedAt": "2026-08-27 00:17",
+      "lastVerifiedAt": "2026-08-30 01:31",
       "extractionConfidence": "high",
       "extractionPattern": "tottenham-official-player-joins",
       "needsVerification": false,
@@ -213,7 +213,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "토트넘 공식 발표에서 직접 추출한 완료 카드입니다.",
       "publishedAt": "2026-07-06 16:00",
-      "lastVerifiedAt": "2026-08-24 23:23",
+      "lastVerifiedAt": "2026-08-30 01:31",
       "extractionConfidence": "high",
       "extractionPattern": "tottenham-official-signing",
       "needsVerification": false,
@@ -244,7 +244,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "토트넘 공식 발표에서 완료 이적을 확인했습니다.",
       "publishedAt": "2026-07-02 16:00",
-      "lastVerifiedAt": "2026-08-27 00:17",
+      "lastVerifiedAt": "2026-08-28 21:08",
       "extractionConfidence": "high",
       "extractionPattern": "tottenham-official-player-joins",
       "needsVerification": false,
@@ -275,7 +275,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "토트넘 공식 발표에서 완료 이적을 확인했습니다.",
       "publishedAt": "2026-06-30 16:00",
-      "lastVerifiedAt": "2026-08-27 00:17",
+      "lastVerifiedAt": "2026-08-30 01:31",
       "extractionConfidence": "high",
       "extractionPattern": "tottenham-official-player-joins",
       "needsVerification": false,
@@ -323,10 +323,349 @@
       "sourceCount": 1
     },
     {
+      "id": "draft:https://news.google.com/rss/articles/CBMilgFBVV95cUxOdjUzSmJnZXh5YVV2Z0dCYTg3dW9kb1BTczEwNnNyOGc0eUpleXRCbFRuZ295bzk4bWw4OGhPcXhhOU1CWE4xVjBIOE1ranR4SGtSc005V3VwQU1fVktsb0E4eDdKaFFjNElEanE1RUlkREhab3pKNXh1aEJWaUhRVXIxMjkxMWw2YWtFVGNhVzFfQ25TRlE?oc=5",
+      "player": "Bradley Barcola",
+      "fromTeam": "PSG",
+      "toTeam": "Liverpool",
+      "league": "미분류",
+      "status": "완료",
+      "fee": "미정",
+      "sourceKey": "ornstein-monitor",
+      "sourceTier": "medium",
+      "sourceName": "David Ornstein 검색 모니터",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdjUzSmJnZXh5YVV2Z0dCYTg3dW9kb1BTczEwNnNyOGc0eUpleXRCbFRuZ295bzk4bWw4OGhPcXhhOU1CWE4xVjBIOE1ranR4SGtSc005V3VwQU1fVktsb0E4eDdKaFFjNElEanE1RUlkREhab3pKNXh1aEJWaUhRVXIxMjkxMWw2YWtFVGNhVzFfQ25TRlE?oc=5",
+      "sourceType": "자동 추출 초안",
+      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
+      "publishedAt": "2026-08-29 22:23",
+      "lastVerifiedAt": "2026-08-30 01:31",
+      "extractionConfidence": "high",
+      "extractionPattern": "barcola-liverpool-transfer",
+      "needsVerification": false,
+      "headlineTitle": "Liverpool finalise transfer agreement to sign Bradley Barcola from PSG - The Athletic - The New York Times",
+      "sourceLinks": [
+        {
+          "sourceName": "David Ornstein 검색 모니터",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdjUzSmJnZXh5YVV2Z0dCYTg3dW9kb1BTczEwNnNyOGc0eUpleXRCbFRuZ295bzk4bWw4OGhPcXhhOU1CWE4xVjBIOE1ranR4SGtSc005V3VwQU1fVktsb0E4eDdKaFFjNElEanE1RUlkREhab3pKNXh1aEJWaUhRVXIxMjkxMWw2YWtFVGNhVzFfQ25TRlE?oc=5",
+          "sourceTier": "medium",
+          "headlineTitle": "Liverpool finalise transfer agreement to sign Bradley Barcola from PSG - The Athletic - The New York Times",
+          "publishedAt": "2026-08-29 22:23"
+        },
+        {
+          "sourceName": "Sky Sports Tottenham monitor",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOanR2TVRUYnA5SzBMNDczVGRVeWFleUZCNjZFZ3hkaXFtTWc4eVpvQ0VJNjF0N2ItWXdsZXNmNXhjcXZhV1lDYmUybjU5cFdaYjVGN2JwNWp5aTh3Uk1kVnA4MDRVU1VILWllMjVnRVFaSWZ4Y1pEM1RZU21ZSXAtR0MzZHhuLW5tN3BESWhEZjl0U0tEMDQ1bThjODFuQkFZQTFEM1l1NGF6VTYtR0hhOXd5RmtKNm42R2lQTnh1d25qV0s0TGFmT0oyZ3d1ZkRqY2FuSXVmelZKMzRkWEVaM0N5YmhKUExE?oc=5",
+          "sourceTier": "medium",
+          "headlineTitle": "Bradley Barcola set to sign Liverpool contract to 2031 after PSG agree transfer worth up to £123m - Sky Sports",
+          "publishedAt": "2026-08-29 19:16"
+        },
+        {
+          "sourceName": "BBC Sport",
+          "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c5ywgjnnn74o?at_medium=RSS&at_campaign=rss",
+          "sourceTier": "medium",
+          "headlineTitle": "Liverpool agree £123m deal for PSG's Barcola",
+          "publishedAt": "2026-08-29 17:03"
+        },
+        {
+          "sourceName": "Paul Joyce monitor",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOc28zWmVsVWx4OGlqVTZDZUdpbHFXS0JUVWJyQUZjNHBmU3cweC1ub1BuaG1BUTV4WXpqdGdJVk1VYWNVU2M0ZFh2cnQ0dEE5NGhNTkdYRXZpN1FibHJ1djd2bndLdHhQaVF1NUE3NHZMZlFxb0s3cVdud2hqcVQ2S1BRaGIwZ19fOU5qYU9jaklnWWY0bjdQVUNHaHQtaS13?oc=5",
+          "sourceTier": "medium",
+          "headlineTitle": "Bradley Barcola to have Liverpool medical in next 24 hours - The Times",
+          "publishedAt": "2026-08-29 16:39"
+        },
+        {
+          "sourceName": "Sky Sports",
+          "sourceUrl": "https://www.skysports.com/football/news/11669/13578446/bradley-barcola-set-to-sign-liverpool-contract-to-2031-after-psg-agree-transfer-worth-up-to-123m",
+          "sourceTier": "medium",
+          "headlineTitle": "Bradley Barcola set to sign Liverpool contract to 2031 after PSG agree transfer worth up to &#163;123m",
+          "publishedAt": "2026-08-29 16:25"
+        },
+        {
+          "sourceName": "Mike McGrath monitor",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaHFNVDR6RVZBa3B1OXBUeVhES3hIYnJsRURKTGk3VnJJSmZ4bnYtbVg4WEoycG9vbjVLSGttWS1Cd1d5ekxBY3B2ZDEwTEFBMFdUVFlBNnh4Rm9KR3JvZnd3amN2d2RqellvM3prdXB0NHd4RFAtZU9tLXI4WkN3dXQzVU80b21MTUtQZExxdw?oc=5",
+          "sourceTier": "medium",
+          "headlineTitle": "Liverpool agree £120m deal for Bradley Barcola - The Telegraph",
+          "publishedAt": "2026-08-27 17:01"
+        },
+        {
+          "sourceName": "ESPN FC",
+          "sourceUrl": "https://www.espn.com/soccer/story/_/id/49739704/liverpool-closing-bradley-barcola-signing-deal-worth-120-million-sources",
+          "sourceTier": "medium",
+          "headlineTitle": "Sources: Liverpool agree £120m deal for Barcola",
+          "publishedAt": "2026-08-27 20:33"
+        },
+        {
+          "sourceName": "BBC Sport",
+          "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c33kvgd3xpyo?at_medium=RSS&at_campaign=rss",
+          "sourceTier": "medium",
+          "headlineTitle": "Liverpool close in on £120m deal for PSG's Barcola",
+          "publishedAt": "2026-08-27 19:31"
+        }
+      ],
+      "sourceCount": 8
+    },
+    {
+      "id": "draft:https://www.theguardian.com/football/2026/aug/28/nicolas-jackson-nears-aston-villa-move-unai-emery-ollie-watkins",
+      "player": "Ibrahim Mbaye",
+      "fromTeam": "PSG",
+      "toTeam": "Aston Villa",
+      "league": "프리미어리그",
+      "status": "완료",
+      "fee": "£100M",
+      "sourceKey": "guardian-football",
+      "sourceTier": "medium",
+      "sourceName": "The Guardian Football",
+      "sourceUrl": "https://www.theguardian.com/football/2026/aug/28/nicolas-jackson-nears-aston-villa-move-unai-emery-ollie-watkins",
+      "sourceType": "자동 추출 초안",
+      "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
+      "publishedAt": "2026-08-29 18:51",
+      "lastVerifiedAt": "2026-08-30 01:31",
+      "extractionConfidence": "high",
+      "extractionPattern": "aston-villa-mbaye-signing",
+      "needsVerification": false,
+      "headlineTitle": "Aston Villa sign Jackson and close on Mbaye as Emery clears air with departing Watkins",
+      "sourceLinks": [
+        {
+          "sourceName": "The Guardian Football",
+          "sourceUrl": "https://www.theguardian.com/football/2026/aug/28/nicolas-jackson-nears-aston-villa-move-unai-emery-ollie-watkins",
+          "sourceTier": "medium",
+          "headlineTitle": "Aston Villa sign Jackson and close on Mbaye as Emery clears air with departing Watkins",
+          "publishedAt": "2026-08-29 18:51"
+        }
+      ],
+      "sourceCount": 1
+    },
+    {
+      "id": "draft:https://news.google.com/rss/articles/CBMihwJBVV95cUxNZ3pXd1VicjNTSEM4MnlvWFFwQXBUbWh1WXdpbVFwWDRWNFVyRldQUS1wTlJOYWxENWV6ekpLbkpQeU56VW1zNXQtUWwtd1pnTjEtUlJJLWZKaDItWXdNUGZFSnBtV2xDNFIwRWhOaUNXb0ZhTkJWNHQxYzFkQVVfU3FvRkhHZllydGZMY0xLdXVUQVBRRTZkYWtVV0F3aGxkSGdHN2RzSUNUam9PamZnajdMTGFHaDB2UWZzb3BMbUNtaFpyczN4eVJjYmI0aVpndGlLV0xFRmxuS2JKSXBXMU5VUGdoQUt0TEZKeW50MmlqYWZ1dWZEcm14TnRRMjlXWWhicS1zSQ?oc=5",
+      "player": "Nicolas Jackson",
+      "fromTeam": "Chelsea",
+      "toTeam": "Aston Villa",
+      "league": "프리미어리그",
+      "status": "완료",
+      "fee": "£65M",
+      "sourceKey": "tottenham-sky-monitor",
+      "sourceTier": "medium",
+      "sourceName": "Sky Sports Tottenham monitor",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNZ3pXd1VicjNTSEM4MnlvWFFwQXBUbWh1WXdpbVFwWDRWNFVyRldQUS1wTlJOYWxENWV6ekpLbkpQeU56VW1zNXQtUWwtd1pnTjEtUlJJLWZKaDItWXdNUGZFSnBtV2xDNFIwRWhOaUNXb0ZhTkJWNHQxYzFkQVVfU3FvRkhHZllydGZMY0xLdXVUQVBRRTZkYWtVV0F3aGxkSGdHN2RzSUNUam9PamZnajdMTGFHaDB2UWZzb3BMbUNtaFpyczN4eVJjYmI0aVpndGlLV0xFRmxuS2JKSXBXMU5VUGdoQUt0TEZKeW50MmlqYWZ1dWZEcm14TnRRMjlXWWhicS1zSQ?oc=5",
+      "sourceType": "자동 추출 초안",
+      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
+      "publishedAt": "2026-08-29 18:36",
+      "lastVerifiedAt": "2026-08-30 01:31",
+      "extractionConfidence": "high",
+      "extractionPattern": "aston-villa-jackson-official",
+      "needsVerification": false,
+      "headlineTitle": "Nicolas Jackson transfer news: Aston Villa confirm club-record £65m signing as deal agreed to sign Ibrahim Mbaye from PSG - Sky Sports",
+      "sourceLinks": [
+        {
+          "sourceName": "Sky Sports Tottenham monitor",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNZ3pXd1VicjNTSEM4MnlvWFFwQXBUbWh1WXdpbVFwWDRWNFVyRldQUS1wTlJOYWxENWV6ekpLbkpQeU56VW1zNXQtUWwtd1pnTjEtUlJJLWZKaDItWXdNUGZFSnBtV2xDNFIwRWhOaUNXb0ZhTkJWNHQxYzFkQVVfU3FvRkhHZllydGZMY0xLdXVUQVBRRTZkYWtVV0F3aGxkSGdHN2RzSUNUam9PamZnajdMTGFHaDB2UWZzb3BMbUNtaFpyczN4eVJjYmI0aVpndGlLV0xFRmxuS2JKSXBXMU5VUGdoQUt0TEZKeW50MmlqYWZ1dWZEcm14TnRRMjlXWWhicS1zSQ?oc=5",
+          "sourceTier": "medium",
+          "headlineTitle": "Nicolas Jackson transfer news: Aston Villa confirm club-record £65m signing as deal agreed to sign Ibrahim Mbaye from PSG - Sky Sports",
+          "publishedAt": "2026-08-29 18:36"
+        },
+        {
+          "sourceName": "ESPN FC",
+          "sourceUrl": "https://www.espn.com/soccer/story/_/id/49754547/aston-villa-transfer-nicolas-jackson-chelsea",
+          "sourceTier": "medium",
+          "headlineTitle": "Aston Villa sign striker Jackson from Chelsea",
+          "publishedAt": "2026-08-29 08:31"
+        },
+        {
+          "sourceName": "Sky Sports",
+          "sourceUrl": "https://www.skysports.com/football/news/11095/13578279/nicolas-jackson-transfer-news-aston-villa-confirm-club-record-65m-signing-as-deal-agreed-to-sign-ibrahim-mbaye-from-psg",
+          "sourceTier": "medium",
+          "headlineTitle": "Nicolas Jackson transfer news: Aston Villa confirm club-record &#163;65m signing as deal agreed to sign Ibrahim Mbaye from PSG",
+          "publishedAt": "2026-08-29 03:20"
+        },
+        {
+          "sourceName": "Santi Aouna monitor",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdVRZa0hUSU5UREd2SC0tX0tzWlVnd3V0RTc4SExuQ2QwVGk2MlFIWUlBYWVFVElNTmFYcXYyRktObXNOaXk2UDZYZHBvbjJMcDF2ai1LaG1na2NTaDBCeTB1Mm5XM3JFNWk2SGlRM2RxQ0ZzalNta1haMk1XNk9kNWw3dGx4OElXQUhPM2VoLUJ4QWs2MlBz?oc=5",
+          "sourceTier": "medium",
+          "headlineTitle": "Transfer: Chelsea weigh Aston Villa’s bid for Nicolas Jackson - Daily Post Nigeria",
+          "publishedAt": "2026-08-26 06:14"
+        },
+        {
+          "sourceName": "BBC Sport",
+          "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cge4y57ygvdo?at_medium=RSS&at_campaign=rss",
+          "sourceTier": "medium",
+          "headlineTitle": "Villa close to £65m move for Chelsea's Jackson as Watkins nears exit",
+          "publishedAt": "2026-08-27 17:48"
+        }
+      ],
+      "sourceCount": 5
+    },
+    {
+      "id": "draft:https://www.bbc.co.uk/sport/football/articles/crk3dr5pnyjo?at_medium=RSS&at_campaign=rss",
+      "player": "El Hadji Malick Diouf",
+      "fromTeam": "West Ham United",
+      "toTeam": "Brentford",
+      "league": "미분류",
+      "status": "완료",
+      "fee": "£40M",
+      "sourceKey": "bbc-sport",
+      "sourceTier": "medium",
+      "sourceName": "BBC Sport",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/crk3dr5pnyjo?at_medium=RSS&at_campaign=rss",
+      "sourceType": "자동 추출 초안",
+      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
+      "publishedAt": "2026-08-28 21:00",
+      "lastVerifiedAt": "2026-08-28 21:08",
+      "extractionConfidence": "high",
+      "extractionPattern": "brentford-diouf-official",
+      "needsVerification": false,
+      "headlineTitle": "Brentford sign £40m defender Diouf from West Ham",
+      "sourceLinks": [
+        {
+          "sourceName": "BBC Sport",
+          "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/crk3dr5pnyjo?at_medium=RSS&at_campaign=rss",
+          "sourceTier": "medium",
+          "headlineTitle": "Brentford sign £40m defender Diouf from West Ham",
+          "publishedAt": "2026-08-28 21:00"
+        }
+      ],
+      "sourceCount": 1
+    },
+    {
+      "id": "draft:https://news.google.com/rss/articles/CBMi9AFBVV95cUxOQ3RPYlAzMmROUzJrSmI5M2ZIYTZ5ZjRyRkk2VHZSNUZOU2s2aUV0RldRNENNZjhfc21lWndVdDA2bmdmWlZqZWRrZkh4ZXZBdW1BUGpaa3BCMzQyUDRLaVhibk5PNVE1cVhoQ1RHbEYzSDdfZVUzSTRGQy0xdzRad0FkamdaT0NEMEQzTEFOZkItRXFENFBJVFRZdGdIZHl4TncxWVNReHJ1MXVuWGVzT0JoaUFoZXg2R2xqQXhuMGJPN1g3cGxGUkVNSmpSN2pPbkRqWG1BQmdmMzVOanNTcWxtdEVFcV9McFJubUlpbkpOMzFy?oc=5",
+      "player": "Emiliano Martínez",
+      "fromTeam": "Aston Villa",
+      "toTeam": "Chelsea",
+      "league": "프리미어리그",
+      "status": "완료",
+      "fee": "£7.5M",
+      "sourceKey": "tottenham-sky-monitor",
+      "sourceTier": "medium",
+      "sourceName": "Sky Sports Tottenham monitor",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOQ3RPYlAzMmROUzJrSmI5M2ZIYTZ5ZjRyRkk2VHZSNUZOU2s2aUV0RldRNENNZjhfc21lWndVdDA2bmdmWlZqZWRrZkh4ZXZBdW1BUGpaa3BCMzQyUDRLaVhibk5PNVE1cVhoQ1RHbEYzSDdfZVUzSTRGQy0xdzRad0FkamdaT0NEMEQzTEFOZkItRXFENFBJVFRZdGdIZHl4TncxWVNReHJ1MXVuWGVzT0JoaUFoZXg2R2xqQXhuMGJPN1g3cGxGUkVNSmpSN2pPbkRqWG1BQmdmMzVOanNTcWxtdEVFcV9McFJubUlpbkpOMzFy?oc=5",
+      "sourceType": "자동 추출 초안",
+      "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
+      "publishedAt": "2026-08-28 03:58",
+      "lastVerifiedAt": "2026-08-28 21:08",
+      "extractionConfidence": "high",
+      "extractionPattern": "chelsea-martinez-signing",
+      "needsVerification": false,
+      "headlineTitle": "Emiliano Martinez transfer news: Chelsea agree £7.5m deal to sign Aston Villa's World Cup winning goalkeeper - Sky Sports",
+      "sourceLinks": [
+        {
+          "sourceName": "Sky Sports Tottenham monitor",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOQ3RPYlAzMmROUzJrSmI5M2ZIYTZ5ZjRyRkk2VHZSNUZOU2s2aUV0RldRNENNZjhfc21lWndVdDA2bmdmWlZqZWRrZkh4ZXZBdW1BUGpaa3BCMzQyUDRLaVhibk5PNVE1cVhoQ1RHbEYzSDdfZVUzSTRGQy0xdzRad0FkamdaT0NEMEQzTEFOZkItRXFENFBJVFRZdGdIZHl4TncxWVNReHJ1MXVuWGVzT0JoaUFoZXg2R2xqQXhuMGJPN1g3cGxGUkVNSmpSN2pPbkRqWG1BQmdmMzVOanNTcWxtdEVFcV9McFJubUlpbkpOMzFy?oc=5",
+          "sourceTier": "medium",
+          "headlineTitle": "Emiliano Martinez transfer news: Chelsea agree £7.5m deal to sign Aston Villa's World Cup winning goalkeeper - Sky Sports",
+          "publishedAt": "2026-08-28 03:58"
+        }
+      ],
+      "sourceCount": 1
+    },
+    {
+      "id": "draft:https://www.bbc.co.uk/sport/football/articles/c9dw17pgv7lo?at_medium=RSS&at_campaign=rss",
+      "player": "Stephen Eustaquio",
+      "fromTeam": "Porto",
+      "toTeam": "Swansea City",
+      "league": "미분류",
+      "status": "완료",
+      "fee": "£3.4M",
+      "sourceKey": "bbc-sport",
+      "sourceTier": "medium",
+      "sourceName": "BBC Sport",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c9dw17pgv7lo?at_medium=RSS&at_campaign=rss",
+      "sourceType": "자동 추출 초안",
+      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
+      "publishedAt": "2026-08-27 20:00",
+      "lastVerifiedAt": "2026-08-27 22:35",
+      "extractionConfidence": "high",
+      "extractionPattern": "swansea-eustaquio-official",
+      "needsVerification": false,
+      "headlineTitle": "Swans sign Canada midfielder Eustaquio from Porto",
+      "sourceLinks": [
+        {
+          "sourceName": "BBC Sport",
+          "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c9dw17pgv7lo?at_medium=RSS&at_campaign=rss",
+          "sourceTier": "medium",
+          "headlineTitle": "Swans sign Canada midfielder Eustaquio from Porto",
+          "publishedAt": "2026-08-27 20:00"
+        }
+      ],
+      "sourceCount": 1
+    },
+    {
+      "id": "draft:49740032",
+      "player": "Issa Kaboré",
+      "fromTeam": "Manchester City",
+      "toTeam": "Wrexham",
+      "league": "미분류",
+      "status": "완료",
+      "fee": "미정",
+      "sourceKey": "espn-fc",
+      "sourceTier": "medium",
+      "sourceName": "ESPN FC",
+      "sourceUrl": "https://www.espn.com/soccer/story/_/id/49740032/wrexham-confirm-permanent-signing-issa-kabore-man-city-jacques-ekomie-angers",
+      "sourceType": "자동 추출 초안",
+      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
+      "publishedAt": "2026-08-27 19:32",
+      "lastVerifiedAt": "2026-08-27 22:35",
+      "extractionConfidence": "high",
+      "extractionPattern": "wrexham-kabore-official",
+      "needsVerification": false,
+      "headlineTitle": "Wrexham sign Kaboré from City; Ekomie from Angers",
+      "sourceLinks": [
+        {
+          "sourceName": "ESPN FC",
+          "sourceUrl": "https://www.espn.com/soccer/story/_/id/49740032/wrexham-confirm-permanent-signing-issa-kabore-man-city-jacques-ekomie-angers",
+          "sourceTier": "medium",
+          "headlineTitle": "Wrexham sign Kaboré from City; Ekomie from Angers",
+          "publishedAt": "2026-08-27 19:32"
+        },
+        {
+          "sourceName": "BBC Sport",
+          "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cn5dr0vyd3ro?at_medium=RSS&at_campaign=rss",
+          "sourceTier": "medium",
+          "headlineTitle": "Wrexham close in on Ekomie and Kabore deals",
+          "publishedAt": "2026-08-26 21:25"
+        }
+      ],
+      "sourceCount": 2
+    },
+    {
+      "id": "draft:https://news.google.com/rss/articles/CBMi4wFBVV95cUxQaEQyMG15ZGlUS0NDRjFaX1czV293ODNFZVY2X2JyS280dEVJb0ZuaDE2Q2N5VWJWMWFPQ0FVZVA3WXhNOFBWYS1jdXpjMDdNRkFRVTNvUHZuQWZRbXQtd1c5TFI5RjRvSkxfckxwZ0tGMUpITFdrSVZNLVZ1N0ctTzdBX0E0a094YXJ2dFh1Smlha2Y0c1IwSjQyYVJaTng3dlR6a0xEdGx3RWlGVFZUa3hHVEhRQm5fOGVwdUxuR1Y1aHQwQzQ0SlNMUXdoTGFscjFKRVN1Z0hYMjdiUklvSUp5Yw?oc=5",
+      "player": "Liam Delap",
+      "fromTeam": "Chelsea",
+      "toTeam": "Nottingham Forest",
+      "league": "미분류",
+      "status": "완료",
+      "fee": "£50M",
+      "sourceKey": "tottenham-sky-monitor",
+      "sourceTier": "medium",
+      "sourceName": "Sky Sports Tottenham monitor",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQaEQyMG15ZGlUS0NDRjFaX1czV293ODNFZVY2X2JyS280dEVJb0ZuaDE2Q2N5VWJWMWFPQ0FVZVA3WXhNOFBWYS1jdXpjMDdNRkFRVTNvUHZuQWZRbXQtd1c5TFI5RjRvSkxfckxwZ0tGMUpITFdrSVZNLVZ1N0ctTzdBX0E0a094YXJ2dFh1Smlha2Y0c1IwSjQyYVJaTng3dlR6a0xEdGx3RWlGVFZUa3hHVEhRQm5fOGVwdUxuR1Y1aHQwQzQ0SlNMUXdoTGFscjFKRVN1Z0hYMjdiUklvSUp5Yw?oc=5",
+      "sourceType": "자동 추출 초안",
+      "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
+      "publishedAt": "2026-08-27 19:13",
+      "lastVerifiedAt": "2026-08-27 22:35",
+      "extractionConfidence": "high",
+      "extractionPattern": "nottingham-forest-delap-signing",
+      "needsVerification": false,
+      "headlineTitle": "Liam Delap joins Nottingham Forest in club-record £50m deal as Chelsea make profit on striker - Sky Sports",
+      "sourceLinks": [
+        {
+          "sourceName": "Sky Sports Tottenham monitor",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQaEQyMG15ZGlUS0NDRjFaX1czV293ODNFZVY2X2JyS280dEVJb0ZuaDE2Q2N5VWJWMWFPQ0FVZVA3WXhNOFBWYS1jdXpjMDdNRkFRVTNvUHZuQWZRbXQtd1c5TFI5RjRvSkxfckxwZ0tGMUpITFdrSVZNLVZ1N0ctTzdBX0E0a094YXJ2dFh1Smlha2Y0c1IwSjQyYVJaTng3dlR6a0xEdGx3RWlGVFZUa3hHVEhRQm5fOGVwdUxuR1Y1aHQwQzQ0SlNMUXdoTGFscjFKRVN1Z0hYMjdiUklvSUp5Yw?oc=5",
+          "sourceTier": "medium",
+          "headlineTitle": "Liam Delap joins Nottingham Forest in club-record £50m deal as Chelsea make profit on striker - Sky Sports",
+          "publishedAt": "2026-08-27 19:13"
+        },
+        {
+          "sourceName": "Sky Sports",
+          "sourceUrl": "https://www.skysports.com/football/news/11095/13577306/liam-delap-joins-nottingham-forest-in-club-record-50m-deal-as-chelsea-make-profit-on-striker",
+          "sourceTier": "medium",
+          "headlineTitle": "Liam Delap joins Nottingham Forest in club-record &#163;50m deal as Chelsea make profit on striker",
+          "publishedAt": "2026-08-27 18:00"
+        }
+      ],
+      "sourceCount": 2
+    },
+    {
       "id": "draft:https://www.bbc.co.uk/sport/football/articles/cew9lqzx9jeo?at_medium=RSS&at_campaign=rss",
       "player": "Ethan Pinnock",
       "fromTeam": "Brentford",
-      "toTeam": "Coventry",
+      "toTeam": "Coventry City",
       "league": "미분류",
       "status": "완료",
       "fee": "£6M",
@@ -348,10 +687,17 @@
           "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cew9lqzx9jeo?at_medium=RSS&at_campaign=rss",
           "sourceTier": "medium",
           "headlineTitle": "Coventry sign defender Pinnock from Brentford",
-          "publishedAt": "2026-08-26 15:00"
+          "publishedAt": "2026-08-27 00:00"
+        },
+        {
+          "sourceName": "David Ornstein 검색 모니터",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVVNCYzVXVzN0RXR0ZDJsNWtDcDVqejRDMTJiVENVZkFTdEJBLWJSdnBGbVJqQ0VXN3Zkd1RnVlY4bFVZSmxFTEM3TEc3aHgwdGJ1TmE2TWkwME5ud1lFOExWZThOa3dZYkdsc0pBdjNKMGZ1NGF2TFpKZm1PTUd5OGVVQUlZZnRZbFF3?oc=5",
+          "sourceTier": "medium",
+          "headlineTitle": "Ethan Pinnock to Coventry City: £6m agreement reached — Ornstein - SPORF",
+          "publishedAt": "2026-08-25 00:20"
         }
       ],
-      "sourceCount": 1
+      "sourceCount": 2
     },
     {
       "id": "draft:https://news.google.com/rss/articles/CBMikAFBVV95cUxPeVl6Sm1odDVUSlFxNWhHS2tqSi1xTkIwZFRzX0VzcElFNnhsMXhBaEhCUE5od1ZCLWg1dTlRR0hkRVNuLXFfV3lCRW8tTjZWa0JUQnBzd0ZUYXEzVlRSTHFpenZJX3Qyal9pLVJKc1o4aXByallZYWIyczZ4ZnhvUEF3RDQ5c3VGc1ZxLTl4am0?oc=5",
@@ -379,7 +725,7 @@
           "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeVl6Sm1odDVUSlFxNWhHS2tqSi1xTkIwZFRzX0VzcElFNnhsMXhBaEhCUE5od1ZCLWg1dTlRR0hkRVNuLXFfV3lCRW8tTjZWa0JUQnBzd0ZUYXEzVlRSTHFpenZJX3Qyal9pLVJKc1o4aXByallZYWIyczZ4ZnhvUEF3RDQ5c3VGc1ZxLTl4am0?oc=5",
           "sourceTier": "medium",
           "headlineTitle": "Axel Disasi joins Crystal Palace on loan from Chelsea – Ben Jacobs - SPORF",
-          "publishedAt": "2026-08-26 11:30"
+          "publishedAt": "2026-08-26 20:30"
         }
       ],
       "sourceCount": 1
@@ -709,9 +1055,16 @@
           "sourceTier": "medium",
           "headlineTitle": "Sources: Barça, City agree €76.5m Rodri deal",
           "publishedAt": "2026-08-17 04:57"
+        },
+        {
+          "sourceName": "The Guardian Football",
+          "sourceUrl": "https://www.theguardian.com/football/2026/aug/18/barcelona-snatch-rodri-from-madrid-and-make-him-new-busquets",
+          "sourceTier": "medium",
+          "headlineTitle": "Barcelona steal Rodri away from Real Madrid and plan to make him new Busquets",
+          "publishedAt": "2026-08-18 19:49"
         }
       ],
-      "sourceCount": 1
+      "sourceCount": 2
     },
     {
       "id": "draft:https://news.google.com/rss/articles/CBMibkFVX3lxTE54R3NEZnV3NzY2Qlk2QTNKNmFQQjJmdV90VGZidzhQR1lfeTJhaDBfMllxVW9pcTk5TzhuRnJRZ3d3ZFZhdlhxRk1aR1MxcWZFX21BRFdvcmw5M1Q2eW04WXMwWTNvc1dhWmhYUmNR?oc=5",
@@ -776,14 +1129,14 @@
           "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdW8wVldvTWtXMUl4MnhtMmZUS19hQlZWbEdiMWFDWk1CcW5YdVNNcHhsS1VlNjV4dHNHcVllRzI4SWJJR0pGV1FsaGdwZ1NJSlM2em54VTJhbHNWZUdMTW1RUnJBYUhMVWVCR0FRMXdUTXZLUGpnUlBDUGg0YmJwLTB0dG9uRkF2Sm9WMVhMTmlHSzJhSWJJd0FFejA?oc=5",
           "sourceTier": "medium",
           "headlineTitle": "Exequiel Palacios to Ipswich Town: medical booked after deal agreed — Romano - SPORF",
-          "publishedAt": "2026-08-26 11:52"
+          "publishedAt": "2026-08-26 20:52"
         },
         {
           "sourceName": "Instagram 간접 검색 모니터",
           "sourceUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9nbDNGX2ctVEtYbUk4RFY1NC1aeEg5Z3E3N2Nac0hBR2xZME52OUtvRzdZNkJlTE0xaTVKd2lMQzlsU0pXZ1NKZTJ5cGNzRFE1d3c?oc=5",
           "sourceTier": "low",
           "headlineTitle": "DEAL DONE✅ Ipswich Town have signed 27 year old Exequiel Palacios from Bayer Leverkusen for €30M including bonuses. The Argentine midfielder has signed a 4 year contract with the newly promoted Premier League Side.. The FIRST EVER World Cup - instagram.com",
-          "publishedAt": "2026-08-25 20:55"
+          "publishedAt": "2026-08-26 05:55"
         }
       ],
       "sourceCount": 2
@@ -814,7 +1167,7 @@
           "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cx2zlnpnk4zo?at_medium=RSS&at_campaign=rss",
           "sourceTier": "medium",
           "headlineTitle": "Newcastle agree £52m deal for Man City's Gonzalez",
-          "publishedAt": "2026-08-26 07:59"
+          "publishedAt": "2026-08-26 16:59"
         },
         {
           "sourceName": "ESPN FC",
@@ -841,6 +1194,286 @@
       "sourceCount": 4
     },
     {
+      "id": "draft:https://www.bbc.co.uk/sport/football/articles/c39m0vmgxrgo?at_medium=RSS&at_campaign=rss",
+      "player": "Daniel Muñoz",
+      "fromTeam": "Crystal Palace",
+      "toTeam": "Nottingham Forest",
+      "league": "미분류",
+      "status": "루머",
+      "fee": "£25M",
+      "sourceKey": "bbc-sport",
+      "sourceTier": "medium",
+      "sourceName": "BBC Sport",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c39m0vmgxrgo?at_medium=RSS&at_campaign=rss",
+      "sourceType": "자동 추출 초안",
+      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
+      "publishedAt": "2026-08-30 00:03",
+      "lastVerifiedAt": "2026-08-30 01:31",
+      "extractionConfidence": "medium",
+      "extractionPattern": "nottingham-forest-munoz-interest",
+      "needsVerification": false,
+      "headlineTitle": "Forest in advanced talks to sign Munoz from Palace",
+      "sourceLinks": [
+        {
+          "sourceName": "BBC Sport",
+          "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c39m0vmgxrgo?at_medium=RSS&at_campaign=rss",
+          "sourceTier": "medium",
+          "headlineTitle": "Forest in advanced talks to sign Munoz from Palace",
+          "publishedAt": "2026-08-30 00:03"
+        },
+        {
+          "sourceName": "Sami Mokbel monitor",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5BTHM5bUlxdk1ud1pBcDN4TGoxN0szQmEyZXo0anNkV2RyeFZ3VzhHeHhRc2hWSTgxV0NxOExiTHFvOHpWOVhTbjliYkFzb3hHRTQ0dG0wZHJHU3ZVR3k2c1JuWWxyU01oY2c?oc=5",
+          "sourceTier": "medium",
+          "headlineTitle": "Forest in advanced talks to sign Munoz from Palace - BBC",
+          "publishedAt": "2026-08-30 00:03"
+        }
+      ],
+      "sourceCount": 2
+    },
+    {
+      "id": "draft:https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaGtqLXYtbTZWTzA2T3BsS1VLdGpEV3F6dWJjZ0MxMWhDS2NGb3BpbHg2Y0k3N05WdDVtbGxIXzY4YWR4VnE4ODFoZ3BPRGpWRGM0LUdRR2pyVnRkMU9zSmpRQnc3cEc4R3VxNVBPcG1NTDFmRXBhbXpQLU1DcG9fUVJVTmhaaVMxd1JYbEhteFliVkJFeV9pQUlkeExKXzlhUndza3ZzaGl0Zw?oc=5",
+      "player": "Harrison Armstrong",
+      "fromTeam": "Everton",
+      "toTeam": "Nottingham Forest",
+      "league": "미분류",
+      "status": "루머",
+      "fee": "£40M",
+      "sourceKey": "ornstein-monitor",
+      "sourceTier": "medium",
+      "sourceName": "David Ornstein 검색 모니터",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaGtqLXYtbTZWTzA2T3BsS1VLdGpEV3F6dWJjZ0MxMWhDS2NGb3BpbHg2Y0k3N05WdDVtbGxIXzY4YWR4VnE4ODFoZ3BPRGpWRGM0LUdRR2pyVnRkMU9zSmpRQnc3cEc4R3VxNVBPcG1NTDFmRXBhbXpQLU1DcG9fUVJVTmhaaVMxd1JYbEhteFliVkJFeV9pQUlkeExKXzlhUndza3ZzaGl0Zw?oc=5",
+      "sourceType": "자동 추출 초안",
+      "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
+      "publishedAt": "2026-08-29 21:49",
+      "lastVerifiedAt": "2026-08-30 01:31",
+      "extractionConfidence": "medium",
+      "extractionPattern": "nottingham-forest-armstrong-interest",
+      "needsVerification": false,
+      "headlineTitle": "Nottingham Forest working on £40m deal for Everton’s Harrison Armstrong - The Athletic - The New York Times",
+      "sourceLinks": [
+        {
+          "sourceName": "David Ornstein 검색 모니터",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaGtqLXYtbTZWTzA2T3BsS1VLdGpEV3F6dWJjZ0MxMWhDS2NGb3BpbHg2Y0k3N05WdDVtbGxIXzY4YWR4VnE4ODFoZ3BPRGpWRGM0LUdRR2pyVnRkMU9zSmpRQnc3cEc4R3VxNVBPcG1NTDFmRXBhbXpQLU1DcG9fUVJVTmhaaVMxd1JYbEhteFliVkJFeV9pQUlkeExKXzlhUndza3ZzaGl0Zw?oc=5",
+          "sourceTier": "medium",
+          "headlineTitle": "Nottingham Forest working on £40m deal for Everton’s Harrison Armstrong - The Athletic - The New York Times",
+          "publishedAt": "2026-08-29 21:49"
+        },
+        {
+          "sourceName": "David Ornstein 검색 모니터",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeE5Rc0drQnpvdUZEanVOUDRWQUVlMVZwZzN3azNmM3JiWDliZjYzdjk3VEZzM044b1FtX0hZOWVLMzNHbXRZNm13WTI4Y0MyUlFCRmR2ZDhtWlBldXp2Z1ExUlZRbEV4SkhuWW02SlJLdC1WQnlNVHBKbUhrWU9Rcnh1djVnU0ZCMkh1ZA?oc=5",
+          "sourceTier": "medium",
+          "headlineTitle": "Harrison Armstrong set to miss Everton clash vs Bournemouth amid Nottingham Forest transfer latest - Yahoo Sports",
+          "publishedAt": "2026-08-29 20:53"
+        }
+      ],
+      "sourceCount": 2
+    },
+    {
+      "id": "draft:https://news.google.com/rss/articles/CBMipgFBVV95cUxQUVFGRVVucXp3SDBhZzBQSWNrNzZNdzktNXR2VnFmd2RBZ1RISXRXbG1fWXM1WDJVMm0yWlVOZ2pFN3lES185YktMMTl0UFdRVzFYMnBSNlpkeGZQUWs4XzhDZmJpX1kwZFNqYWRIa3A3Z1hoOU4yTFoyVzNXT1c3cWF5dFFOWkZETGViQzU1Y3kyQnZXOFd6TWFETVh2Rkc4cERGSC1n?oc=5",
+      "player": "Enzo Fernández",
+      "fromTeam": "Chelsea",
+      "toTeam": "Manchester City",
+      "league": "프리미어리그",
+      "status": "루머",
+      "fee": "미정",
+      "sourceKey": "romano-monitor",
+      "sourceTier": "medium",
+      "sourceName": "Fabrizio Romano 검색 모니터",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUVFGRVVucXp3SDBhZzBQSWNrNzZNdzktNXR2VnFmd2RBZ1RISXRXbG1fWXM1WDJVMm0yWlVOZ2pFN3lES185YktMMTl0UFdRVzFYMnBSNlpkeGZQUWs4XzhDZmJpX1kwZFNqYWRIa3A3Z1hoOU4yTFoyVzNXT1c3cWF5dFFOWkZETGViQzU1Y3kyQnZXOFd6TWFETVh2Rkc4cERGSC1n?oc=5",
+      "sourceType": "자동 추출 초안",
+      "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
+      "publishedAt": "2026-08-29 17:25",
+      "lastVerifiedAt": "2026-08-29 22:56",
+      "extractionConfidence": "medium",
+      "extractionPattern": "enzo-fernandez-manchester-city-interest",
+      "needsVerification": false,
+      "headlineTitle": "Enzo Fernandez agrees terms with Man City as Chelsea prepare for shock Premier League transfer - Goal.com",
+      "sourceLinks": [
+        {
+          "sourceName": "Fabrizio Romano 검색 모니터",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSHJmNWJ1bUlIYkZsMnJEZXgtVTk2NTVFcDdCc2J5bDNVQl9jOEpHZmp2cVNOdVloOUN1cFNIdlgxQ09sMFNDOG1kdThEUllRLXlFWjFkdk9pcnRZUTZpamRRN3NQbUt5QjhuT2dqM1ZZODFMemR6R1M1ZkJyMWdIaXd3M0JtODg?oc=5",
+          "sourceTier": "medium",
+          "headlineTitle": "Enzo Fernandez agrees terms with Man City as Chelsea prepare for shock Premier League transfer - Yahoo Sports",
+          "publishedAt": "2026-08-29 15:25"
+        },
+        {
+          "sourceName": "Fabrizio Romano 검색 모니터",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUVFGRVVucXp3SDBhZzBQSWNrNzZNdzktNXR2VnFmd2RBZ1RISXRXbG1fWXM1WDJVMm0yWlVOZ2pFN3lES185YktMMTl0UFdRVzFYMnBSNlpkeGZQUWs4XzhDZmJpX1kwZFNqYWRIa3A3Z1hoOU4yTFoyVzNXT1c3cWF5dFFOWkZETGViQzU1Y3kyQnZXOFd6TWFETVh2Rkc4cERGSC1n?oc=5",
+          "sourceTier": "medium",
+          "headlineTitle": "Enzo Fernandez agrees terms with Man City as Chelsea prepare for shock Premier League transfer - Goal.com",
+          "publishedAt": "2026-08-29 17:25"
+        },
+        {
+          "sourceName": "Fabrizio Romano 검색 모니터",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSENNZmlWMDZDc0F3Szd0dVBuallLTXlDTlNBZnI5RWZqTzhqT0tyVDNjc3Q1a1VvbzBhZ0lPeFAySl9XNkxUNkM1b1BLMU03ampNazVzREtDQWZKeXFTTGpvTlRqX2duRlRoRnJZVGlpSDJJaXd5aHlsbFp2dk4xNmMyeG5HRWhtbjY1YXBUengzWFJaRERfNHg4ZC1uSGR6UHZvMGxmbjF2SW5nS3VIZ2M4MXh6WjhIRGc?oc=5",
+          "sourceTier": "medium",
+          "headlineTitle": "Transfer rumors, news: Man City expected to send offer for Fernández - ESPN",
+          "publishedAt": "2026-08-27 06:28"
+        }
+      ],
+      "sourceCount": 3
+    },
+    {
+      "id": "draft:49753093",
+      "player": "Gabriel Martinelli",
+      "fromTeam": "Arsenal",
+      "toTeam": "Al Hilal",
+      "league": "미분류",
+      "status": "루머",
+      "fee": "미정",
+      "sourceKey": "espn-fc",
+      "sourceTier": "medium",
+      "sourceName": "ESPN FC",
+      "sourceUrl": "https://www.espn.com/soccer/story/_/id/49753093/al-hilal-closing-deal-arsenal-gabriel-martinelli-sources",
+      "sourceType": "자동 추출 초안",
+      "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
+      "publishedAt": "2026-08-29 00:28",
+      "lastVerifiedAt": "2026-08-29 22:56",
+      "extractionConfidence": "medium",
+      "extractionPattern": "espn-martinelli-al-hilal-deal",
+      "needsVerification": false,
+      "headlineTitle": "Sources: Al Hilal near deal for Arsenal's Martinelli",
+      "sourceLinks": [
+        {
+          "sourceName": "Sky Sports Tottenham monitor",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVWJzQ21uazg0SXlNVTJUSGUzZkhxdWFOYzNwRThWdG40dGVQNFVQdTlOWFlNRzU0S1lEZDQyb3J4OENxMUFBOG9PemIxOEdBU3AwRE5abHA3UDB3VERSUnViUDB6SlQ5X0h2d2tlMUNJcFlEUUJSNHhlWXhZeEtxV0VnR3RMSF80VDVhd0MzM2xOYW1mMGMxX3p3b2tvbDV2OUFic0ota3pqWEJGQTBxTDdLemhlNW5QYWpHLW1FZVRXWEdqUzdZcWJ0cGxMUUxzTHhLRFJnaDlLNEZjNFgwbC1Ccl81Zw?oc=5",
+          "sourceTier": "medium",
+          "headlineTitle": "Gabriel Martinelli transfer news: Al Hilal and Arsenal make progress on deal for Brazilian winger - Sky Sports",
+          "publishedAt": "2026-08-25 17:23"
+        },
+        {
+          "sourceName": "BBC Sport",
+          "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cgk4k444rmmo?at_medium=RSS&at_campaign=rss",
+          "sourceTier": "medium",
+          "headlineTitle": "Al-Hilal in advanced talks to sign Arsenal's Martinelli",
+          "publishedAt": "2026-08-25 06:37"
+        },
+        {
+          "sourceName": "David Ornstein 검색 모니터",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMDZZbEpmLXhZZDVzb01mN0RFRjNCYjh5dkgtS1Rha25BV29NRndEc2FRQ05qU0dvSFltdWYyeTVERzc1VFhmRktuV2pROWYwaFVFcUsyRFprMVZpRktMenRnZEZfd2sxbWFka0V3Z3FHd0E0LW1ldDdKalo3N0cxSGdrekdwZ0pMZ0dKQ3pEMkl4RWxoTlZibW13cDJtZw?oc=5",
+          "sourceTier": "medium",
+          "headlineTitle": "Al Hilal pursuing deal for Arsenal’s Gabriel Martinelli - The Athletic - The New York Times",
+          "publishedAt": "2026-08-24 22:02"
+        },
+        {
+          "sourceName": "Instagram 간접 검색 모니터",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE90UF9FX3FrUVZsQzJ4V2M2LWxWZ0NyWEh3MnJXSTBJVUtYd1VLR2pTMzZzanJBajlyR2lkVmd3SWRNZ1YzTlJ2bXQ2NHVfUC1DMVE?oc=5",
+          "sourceTier": "low",
+          "headlineTitle": "BREAKING! 🇧🇷📞 Al Hilal are now in talks with Arsenal over a deal for Gabriel Martinelli, with discussions also ongoing on the player’s side. Arsenal are demanding around £60M for the Brazilian. No agreement has been reached yet, but negotiations are unde - instagram.com",
+          "publishedAt": "2026-08-23 22:12"
+        },
+        {
+          "sourceName": "ESPN FC",
+          "sourceUrl": "https://www.espn.com/soccer/story/_/id/49753093/al-hilal-closing-deal-arsenal-gabriel-martinelli-sources",
+          "sourceTier": "medium",
+          "headlineTitle": "Sources: Al Hilal near deal for Arsenal's Martinelli",
+          "publishedAt": "2026-08-29 00:28"
+        }
+      ],
+      "sourceCount": 5
+    },
+    {
+      "id": "draft:https://news.google.com/rss/articles/CBMimAFBVV95cUxOUDFueXNzQzFOZTBtQ3J1SlI0c2dGTzRpcGZHc1dCYlhYSnBQX2JwRm92bi0zZV8tNHl3c25XMnI3UTl6eHFyd09hXzQzclYzbERFZXgya2tGcDJKOGlFZTNCdnBROXB5RVFwQkFKalJHNWxxQXlmXzlyVUU0c1RNMWNGU3JtWHBKXzR2TG5FNkJNekFUaFBXUg?oc=5",
+      "player": "Toby Collyer",
+      "fromTeam": "Manchester United",
+      "toTeam": "West Bromwich Albion",
+      "league": "미분류",
+      "status": "루머",
+      "fee": "£3M",
+      "sourceKey": "laurie-whitwell-monitor",
+      "sourceTier": "medium",
+      "sourceName": "Laurie Whitwell monitor",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUDFueXNzQzFOZTBtQ3J1SlI0c2dGTzRpcGZHc1dCYlhYSnBQX2JwRm92bi0zZV8tNHl3c25XMnI3UTl6eHFyd09hXzQzclYzbERFZXgya2tGcDJKOGlFZTNCdnBROXB5RVFwQkFKalJHNWxxQXlmXzlyVUU0c1RNMWNGU3JtWHBKXzR2TG5FNkJNekFUaFBXUg?oc=5",
+      "sourceType": "자동 추출 초안",
+      "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
+      "publishedAt": "2026-08-28 23:11",
+      "lastVerifiedAt": "2026-08-29 22:56",
+      "extractionConfidence": "medium",
+      "extractionPattern": "toby-collyer-west-brom-move",
+      "needsVerification": false,
+      "headlineTitle": "Manchester United’s Toby Collyer joining West Brom in transfer worth initial £3m - The Athletic - The New York Times",
+      "sourceLinks": [
+        {
+          "sourceName": "Laurie Whitwell monitor",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUDFueXNzQzFOZTBtQ3J1SlI0c2dGTzRpcGZHc1dCYlhYSnBQX2JwRm92bi0zZV8tNHl3c25XMnI3UTl6eHFyd09hXzQzclYzbERFZXgya2tGcDJKOGlFZTNCdnBROXB5RVFwQkFKalJHNWxxQXlmXzlyVUU0c1RNMWNGU3JtWHBKXzR2TG5FNkJNekFUaFBXUg?oc=5",
+          "sourceTier": "medium",
+          "headlineTitle": "Manchester United’s Toby Collyer joining West Brom in transfer worth initial £3m - The Athletic - The New York Times",
+          "publishedAt": "2026-08-28 23:08"
+        }
+      ],
+      "sourceCount": 1
+    },
+    {
+      "id": "draft:https://news.google.com/rss/articles/CBMiyAFBVV95cUxQM3lkQ0hfb1JONExEa0RSdGE4aGJkckhTMDdWWFNuSG9NcFFGNUpwSTcydGllZk9jbHJHa0VBZGc4MTFFekZBcVRVVHkzLWRJVGgyVDVHeVB5S0ZsLVkxWWVRMkFDbksycUxzdFB5R09aSXNOTDhKV0Y0ZFFEQUVtZWozZVJLZXI4MWpRakhnUEk1S3Z0YTVPRFNCNHRQMlJZYjBydHpMOEtNcWhfVDJZT3dTUVV0RTByM3hIcThkMS1QWVVxYVpwYdIBzgFBVV95cUxON1dsa3c1bUFYQUxiSE13NlVZTkVkeldaYU5rSjNtdFBwUHFKTTRwcUo3VEwxSkxtNk1nLVdiSGtfZGtaS216R0FwZkV4SWFwQ2JGanE2WXJFZVEzMHF6WjhHTnBiZ0htZGlPRVVDU3ZzanQ3RjhtTWNfdVdmOFYxeFBUaHhSeEpIalA2ZFNhQXM1NG9kOFZlSV9ORUtqNHprTnBEN05MeXRONkVsMy1zamdWaWNLTmxHYkp1cWwwRGRLS0s5OW9OSnpBREp6Zw?oc=5",
+      "player": "Joshua Zirkzee",
+      "fromTeam": "Manchester United",
+      "toTeam": "Fiorentina",
+      "league": "미분류",
+      "status": "루머",
+      "fee": "미정",
+      "sourceKey": "dimarzio-monitor",
+      "sourceTier": "medium",
+      "sourceName": "Gianluca Di Marzio 검색 모니터",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQM3lkQ0hfb1JONExEa0RSdGE4aGJkckhTMDdWWFNuSG9NcFFGNUpwSTcydGllZk9jbHJHa0VBZGc4MTFFekZBcVRVVHkzLWRJVGgyVDVHeVB5S0ZsLVkxWWVRMkFDbksycUxzdFB5R09aSXNOTDhKV0Y0ZFFEQUVtZWozZVJLZXI4MWpRakhnUEk1S3Z0YTVPRFNCNHRQMlJZYjBydHpMOEtNcWhfVDJZT3dTUVV0RTByM3hIcThkMS1QWVVxYVpwYdIBzgFBVV95cUxON1dsa3c1bUFYQUxiSE13NlVZTkVkeldaYU5rSjNtdFBwUHFKTTRwcUo3VEwxSkxtNk1nLVdiSGtfZGtaS216R0FwZkV4SWFwQ2JGanE2WXJFZVEzMHF6WjhHTnBiZ0htZGlPRVVDU3ZzanQ3RjhtTWNfdVdmOFYxeFBUaHhSeEpIalA2ZFNhQXM1NG9kOFZlSV9ORUtqNHprTnBEN05MeXRONkVsMy1zamdWaWNLTmxHYkp1cWwwRGRLS0s5OW9OSnpBREp6Zw?oc=5",
+      "sourceType": "자동 추출 초안",
+      "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
+      "publishedAt": "2026-08-28 17:12",
+      "lastVerifiedAt": "2026-08-28 21:08",
+      "extractionConfidence": "medium",
+      "extractionPattern": "fiorentina-zirkzee-offer",
+      "needsVerification": false,
+      "headlineTitle": "Fiorentina submit first official offer for Joshua Zirkzee as forward gives green light to move - Gianluca Di Marzio - Tribuna.com",
+      "sourceLinks": [
+        {
+          "sourceName": "Gianluca Di Marzio 검색 모니터",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQM3lkQ0hfb1JONExEa0RSdGE4aGJkckhTMDdWWFNuSG9NcFFGNUpwSTcydGllZk9jbHJHa0VBZGc4MTFFekZBcVRVVHkzLWRJVGgyVDVHeVB5S0ZsLVkxWWVRMkFDbksycUxzdFB5R09aSXNOTDhKV0Y0ZFFEQUVtZWozZVJLZXI4MWpRakhnUEk1S3Z0YTVPRFNCNHRQMlJZYjBydHpMOEtNcWhfVDJZT3dTUVV0RTByM3hIcThkMS1QWVVxYVpwYdIBzgFBVV95cUxON1dsa3c1bUFYQUxiSE13NlVZTkVkeldaYU5rSjNtdFBwUHFKTTRwcUo3VEwxSkxtNk1nLVdiSGtfZGtaS216R0FwZkV4SWFwQ2JGanE2WXJFZVEzMHF6WjhHTnBiZ0htZGlPRVVDU3ZzanQ3RjhtTWNfdVdmOFYxeFBUaHhSeEpIalA2ZFNhQXM1NG9kOFZlSV9ORUtqNHprTnBEN05MeXRONkVsMy1zamdWaWNLTmxHYkp1cWwwRGRLS0s5OW9OSnpBREp6Zw?oc=5",
+          "sourceTier": "medium",
+          "headlineTitle": "Fiorentina submit first official offer for Joshua Zirkzee as forward gives green light to move - Gianluca Di Marzio - Tribuna.com",
+          "publishedAt": "2026-08-28 17:12"
+        },
+        {
+          "sourceName": "Fabrizio Romano 검색 모니터",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3UmU4T3l5RFhfQUVmMHRVbklKbkhGMnpzNThJRlQ1aTZqUmVzcEdnMWdYYUVpOVlVZmc4U25mdjVXRURibGU5bTNqZktRUGlMMVJSTnRDX3o1VlN2cnZVVWFRVGlNSHh3QVRFQkZMVGtZU3FKd0R2ejV3NlRFRW8?oc=5",
+          "sourceTier": "medium",
+          "headlineTitle": "Joshua Zirkzee to Fiorentina: official bid submitted - SPORF",
+          "publishedAt": "2026-08-27 20:24"
+        }
+      ],
+      "sourceCount": 2
+    },
+    {
+      "id": "draft:https://news.google.com/rss/articles/CBMiowFBVV95cUxNa1YyelBpbTVIMmptcFpXRmh6VU1QQU8xUVBJakN1NVJTUldhc2RRNmNLZlF3TThYS0hrUDBBaktFN05McWhWM3NGenBTYzlYTGJrV2VlMnp2SHVXNU9RbW5sdDJHMlRXVlJmcE5PaE0wNnMtZU5ObGRPM1BEeVRua0FfYWttMVAwLXc0empKWlhmekk0aXpqbmNJYjJFYnI0T2M4?oc=5",
+      "player": "Trai Hume",
+      "fromTeam": "Sunderland",
+      "toTeam": "Everton",
+      "league": "미분류",
+      "status": "루머",
+      "fee": "£20M",
+      "sourceKey": "mark-ogden-monitor",
+      "sourceTier": "medium",
+      "sourceName": "Mark Ogden monitor",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNa1YyelBpbTVIMmptcFpXRmh6VU1QQU8xUVBJakN1NVJTUldhc2RRNmNLZlF3TThYS0hrUDBBaktFN05McWhWM3NGenBTYzlYTGJrV2VlMnp2SHVXNU9RbW5sdDJHMlRXVlJmcE5PaE0wNnMtZU5ObGRPM1BEeVRua0FfYWttMVAwLXc0empKWlhmekk0aXpqbmNJYjJFYnI0T2M4?oc=5",
+      "sourceType": "자동 추출 초안",
+      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
+      "publishedAt": "2026-08-27 19:12",
+      "lastVerifiedAt": "2026-08-27 22:35",
+      "extractionConfidence": "medium",
+      "extractionPattern": "everton-trai-hume-interest",
+      "needsVerification": false,
+      "headlineTitle": "Everton eye £20m move for Sunderland's Trai Hume - sources - ESPN",
+      "sourceLinks": [
+        {
+          "sourceName": "Mark Ogden monitor",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNa1YyelBpbTVIMmptcFpXRmh6VU1QQU8xUVBJakN1NVJTUldhc2RRNmNLZlF3TThYS0hrUDBBaktFN05McWhWM3NGenBTYzlYTGJrV2VlMnp2SHVXNU9RbW5sdDJHMlRXVlJmcE5PaE0wNnMtZU5ObGRPM1BEeVRua0FfYWttMVAwLXc0empKWlhmekk0aXpqbmNJYjJFYnI0T2M4?oc=5",
+          "sourceTier": "medium",
+          "headlineTitle": "Everton eye £20m move for Sunderland's Trai Hume - sources - ESPN",
+          "publishedAt": "2026-08-27 19:12"
+        }
+      ],
+      "sourceCount": 1
+    },
+    {
       "id": "draft:https://news.google.com/rss/articles/CBMijgFBVV95cUxOSk9wRDNMU0ZTdlpOeHJUZl95TENZWGY4MmFhRUI0VFVSNjFiMzcyWndMbV9YWmxrNmU1Rk52LUs4V3dlWl84TkljZ0Rid0VNM1IzM1N0bHkycHR0MDVqbk81VzVxNkZaNzVXc3liMHZCMU00NEdhc19rRTNuZUotVTFCb1NQcW9hNWVGMjRn?oc=5",
       "player": "Ismaïla Sarr",
       "fromTeam": "Crystal Palace",
@@ -863,51 +1496,20 @@
       "sourceLinks": [
         {
           "sourceName": "Fabrizio Romano 검색 모니터",
-          "sourceUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNkJUUFZhdzZMeTl4UFN5YTFjTFJtelpWY0RGNkozWFlXOHlRYnMtT1BSeWxSQlNkZnpUUkFnYTNwc0E1TmV1STlLTk80VkswaUlpQ1gxYVNtbllwX2hpX3cxeWpUVVpmQktGSkt2ZXgtbXUyeTY5VGt2eUpkcDFaNHl3MTFqbnc?oc=5",
-          "sourceTier": "medium",
-          "headlineTitle": "Liverpool make £50m bid for Ismaila Sarr - DaveOCKOP",
-          "publishedAt": "2026-08-26 14:46"
-        },
-        {
-          "sourceName": "Fabrizio Romano 검색 모니터",
           "sourceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSk9wRDNMU0ZTdlpOeHJUZl95TENZWGY4MmFhRUI0VFVSNjFiMzcyWndMbV9YWmxrNmU1Rk52LUs4V3dlWl84TkljZ0Rid0VNM1IzM1N0bHkycHR0MDVqbk81VzVxNkZaNzVXc3liMHZCMU00NEdhc19rRTNuZUotVTFCb1NQcW9hNWVGMjRn?oc=5",
           "sourceTier": "medium",
           "headlineTitle": "Romano drops Liverpool transfer bombshell as Reds make £50m offer for Ismaila Sarr - Football365",
-          "publishedAt": "2026-08-26 12:31"
+          "publishedAt": "2026-08-26 21:31"
+        },
+        {
+          "sourceName": "Fabrizio Romano 검색 모니터",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNkJUUFZhdzZMeTl4UFN5YTFjTFJtelpWY0RGNkozWFlXOHlRYnMtT1BSeWxSQlNkZnpUUkFnYTNwc0E1TmV1STlLTk80VkswaUlpQ1gxYVNtbllwX2hpX3cxeWpUVVpmQktGSkt2ZXgtbXUyeTY5VGt2eUpkcDFaNHl3MTFqbnc?oc=5",
+          "sourceTier": "medium",
+          "headlineTitle": "Liverpool make £50m bid for Ismaila Sarr - DaveOCKOP",
+          "publishedAt": "2026-08-26 20:20"
         }
       ],
       "sourceCount": 2
-    },
-    {
-      "id": "draft:https://www.bbc.co.uk/sport/football/articles/cn5dr0vyd3ro?at_medium=RSS&at_campaign=rss",
-      "player": "Issa Kaboré",
-      "fromTeam": "Manchester City",
-      "toTeam": "Wrexham",
-      "league": "미분류",
-      "status": "루머",
-      "fee": "미정",
-      "sourceKey": "bbc-sport",
-      "sourceTier": "medium",
-      "sourceName": "BBC Sport",
-      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cn5dr0vyd3ro?at_medium=RSS&at_campaign=rss",
-      "sourceType": "자동 추출 초안",
-      "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
-      "publishedAt": "2026-08-26 21:25",
-      "lastVerifiedAt": "2026-08-27 00:17",
-      "extractionConfidence": "medium",
-      "extractionPattern": "bbc-kabore-wrexham",
-      "needsVerification": false,
-      "headlineTitle": "Wrexham close in on Ekomie and Kabore deals",
-      "sourceLinks": [
-        {
-          "sourceName": "BBC Sport",
-          "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cn5dr0vyd3ro?at_medium=RSS&at_campaign=rss",
-          "sourceTier": "medium",
-          "headlineTitle": "Wrexham close in on Ekomie and Kabore deals",
-          "publishedAt": "2026-08-26 12:25"
-        }
-      ],
-      "sourceCount": 1
     },
     {
       "id": "draft:https://news.google.com/rss/articles/CBMisAFBVV95cUxOT2dmQjR2c1dNc1VUa0VkSl9PQkRoRnFTMFJOMnZPSVJUMVNVT3RBTjhYNF9QS0F5UlhnMVo1LXAwRjM3ek9BQ2RDeWtfVjA0WWxvTlBRSnNVYllkNmlyTk1nRkhuUHlFcWlxN0J1SUNtdmd5bU0tWDZ0c191SHhoQkd1OGZ6eEQ1VTNlQS1Qc3dnWTluRXBTcHUzLVJKM1FlbkR4X2dPQWptRHRleHRDZtIBtgFBVV95cUxPaGkyQTJrbFV6bGxreXl5M04tZDFjUHVDSkd6blN3T2FsMWQ3WGdTLWhEaUNUaFlYa3FwaS1pZ2VXeVhIRGxHTjhSZWZIRFNEN2hoTGRiVEU1bzYzMnBIWTN5NHpXcmJkVkJaVGtGbXZsOHpDalR5dEpGWGpCajlwOUFWeWtEUzZheFluX2VJLTM0RHlEZGpaNndZc3JnNE9xV0ZSelMtWTRwY0VydzRLZzB2N29fZw?oc=5",
@@ -935,21 +1537,21 @@
           "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOT2dmQjR2c1dNc1VUa0VkSl9PQkRoRnFTMFJOMnZPSVJUMVNVT3RBTjhYNF9QS0F5UlhnMVo1LXAwRjM3ek9BQ2RDeWtfVjA0WWxvTlBRSnNVYllkNmlyTk1nRkhuUHlFcWlxN0J1SUNtdmd5bU0tWDZ0c191SHhoQkd1OGZ6eEQ1VTNlQS1Qc3dnWTluRXBTcHUzLVJKM1FlbkR4X2dPQWptRHRleHRDZtIBtgFBVV95cUxPaGkyQTJrbFV6bGxreXl5M04tZDFjUHVDSkd6blN3T2FsMWQ3WGdTLWhEaUNUaFlYa3FwaS1pZ2VXeVhIRGxHTjhSZWZIRFNEN2hoTGRiVEU1bzYzMnBIWTN5NHpXcmJkVkJaVGtGbXZsOHpDalR5dEpGWGpCajlwOUFWeWtEUzZheFluX2VJLTM0RHlEZGpaNndZc3JnNE9xV0ZSelMtWTRwY0VydzRLZzB2N29fZw?oc=5",
           "sourceTier": "medium",
           "headlineTitle": "Tottenham transfer target set to undergo medical as £60m deal edges closer - Football London",
-          "publishedAt": "2026-08-26 09:15"
+          "publishedAt": "2026-08-26 18:15"
         },
         {
           "sourceName": "BBC Sport",
           "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cx2z5ewlrwko?at_medium=RSS&at_campaign=rss",
           "sourceTier": "medium",
           "headlineTitle": "Tottenham agree loan for Man City's Marmoush ",
-          "publishedAt": "2026-08-26 08:18"
+          "publishedAt": "2026-08-26 17:18"
         },
         {
           "sourceName": "David Ornstein 검색 모니터",
           "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxOb0Rxdm1peHhCOGhPdUlNdUltazFEX3RuS1dRRXhaQ2hrbl92N2VPSWppSjYxYnA1QUtpellySkl6UURTOW85N2dqWGo5WlJETnpNTG5tWVNBLWdweUFLb1lrU0ZlLVdtT1FhalJpY1NYZ2R6MEdWcVV5T0tHVE9odE02dGZrdnFfMkxvQ0p0b0daWkdtZEVfZXhGWVdNQQ?oc=5",
           "sourceTier": "medium",
           "headlineTitle": "Omar Marmoush to undergo Tottenham medical ahead of loan with obligation move from Manchester City - The Athletic - The New York Times",
-          "publishedAt": "2026-08-26 07:48"
+          "publishedAt": "2026-08-26 16:48"
         },
         {
           "sourceName": "Fabrizio Romano 검색 모니터",
@@ -993,37 +1595,6 @@
       "sourceCount": 1
     },
     {
-      "id": "draft:https://news.google.com/rss/articles/CBMilwFBVV95cUxPdVRZa0hUSU5UREd2SC0tX0tzWlVnd3V0RTc4SExuQ2QwVGk2MlFIWUlBYWVFVElNTmFYcXYyRktObXNOaXk2UDZYZHBvbjJMcDF2ai1LaG1na2NTaDBCeTB1Mm5XM3JFNWk2SGlRM2RxQ0ZzalNta1haMk1XNk9kNWw3dGx4OElXQUhPM2VoLUJ4QWs2MlBz?oc=5",
-      "player": "Nicolas Jackson",
-      "fromTeam": "Chelsea",
-      "toTeam": "Aston Villa",
-      "league": "프리미어리그",
-      "status": "루머",
-      "fee": "미정",
-      "sourceKey": "santi-aouna-monitor",
-      "sourceTier": "medium",
-      "sourceName": "Santi Aouna monitor",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdVRZa0hUSU5UREd2SC0tX0tzWlVnd3V0RTc4SExuQ2QwVGk2MlFIWUlBYWVFVElNTmFYcXYyRktObXNOaXk2UDZYZHBvbjJMcDF2ai1LaG1na2NTaDBCeTB1Mm5XM3JFNWk2SGlRM2RxQ0ZzalNta1haMk1XNk9kNWw3dGx4OElXQUhPM2VoLUJ4QWs2MlBz?oc=5",
-      "sourceType": "자동 추출 초안",
-      "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
-      "publishedAt": "2026-08-26 06:14",
-      "lastVerifiedAt": "2026-08-27 00:17",
-      "extractionConfidence": "medium",
-      "extractionPattern": "nicolas-jackson-aston-villa-bid",
-      "needsVerification": false,
-      "headlineTitle": "Transfer: Chelsea weigh Aston Villa’s bid for Nicolas Jackson - Daily Post Nigeria",
-      "sourceLinks": [
-        {
-          "sourceName": "Santi Aouna monitor",
-          "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdVRZa0hUSU5UREd2SC0tX0tzWlVnd3V0RTc4SExuQ2QwVGk2MlFIWUlBYWVFVElNTmFYcXYyRktObXNOaXk2UDZYZHBvbjJMcDF2ai1LaG1na2NTaDBCeTB1Mm5XM3JFNWk2SGlRM2RxQ0ZzalNta1haMk1XNk9kNWw3dGx4OElXQUhPM2VoLUJ4QWs2MlBz?oc=5",
-          "sourceTier": "medium",
-          "headlineTitle": "Transfer: Chelsea weigh Aston Villa’s bid for Nicolas Jackson - Daily Post Nigeria",
-          "publishedAt": "2026-08-25 21:14"
-        }
-      ],
-      "sourceCount": 1
-    },
-    {
       "id": "draft:49719699",
       "player": "Julián Álvarez",
       "fromTeam": "Atlético Madrid",
@@ -1055,58 +1626,6 @@
       "sourceCount": 1
     },
     {
-      "id": "draft:https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVWJzQ21uazg0SXlNVTJUSGUzZkhxdWFOYzNwRThWdG40dGVQNFVQdTlOWFlNRzU0S1lEZDQyb3J4OENxMUFBOG9PemIxOEdBU3AwRE5abHA3UDB3VERSUnViUDB6SlQ5X0h2d2tlMUNJcFlEUUJSNHhlWXhZeEtxV0VnR3RMSF80VDVhd0MzM2xOYW1mMGMxX3p3b2tvbDV2OUFic0ota3pqWEJGQTBxTDdLemhlNW5QYWpHLW1FZVRXWEdqUzdZcWJ0cGxMUUxzTHhLRFJnaDlLNEZjNFgwbC1Ccl81Zw?oc=5",
-      "player": "Gabriel Martinelli",
-      "fromTeam": "Arsenal",
-      "toTeam": "Al Hilal",
-      "league": "미분류",
-      "status": "루머",
-      "fee": "미정",
-      "sourceKey": "tottenham-sky-monitor",
-      "sourceTier": "medium",
-      "sourceName": "Sky Sports Tottenham monitor",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVWJzQ21uazg0SXlNVTJUSGUzZkhxdWFOYzNwRThWdG40dGVQNFVQdTlOWFlNRzU0S1lEZDQyb3J4OENxMUFBOG9PemIxOEdBU3AwRE5abHA3UDB3VERSUnViUDB6SlQ5X0h2d2tlMUNJcFlEUUJSNHhlWXhZeEtxV0VnR3RMSF80VDVhd0MzM2xOYW1mMGMxX3p3b2tvbDV2OUFic0ota3pqWEJGQTBxTDdLemhlNW5QYWpHLW1FZVRXWEdqUzdZcWJ0cGxMUUxzTHhLRFJnaDlLNEZjNFgwbC1Ccl81Zw?oc=5",
-      "sourceType": "자동 추출 초안",
-      "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
-      "publishedAt": "2026-08-25 17:23",
-      "lastVerifiedAt": "2026-08-26 17:23",
-      "extractionConfidence": "medium",
-      "extractionPattern": "sky-martinelli-al-hilal",
-      "needsVerification": false,
-      "headlineTitle": "Gabriel Martinelli transfer news: Al Hilal and Arsenal make progress on deal for Brazilian winger - Sky Sports",
-      "sourceLinks": [
-        {
-          "sourceName": "Sky Sports Tottenham monitor",
-          "sourceUrl": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNVWJzQ21uazg0SXlNVTJUSGUzZkhxdWFOYzNwRThWdG40dGVQNFVQdTlOWFlNRzU0S1lEZDQyb3J4OENxMUFBOG9PemIxOEdBU3AwRE5abHA3UDB3VERSUnViUDB6SlQ5X0h2d2tlMUNJcFlEUUJSNHhlWXhZeEtxV0VnR3RMSF80VDVhd0MzM2xOYW1mMGMxX3p3b2tvbDV2OUFic0ota3pqWEJGQTBxTDdLemhlNW5QYWpHLW1FZVRXWEdqUzdZcWJ0cGxMUUxzTHhLRFJnaDlLNEZjNFgwbC1Ccl81Zw?oc=5",
-          "sourceTier": "medium",
-          "headlineTitle": "Gabriel Martinelli transfer news: Al Hilal and Arsenal make progress on deal for Brazilian winger - Sky Sports",
-          "publishedAt": "2026-08-25 17:23"
-        },
-        {
-          "sourceName": "BBC Sport",
-          "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cgk4k444rmmo?at_medium=RSS&at_campaign=rss",
-          "sourceTier": "medium",
-          "headlineTitle": "Al-Hilal in advanced talks to sign Arsenal's Martinelli",
-          "publishedAt": "2026-08-25 06:37"
-        },
-        {
-          "sourceName": "David Ornstein 검색 모니터",
-          "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMDZZbEpmLXhZZDVzb01mN0RFRjNCYjh5dkgtS1Rha25BV29NRndEc2FRQ05qU0dvSFltdWYyeTVERzc1VFhmRktuV2pROWYwaFVFcUsyRFprMVZpRktMenRnZEZfd2sxbWFka0V3Z3FHd0E0LW1ldDdKalo3N0cxSGdrekdwZ0pMZ0dKQ3pEMkl4RWxoTlZibW13cDJtZw?oc=5",
-          "sourceTier": "medium",
-          "headlineTitle": "Al Hilal pursuing deal for Arsenal’s Gabriel Martinelli - The Athletic - The New York Times",
-          "publishedAt": "2026-08-24 22:02"
-        },
-        {
-          "sourceName": "Instagram 간접 검색 모니터",
-          "sourceUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE90UF9FX3FrUVZsQzJ4V2M2LWxWZ0NyWEh3MnJXSTBJVUtYd1VLR2pTMzZzanJBajlyR2lkVmd3SWRNZ1YzTlJ2bXQ2NHVfUC1DMVE?oc=5",
-          "sourceTier": "low",
-          "headlineTitle": "BREAKING! 🇧🇷📞 Al Hilal are now in talks with Arsenal over a deal for Gabriel Martinelli, with discussions also ongoing on the player’s side. Arsenal are demanding around £60M for the Brazilian. No agreement has been reached yet, but negotiations are unde - instagram.com",
-          "publishedAt": "2026-08-23 22:12"
-        }
-      ],
-      "sourceCount": 4
-    },
-    {
       "id": "draft:https://news.google.com/rss/articles/CBMieEFVX3lxTFBnZWNBdl9YY1prb1hNLXEybExGWl9HbzBrYWt0S1VGZ05DRU5wQ2JEOEoyVGJWTW9KX0ppQWJiYksyRjAxOTI4VHdPQ1Y0UWRoMGI5bHRGSXk1alpEc1FfMkNtXzIyTEZkNkMzaGloendQX3hWVkwzVA?oc=5",
       "player": "Rafael Leão",
       "fromTeam": "AC Milan",
@@ -1133,37 +1652,6 @@
           "sourceTier": "medium",
           "headlineTitle": "Di Marzio: Aston Villa step up efforts to sign AC Milan’s Leao - Milanreports.com",
           "publishedAt": "2026-08-25 06:28"
-        }
-      ],
-      "sourceCount": 1
-    },
-    {
-      "id": "draft:https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVVNCYzVXVzN0RXR0ZDJsNWtDcDVqejRDMTJiVENVZkFTdEJBLWJSdnBGbVJqQ0VXN3Zkd1RnVlY4bFVZSmxFTEM3TEc3aHgwdGJ1TmE2TWkwME5ud1lFOExWZThOa3dZYkdsc0pBdjNKMGZ1NGF2TFpKZm1PTUd5OGVVQUlZZnRZbFF3?oc=5",
-      "player": "Ethan Pinnock",
-      "fromTeam": "Brentford",
-      "toTeam": "Coventry City",
-      "league": "미분류",
-      "status": "루머",
-      "fee": "£6M",
-      "sourceKey": "ornstein-monitor",
-      "sourceTier": "medium",
-      "sourceName": "David Ornstein 검색 모니터",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVVNCYzVXVzN0RXR0ZDJsNWtDcDVqejRDMTJiVENVZkFTdEJBLWJSdnBGbVJqQ0VXN3Zkd1RnVlY4bFVZSmxFTEM3TEc3aHgwdGJ1TmE2TWkwME5ud1lFOExWZThOa3dZYkdsc0pBdjNKMGZ1NGF2TFpKZm1PTUd5OGVVQUlZZnRZbFF3?oc=5",
-      "sourceType": "자동 추출 초안",
-      "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
-      "publishedAt": "2026-08-25 00:20",
-      "lastVerifiedAt": "2026-08-26 17:23",
-      "extractionConfidence": "medium",
-      "extractionPattern": "ornstein-pinnock-coventry",
-      "needsVerification": false,
-      "headlineTitle": "Ethan Pinnock to Coventry City: £6m agreement reached — Ornstein - SPORF",
-      "sourceLinks": [
-        {
-          "sourceName": "David Ornstein 검색 모니터",
-          "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVVNCYzVXVzN0RXR0ZDJsNWtDcDVqejRDMTJiVENVZkFTdEJBLWJSdnBGbVJqQ0VXN3Zkd1RnVlY4bFVZSmxFTEM3TEc3aHgwdGJ1TmE2TWkwME5ud1lFOExWZThOa3dZYkdsc0pBdjNKMGZ1NGF2TFpKZm1PTUd5OGVVQUlZZnRZbFF3?oc=5",
-          "sourceTier": "medium",
-          "headlineTitle": "Ethan Pinnock to Coventry City: £6m agreement reached — Ornstein - SPORF",
-          "publishedAt": "2026-08-25 00:20"
         }
       ],
       "sourceCount": 1
@@ -1349,36 +1837,6 @@
           "sourceTier": "medium",
           "headlineTitle": "Ollie Watkins transfer: Aston Villa in talks with Saudi club Al Hilal over England striker",
           "publishedAt": "2026-08-19 07:27"
-        }
-      ],
-      "sourceCount": 1
-    },
-    {
-      "id": "draft:https://www.theguardian.com/football/2026/aug/18/barcelona-snatch-rodri-from-madrid-and-make-him-new-busquets",
-      "player": "Rodri",
-      "fromTeam": "Real Madrid",
-      "toTeam": "Barcelona",
-      "league": "미분류",
-      "status": "루머",
-      "fee": "미정",
-      "sourceKey": "guardian-football",
-      "sourceTier": "medium",
-      "sourceName": "The Guardian Football",
-      "sourceUrl": "https://www.theguardian.com/football/2026/aug/18/barcelona-snatch-rodri-from-madrid-and-make-him-new-busquets",
-      "sourceType": "자동 추출 초안",
-      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
-      "publishedAt": "2026-08-18 19:49",
-      "lastVerifiedAt": "2026-08-19 09:53",
-      "extractionConfidence": "medium",
-      "extractionPattern": "club-steals-player",
-      "headlineTitle": "Barcelona steal Rodri away from Real Madrid and plan to make him new Busquets",
-      "sourceLinks": [
-        {
-          "sourceName": "The Guardian Football",
-          "sourceUrl": "https://www.theguardian.com/football/2026/aug/18/barcelona-snatch-rodri-from-madrid-and-make-him-new-busquets",
-          "sourceTier": "medium",
-          "headlineTitle": "Barcelona steal Rodri away from Real Madrid and plan to make him new Busquets",
-          "publishedAt": "2026-08-18 19:49"
         }
       ],
       "sourceCount": 1
@@ -1598,14 +2056,7 @@
           "sourceUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONWZvSWZna2tGdTA2cUVMQmlXY2FaNEJzWTdPVVhxLTZ0bE1XSVFrRmdSMjNDZ2QzNjlVaDQwSjY5RHQtbDI1d2dIemNNb2pfWkJmUXFzMng4OER2Y0lENDBkd19vb2ZzSGhfYTgtWkx2NUpIRXh1VnYtX2xQY1d2OGRJZmRqcHc?oc=5",
           "sourceTier": "medium",
           "headlineTitle": "Jack Grealish to Sunderland: loan offer submitted — Ornstein - SPORF",
-          "publishedAt": "2026-08-26 15:12"
-        },
-        {
-          "sourceName": "David Ornstein Bluesky",
-          "sourceUrl": "https://bsky.app/profile/david-ornstein.bsky.social/post/3mtym2cebp22w",
-          "sourceTier": "medium",
-          "headlineTitle": "🚨 EXCL: Sunderland submit offer to sign Jack Grealish from Manchester City. Bid for 30yo winger loan with #MCFC covering part of salary + potential to become permanent next summer when contract ends. #SAFC pursuing Igor Paixao in parallel 🚨 @theathleticfc.bsky.social www.nytimes.com/athletic/737...",
-          "publishedAt": "2026-08-26 15:02"
+          "publishedAt": "2026-08-27 00:12"
         },
         {
           "sourceName": "David Ornstein 검색 모니터",
@@ -1613,9 +2064,47 @@
           "sourceTier": "medium",
           "headlineTitle": "Sunderland make loan offer for Manchester City’s Jack Grealish - The New York Times",
           "publishedAt": "2026-08-27 00:08"
+        },
+        {
+          "sourceName": "David Ornstein Bluesky",
+          "sourceUrl": "https://bsky.app/profile/david-ornstein.bsky.social/post/3mtym2cebp22w",
+          "sourceTier": "medium",
+          "headlineTitle": "🚨 EXCL: Sunderland submit offer to sign Jack Grealish from Manchester City. Bid for 30yo winger loan with #MCFC covering part of salary + potential to become permanent next summer when contract ends. #SAFC pursuing Igor Paixao in parallel 🚨 @theathleticfc.bsky.social www.nytimes.com/athletic/737...",
+          "publishedAt": "2026-08-27 00:02"
         }
       ],
       "sourceCount": 3
+    },
+    {
+      "id": "draft:https://news.google.com/rss/articles/CBMiekFVX3lxTE1UclVYbGlINWtMN0poZUZsN0U2S0kyN1R0b2ZoVHpFRWJ4X0lMLW5DZDdCOFpIU3cyeThadkF1VGM1WWRrX0ZvNWhMblBIR1JKX2ZXNXdKQUZteFl0eHNsOWE2Nkg1ZUJCZjVmLUxxcmJFdlBlRTI3Y3dn?oc=5",
+      "player": "Igor Tyjon",
+      "fromTeam": "소속팀 확인 중",
+      "toTeam": "미상",
+      "league": "미분류",
+      "status": "확인 필요",
+      "fee": "미정",
+      "sourceKey": "official-arsenal-monitor",
+      "sourceTier": "high",
+      "sourceName": "Arsenal official-site monitor",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1UclVYbGlINWtMN0poZUZsN0U2S0kyN1R0b2ZoVHpFRWJ4X0lMLW5DZDdCOFpIU3cyeThadkF1VGM1WWRrX0ZvNWhMblBIR1JKX2ZXNXdKQUZteFl0eHNsOWE2Nkg1ZUJCZjVmLUxxcmJFdlBlRTI3Y3dn?oc=5",
+      "sourceType": "자동 추출 초안",
+      "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
+      "publishedAt": "2026-08-29 00:08",
+      "lastVerifiedAt": "2026-08-30 01:30",
+      "extractionConfidence": "low",
+      "extractionPattern": "fallback-unparsed-transfer-headline",
+      "needsVerification": true,
+      "headlineTitle": "Igor Tyjon signs for Arsenal - Arsenal.com",
+      "sourceLinks": [
+        {
+          "sourceName": "Arsenal official-site monitor",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1UclVYbGlINWtMN0poZUZsN0U2S0kyN1R0b2ZoVHpFRWJ4X0lMLW5DZDdCOFpIU3cyeThadkF1VGM1WWRrX0ZvNWhMblBIR1JKX2ZXNXdKQUZteFl0eHNsOWE2Nkg1ZUJCZjVmLUxxcmJFdlBlRTI3Y3dn?oc=5",
+          "sourceTier": "high",
+          "headlineTitle": "Igor Tyjon signs for Arsenal - Arsenal.com",
+          "publishedAt": "2026-08-29 00:08"
+        }
+      ],
+      "sourceCount": 1
     },
     {
       "id": "draft:https://news.google.com/rss/articles/CBMirgFBVV95cUxQVVNPanNNQ091angwVl9TTmJnWXJTQ2I2NnMtbTE5OF9qQlVacEI4dVZfX0FsSGVjV3RrWE4wSkh1OThTQ2lHbEYzZ0JDbDRLWVlLNEk3X3ZTUzlRY0VvQm9UNndKRklOaERNT3JSdE1DZDlkaWtKMkJJWEhadnh0V2ROQUs1cWxyWEFZNGtzS3RVdUpCNjI3aEpGek5mWDVncDEzeGsxOFpJVTd4LWc?oc=5",
@@ -1643,7 +2132,38 @@
           "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVVNPanNNQ091angwVl9TTmJnWXJTQ2I2NnMtbTE5OF9qQlVacEI4dVZfX0FsSGVjV3RrWE4wSkh1OThTQ2lHbEYzZ0JDbDRLWVlLNEk3X3ZTUzlRY0VvQm9UNndKRklOaERNT3JSdE1DZDlkaWtKMkJJWEhadnh0V2ROQUs1cWxyWEFZNGtzS3RVdUpCNjI3aEpGek5mWDVncDEzeGsxOFpJVTd4LWc?oc=5",
           "sourceTier": "high",
           "headlineTitle": "Felipe Chávez joins 1. FC Magdeburg on loan - FC Bayern",
-          "publishedAt": "2026-08-26 10:30"
+          "publishedAt": "2026-08-26 19:30"
+        }
+      ],
+      "sourceCount": 1
+    },
+    {
+      "id": "draft:https://www.bbc.co.uk/sport/football/articles/ckgw294pyl9o?at_medium=RSS&at_campaign=rss",
+      "player": "Kevin Kelsy",
+      "fromTeam": "소속팀 확인 중",
+      "toTeam": "Rangers",
+      "league": "미분류",
+      "status": "확인 필요",
+      "fee": "미정",
+      "sourceKey": "bbc-sport",
+      "sourceTier": "medium",
+      "sourceName": "BBC Sport",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/ckgw294pyl9o?at_medium=RSS&at_campaign=rss",
+      "sourceType": "자동 추출 초안",
+      "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
+      "publishedAt": "2026-08-27 15:46",
+      "lastVerifiedAt": "2026-08-27 22:35",
+      "extractionConfidence": "low",
+      "extractionPattern": "rangers-kelsy-review",
+      "needsVerification": true,
+      "headlineTitle": "Rangers agree deal for Venezuela striker Kelsy - gossip",
+      "sourceLinks": [
+        {
+          "sourceName": "BBC Sport",
+          "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/ckgw294pyl9o?at_medium=RSS&at_campaign=rss",
+          "sourceTier": "medium",
+          "headlineTitle": "Rangers agree deal for Venezuela striker Kelsy - gossip",
+          "publishedAt": "2026-08-27 15:46"
         }
       ],
       "sourceCount": 1
