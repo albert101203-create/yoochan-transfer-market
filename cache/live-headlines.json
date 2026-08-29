@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-29T18:04:47.589Z",
+  "fetchedAt": "2026-08-29T18:13:23.872Z",
   "itemCount": 120,
   "items": [
     {
@@ -123,6 +123,16 @@
       "status": "업데이트"
     },
     {
+      "id": "https://www.skysports.com/football/live-blog/11743/13279286/bournemouth-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "title": "Bournemouth transfers, latest news, rumours and gossip: Live updates, goals and highlights",
+      "url": "https://www.skysports.com/football/live-blog/11743/13279286/bournemouth-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "publishedAt": "2026-08-29T18:00:00.000Z",
+      "summary": "Sky Sports football sitemap에서 가져온 실시간 헤드라인입니다.",
+      "sourceKey": "sky-sports",
+      "sourceName": "Sky Sports",
+      "status": "루머"
+    },
+    {
       "id": "https://www.skysports.com/football/live-blog/11710/13541482/coventry-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
       "title": "Coventry transfers, latest news, rumours and gossip: Live updates, goals and highlights",
       "url": "https://www.skysports.com/football/live-blog/11710/13541482/coventry-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
@@ -163,16 +173,6 @@
       "status": "루머"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQjVhNzA0akJXMUdmU2plOXBpUDl4aUxZMDBFeU1OLUFSZFo5ZGxrRTEwdUtCNnlwTVpUbnFnOVoyZEVUVC0xWFZ2MHlwcGxBWEw0cUFOTi1fMWMxdjNEb2NHOTFxNjU0dkNtUzFncFBJZmhmTEIyR0lEazl5SnFDaTJB?oc=5",
-      "title": "'Almost Guaranteed' - Fabrizio Romano Shares Double Man Utd Transfer Update - GiveMeSport",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQjVhNzA0akJXMUdmU2plOXBpUDl4aUxZMDBFeU1OLUFSZFo5ZGxrRTEwdUtCNnlwTVpUbnFnOVoyZEVUVC0xWFZ2MHlwcGxBWEw0cUFOTi1fMWMxdjNEb2NHOTFxNjU0dkNtUzFncFBJZmhmTEIyR0lEazl5SnFDaTJB?oc=5",
-      "publishedAt": "2026-08-29T17:15:12.000Z",
-      "summary": "'Almost Guaranteed' - Fabrizio Romano Shares Double Man Utd Transfer Update &nbsp;&nbsp; GiveMeSport",
-      "sourceKey": "romano-monitor",
-      "sourceName": "Fabrizio Romano 검색 모니터",
-      "status": "업데이트"
-    },
-    {
       "id": "https://www.skysports.com/football/live-blog/11727/13279316/nottingham-forest-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
       "title": "Nottingham Forest transfers, latest news, rumours and gossip: Live updates, goals and highlights",
       "url": "https://www.skysports.com/football/live-blog/11727/13279316/nottingham-forest-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
@@ -181,6 +181,16 @@
       "sourceKey": "sky-sports",
       "sourceName": "Sky Sports",
       "status": "루머"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hWlUtOHdfRXA4R2tsVlhIZFdkUEM1bUNZaUkySE8xS1JDaW5zU252MzBlQmdoNkNGYUdWTUZqT3R2QU5CT1poUTg5N205b3MyMnc?oc=5",
+      "title": "🚨🚨🌕| 𝐁𝐑𝐄𝐀𝐊𝐈𝐍𝐆: Julian Alvarez spoke with Mikel Arteta and told him that he DOES NOT WANT TO JOIN ARSENAL. There’s a low chance that Julián Álvarez will go to Arsenal because he’s had his heart set on Barcelona. [@tntsportsfootball] 🔵🔴⚡️ - instagram.com",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9hWlUtOHdfRXA4R2tsVlhIZFdkUEM1bUNZaUkySE8xS1JDaW5zU252MzBlQmdoNkNGYUdWTUZqT3R2QU5CT1poUTg5N205b3MyMnc?oc=5",
+      "publishedAt": "2026-08-29T17:00:28.000Z",
+      "summary": "🚨🚨🌕| 𝐁𝐑𝐄𝐀𝐊𝐈𝐍𝐆: Julian Alvarez spoke with Mikel Arteta and told him that he DOES NOT WANT TO JOIN ARSENAL. There’s a low chance that Julián Álvarez will go to Arsenal because he’s had his heart set on Barcelona. [@tntsportsfootball] 🔵🔴⚡️ &nbsp;&nbsp; instagram.com",
+      "sourceKey": "instagram-indirect-monitor",
+      "sourceName": "Instagram 간접 검색 모니터",
+      "status": "완료"
     },
     {
       "id": "https://www.skysports.com/football/live-blog/11714/13548674/hull-city-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
@@ -314,10 +324,10 @@
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5BTHM5bUlxdk1ud1pBcDN4TGoxN0szQmEyZXo0anNkV2RyeFZ3VzhHeHhRc2hWSTgxV0NxOExiTHFvOHpWOVhTbjliYkFzb3hHRTQ0dG0wZHJHU3ZVR3k2c1JuWWxyU01oY2c?oc=5",
-      "title": "Daniel Munoz: Nottingham Forest in advanced talks to sign Crystal Palace defender - BBC",
+      "title": "Daniel Munoz: Nottingham Forest agree deal to sign Crystal Palace defender - BBC",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5BTHM5bUlxdk1ud1pBcDN4TGoxN0szQmEyZXo0anNkV2RyeFZ3VzhHeHhRc2hWSTgxV0NxOExiTHFvOHpWOVhTbjliYkFzb3hHRTQ0dG0wZHJHU3ZVR3k2c1JuWWxyU01oY2c?oc=5",
       "publishedAt": "2026-08-29T15:03:58.000Z",
-      "summary": "Daniel Munoz: Nottingham Forest in advanced talks to sign Crystal Palace defender &nbsp;&nbsp; BBC",
+      "summary": "Daniel Munoz: Nottingham Forest agree deal to sign Crystal Palace defender &nbsp;&nbsp; BBC",
       "sourceKey": "sami-mokbel-monitor",
       "sourceName": "Sami Mokbel monitor",
       "status": "업데이트"
@@ -373,6 +383,16 @@
       "status": "업데이트"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPXzRHWU9BRllidEtJY3otUzBhcXpUbkFVQnNLTFBsM2FjX09wejdPa2ExUW41UWE0Ym1OREFrN1czZUJ1MEc2QlRfTTcydFpKbVlJRHRsYzdCUXpTTXBzSk1VRWZfck5CUmlycjVJTnRmcW4wV2xjMWZWNF9Td3dhVk04LUN6b3RnUGUxNw?oc=5",
+      "title": "Chelsea reach agreement for £40m Honest Ahanor transfer from Atalanta - The Athletic - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPXzRHWU9BRllidEtJY3otUzBhcXpUbkFVQnNLTFBsM2FjX09wejdPa2ExUW41UWE0Ym1OREFrN1czZUJ1MEc2QlRfTTcydFpKbVlJRHRsYzdCUXpTTXBzSk1VRWZfck5CUmlycjVJTnRmcW4wV2xjMWZWNF9Td3dhVk04LUN6b3RnUGUxNw?oc=5",
+      "publishedAt": "2026-08-29T13:23:00.000Z",
+      "summary": "Chelsea reach agreement for £40m Honest Ahanor transfer from Atalanta - The Athletic &nbsp;&nbsp; The New York Times",
+      "sourceKey": "ornstein-monitor",
+      "sourceName": "David Ornstein 검색 모니터",
+      "status": "업데이트"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUDFueXNzQzFOZTBtQ3J1SlI0c2dGTzRpcGZHc1dCYlhYSnBQX2JwRm92bi0zZV8tNHl3c25XMnI3UTl6eHFyd09hXzQzclYzbERFZXgya2tGcDJKOGlFZTNCdnBROXB5RVFwQkFKalJHNWxxQXlmXzlyVUU0c1RNMWNGU3JtWHBKXzR2TG5FNkJNekFUaFBXUg?oc=5",
       "title": "Manchester United’s Toby Collyer joining West Brom in transfer worth initial £3m - The Athletic - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUDFueXNzQzFOZTBtQ3J1SlI0c2dGTzRpcGZHc1dCYlhYSnBQX2JwRm92bi0zZV8tNHl3c25XMnI3UTl6eHFyd09hXzQzclYzbERFZXgya2tGcDJKOGlFZTNCdnBROXB5RVFwQkFKalJHNWxxQXlmXzlyVUU0c1RNMWNGU3JtWHBKXzR2TG5FNkJNekFUaFBXUg?oc=5",
@@ -381,6 +401,16 @@
       "sourceKey": "laurie-whitwell-monitor",
       "sourceName": "Laurie Whitwell monitor",
       "status": "완료"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUmNTVmkzWFJlRWlDX01JY3BFWEt5V2tZbG4tSW5yTnFMcnJ2V1lYUXVOZFhEUE85ZzdadVZ1SlZ2a29ZQ0tpVTlieHcxdXdwakFZQTZ6REJyM0tfRmp5ZExnZmpZazZuTXFoc3dDRS1oVUpUVUZibFpBSHphWjZnTnNvWnJwM1hQLUpwa3pzNGlPZGRsNy1fbGp0dzNLUQ?oc=5",
+      "title": "Aston Villa agree £65m transfer of Nicolas Jackson from Chelsea - The Athletic - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUmNTVmkzWFJlRWlDX01JY3BFWEt5V2tZbG4tSW5yTnFMcnJ2V1lYUXVOZFhEUE85ZzdadVZ1SlZ2a29ZQ0tpVTlieHcxdXdwakFZQTZ6REJyM0tfRmp5ZExnZmpZazZuTXFoc3dDRS1oVUpUVUZibFpBSHphWjZnTnNvWnJwM1hQLUpwa3pzNGlPZGRsNy1fbGp0dzNLUQ?oc=5",
+      "publishedAt": "2026-08-29T13:22:00.000Z",
+      "summary": "Aston Villa agree £65m transfer of Nicolas Jackson from Chelsea - The Athletic &nbsp;&nbsp; The New York Times",
+      "sourceKey": "ornstein-monitor",
+      "sourceName": "David Ornstein 검색 모니터",
+      "status": "업데이트"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ3B3WkNXUFNfbF9BVmxVdWUxYVp5WUpqQVRYZzZnVUFzcVZraHNPajhvZ0RTUmFkV3FXT3VrTnp5dmI0WV9USDNCOHFKVnJGQUdETWplOWI3LVBjT3RSUG0wVWZHUFNYcm9qYmJPVHNkejNVMVROZGpUREkxdEY0MDBJa3IwaWxpX1FoX0tqTzJMYkNIWWs3NnBLWURUUm9sWVltX0I3UU9pdEdUdzVfVFp3?oc=5",
@@ -540,16 +570,6 @@
       "summary": "“I started to hear about that before the market even opened.” 🤯 David Ornstein reveals when he first heard about Ezri Konsa’s move to Arsenal. &nbsp;&nbsp; instagram.com",
       "sourceKey": "instagram-indirect-monitor",
       "sourceName": "Instagram 간접 검색 모니터",
-      "status": "업데이트"
-    },
-    {
-      "id": "https://www.bbc.co.uk/sport/football/articles/c07lgg84jdmo?at_medium=RSS&at_campaign=rss",
-      "title": "Fulham in talks for Rayo Vallecano defender Ratiu",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c07lgg84jdmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-29T10:31:12.000Z",
-      "summary": "Fulham are in talks to sign Romania defender Andrei Ratiu, 28, from Rayo Vallecano.",
-      "sourceKey": "bbc-sport",
-      "sourceName": "BBC Sport",
       "status": "업데이트"
     },
     {
@@ -723,16 +743,6 @@
       "status": "업데이트"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOc28zWmVsVWx4OGlqVTZDZUdpbHFXS0JUVWJyQUZjNHBmU3cweC1ub1BuaG1BUTV4WXpqdGdJVk1VYWNVU2M0ZFh2cnQ0dEE5NGhNTkdYRXZpN1FibHJ1djd2bndLdHhQaVF1NUE3NHZMZlFxb0s3cVdud2hqcVQ2S1BRaGIwZ19fOU5qYU9jaklnWWY0bjdQVUNHaHQtaS13?oc=5",
-      "title": "Bradley Barcola to have Liverpool medical in next 24 hours - The Times",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOc28zWmVsVWx4OGlqVTZDZUdpbHFXS0JUVWJyQUZjNHBmU3cweC1ub1BuaG1BUTV4WXpqdGdJVk1VYWNVU2M0ZFh2cnQ0dEE5NGhNTkdYRXZpN1FibHJ1djd2bndLdHhQaVF1NUE3NHZMZlFxb0s3cVdud2hqcVQ2S1BRaGIwZ19fOU5qYU9jaklnWWY0bjdQVUNHaHQtaS13?oc=5",
-      "publishedAt": "2026-08-29T07:39:27.000Z",
-      "summary": "Bradley Barcola to have Liverpool medical in next 24 hours &nbsp;&nbsp; The Times",
-      "sourceKey": "paul-joyce-monitor",
-      "sourceName": "Paul Joyce monitor",
-      "status": "업데이트"
-    },
-    {
       "id": "https://www.skysports.com/football/news/11669/13578446/bradley-barcola-set-to-sign-liverpool-contract-to-2031-after-psg-agree-transfer-worth-up-to-123m",
       "title": "Bradley Barcola set to sign Liverpool contract to 2031 after PSG agree transfer worth up to &#163;123m",
       "url": "https://www.skysports.com/football/news/11669/13578446/bradley-barcola-set-to-sign-liverpool-contract-to-2031-after-psg-agree-transfer-worth-up-to-123m",
@@ -824,10 +834,10 @@
     },
     {
       "id": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUEdMX1hkNGxoMkxHNGpWLVVyM2NYRjNJNzIyeC10Vk1lQk82bWt4VmFTYUpIbUFZWnNoV1lpMUVmcUgwR1JXbDFjN2hKcWZTT2VpdWtJdy1xUjZwd2pmT2NCblNkRWRfMENGa0hKYW1KajVETFdmNzViNWpPaFp1TW5oMmVIMFZqLXZ5VUJaajnSAZYBQVVfeXFMTmFWR3pDLWJxa21pa0FENHBmU3JTMnNTZTV6RUg4WUdmY2djNTA3My1ydGNRaGNlSjJiVG1QZ01xbi0yZ2prelowQ05rRUlkeTJXSlVmQTR0SU9uUGpPNC1yckN2aEhJOUc2ODh1RHh1eDY1M281b1VMWFdTX2VRdjZQWDN6SnRocDRzSU9Lb0g4ZVJEU1J3?oc=5",
-      "title": "Man Utd news: Left-back transfer priority switches as Chelsea star offered - Mirror",
+      "title": "Man Utd news: Left-back transfer priority switches as Chelsea star offered - Daily Mirror",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUEdMX1hkNGxoMkxHNGpWLVVyM2NYRjNJNzIyeC10Vk1lQk82bWt4VmFTYUpIbUFZWnNoV1lpMUVmcUgwR1JXbDFjN2hKcWZTT2VpdWtJdy1xUjZwd2pmT2NCblNkRWRfMENGa0hKYW1KajVETFdmNzViNWpPaFp1TW5oMmVIMFZqLXZ5VUJaajnSAZYBQVVfeXFMTmFWR3pDLWJxa21pa0FENHBmU3JTMnNTZTV6RUg4WUdmY2djNTA3My1ydGNRaGNlSjJiVG1QZ01xbi0yZ2prelowQ05rRUlkeTJXSlVmQTR0SU9uUGpPNC1yckN2aEhJOUc2ODh1RHh1eDY1M281b1VMWFdTX2VRdjZQWDN6SnRocDRzSU9Lb0g4ZVJEU1J3?oc=5",
       "publishedAt": "2026-08-29T03:30:00.000Z",
-      "summary": "Man Utd news: Left-back transfer priority switches as Chelsea star offered &nbsp;&nbsp; Mirror",
+      "summary": "Man Utd news: Left-back transfer priority switches as Chelsea star offered &nbsp;&nbsp; Daily Mirror",
       "sourceKey": "romano-monitor",
       "sourceName": "Fabrizio Romano 검색 모니터",
       "status": "업데이트"
@@ -1191,28 +1201,18 @@
       "sourceKey": "tottenham-football-london-monitor",
       "sourceName": "Football.London Tottenham monitor",
       "status": "업데이트"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTDgtb0FXOGhoVE9NVFpRcXZwQlo4SXhvdXB2SWRtNXJjV3c2cWM0X3dGbmpNRE1HbG5VNmFTeFVVVW1GTmhQdFh0Vmh0Ny04OWZBdnN0M2xLcjZYeWs5MHlteHp1d3pkZUZfblhaWi1xNklKX2U0YUpJS1NwcUtHenIxbkNCdlMzbnoxMEtPQmo?oc=5",
-      "title": "Arsenal Facing Painful Blow as Martinelli Transfer Takes Major Turn - Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTDgtb0FXOGhoVE9NVFpRcXZwQlo4SXhvdXB2SWRtNXJjV3c2cWM0X3dGbmpNRE1HbG5VNmFTeFVVVW1GTmhQdFh0Vmh0Ny04OWZBdnN0M2xLcjZYeWs5MHlteHp1d3pkZUZfblhaWi1xNklKX2U0YUpJS1NwcUtHenIxbkNCdlMzbnoxMEtPQmo?oc=5",
-      "publishedAt": "2026-08-28T14:19:02.000Z",
-      "summary": "Arsenal Facing Painful Blow as Martinelli Transfer Takes Major Turn &nbsp;&nbsp; Yahoo Sports",
-      "sourceKey": "romano-monitor",
-      "sourceName": "Fabrizio Romano 검색 모니터",
-      "status": "업데이트"
     }
   ],
   "sourceHealth": [
     {
       "source": "BBC Sport RSS",
       "ok": true,
-      "count": 14
+      "count": 13
     },
     {
       "source": "Sky Sports sitemap",
       "ok": true,
-      "count": 25
+      "count": 26
     },
     {
       "source": "ESPN FC page",
@@ -1237,12 +1237,12 @@
     {
       "source": "The Athletic Google News",
       "ok": true,
-      "count": 17
+      "count": 18
     },
     {
       "source": "Gianluca Di Marzio Google News",
       "ok": true,
-      "count": 68
+      "count": 66
     },
     {
       "source": "Matteo Moretto Google News",
@@ -1262,12 +1262,12 @@
     {
       "source": "Kaveh Solhekol Google News",
       "ok": true,
-      "count": 29
+      "count": 30
     },
     {
       "source": "Santi Aouna Google News",
       "ok": true,
-      "count": 62
+      "count": 61
     },
     {
       "source": "Tom Barclay Google News",
@@ -1277,12 +1277,12 @@
     {
       "source": "Sami Mokbel Google News",
       "ok": true,
-      "count": 63
+      "count": 61
     },
     {
       "source": "Mike McGrath Google News",
       "ok": true,
-      "count": 39
+      "count": 41
     },
     {
       "source": "James Pearce Google News",
@@ -1292,12 +1292,12 @@
     {
       "source": "Laurie Whitwell Google News",
       "ok": true,
-      "count": 42
+      "count": 41
     },
     {
       "source": "Simon Stone Google News",
       "ok": true,
-      "count": 47
+      "count": 46
     },
     {
       "source": "Rob Dawson Google News",
@@ -1312,17 +1312,17 @@
     {
       "source": "David Hytner Google News",
       "ok": true,
-      "count": 33
+      "count": 32
     },
     {
       "source": "Paul Joyce Google News",
       "ok": true,
-      "count": 54
+      "count": 48
     },
     {
       "source": "Fabrice Hawkins Google News",
       "ok": true,
-      "count": 42
+      "count": 41
     },
     {
       "source": "Miguel Delaney Google News",
@@ -1337,7 +1337,7 @@
     {
       "source": "Fabrizio Romano Instagram mentions",
       "ok": true,
-      "count": 4
+      "count": 5
     },
     {
       "source": "Florian Plettenberg Instagram mentions",
@@ -1347,12 +1347,12 @@
     {
       "source": "David Ornstein Instagram mentions",
       "ok": true,
-      "count": 84
+      "count": 86
     },
     {
       "source": "Matteo Moretto Instagram mentions",
       "ok": true,
-      "count": 79
+      "count": 78
     },
     {
       "source": "Santi Aouna Instagram mentions",
@@ -1402,7 +1402,7 @@
     {
       "source": "Tottenham official-site monitor",
       "ok": true,
-      "count": 85
+      "count": 84
     },
     {
       "source": "Tottenham reporters Google News",
@@ -1417,7 +1417,7 @@
     {
       "source": "Charlie Eccleshare Tottenham monitor",
       "ok": true,
-      "count": 26
+      "count": 8
     },
     {
       "source": "Jack Pitt-Brooke Tottenham monitor",
@@ -1437,7 +1437,7 @@
     {
       "source": "The Standard Tottenham monitor",
       "ok": true,
-      "count": 89
+      "count": 87
     },
     {
       "source": "The Athletic Tottenham monitor",
