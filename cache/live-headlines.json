@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-30T18:08:20.907Z",
+  "fetchedAt": "2026-08-30T18:17:06.216Z",
   "itemCount": 120,
   "items": [
     {
@@ -463,16 +463,6 @@
       "status": "루머"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSVhsTEZpanFsSnRjSHdKdWVmSHBqNW1YQTFYU0REX0hDSmNfTGZiSWhPeEVPbHdXMXRjRjRwb1NjemtKRUJKN2dUWHNPcU1OZ3VsZ0R1QjBHUmRHbXlfUkh6c244eUtDaURIVVRYY2NPazc4ZWM1Tm1SLW9BaVJ2czV6bE55RXM5UkhyeTVOUlpSUQ?oc=5",
-      "title": "Barcelona Agree Deal To Sign Gabriel Jesus From Arsenal For €10m - TVC News",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSVhsTEZpanFsSnRjSHdKdWVmSHBqNW1YQTFYU0REX0hDSmNfTGZiSWhPeEVPbHdXMXRjRjRwb1NjemtKRUJKN2dUWHNPcU1OZ3VsZ0R1QjBHUmRHbXlfUkh6c244eUtDaURIVVRYY2NPazc4ZWM1Tm1SLW9BaVJ2czV6bE55RXM5UkhyeTVOUlpSUQ?oc=5",
-      "publishedAt": "2026-08-30T13:30:00.000Z",
-      "summary": "Barcelona Agree Deal To Sign Gabriel Jesus From Arsenal For €10m &nbsp;&nbsp; TVC News",
-      "sourceKey": "romano-monitor",
-      "sourceName": "Fabrizio Romano 검색 모니터",
-      "status": "업데이트"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORHo2QVl3RU5XNVY5T05vaEt1XzVBV1BicV92VnFmMWRJUEt3RGVzR2ZPX1gwTFIyQmR1YXlwdXc3VDBhMl94ak1rNXJFYjZpajBNNFJVam9fZ3c5MW14N3ltZG1KS2pCb1NyWFlDQWwwNTRtejRoak5URFBLSUFNam1nRnN6ZmlMN0lWbXhpSVJ6Y3FUZjZ5S3cycjY4c1dXdm1fSmZ6TWphQQ?oc=5",
       "title": "Fabrizio Romano delivers shock Gabriel Jesus 'here we go' as Arsenal agree sale - Pain in the Arsenal",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORHo2QVl3RU5XNVY5T05vaEt1XzVBV1BicV92VnFmMWRJUEt3RGVzR2ZPX1gwTFIyQmR1YXlwdXc3VDBhMl94ak1rNXJFYjZpajBNNFJVam9fZ3c5MW14N3ltZG1KS2pCb1NyWFlDQWwwNTRtejRoak5URFBLSUFNam1nRnN6ZmlMN0lWbXhpSVJ6Y3FUZjZ5S3cycjY4c1dXdm1fSmZ6TWphQQ?oc=5",
@@ -491,6 +481,16 @@
       "sourceKey": "laurie-whitwell-monitor",
       "sourceName": "Laurie Whitwell monitor",
       "status": "업데이트"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYVRRdnkxNTA2XzIzaEk3UllHMjEwcUxjMnlPbW5LQmlxZEkyMFBoaExZY3F0RE0zTHpNRG5EdUJaRFZzbTlRdEk0VGlwUXdDbEU5d3hPYU80MUFHbUx6R3g4V3dTMER1NVFOSzNKSHhyMXJUOThZT3E3cUJQMW8wQw?oc=5",
+      "title": "Habeeb Ogunneye signs for Arsenal - Arsenal.com",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYVRRdnkxNTA2XzIzaEk3UllHMjEwcUxjMnlPbW5LQmlxZEkyMFBoaExZY3F0RE0zTHpNRG5EdUJaRFZzbTlRdEk0VGlwUXdDbEU5d3hPYU80MUFHbUx6R3g4V3dTMER1NVFOSzNKSHhyMXJUOThZT3E3cUJQMW8wQw?oc=5",
+      "publishedAt": "2026-08-30T13:05:39.000Z",
+      "summary": "Habeeb Ogunneye signs for Arsenal &nbsp;&nbsp; Arsenal.com",
+      "sourceKey": "official-arsenal-monitor",
+      "sourceName": "Arsenal official-site monitor",
+      "status": "완료"
     },
     {
       "id": "https://www.skysports.com/football/news/33694/13579053/arsenal-agree-55-7m-club-record-gabriel-martinelli-sale-to-al-hilal-with-deal-also-agreed-in-principle-with-barcelona-for-gabriel-jesus",
@@ -591,16 +591,6 @@
       "sourceKey": "bbc-sport",
       "sourceName": "BBC Sport",
       "status": "업데이트"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTXN6NWI2alotdXBCVXVpSVp6bE9sV2xfTS1wS3RaaXRxTHZoRmM3Z2YxbVpHdlZ0WmxKU0Njdy01MHFHWFRnRkJDYnFiR2N1T19ieG5pemZnSEFUOFpyU3ZNSUpJdGs0ODhlUVdCYTVlXzgybmQyOW93a3FmcnBUM1VrX3FzaWNI0gGOAUFVX3lxTE1zRVdRWnRRN0xnbzZGd1p0d0E5dzJ6NnNuQU5nU2lMSjc0bHNUU3FEX2VkRW1wdHNXMTRVNVVRd1VwamZLbHZxXzFRdEZoRldwYXVSbE9udjVjQXlCdkV4WlJmR3BraDVYTy00dkRiWk1HUEZ3WlRjNVBqT3pwV1pLZXdOTXY2WFRDaW5KVHc?oc=5",
-      "title": "Virgil van Dijk’s message to Liverpool chiefs over Cody Gakpo transfer could not be any clearer - The Empire of The Kop",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTXN6NWI2alotdXBCVXVpSVp6bE9sV2xfTS1wS3RaaXRxTHZoRmM3Z2YxbVpHdlZ0WmxKU0Njdy01MHFHWFRnRkJDYnFiR2N1T19ieG5pemZnSEFUOFpyU3ZNSUpJdGs0ODhlUVdCYTVlXzgybmQyOW93a3FmcnBUM1VrX3FzaWNI0gGOAUFVX3lxTE1zRVdRWnRRN0xnbzZGd1p0d0E5dzJ6NnNuQU5nU2lMSjc0bHNUU3FEX2VkRW1wdHNXMTRVNVVRd1VwamZLbHZxXzFRdEZoRldwYXVSbE9udjVjQXlCdkV4WlJmR3BraDVYTy00dkRiWk1HUEZ3WlRjNVBqT3pwV1pLZXdOTXY2WFRDaW5KVHc?oc=5",
-      "publishedAt": "2026-08-30T11:45:31.000Z",
-      "summary": "Virgil van Dijk’s message to Liverpool chiefs over Cody Gakpo transfer could not be any clearer &nbsp;&nbsp; The Empire of The Kop",
-      "sourceKey": "romano-monitor",
-      "sourceName": "Fabrizio Romano 검색 모니터",
-      "status": "루머"
     },
     {
       "id": "https://www.skysports.com/football/live-blog/11710/13541482/coventry-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
@@ -730,16 +720,6 @@
       "summary": "Tottenham reach agreement to sign Iliman Ndiaye with Richarlison heading back to Everton &nbsp;&nbsp; The New York Times",
       "sourceKey": "ornstein-monitor",
       "sourceName": "David Ornstein 검색 모니터",
-      "status": "업데이트"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1qN1Z4eTdyVG5mSl9ST0dyYS01Uk5wUnF2QlZrZmV4V0Itdjhzc2NHcjlHYS0tcHUyMXoxRUdrRmVHbmJvTFpjcGpTVkxPWHNjUk1YMXVOdXZSbDlfUXNEOGhRSHV4MTFVT1NFQ1kwdWhtWGs?oc=5",
-      "title": "Midday transfer round-up 💰 - OneFootball",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1qN1Z4eTdyVG5mSl9ST0dyYS01Uk5wUnF2QlZrZmV4V0Itdjhzc2NHcjlHYS0tcHUyMXoxRUdrRmVHbmJvTFpjcGpTVkxPWHNjUk1YMXVOdXZSbDlfUXNEOGhRSHV4MTFVT1NFQ1kwdWhtWGs?oc=5",
-      "publishedAt": "2026-08-30T10:18:36.000Z",
-      "summary": "Midday transfer round-up 💰 &nbsp;&nbsp; OneFootball",
-      "sourceKey": "romano-monitor",
-      "sourceName": "Fabrizio Romano 검색 모니터",
       "status": "업데이트"
     },
     {
@@ -933,6 +913,16 @@
       "status": "업데이트"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSG5hakFWMEVIRkp0d1FaWWR5RWNGMUQteFJHbkwxLU9GeUhhSU03aUY3ZUlWRGUwRVdENTFBSG5DRW5jR2g2VWJnd1RCVlZ3MTRMc3A1bXU0YVFySEFRUlRTMG5QT3EwY3lxSU9ZXzc3MDRBOURuMUVGZEpGX09kV1prWGRKQmNyWW1UMXRSb2lfSXAt?oc=5",
+      "title": "'For Sure' - Romano Issues Newcastle United Transfer Update Ahead of Deadline - GiveMeSport",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSG5hakFWMEVIRkp0d1FaWWR5RWNGMUQteFJHbkwxLU9GeUhhSU03aUY3ZUlWRGUwRVdENTFBSG5DRW5jR2g2VWJnd1RCVlZ3MTRMc3A1bXU0YVFySEFRUlRTMG5QT3EwY3lxSU9ZXzc3MDRBOURuMUVGZEpGX09kV1prWGRKQmNyWW1UMXRSb2lfSXAt?oc=5",
+      "publishedAt": "2026-08-30T06:15:12.000Z",
+      "summary": "'For Sure' - Romano Issues Newcastle United Transfer Update Ahead of Deadline &nbsp;&nbsp; GiveMeSport",
+      "sourceKey": "romano-monitor",
+      "sourceName": "Fabrizio Romano 검색 모니터",
+      "status": "업데이트"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObEI3SjJiSXVVeU9RN1Q1WEgtVDNMeUJCVkxaZnhIMks5NUlneEJlLVRIQXJWTk0taVdaTmVhWE5OTWtMOS1ZYmhNT2R1OFZDbEQ0eEJ4YkRNSWIxZTlNZkZFQWxVTXp3aFlWeW9WcFJDdkZQQ3RmZXNGSU1xTTBJQ29fY050TmJVdmMtQ2Jpa1hMUTZwczhKSVZ5cW9xR3N30gGmAUFVX3lxTFBhWWg1T1RwRzBCTl9Ccm5rSTN5d0NxRWFsTGprNGRQcTVyX1VDSW5VVGhZUTRxU2dLeHZSTGlsUWVMUmRISXR1aXBmZEFYVkpFVFpfbzBtVWctRjBfdlBiTnVzdF85OUxmNVM2ekRYSnlaZHNwMmJ6ZV9URHFXZ0h0UXpRX3I3M2pOSEJqNFp6YXFSempZZTVWZXUxdEZFdFFTVFdteUE?oc=5",
       "title": "Six players who could leave Tottenham after Roberto De Zerbi makes 'crazy' transfer admission - Football London",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObEI3SjJiSXVVeU9RN1Q1WEgtVDNMeUJCVkxaZnhIMks5NUlneEJlLVRIQXJWTk0taVdaTmVhWE5OTWtMOS1ZYmhNT2R1OFZDbEQ0eEJ4YkRNSWIxZTlNZkZFQWxVTXp3aFlWeW9WcFJDdkZQQ3RmZXNGSU1xTTBJQ29fY050TmJVdmMtQ2Jpa1hMUTZwczhKSVZ5cW9xR3N30gGmAUFVX3lxTFBhWWg1T1RwRzBCTl9Ccm5rSTN5d0NxRWFsTGprNGRQcTVyX1VDSW5VVGhZUTRxU2dLeHZSTGlsUWVMUmRISXR1aXBmZEFYVkpFVFpfbzBtVWctRjBfdlBiTnVzdF85OUxmNVM2ekRYSnlaZHNwMmJ6ZV9URHFXZ0h0UXpRX3I3M2pOSEJqNFp6YXFSempZZTVWZXUxdEZFdFFTVFdteUE?oc=5",
@@ -941,16 +931,6 @@
       "sourceKey": "tottenham-football-london-monitor",
       "sourceName": "Football.London Tottenham monitor",
       "status": "루머"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdjUzSmJnZXh5YVV2Z0dCYTg3dW9kb1BTczEwNnNyOGc0eUpleXRCbFRuZ295bzk4bWw4OGhPcXhhOU1CWE4xVjBIOE1ranR4SGtSc005V3VwQU1fVktsb0E4eDdKaFFjNElEanE1RUlkREhab3pKNXh1aEJWaUhRVXIxMjkxMWw2YWtFVGNhVzFfQ25TRlE?oc=5",
-      "title": "Liverpool finalise transfer agreement to sign Bradley Barcola from PSG - The Athletic - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdjUzSmJnZXh5YVV2Z0dCYTg3dW9kb1BTczEwNnNyOGc0eUpleXRCbFRuZ295bzk4bWw4OGhPcXhhOU1CWE4xVjBIOE1ranR4SGtSc005V3VwQU1fVktsb0E4eDdKaFFjNElEanE1RUlkREhab3pKNXh1aEJWaUhRVXIxMjkxMWw2YWtFVGNhVzFfQ25TRlE?oc=5",
-      "publishedAt": "2026-08-30T01:01:49.000Z",
-      "summary": "Liverpool finalise transfer agreement to sign Bradley Barcola from PSG - The Athletic &nbsp;&nbsp; The New York Times",
-      "sourceKey": "ornstein-monitor",
-      "sourceName": "David Ornstein 검색 모니터",
-      "status": "업데이트"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwX3BXNkNDOGJKblMwcmVFOWlzNmJOSjMzNkp4amZ4eEFLTXU3cUxzUTZWNGVlQ2c3eFhSaTdBNjEybFg5dlJxeFMtTkt6NkRUSEE?oc=5",
@@ -1201,6 +1181,26 @@
       "sourceKey": "bluesky-ornstein",
       "sourceName": "David Ornstein Bluesky",
       "status": "완료"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPd211T3QzVzhPQVlselRvQVYzaU9uWkYtOUtGeEpJZ05TWUtSZnpSMDY0TzctUFVQNGozWE9JeTR6R1BnSVhNUG9nZjAteE15UVphWHZEUTZxakpBbjBoVzBsNjduV2tUNE9WZWFNeHIzOVJvTDA4UEJsdUozcmJBZmxZSlpWa2twNTVjYUs1dTJqR2lxeHZQcmdKZw?oc=5",
+      "title": "Eight Times Fabrizio Romano Got His Famous Here We Go Completely Wrong - Sportscape Magazine",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPd211T3QzVzhPQVlselRvQVYzaU9uWkYtOUtGeEpJZ05TWUtSZnpSMDY0TzctUFVQNGozWE9JeTR6R1BnSVhNUG9nZjAteE15UVphWHZEUTZxakpBbjBoVzBsNjduV2tUNE9WZWFNeHIzOVJvTDA4UEJsdUozcmJBZmxZSlpWa2twNTVjYUs1dTJqR2lxeHZQcmdKZw?oc=5",
+      "publishedAt": "2026-08-29T16:25:04.000Z",
+      "summary": "Eight Times Fabrizio Romano Got His Famous Here We Go Completely Wrong &nbsp;&nbsp; Sportscape Magazine",
+      "sourceKey": "romano-monitor",
+      "sourceName": "Fabrizio Romano 검색 모니터",
+      "status": "업데이트"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPd0hOUlp0LXJjWWZkTld3QTR0QWxYZ2Fta0JkV0RxNnhxaHJWaUhHQTIzVXFCX1RZeGhWNF9FbWlhVHBoRzN1N0JMektyUllubTM0amp5enBnaGJDRHVfMFF4SmFyRFl4LVlqa0NCWHhJSEloNHN1Y0JHbkdLT19vMjFkai01MUJJdWlfaHdkak9PM0w30gGaAUFVX3lxTE9KS3JSQWNPTWNNbjlhQS1QWWdaTklubnZfRHhrX2ZyRTdUOEZNLTFzdGFTT2JwbVRrc1M2d2RjQnNlVm5oTEZYN0VyZl9OS0puQ3pkZEV3UkM0VjViMG1BSnJJcFR2N0dvNFlVQWZ4MXJZRy0wMG51bkVOcVV3RkJtZGtybHprdnA2WHZsLUdRS1ZCTEtrQUFSRHc?oc=5",
+      "title": "What will happen to the transfer industry if Fabrizio Romano finally stops? - Tribuna.com",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPd0hOUlp0LXJjWWZkTld3QTR0QWxYZ2Fta0JkV0RxNnhxaHJWaUhHQTIzVXFCX1RZeGhWNF9FbWlhVHBoRzN1N0JMektyUllubTM0amp5enBnaGJDRHVfMFF4SmFyRFl4LVlqa0NCWHhJSEloNHN1Y0JHbkdLT19vMjFkai01MUJJdWlfaHdkak9PM0w30gGaAUFVX3lxTE9KS3JSQWNPTWNNbjlhQS1QWWdaTklubnZfRHhrX2ZyRTdUOEZNLTFzdGFTT2JwbVRrc1M2d2RjQnNlVm5oTEZYN0VyZl9OS0puQ3pkZEV3UkM0VjViMG1BSnJJcFR2N0dvNFlVQWZ4MXJZRy0wMG51bkVOcVV3RkJtZGtybHprdnA2WHZsLUdRS1ZCTEtrQUFSRHc?oc=5",
+      "publishedAt": "2026-08-29T16:23:19.000Z",
+      "summary": "What will happen to the transfer industry if Fabrizio Romano finally stops? &nbsp;&nbsp; Tribuna.com",
+      "sourceKey": "dimarzio-monitor",
+      "sourceName": "Gianluca Di Marzio 검색 모니터",
+      "status": "업데이트"
     }
   ],
   "sourceHealth": [
@@ -1227,7 +1227,7 @@
     {
       "source": "Fabrizio Romano Google News",
       "ok": true,
-      "count": 92
+      "count": 93
     },
     {
       "source": "David Ornstein Google News",
@@ -1242,12 +1242,12 @@
     {
       "source": "Gianluca Di Marzio Google News",
       "ok": true,
-      "count": 57
+      "count": 67
     },
     {
       "source": "Matteo Moretto Google News",
       "ok": true,
-      "count": 50
+      "count": 51
     },
     {
       "source": "Ben Jacobs Google News",
@@ -1272,7 +1272,7 @@
     {
       "source": "Tom Barclay Google News",
       "ok": true,
-      "count": 35
+      "count": 13
     },
     {
       "source": "Sami Mokbel Google News",
@@ -1282,7 +1282,7 @@
     {
       "source": "Mike McGrath Google News",
       "ok": true,
-      "count": 39
+      "count": 40
     },
     {
       "source": "James Pearce Google News",
@@ -1372,7 +1372,7 @@
     {
       "source": "Real Madrid official-site monitor",
       "ok": true,
-      "count": 10
+      "count": 6
     },
     {
       "source": "Bayern official-site monitor",
@@ -1407,7 +1407,7 @@
     {
       "source": "Tottenham reporters Google News",
       "ok": true,
-      "count": 51
+      "count": 50
     },
     {
       "source": "Michael Bridge Tottenham monitor",
@@ -1432,7 +1432,7 @@
     {
       "source": "Football.London Tottenham monitor",
       "ok": true,
-      "count": 81
+      "count": 84
     },
     {
       "source": "The Standard Tottenham monitor",
