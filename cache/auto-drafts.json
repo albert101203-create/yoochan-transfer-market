@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-30T07:43:20.571Z",
-  "basedOnFetchedAt": "2026-08-30T07:43:20.514Z",
+  "generatedAt": "2026-08-30T07:51:53.491Z",
+  "basedOnFetchedAt": "2026-08-30T07:51:53.430Z",
   "itemCount": 57,
-  "reviewItemCount": 17,
+  "reviewItemCount": 18,
   "archiveLimit": 200,
   "drafts": [
     {
@@ -1343,7 +1343,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
       "publishedAt": "2026-08-29 13:23",
-      "lastVerifiedAt": "2026-08-30 07:43",
+      "lastVerifiedAt": "2026-08-30 07:51",
       "extractionConfidence": "medium",
       "extractionPattern": "toby-collyer-west-brom-move",
       "needsVerification": false,
@@ -2214,6 +2214,37 @@
       "sourceCount": 1
     },
     {
+      "id": "draft:https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaHNERFdqTDBFSzh5M25keVNma0o2QkhhT0NSOVRiTUd2a3dmYkEwQzI0ZVFlTjgwUFJ0MlR1UGpQN0ZPWGM2SEVXWVhUYXZybk9rSGFqaVpXeW15SGtHMUZQeVJ6MUp6bHpoNXFfRUpLOHpON01KcVRQUXJPUVNXeS12ZlhYbW9xVGhQTVlRcHFCU2p6eGJoY0ZXMW1FUjVPNzFETzZSdWpuQQ?oc=5",
+      "player": "De Zerbi's Tottenham",
+      "fromTeam": "De Zerbi",
+      "toTeam": "미상",
+      "league": "미분류",
+      "status": "확인 필요",
+      "fee": "미정",
+      "sourceKey": "tottenham-football-london-monitor",
+      "sourceTier": "medium",
+      "sourceName": "Football.London Tottenham monitor",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaHNERFdqTDBFSzh5M25keVNma0o2QkhhT0NSOVRiTUd2a3dmYkEwQzI0ZVFlTjgwUFJ0MlR1UGpQN0ZPWGM2SEVXWVhUYXZybk9rSGFqaVpXeW15SGtHMUZQeVJ6MUp6bHpoNXFfRUpLOHpON01KcVRQUXJPUVNXeS12ZlhYbW9xVGhQTVlRcHFCU2p6eGJoY0ZXMW1FUjVPNzFETzZSdWpuQQ?oc=5",
+      "sourceType": "자동 추출 초안",
+      "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
+      "publishedAt": "2026-08-30 07:01",
+      "lastVerifiedAt": "2026-08-30 07:51",
+      "extractionConfidence": "low",
+      "extractionPattern": "fallback-unparsed-transfer-headline",
+      "needsVerification": true,
+      "headlineTitle": "De Zerbi's Tottenham transfer video calls and the Danso problem is bigger than he thinks - Football London",
+      "sourceLinks": [
+        {
+          "sourceName": "Football.London Tottenham monitor",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaHNERFdqTDBFSzh5M25keVNma0o2QkhhT0NSOVRiTUd2a3dmYkEwQzI0ZVFlTjgwUFJ0MlR1UGpQN0ZPWGM2SEVXWVhUYXZybk9rSGFqaVpXeW15SGtHMUZQeVJ6MUp6bHpoNXFfRUpLOHpON01KcVRQUXJPUVNXeS12ZlhYbW9xVGhQTVlRcHFCU2p6eGJoY0ZXMW1FUjVPNzFETzZSdWpuQQ?oc=5",
+          "sourceTier": "medium",
+          "headlineTitle": "De Zerbi's Tottenham transfer video calls and the Danso problem is bigger than he thinks - Football London",
+          "publishedAt": "2026-08-30 07:01"
+        }
+      ],
+      "sourceCount": 1
+    },
+    {
       "id": "draft:https://news.google.com/rss/articles/CBMioAFBVV95cUxOWHp1VHBISnUyZXh4Z3lLVGRSM25oVWpPV2FDVl9zVG5FZE9RWVZodXlRMFZQRzljUG12Y3U1U1g3RGlNcDNRQTFXYzFFdTdyNjBpbDlXTEQyRmx5RUFMQXBZeExfY3daaGNHV3dxbFRfUVFQenZOZ01nS2QzZ0VOeDk3eWJ6SmNOLS1OVXpRVlFvRHphZWVCal9HWXViZndi?oc=5",
       "player": "Cody Gakpo",
       "fromTeam": "Liverpool",
@@ -2297,7 +2328,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
       "publishedAt": "2026-08-29 18:14",
-      "lastVerifiedAt": "2026-08-30 07:43",
+      "lastVerifiedAt": "2026-08-30 07:51",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -2328,7 +2359,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
       "publishedAt": "2026-08-29 17:16",
-      "lastVerifiedAt": "2026-08-30 07:43",
+      "lastVerifiedAt": "2026-08-30 07:51",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -2576,7 +2607,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
       "publishedAt": "2026-08-29 19:14",
-      "lastVerifiedAt": "2026-08-30 07:43",
+      "lastVerifiedAt": "2026-08-30 07:51",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
