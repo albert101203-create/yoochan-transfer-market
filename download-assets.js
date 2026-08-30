@@ -52,6 +52,12 @@ const SEEDED_ASSETS = {
     "Toby Collyer": "https://r2.thesportsdb.com/images/media/player/thumb/sg136o1761158856.jpg",
     "Joshua Zirkzee": "https://r2.thesportsdb.com/images/media/player/thumb/89ei0i1592732470.jpg",
     "Kevin Kelsy": "https://r2.thesportsdb.com/images/media/player/thumb/3kk7ux1726582614.jpg",
+    "Harvey Elliott": "https://r2.thesportsdb.com/images/media/player/thumb/leaxd51770200679.jpg",
+    "Cody Gakpo": "https://r2.thesportsdb.com/images/media/player/thumb/m9g2ki1669145821.jpg",
+    "Marc Guiu": "https://r2.thesportsdb.com/images/media/player/thumb/7lcxs31700510094.jpg",
+    "Iliman Ndiaye": "https://r2.thesportsdb.com/images/media/player/thumb/mewy8h1628334209.jpg",
+    "Enzo Fernández": "https://r2.thesportsdb.com/images/media/player/thumb/59cm7k1771427301.jpg",
+    "Gabriel Jesus": "https://r2.thesportsdb.com/images/media/player/thumb/iwt0021678196502.jpg",
     "Omar Marmoush":
       "https://r2.thesportsdb.com/images/media/player/thumb/w1jx521658324336.jpg",
     "Issa Kaboré":
@@ -80,6 +86,8 @@ const SEEDED_ASSETS = {
     Everton: "https://r2.thesportsdb.com/images/media/team/badge/eqayrf1523184794.png",
     "Nottingham Forest": "https://r2.thesportsdb.com/images/media/team/badge/1i2kvh1719918076.png",
     "West Bromwich Albion": "https://r2.thesportsdb.com/images/media/team/badge/rsvuxw1448813527.png",
+    Valencia: "https://r2.thesportsdb.com/images/media/team/badge/dm8l6o1655594864.png",
+    "RB Leipzig": "https://r2.thesportsdb.com/images/media/team/badge/zjgapo1594244951.png",
     "Bayern Munich": "https://r2.thesportsdb.com/images/media/team/badge/01ogkh1716960412.png",
     "OL Lyonnes": "https://upload.wikimedia.org/wikipedia/en/7/7a/Olympique_Lyonnais_Feminin_logo.svg",
     "SK Brann": "https://r2.thesportsdb.com/images/media/team/badge/ovuad71690695412.png",
@@ -363,6 +371,19 @@ function removeClubNamesFromPlayerAssets(assetMap, attributions) {
   }
 }
 
+function pruneMissingAssetEntries(assetMap, attributions) {
+  for (const kind of ["players", "clubs"]) {
+    for (const [name, entry] of Object.entries(assetMap[kind] || {})) {
+      const relative = String(entry?.src || "").replace(/^\.\//, "");
+      const filePath = relative ? path.join(BASE_DIR, relative) : "";
+      if (!filePath || !fs.existsSync(filePath)) {
+        if (entry?.src) delete attributions[entry.src];
+        delete assetMap[kind][name];
+      }
+    }
+  }
+}
+
 function isTrustedAssetEntry(kind, entry) {
   if (!entry?.src) return false;
   const sourceText = `${entry.sourcePage || ""} ${entry.sourceImage || ""}`.toLowerCase();
@@ -511,6 +532,7 @@ async function downloadAssets() {
   }
 
   normalizeMappedAssetFiles(assetMap);
+  pruneMissingAssetEntries(assetMap, attributions);
 
   writeJson(ASSET_MAP_FILE, assetMap);
   writeJson(ATTRIBUTIONS_FILE, attributions);

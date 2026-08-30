@@ -847,9 +847,9 @@
   },
   "./assets/players/cody-gakpo-7cf6b442.jpg": {
     "name": "Cody Gakpo",
-    "sourcePage": "https://en.wikipedia.org/wiki/Cody_Gakpo",
-    "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Netherlands_v_Tunisia_2026_World_Cup_-_55373562032_%28Cody_Gakpo%29.jpg/330px-Netherlands_v_Tunisia_2026_World_Cup_-_55373562032_%28Cody_Gakpo%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
+    "sourcePage": "https://r2.thesportsdb.com/images/media/player/thumb/m9g2ki1669145821.jpg",
+    "sourceImage": "https://r2.thesportsdb.com/images/media/player/thumb/m9g2ki1669145821.jpg",
+    "note": "Seeded from TheSportsDB player artwork; verify the image license before redistribution."
   },
   "./assets/players/trai-hume-e6390d50.jpg": {
     "name": "Trai Hume",
@@ -925,9 +925,9 @@
   },
   "./assets/players/enzo-fern-ndez-1858437e.jpg": {
     "name": "Enzo Fernández",
-    "sourcePage": "https://en.wikipedia.org/wiki/Enzo_Fern%C3%A1ndez",
-    "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Enzo_Fernandez_Argentina_v_Spain_19_July_2026-050_%28cropped%29.jpg/330px-Enzo_Fernandez_Argentina_v_Spain_19_July_2026-050_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
+    "sourcePage": "https://r2.thesportsdb.com/images/media/player/thumb/59cm7k1771427301.jpg",
+    "sourceImage": "https://r2.thesportsdb.com/images/media/player/thumb/59cm7k1771427301.jpg",
+    "note": "Seeded from TheSportsDB player artwork; verify the image license before redistribution."
   },
   "./assets/players/toby-collyer-242e286d.jpg": {
     "name": "Toby Collyer",
@@ -965,34 +965,46 @@
     "sourceImage": "https://upload.wikimedia.org/wikipedia/en/thumb/4/43/Rangers_FC.svg/330px-Rangers_FC.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
   },
+  "./assets/players/harvey-elliott-a0fc7c8f.jpg": {
+    "name": "Harvey Elliott",
+    "sourcePage": "https://r2.thesportsdb.com/images/media/player/thumb/leaxd51770200679.jpg",
+    "sourceImage": "https://r2.thesportsdb.com/images/media/player/thumb/leaxd51770200679.jpg",
+    "note": "Seeded from TheSportsDB player artwork; verify the image license before redistribution."
+  },
+  "./assets/players/marc-guiu-8c3d8bd6.jpg": {
+    "name": "Marc Guiu",
+    "sourcePage": "https://r2.thesportsdb.com/images/media/player/thumb/7lcxs31700510094.jpg",
+    "sourceImage": "https://r2.thesportsdb.com/images/media/player/thumb/7lcxs31700510094.jpg",
+    "note": "Seeded from TheSportsDB player artwork; verify the image license before redistribution."
+  },
+  "./assets/players/iliman-ndiaye-bc9bace1.jpg": {
+    "name": "Iliman Ndiaye",
+    "sourcePage": "https://r2.thesportsdb.com/images/media/player/thumb/mewy8h1628334209.jpg",
+    "sourceImage": "https://r2.thesportsdb.com/images/media/player/thumb/mewy8h1628334209.jpg",
+    "note": "Seeded from TheSportsDB player artwork; verify the image license before redistribution."
+  },
+  "./assets/clubs/valencia-6459e854.png": {
+    "name": "Valencia",
+    "sourcePage": "https://r2.thesportsdb.com/images/media/team/badge/dm8l6o1655594864.png",
+    "sourceImage": "https://r2.thesportsdb.com/images/media/team/badge/dm8l6o1655594864.png",
+    "note": "Seeded from TheSportsDB player artwork; verify the image license before redistribution."
+  },
+  "./assets/clubs/rb-leipzig-4a6590f2.png": {
+    "name": "RB Leipzig",
+    "sourcePage": "https://r2.thesportsdb.com/images/media/team/badge/zjgapo1594244951.png",
+    "sourceImage": "https://r2.thesportsdb.com/images/media/team/badge/zjgapo1594244951.png",
+    "note": "Seeded from TheSportsDB player artwork; verify the image license before redistribution."
+  },
+  "./assets/players/gabriel-jesus-4771eae0.jpg": {
+    "name": "Gabriel Jesus",
+    "sourcePage": "https://r2.thesportsdb.com/images/media/player/thumb/iwt0021678196502.jpg",
+    "sourceImage": "https://r2.thesportsdb.com/images/media/player/thumb/iwt0021678196502.jpg",
+    "note": "Seeded from TheSportsDB player artwork; verify the image license before redistribution."
+  },
   "./assets/players/enzo-fernandez-74c0f191.jpg": {
     "name": "Enzo Fernandez",
     "sourcePage": "https://en.wikipedia.org/wiki/Enzo_Fern%C3%A1ndez",
     "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Enzo_Fernandez_Argentina_v_Spain_19_July_2026-050_%28cropped%29.jpg/330px-Enzo_Fernandez_Argentina_v_Spain_19_July_2026-050_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
-  },
-  "./assets/players/rb-leipzig-4a6590f2.webp": {
-    "name": "RB Leipzig",
-    "sourcePage": "https://en.wikipedia.org/wiki/RB_Leipzig",
-    "sourceImage": "https://upload.wikimedia.org/wikipedia/en/thumb/0/04/RB_Leipzig_2014_logo.svg/330px-RB_Leipzig_2014_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
-  },
-  "./assets/players/harvey-elliot-8e0e6a38.jpg": {
-    "name": "Harvey Elliot",
-    "sourcePage": "https://en.wikipedia.org/wiki/Harvey_Elliott",
-    "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Harvey_Elliott_in_2022.jpg/330px-Harvey_Elliott_in_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
-  },
-  "./assets/players/julian-alvarez-fc1b9bb8.jpg": {
-    "name": "Julian Alvarez",
-    "sourcePage": "https://en.wikipedia.org/wiki/Juli%C3%A1n_Alvarez",
-    "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Julian_Alvarez_Argentina_v_Spain_19_July_2026-052_%28cropped%29.jpg/330px-Julian_Alvarez_Argentina_v_Spain_19_July_2026-052_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
-  },
-  "./assets/players/nottingham-forest-31dbc504.webp": {
-    "name": "Nottingham Forest",
-    "sourcePage": "https://en.wikipedia.org/wiki/Nottingham_Forest_F.C.",
-    "sourceImage": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Nottingham_Forest_F.C._logo.svg/330px-Nottingham_Forest_F.C._logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
   }
 }

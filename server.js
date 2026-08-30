@@ -96,6 +96,7 @@ const GENERIC_DRAFT_SKIP_PATTERNS = [
   /want to sign .*star/i,
   /^all done deals in /i,
   /^transfer latest:/i,
+  /^transfer latest as /i,
   /^what will .* bring to /i,
   /^is .* top transfer target .* replacement/i,
   /carabao cup .* cruise past/i,
@@ -111,6 +112,10 @@ const GENERIC_DRAFT_SKIP_PATTERNS = [
   /^de zerbi wants one more signing/i,
   /^football transfer rumours:/i,
   /^arsenal beat .* to signing/i,
+  /^de zerbi[\u2019']s tottenham transfer video calls/i,
+  /^transfer roundup:/i,
+  /^arsenal fans react to vinicius jr transfer links/i,
+  /^fabrizio romano: .* enzo plan/i,
 ];
 
 const POSITION_PATTERN =
@@ -166,6 +171,9 @@ const PLAYER_ALIASES = {
   Kane: "Harry Kane",
   Parrott: "Troy Parrott",
   Munoz: "Daniel Muñoz",
+  "Enzo Fernandez": "Enzo Fernández",
+  "Julian Alvarez": "Julián Álvarez",
+  "Harvey Elliot": "Harvey Elliott",
 };
 
 const PLAYER_CURRENT_TEAMS = {
@@ -173,6 +181,12 @@ const PLAYER_CURRENT_TEAMS = {
   "Zavier Gozo": "Real Salt Lake",
   "Promise David": "Royale Union Saint-Gilloise",
   "Troy Parrott": "AZ Alkmaar",
+  "Harvey Elliott": "Liverpool",
+  "Cody Gakpo": "Liverpool",
+  "Marc Guiu": "Chelsea",
+  "Iliman Ndiaye": "Everton",
+  "Enzo Fernández": "Chelsea",
+  "Julián Álvarez": "Atlético Madrid",
 };
 
 const SOURCE_TIERS = {
@@ -1270,6 +1284,9 @@ const DRAFT_PLAYER_ALIASES = {
   Zubimendi: "Martin Zubimendi",
   "Colombian Jhon Lucumi": "Jhon Lucumí",
   "Colombian Jhon Lucum": "Jhon Lucumí",
+  "Enzo Fernandez": "Enzo Fernández",
+  "Julian Alvarez": "Julián Álvarez",
+  "Harvey Elliot": "Harvey Elliott",
 };
 
 const DRAFT_CURRENT_TEAMS = {
@@ -1277,6 +1294,12 @@ const DRAFT_CURRENT_TEAMS = {
   "Zavier Gozo": "Real Salt Lake",
   "Promise David": "Royale Union Saint-Gilloise",
   "Troy Parrott": "AZ Alkmaar",
+  "Harvey Elliott": "Liverpool",
+  "Cody Gakpo": "Liverpool",
+  "Marc Guiu": "Chelsea",
+  "Iliman Ndiaye": "Everton",
+  "Enzo Fernández": "Chelsea",
+  "Julián Álvarez": "Atlético Madrid",
 };
 
 function normalizeDraftRecord(draft) {
@@ -1295,6 +1318,8 @@ function normalizeDraftRecord(draft) {
   }
   const title = normalizeWhitespace(normalized.headlineTitle || "");
   if (title && shouldSkipDraftTitle(title)) return null;
+  if (normalized.headlineTitle) normalized.headlineTitle = String(normalized.headlineTitle).replace(/\uFFFD/g, "");
+  if (normalized.sourceReason) normalized.sourceReason = String(normalized.sourceReason).replace(/\uFFFD/g, "");
 
   // Repair recurring headline-parser edge cases before validating assets.
   if (/(?:Nico\s+)?Gonz[áa]lez/i.test(title) && /Newcastle|N['’]castle/i.test(title) && /City/i.test(title)) {
@@ -1566,6 +1591,103 @@ function normalizeDraftRecord(draft) {
     normalized.status = "루머";
     normalized.extractionConfidence = "medium";
     normalized.extractionPattern = "espn-martinelli-al-hilal-deal";
+    normalized.needsVerification = false;
+  } else if (/Coventry sign Mfuni on loan from Man City/i.test(title)) {
+    normalized.player = "Teddy Mfuni";
+    normalized.fromTeam = "Manchester City";
+    normalized.toTeam = "Coventry City";
+    normalized.status = "확인 필요";
+    normalized.extractionConfidence = "medium";
+    normalized.extractionPattern = "coventry-mfuni-loan";
+    normalized.needsVerification = true;
+    normalized.sourceReason = "코벤트리의 테디 음푸니 임대 보도입니다. 선수 사진과 원문 세부사항 확인 후 확정합니다.";
+  } else if (/West Brom sign Collyer from Manchester United/i.test(title)) {
+    normalized.player = "Toby Collyer";
+    normalized.fromTeam = "Manchester United";
+    normalized.toTeam = "West Bromwich Albion";
+    normalized.status = "완료";
+    normalized.extractionConfidence = "high";
+    normalized.extractionPattern = "west-brom-collyer-signing";
+    normalized.needsVerification = false;
+  } else if (/Chelsea sign goalkeeper Martínez from Villa/i.test(title)) {
+    normalized.player = "Emiliano Martínez";
+    normalized.fromTeam = "Aston Villa";
+    normalized.toTeam = "Chelsea";
+    normalized.status = "완료";
+    normalized.extractionConfidence = "high";
+    normalized.extractionPattern = "chelsea-martinez-signing";
+    normalized.needsVerification = false;
+  } else if (/Emiliano Martínez finally gets his Villa exit .* move to Chelsea/i.test(title)) {
+    normalized.player = "Emiliano Martínez";
+    normalized.fromTeam = "Aston Villa";
+    normalized.toTeam = "Chelsea";
+    normalized.status = "완료";
+    normalized.extractionConfidence = "high";
+    normalized.extractionPattern = "chelsea-martinez-signing";
+    normalized.needsVerification = false;
+  } else if (/Barcelona close to deal for Arsenal[\u2019']s Jesus/i.test(title)) {
+    normalized.player = "Gabriel Jesus";
+    normalized.fromTeam = "Arsenal";
+    normalized.toTeam = "Barcelona";
+    normalized.status = "루머";
+    normalized.extractionConfidence = "medium";
+    normalized.extractionPattern = "barcelona-gabriel-jesus-interest";
+    normalized.needsVerification = false;
+  } else if (/Nottingham Forest agree .*Daniel M(?:u|ú)noz/i.test(title)) {
+    normalized.player = "Daniel Muñoz";
+    normalized.fromTeam = "Crystal Palace";
+    normalized.toTeam = "Nottingham Forest";
+    normalized.status = "루머";
+    normalized.extractionConfidence = "medium";
+    normalized.extractionPattern = "nottingham-forest-munoz-agreement";
+    normalized.needsVerification = false;
+  } else if (/Valencia are currently having talks to sign Harvey Elliot/i.test(title)) {
+    normalized.player = "Harvey Elliott";
+    normalized.fromTeam = "Liverpool";
+    normalized.toTeam = "Valencia";
+    normalized.status = "루머";
+    normalized.extractionConfidence = "medium";
+    normalized.extractionPattern = "valencia-harvey-elliott-interest";
+    normalized.needsVerification = false;
+  } else if (/Julian Alvarez to Arsenal transfer twist/i.test(title)) {
+    normalized.player = "Julián Álvarez";
+    normalized.fromTeam = "Atlético Madrid";
+    normalized.toTeam = "Arsenal";
+    normalized.status = "루머";
+    normalized.extractionConfidence = "medium";
+    normalized.extractionPattern = "arsenal-julian-alvarez-interest";
+    normalized.needsVerification = false;
+  } else if (/Liverpool[\u2019']s Cody Gakpo.*Manchester City/i.test(title)) {
+    normalized.player = "Cody Gakpo";
+    normalized.fromTeam = "Liverpool";
+    normalized.toTeam = "Manchester City";
+    normalized.status = "루머";
+    normalized.extractionConfidence = "medium";
+    normalized.extractionPattern = "manchester-city-cody-gakpo-interest";
+    normalized.needsVerification = false;
+  } else if (/RB Leipzig to sign Chelsea striker Marc Guiu/i.test(title)) {
+    normalized.player = "Marc Guiu";
+    normalized.fromTeam = "Chelsea";
+    normalized.toTeam = "RB Leipzig";
+    normalized.status = "루머";
+    normalized.extractionConfidence = "medium";
+    normalized.extractionPattern = "rb-leipzig-marc-guiu-signing";
+    normalized.needsVerification = false;
+  } else if (/Tottenham have reached an agreement in principle with Everton for the signing of Iliman Ndiaye/i.test(title)) {
+    normalized.player = "Iliman Ndiaye";
+    normalized.fromTeam = "Everton";
+    normalized.toTeam = "Tottenham";
+    normalized.status = "루머";
+    normalized.extractionConfidence = "medium";
+    normalized.extractionPattern = "tottenham-iliman-ndiaye-agreement";
+    normalized.needsVerification = false;
+  } else if (/Chelsea wants Rayan Cherki in a swap deal for Enzo Fernandez/i.test(title)) {
+    normalized.player = "Enzo Fernández";
+    normalized.fromTeam = "Chelsea";
+    normalized.toTeam = "Manchester City";
+    normalized.status = "루머";
+    normalized.extractionConfidence = "medium";
+    normalized.extractionPattern = "enzo-fernandez-manchester-city-swap";
     normalized.needsVerification = false;
   } else if (/Forest in advanced talks to sign (?:Daniel )?Munoz from Palace/i.test(title)) {
     normalized.player = "Daniel Muñoz";
