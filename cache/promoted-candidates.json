@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-30T19:17:24.848Z",
-  "basedOnGeneratedAt": "2026-08-30T19:17:24.847Z",
+  "generatedAt": "2026-08-30T19:25:53.189Z",
+  "basedOnGeneratedAt": "2026-08-30T19:25:53.188Z",
   "itemCount": 30,
   "items": [
     {
@@ -418,7 +418,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-08-30 01:01",
-      "lastVerifiedAt": "2026-08-30 19:17",
+      "lastVerifiedAt": "2026-08-30 19:25",
       "extractionConfidence": "high",
       "extractionPattern": "barcola-liverpool-transfer",
       "needsVerification": false,
