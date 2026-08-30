@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-30T14:45:52.343Z",
+  "fetchedAt": "2026-08-30T14:46:54.156Z",
   "itemCount": 120,
   "items": [
     {
@@ -38,6 +38,16 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPN0h1ZERzTXJPLWJfdEpBVWFtcU1ERXdQc1ZwdGFOR0dXU2prWUVUWno2eWM2UTJjaS0wb2JFb0I1ekFjajJIbG1ybmRVS0RmRzdhdHB5X011dmVzdW9MX2RzbXUtRG1hckRvc3MzY3loaGJZR1VZQlJLWkdXQnhyX0Rfbw?oc=5",
       "publishedAt": "2026-08-15T07:00:00.000Z",
       "summary": "Romero moves to Atletico Madrid &nbsp;&nbsp; Tottenham Hotspur",
+      "sourceKey": "official-tottenham-monitor",
+      "sourceName": "Tottenham official-site monitor",
+      "status": "업데이트"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeDV3NFhVZFJESi1FRTRCRTd5NExEWC1LTF9vV1Z1MjlaLVdJMVJEb1VLdXZ6Y21vd2s3ZEcwYjRlb1Z1WlNoRVNRLWpzYW5ZYzhyWkpDQncwQmZyUHhWNHdNLU5lY3VIQ2YxOVhiQ3V0TEF1blEtYkUwQzhMWXVPVQ?oc=5",
+      "title": "New deal for Micky van de Ven - Tottenham Hotspur",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeDV3NFhVZFJESi1FRTRCRTd5NExEWC1LTF9vV1Z1MjlaLVdJMVJEb1VLdXZ6Y21vd2s3ZEcwYjRlb1Z1WlNoRVNRLWpzYW5ZYzhyWkpDQncwQmZyUHhWNHdNLU5lY3VIQ2YxOVhiQ3V0TEF1blEtYkUwQzhMWXVPVQ?oc=5",
+      "publishedAt": "2026-08-10T07:00:00.000Z",
+      "summary": "New deal for Micky van de Ven &nbsp;&nbsp; Tottenham Hotspur",
       "sourceKey": "official-tottenham-monitor",
       "sourceName": "Tottenham official-site monitor",
       "status": "업데이트"
@@ -108,16 +118,6 @@
       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1LQVJzMktmMnNLbUR1Skp5eDZMUzJmOXFib1FudEFpVzFmZzIxekRDUC1TT0tNOUl4OE9QZlFmRkJOZm9uV2FJR29qRjlYTldBZ2p1NmlQWWFEUUl4Tk03UHVHZkloM2VraXZGSFVCQmEtRVdH?oc=5",
       "publishedAt": "2026-06-26T07:00:00.000Z",
       "summary": "Bahia move for Veliz &nbsp;&nbsp; Tottenham Hotspur",
-      "sourceKey": "official-tottenham-monitor",
-      "sourceName": "Tottenham official-site monitor",
-      "status": "업데이트"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQT3ludUlfYzhsbkFpUjB2dElWTVA5anVuZGRhMDNMYlIzTmRIYXdrTVctS2VBS2lBSVhOQkwzT2p4ZEk0UXdUTU05ME1hWFdBOFpPanlGbGNNRWRibFdOVjQtaXp1QlFReHVlbDBQVzRRLUZiQmFCVkVpTW9VX3RteW92NHcyWTg?oc=5",
-      "title": "Pelova deal secured - Tottenham Hotspur",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQT3ludUlfYzhsbkFpUjB2dElWTVA5anVuZGRhMDNMYlIzTmRIYXdrTVctS2VBS2lBSVhOQkwzT2p4ZEk0UXdUTU05ME1hWFdBOFpPanlGbGNNRWRibFdOVjQtaXp1QlFReHVlbDBQVzRRLUZiQmFCVkVpTW9VX3RteW92NHcyWTg?oc=5",
-      "publishedAt": "2026-06-25T07:00:00.000Z",
-      "summary": "Pelova deal secured &nbsp;&nbsp; Tottenham Hotspur",
       "sourceKey": "official-tottenham-monitor",
       "sourceName": "Tottenham official-site monitor",
       "status": "업데이트"
@@ -200,16 +200,6 @@
       "summary": "🚨🚨🌕| 𝐉𝐔𝐒𝐓 𝐈𝐍: FC Barcelona are exploring a SWAP DEAL between Balde and Dimarco, with Barça also paying an additional transfer fee. Although Balde has told the club he wants to stay and fight for his place, Barcelona believe he could be convinced. Tal &nbsp;&nbsp; instagram.com",
       "sourceKey": "instagram-indirect-monitor",
       "sourceName": "Instagram 간접 검색 모니터",
-      "status": "루머"
-    },
-    {
-      "id": "49770153",
-      "title": "Transfer rumors, news: Liverpool in talks to sign Ismaïla Sarr",
-      "url": "https://www.espn.com/soccer/story/_/id/49770153/transfer-rumors-news-liverpool-talks-sign-ismaila-sarr-crystal-palace",
-      "publishedAt": "2026-08-30T13:22:58.000Z",
-      "summary": "ESPN FC soccer 최신 피드에서 가져온 실시간 헤드라인입니다.",
-      "sourceKey": "espn-fc",
-      "sourceName": "ESPN FC",
       "status": "루머"
     },
     {
@@ -453,16 +443,6 @@
       "status": "완료"
     },
     {
-      "id": "48990955",
-      "title": "Men's transfer grades: Chelsea get A for Martínez",
-      "url": "https://www.espn.com/soccer/story/_/id/48990955/summer-transfer-window-grading-big-signings-mens-soccer",
-      "publishedAt": "2026-08-30T10:42:58.000Z",
-      "summary": "ESPN FC soccer 최신 피드에서 가져온 실시간 헤드라인입니다.",
-      "sourceKey": "espn-fc",
-      "sourceName": "ESPN FC",
-      "status": "업데이트"
-    },
-    {
       "id": "https://www.bbc.co.uk/sport/football/articles/crl631pgxj7o?at_medium=RSS&at_campaign=rss",
       "title": "Tottenham make Ndiaye move with Richarlison set for Everton",
       "url": "https://www.bbc.co.uk/sport/football/articles/crl631pgxj7o?at_medium=RSS&at_campaign=rss",
@@ -590,16 +570,6 @@
       "summary": "Swedish club Djurgardens agree a National League record fee thought to be in excess of £1.5m to sign winger Abdul Abdulmalik from Boreham Wood.",
       "sourceKey": "bbc-sport",
       "sourceName": "BBC Sport",
-      "status": "업데이트"
-    },
-    {
-      "id": "49750228",
-      "title": "Chelsea sign goalkeeper Martínez from Villa",
-      "url": "https://www.espn.com/soccer/story/_/id/49750228/chelsea-sign-goalkeeper-emiliano-martinez-aston-villa",
-      "publishedAt": "2026-08-30T09:10:27.000Z",
-      "summary": "ESPN FC soccer 최신 피드에서 가져온 실시간 헤드라인입니다.",
-      "sourceKey": "espn-fc",
-      "sourceName": "ESPN FC",
       "status": "업데이트"
     },
     {
@@ -770,16 +740,6 @@
       "summary": "NEWS: #RIFC announces the transfer of defender Hamady Diop to Birmingham Legion FC for an undisclosed fee, pending league and federation approval. &nbsp;&nbsp; instagram.com",
       "sourceKey": "instagram-indirect-monitor",
       "sourceName": "Instagram 간접 검색 모니터",
-      "status": "업데이트"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMlZBX3NMODFGMkZnVWpZQjBlN2JYZHhoRVZQbW4zTjEtR1FINUNYZUNnLVlDOTcwZXBnSEFiRFdUNHVLYzJ0MlAwR0VXQ1lQSGRoU3RWR0tNVmxHa3ZXSXJsNzV2dGVpZENJTmRwWFA5bWllSVhWZVBFT1pmVVp3cENXVWp3MUZMY0lTc2syRldlbFQ1T2w3TmFzdw?oc=5",
-      "title": "Alvarez 'holds family meeting to discuss Arsenal move' after Arteta talks - London Evening Standard",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMlZBX3NMODFGMkZnVWpZQjBlN2JYZHhoRVZQbW4zTjEtR1FINUNYZUNnLVlDOTcwZXBnSEFiRFdUNHVLYzJ0MlAwR0VXQ1lQSGRoU3RWR0tNVmxHa3ZXSXJsNzV2dGVpZENJTmRwWFA5bWllSVhWZVBFT1pmVVp3cENXVWp3MUZMY0lTc2syRldlbFQ1T2w3TmFzdw?oc=5",
-      "publishedAt": "2026-08-29T23:22:06.000Z",
-      "summary": "Alvarez 'holds family meeting to discuss Arsenal move' after Arteta talks &nbsp;&nbsp; London Evening Standard",
-      "sourceKey": "ornstein-monitor",
-      "sourceName": "David Ornstein 검색 모니터",
       "status": "업데이트"
     },
     {
@@ -1083,16 +1043,6 @@
       "status": "업데이트"
     },
     {
-      "id": "49750790",
-      "title": "Is Liverpool's top transfer target Barcola the replacement they need for Salah?",
-      "url": "https://www.espn.com/soccer/story/_/id/49750790/will-liverpool-no1-summer-transfer-target-winger-psg-bradley-barcola-replacement-mohamed-salah",
-      "publishedAt": "2026-08-29T16:16:38.000Z",
-      "summary": "ESPN FC soccer 최신 피드에서 가져온 실시간 헤드라인입니다.",
-      "sourceKey": "espn-fc",
-      "sourceName": "ESPN FC",
-      "status": "루머"
-    },
-    {
       "id": "https://www.theguardian.com/football/2026/aug/29/watford-west-ham-championship-match-report",
       "title": "Amin Nabizada sparkles for Watford as draw puts pressure on West Ham’s Nuno",
       "url": "https://www.theguardian.com/football/2026/aug/29/watford-west-ham-championship-match-report",
@@ -1201,6 +1151,56 @@
       "sourceKey": "ornstein-monitor",
       "sourceName": "David Ornstein 검색 모니터",
       "status": "업데이트"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ3B3WkNXUFNfbF9BVmxVdWUxYVp5WUpqQVRYZzZnVUFzcVZraHNPajhvZ0RTUmFkV3FXT3VrTnp5dmI0WV9USDNCOHFKVnJGQUdETWplOWI3LVBjT3RSUG0wVWZHUFNYcm9qYmJPVHNkejNVMVROZGpUREkxdEY0MDBJa3IwaWxpX1FoX0tqTzJMYkNIWWs3NnBLWURUUm9sWVltX0I3UU9pdEdUdzVfVFp3?oc=5",
+      "title": "Liverpool reach agreement in principle with PSG for £120m Bradley Barcola transfer - The Athletic - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ3B3WkNXUFNfbF9BVmxVdWUxYVp5WUpqQVRYZzZnVUFzcVZraHNPajhvZ0RTUmFkV3FXT3VrTnp5dmI0WV9USDNCOHFKVnJGQUdETWplOWI3LVBjT3RSUG0wVWZHUFNYcm9qYmJPVHNkejNVMVROZGpUREkxdEY0MDBJa3IwaWxpX1FoX0tqTzJMYkNIWWs3NnBLWURUUm9sWVltX0I3UU9pdEdUdzVfVFp3?oc=5",
+      "publishedAt": "2026-08-29T13:22:00.000Z",
+      "summary": "Liverpool reach agreement in principle with PSG for £120m Bradley Barcola transfer - The Athletic &nbsp;&nbsp; The New York Times",
+      "sourceKey": "ornstein-monitor",
+      "sourceName": "David Ornstein 검색 모니터",
+      "status": "업데이트"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSVRTT3dYQmdCX0g0OEQ3S0NIakxXd1diOEFCeXVwY0o1NDVoMjgyRUlyZmJmNVpTMmR0N0I3NWlDZHpXNFdpaktpNnp2cXRRUUNHYjlyczdGZGFtTXIzZ2JUQVRTbFRYVHgxMUJrVTUtLUE0dkx3Y3FoSzlITTBPMng4b1ZqVFFIdnNCa201Q1QyU2hwd1B6cjNxU2k?oc=5",
+      "title": "Al Hilal finalising £50m Ollie Watkins transfer agreement with Aston Villa - The Athletic - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSVRTT3dYQmdCX0g0OEQ3S0NIakxXd1diOEFCeXVwY0o1NDVoMjgyRUlyZmJmNVpTMmR0N0I3NWlDZHpXNFdpaktpNnp2cXRRUUNHYjlyczdGZGFtTXIzZ2JUQVRTbFRYVHgxMUJrVTUtLUE0dkx3Y3FoSzlITTBPMng4b1ZqVFFIdnNCa201Q1QyU2hwd1B6cjNxU2k?oc=5",
+      "publishedAt": "2026-08-29T13:22:00.000Z",
+      "summary": "Al Hilal finalising £50m Ollie Watkins transfer agreement with Aston Villa - The Athletic &nbsp;&nbsp; The New York Times",
+      "sourceKey": "ornstein-monitor",
+      "sourceName": "David Ornstein 검색 모니터",
+      "status": "업데이트"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeW1ZV2Faa1ExSkt2bkV6THVOWkFwcVB1NzVKVTZFc0dVUlI2TlNEYXJXYzNZZkNIenQ2QW9UX0VtdFhKSUdpeExOS1g2QmY2NjJyS296eVREbUZEeGlhS3dtQ0REekl0M1hzYno4WHRaYWtyRHkwWVhfQktIQXdqbEo0UzNZdEVqbHYzSVV3R2JYNnM5ZS1MT1hZOFk3a1NaTUNhT0IxRWZGS1pYMjZj?oc=5",
+      "title": "Fabrizio Romano confirms Arsenal have vanquished Liverpool with signing ‘here we go’ done - Football365",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeW1ZV2Faa1ExSkt2bkV6THVOWkFwcVB1NzVKVTZFc0dVUlI2TlNEYXJXYzNZZkNIenQ2QW9UX0VtdFhKSUdpeExOS1g2QmY2NjJyS296eVREbUZEeGlhS3dtQ0REekl0M1hzYno4WHRaYWtyRHkwWVhfQktIQXdqbEo0UzNZdEVqbHYzSVV3R2JYNnM5ZS1MT1hZOFk3a1NaTUNhT0IxRWZGS1pYMjZj?oc=5",
+      "publishedAt": "2026-08-29T13:08:19.000Z",
+      "summary": "Fabrizio Romano confirms Arsenal have vanquished Liverpool with signing ‘here we go’ done &nbsp;&nbsp; Football365",
+      "sourceKey": "romano-monitor",
+      "sourceName": "Fabrizio Romano 검색 모니터",
+      "status": "업데이트"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMmpDU2JPb0ZUN1FPV01rOEw5VjBsS2lab3VfQUVDUWFyMnVkRGJZa1hvMTAzSlRrT1duSHpQOVBfZVFDbThOZG9hN2QtRlhabzhsYTVWSFZVQWhCLWp3UUh4UlZjc2JDX050UnpnSVF5a3c3SXg4YXBtaC13U00taXBhZzBud2lhZlJmTnhROTFnR1VmQ0NreXh6OHdReTAtZklUcThIT2xaOTFZSDBnRWFDT3JZdDlXV3NNMEhWTHlEdw?oc=5",
+      "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMmpDU2JPb0ZUN1FPV01rOEw5VjBsS2lab3VfQUVDUWFyMnVkRGJZa1hvMTAzSlRrT1duSHpQOVBfZVFDbThOZG9hN2QtRlhabzhsYTVWSFZVQWhCLWp3UUh4UlZjc2JDX050UnpnSVF5a3c3SXg4YXBtaC13U00taXBhZzBud2lhZlJmTnhROTFnR1VmQ0NreXh6OHdReTAtZklUcThIT2xaOTFZSDBnRWFDT3JZdDlXV3NNMEhWTHlEdw?oc=5",
+      "publishedAt": "2026-08-29T13:05:58.000Z",
+      "summary": "Transfer Centre LIVE! Football transfer news, updates and rumours &nbsp;&nbsp; Sky Sports",
+      "sourceKey": "michael-bridge-monitor",
+      "sourceName": "Michael Bridge monitor",
+      "status": "루머"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaGtqLXYtbTZWTzA2T3BsS1VLdGpEV3F6dWJjZ0MxMWhDS2NGb3BpbHg2Y0k3N05WdDVtbGxIXzY4YWR4VnE4ODFoZ3BPRGpWRGM0LUdRR2pyVnRkMU9zSmpRQnc3cEc4R3VxNVBPcG1NTDFmRXBhbXpQLU1DcG9fUVJVTmhaaVMxd1JYbEhteFliVkJFeV9pQUlkeExKXzlhUndza3ZzaGl0Zw?oc=5",
+      "title": "Nottingham Forest working on £40m deal for Everton’s Harrison Armstrong - The Athletic - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaGtqLXYtbTZWTzA2T3BsS1VLdGpEV3F6dWJjZ0MxMWhDS2NGb3BpbHg2Y0k3N05WdDVtbGxIXzY4YWR4VnE4ODFoZ3BPRGpWRGM0LUdRR2pyVnRkMU9zSmpRQnc3cEc4R3VxNVBPcG1NTDFmRXBhbXpQLU1DcG9fUVJVTmhaaVMxd1JYbEhteFliVkJFeV9pQUlkeExKXzlhUndza3ZzaGl0Zw?oc=5",
+      "publishedAt": "2026-08-29T12:49:14.000Z",
+      "summary": "Nottingham Forest working on £40m deal for Everton’s Harrison Armstrong - The Athletic &nbsp;&nbsp; The New York Times",
+      "sourceKey": "ornstein-monitor",
+      "sourceName": "David Ornstein 검색 모니터",
+      "status": "업데이트"
     }
   ],
   "sourceHealth": [
@@ -1217,7 +1217,7 @@
     {
       "source": "ESPN FC page",
       "ok": true,
-      "count": 5
+      "count": 0
     },
     {
       "source": "The Guardian Football RSS",
@@ -1227,7 +1227,7 @@
     {
       "source": "Fabrizio Romano Google News",
       "ok": true,
-      "count": 90
+      "count": 89
     },
     {
       "source": "David Ornstein Google News",
@@ -1237,22 +1237,22 @@
     {
       "source": "The Athletic Google News",
       "ok": true,
-      "count": 16
+      "count": 18
     },
     {
       "source": "Gianluca Di Marzio Google News",
       "ok": true,
-      "count": 68
+      "count": 69
     },
     {
       "source": "Matteo Moretto Google News",
       "ok": true,
-      "count": 50
+      "count": 48
     },
     {
       "source": "Ben Jacobs Google News",
       "ok": true,
-      "count": 81
+      "count": 80
     },
     {
       "source": "Florian Plettenberg Google News",
@@ -1287,22 +1287,22 @@
     {
       "source": "James Pearce Google News",
       "ok": true,
-      "count": 46
+      "count": 45
     },
     {
       "source": "Laurie Whitwell Google News",
       "ok": true,
-      "count": 37
+      "count": 41
     },
     {
       "source": "Simon Stone Google News",
       "ok": true,
-      "count": 47
+      "count": 49
     },
     {
       "source": "Rob Dawson Google News",
       "ok": true,
-      "count": 29
+      "count": 28
     },
     {
       "source": "Mark Ogden Google News",
@@ -1347,22 +1347,22 @@
     {
       "source": "David Ornstein Instagram mentions",
       "ok": true,
-      "count": 85
+      "count": 84
     },
     {
       "source": "Matteo Moretto Instagram mentions",
       "ok": true,
-      "count": 81
+      "count": 80
     },
     {
       "source": "Santi Aouna Instagram mentions",
       "ok": true,
-      "count": 81
+      "count": 80
     },
     {
       "source": "Arsenal official-site monitor",
       "ok": true,
-      "count": 82
+      "count": 83
     },
     {
       "source": "Barcelona official-site monitor",
@@ -1392,7 +1392,7 @@
     {
       "source": "Chelsea official-site monitor",
       "ok": true,
-      "count": 81
+      "count": 80
     },
     {
       "source": "Liverpool official-site monitor",
@@ -1402,7 +1402,7 @@
     {
       "source": "Tottenham official-site monitor",
       "ok": true,
-      "count": 79
+      "count": 77
     },
     {
       "source": "Tottenham reporters Google News",
@@ -1417,17 +1417,17 @@
     {
       "source": "Charlie Eccleshare Tottenham monitor",
       "ok": true,
-      "count": 23
+      "count": 22
     },
     {
       "source": "Jack Pitt-Brooke Tottenham monitor",
       "ok": true,
-      "count": 28
+      "count": 27
     },
     {
       "source": "James Maw Tottenham monitor",
       "ok": true,
-      "count": 3
+      "count": 2
     },
     {
       "source": "Football.London Tottenham monitor",
@@ -1437,12 +1437,12 @@
     {
       "source": "The Standard Tottenham monitor",
       "ok": true,
-      "count": 87
+      "count": 86
     },
     {
       "source": "The Athletic Tottenham monitor",
       "ok": true,
-      "count": 5
+      "count": 6
     },
     {
       "source": "Sky Sports Tottenham monitor",
