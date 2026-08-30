@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-30T14:49:13.843Z",
-  "basedOnFetchedAt": "2026-08-30T14:49:13.784Z",
+  "generatedAt": "2026-08-30T14:57:47.793Z",
+  "basedOnFetchedAt": "2026-08-30T14:57:47.736Z",
   "itemCount": 63,
-  "reviewItemCount": 6,
+  "reviewItemCount": 7,
   "archiveLimit": 200,
   "drafts": [
     {
@@ -2413,6 +2413,37 @@
           "sourceTier": "medium",
           "headlineTitle": "Coventry sign Mfuni on loan from Man City",
           "publishedAt": "2026-08-30 11:55"
+        }
+      ],
+      "sourceCount": 1
+    },
+    {
+      "id": "draft:https://news.google.com/rss/articles/CBMiowFBVV95cUxPZlhVVlZHejVZVVI1R0RsMzdLOFpYMGxkaHJLN1VyemNhcXhDWlJwengyckRTemFqSGdac25QdlpUTko4eTZPdFhFZ2R0U1hHTTJCUWJKWTNIX054a180OEI3UUp2LWV5VGFnM3JYcTYwbG9XaFB6NE10bGNhakZOWV9uZHhfbzNMYmFCWVR2UlB5cVBzak4tMlVlVXotZ01mSWlF?oc=5",
+      "player": "Gabriel Martinelli",
+      "fromTeam": "Arsenal",
+      "toTeam": "미상",
+      "league": "미분류",
+      "status": "확인 필요",
+      "fee": "€70M",
+      "sourceKey": "ornstein-monitor",
+      "sourceTier": "medium",
+      "sourceName": "David Ornstein 검색 모니터",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZlhVVlZHejVZVVI1R0RsMzdLOFpYMGxkaHJLN1VyemNhcXhDWlJwengyckRTemFqSGdac25QdlpUTko4eTZPdFhFZ2R0U1hHTTJCUWJKWTNIX054a180OEI3UUp2LWV5VGFnM3JYcTYwbG9XaFB6NE10bGNhakZOWV9uZHhfbzNMYmFCWVR2UlB5cVBzak4tMlVlVXotZ01mSWlF?oc=5",
+      "sourceType": "자동 추출 초안",
+      "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
+      "publishedAt": "2026-08-30 14:45",
+      "lastVerifiedAt": "2026-08-30 14:57",
+      "extractionConfidence": "low",
+      "extractionPattern": "fallback-unparsed-transfer-headline",
+      "needsVerification": true,
+      "headlineTitle": "Arsenal’s Gabriel Martinelli set for Al Hilal transfer with clubs finalising €70m agreement - The New York Times",
+      "sourceLinks": [
+        {
+          "sourceName": "David Ornstein 검색 모니터",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZlhVVlZHejVZVVI1R0RsMzdLOFpYMGxkaHJLN1VyemNhcXhDWlJwengyckRTemFqSGdac25QdlpUTko4eTZPdFhFZ2R0U1hHTTJCUWJKWTNIX054a180OEI3UUp2LWV5VGFnM3JYcTYwbG9XaFB6NE10bGNhakZOWV9uZHhfbzNMYmFCWVR2UlB5cVBzak4tMlVlVXotZ01mSWlF?oc=5",
+          "sourceTier": "medium",
+          "headlineTitle": "Arsenal’s Gabriel Martinelli set for Al Hilal transfer with clubs finalising €70m agreement - The New York Times",
+          "publishedAt": "2026-08-30 14:45"
         }
       ],
       "sourceCount": 1
