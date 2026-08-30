@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-30T00:18:41.570Z",
-  "basedOnFetchedAt": "2026-08-30T00:18:41.512Z",
+  "generatedAt": "2026-08-30T00:27:22.074Z",
+  "basedOnFetchedAt": "2026-08-30T00:27:22.012Z",
   "itemCount": 57,
-  "reviewItemCount": 13,
+  "reviewItemCount": 14,
   "archiveLimit": 200,
   "drafts": [
     {
@@ -1343,7 +1343,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
       "publishedAt": "2026-08-29 13:23",
-      "lastVerifiedAt": "2026-08-30 00:18",
+      "lastVerifiedAt": "2026-08-30 00:27",
       "extractionConfidence": "medium",
       "extractionPattern": "toby-collyer-west-brom-move",
       "needsVerification": false,
@@ -2090,6 +2090,37 @@
       "sourceCount": 3
     },
     {
+      "id": "draft:https://news.google.com/rss/articles/CBMiUkFVX3lxTE56Rzl4ZVZid0tvZmVqYVo2RVdNWS12Z1h1UHRKQU00R2hBX0RURjhoRVRUenFGc2tMcjRuZldpZ1J6WFZOX3l2dGhKbTQyV0JvNUE?oc=5",
+      "player": "Harvey Elliot",
+      "fromTeam": "Liverpool. — @MatteMoretto",
+      "toTeam": "🚨 𝗡𝗘𝗪: Valencia are currently having talks",
+      "league": "미분류",
+      "status": "루머",
+      "fee": "미정",
+      "sourceKey": "instagram-indirect-monitor",
+      "sourceTier": "low",
+      "sourceName": "Instagram 간접 검색 모니터",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56Rzl4ZVZid0tvZmVqYVo2RVdNWS12Z1h1UHRKQU00R2hBX0RURjhoRVRUenFGc2tMcjRuZldpZ1J6WFZOX3l2dGhKbTQyV0JvNUE?oc=5",
+      "sourceType": "자동 추출 초안",
+      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
+      "publishedAt": "2026-08-28 22:00",
+      "lastVerifiedAt": "2026-08-30 00:27",
+      "extractionConfidence": "medium",
+      "extractionPattern": "club-talks-to-sign-player",
+      "needsVerification": false,
+      "headlineTitle": "🚨 𝗡𝗘𝗪: Valencia are currently having talks to sign Harvey Elliot from Liverpool. — @MatteMoretto - instagram.com",
+      "sourceLinks": [
+        {
+          "sourceName": "Instagram 간접 검색 모니터",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56Rzl4ZVZid0tvZmVqYVo2RVdNWS12Z1h1UHRKQU00R2hBX0RURjhoRVRUenFGc2tMcjRuZldpZ1J6WFZOX3l2dGhKbTQyV0JvNUE?oc=5",
+          "sourceTier": "low",
+          "headlineTitle": "🚨 𝗡𝗘𝗪: Valencia are currently having talks to sign Harvey Elliot from Liverpool. — @MatteMoretto - instagram.com",
+          "publishedAt": "2026-08-28 22:00"
+        }
+      ],
+      "sourceCount": 1
+    },
+    {
       "id": "draft:https://news.google.com/rss/articles/CBMiekFVX3lxTE1UclVYbGlINWtMN0poZUZsN0U2S0kyN1R0b2ZoVHpFRWJ4X0lMLW5DZDdCOFpIU3cyeThadkF1VGM1WWRrX0ZvNWhMblBIR1JKX2ZXNXdKQUZteFl0eHNsOWE2Nkg1ZUJCZjVmLUxxcmJFdlBlRTI3Y3dn?oc=5",
       "player": "Igor Tyjon",
       "fromTeam": "소속팀 확인 중",
@@ -2235,7 +2266,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
       "publishedAt": "2026-08-29 18:14",
-      "lastVerifiedAt": "2026-08-30 00:18",
+      "lastVerifiedAt": "2026-08-30 00:27",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -2266,7 +2297,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
       "publishedAt": "2026-08-29 17:16",
-      "lastVerifiedAt": "2026-08-30 00:18",
+      "lastVerifiedAt": "2026-08-30 00:27",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
