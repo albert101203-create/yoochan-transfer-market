@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-30T00:36:07.388Z",
+  "fetchedAt": "2026-08-30T00:44:45.370Z",
   "itemCount": 120,
   "items": [
     {
@@ -133,6 +133,16 @@
       "status": "완료"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcWpOY1FUV2lFS3h3clZ4OXZaZFJlc2lNSEhhQjFqV19MUFh6T2x1YWItQmpZbTM0Yy1HU3B3Z0pSUGh5Wi1LNzM0eWJESGtzN282MzNnTmpmbXJtRm5DbEU5NTFlcUdDY2ljSHNJbEpKRVdWbHVYQURyc2hTQ0dxalF5Q0RqTEd5dnlCVFI0TWFkcVBrZzE2emhuQ2I5TV9KS0NMeExPWko4MFM5LVh0aTc2aE1fcHg0bnR4YzNZSjBtV0V2VkRKVHpiM3BRY1d4c1E?oc=5",
+      "title": "Transfer news LIVE: Arsenal announce deal; Barcola undergoes medical - London Evening Standard",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcWpOY1FUV2lFS3h3clZ4OXZaZFJlc2lNSEhhQjFqV19MUFh6T2x1YWItQmpZbTM0Yy1HU3B3Z0pSUGh5Wi1LNzM0eWJESGtzN282MzNnTmpmbXJtRm5DbEU5NTFlcUdDY2ljSHNJbEpKRVdWbHVYQURyc2hTQ0dxalF5Q0RqTEd5dnlCVFI0TWFkcVBrZzE2emhuQ2I5TV9KS0NMeExPWko4MFM5LVh0aTc2aE1fcHg0bnR4YzNZSjBtV0V2VkRKVHpiM3BRY1d4c1E?oc=5",
+      "publishedAt": "2026-08-29T23:38:53.000Z",
+      "summary": "Transfer news LIVE: Arsenal announce deal; Barcola undergoes medical &nbsp;&nbsp; London Evening Standard",
+      "sourceKey": "romano-monitor",
+      "sourceName": "Fabrizio Romano 검색 모니터",
+      "status": "루머"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwX3BXNkNDOGJKblMwcmVFOWlzNmJOSjMzNkp4amZ4eEFLTXU3cUxzUTZWNGVlQ2c3eFhSaTdBNjEybFg5dlJxeFMtTkt6NkRUSEE?oc=5",
       "title": "NEWS: #RIFC announces the transfer of defender Hamady Diop to Birmingham Legion FC for an undisclosed fee, pending league and federation approval. - instagram.com",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwX3BXNkNDOGJKblMwcmVFOWlzNmJOSjMzNkp4amZ4eEFLTXU3cUxzUTZWNGVlQ2c3eFhSaTdBNjEybFg5dlJxeFMtTkt6NkRUSEE?oc=5",
@@ -141,26 +151,6 @@
       "sourceKey": "instagram-indirect-monitor",
       "sourceName": "Instagram 간접 검색 모니터",
       "status": "업데이트"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTW1uQ1ZjWWlzOTViNVN0ekhqR2pjUXZhYmszM09wOXlsVnVZcVhWY3hsRHk5Vmx2TXpzM3oyX2hfREVScVl2MVlPTGVwblZOWFhaNGVmMnRPOXlYb1NwZ3RnUWlSaDh1UXhMamNtSW01RXZvUFJNTFBoVVZCZlNvVkRNS1BTR2lleWJOV0ZkOXdjTU9Gc3FGYmdjTTJQMDBKOTRZNkF4RmhIY2cyQW1Hdg?oc=5",
-      "title": "Roberto De Zerbi reveals transfer requests in three-man Tottenham update - London Evening Standard",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTW1uQ1ZjWWlzOTViNVN0ekhqR2pjUXZhYmszM09wOXlsVnVZcVhWY3hsRHk5Vmx2TXpzM3oyX2hfREVScVl2MVlPTGVwblZOWFhaNGVmMnRPOXlYb1NwZ3RnUWlSaDh1UXhMamNtSW01RXZvUFJNTFBoVVZCZlNvVkRNS1BTR2lleWJOV0ZkOXdjTU9Gc3FGYmdjTTJQMDBKOTRZNkF4RmhIY2cyQW1Hdg?oc=5",
-      "publishedAt": "2026-08-29T23:31:40.000Z",
-      "summary": "Roberto De Zerbi reveals transfer requests in three-man Tottenham update &nbsp;&nbsp; London Evening Standard",
-      "sourceKey": "tottenham-standard-monitor",
-      "sourceName": "The Standard Tottenham monitor",
-      "status": "업데이트"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcWpOY1FUV2lFS3h3clZ4OXZaZFJlc2lNSEhhQjFqV19MUFh6T2x1YWItQmpZbTM0Yy1HU3B3Z0pSUGh5Wi1LNzM0eWJESGtzN282MzNnTmpmbXJtRm5DbEU5NTFlcUdDY2ljSHNJbEpKRVdWbHVYQURyc2hTQ0dxalF5Q0RqTEd5dnlCVFI0TWFkcVBrZzE2emhuQ2I5TV9KS0NMeExPWko4MFM5LVh0aTc2aE1fcHg0bnR4YzNZSjBtV0V2VkRKVHpiM3BRY1d4c1E?oc=5",
-      "title": "Transfer news LIVE: Arsenal announce deal; Barcola undergoes medical - London Evening Standard",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcWpOY1FUV2lFS3h3clZ4OXZaZFJlc2lNSEhhQjFqV19MUFh6T2x1YWItQmpZbTM0Yy1HU3B3Z0pSUGh5Wi1LNzM0eWJESGtzN282MzNnTmpmbXJtRm5DbEU5NTFlcUdDY2ljSHNJbEpKRVdWbHVYQURyc2hTQ0dxalF5Q0RqTEd5dnlCVFI0TWFkcVBrZzE2emhuQ2I5TV9KS0NMeExPWko4MFM5LVh0aTc2aE1fcHg0bnR4YzNZSjBtV0V2VkRKVHpiM3BRY1d4c1E?oc=5",
-      "publishedAt": "2026-08-29T23:24:30.000Z",
-      "summary": "Transfer news LIVE: Arsenal announce deal; Barcola undergoes medical &nbsp;&nbsp; London Evening Standard",
-      "sourceKey": "romano-monitor",
-      "sourceName": "Fabrizio Romano 검색 모니터",
-      "status": "루머"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdTNZWXhWLUFCMUdpZ25xQnBnN01KcUVnSXNCeFgyaV8yMERLRk55NVpfOFBBQVZITTh2czRDblFQQkZYcGRXZnZmNG5nSmRhU0VUWTE3RzdhNG9TN2dvTHhRV2RuS0VxX3FkNTJmTGItY19FUVA5NUVZRE12SC1JS3Z6SFBpUkZueGRvNHNUNDQ5UjFxSUVvUGo2Nk1MWjdXa3pWUzB1STFnSXZLQkJMU2dpY1NDNmNhbFB6Zm0yNnFISU0wMmlPbExVUXpaLWs4YU1JczkzNkE?oc=5",
@@ -191,16 +181,6 @@
       "sourceKey": "instagram-indirect-monitor",
       "sourceName": "Instagram 간접 검색 모니터",
       "status": "완료"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZHQ1WXpLTzY0TkRuSUJhSWVpeG8xYklySVZJVkZUMVhxMWpHYlNDZWE5VGhoVzhfRDVuTTVzSWl6TlVsSVBsNG9QSmtSTU1EOFc3b2EtS3FMWnVJeTlYSzdKOTFPWWlSVVFTbno0VV91N0F5cGVXSHdpYjNIM0VBT2hpNXFaTGdzNktNa0pLQnpaRkNrbFhvRWxjM1RpZUpaSDZVdnFzR0dnMWs?oc=5",
-      "title": "Liverpool: Cody Gakpo 'chooses next club' as Tottenham learn new transfer decision - London Evening Standard",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZHQ1WXpLTzY0TkRuSUJhSWVpeG8xYklySVZJVkZUMVhxMWpHYlNDZWE5VGhoVzhfRDVuTTVzSWl6TlVsSVBsNG9QSmtSTU1EOFc3b2EtS3FMWnVJeTlYSzdKOTFPWWlSVVFTbno0VV91N0F5cGVXSHdpYjNIM0VBT2hpNXFaTGdzNktNa0pLQnpaRkNrbFhvRWxjM1RpZUpaSDZVdnFzR0dnMWs?oc=5",
-      "publishedAt": "2026-08-29T22:46:34.000Z",
-      "summary": "Liverpool: Cody Gakpo 'chooses next club' as Tottenham learn new transfer decision &nbsp;&nbsp; London Evening Standard",
-      "sourceKey": "tottenham-standard-monitor",
-      "sourceName": "The Standard Tottenham monitor",
-      "status": "업데이트"
     },
     {
       "id": "https://www.bbc.co.uk/sport/football/videos/cx2zwrwg5d4o?at_medium=RSS&at_campaign=rss",
@@ -291,6 +271,16 @@
       "sourceKey": "instagram-indirect-monitor",
       "sourceName": "Instagram 간접 검색 모니터",
       "status": "업데이트"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZUhKWWZCZjNOWkJWaFJjNUNTRlNfMDRCdW11bVVwRU85bTkybXVvYU5WQXE5MDZBa1lNS3NoOXcyU0IzdjU1TnE0YmZFckpDcFQtUmJ5Qy16T2VCRHVQRWY4bDVPMzJTSW0xQW43dTNBZUNKb1kxT05xbExBNVUtNQ?oc=5",
+      "title": "Rumour ranking: Assessing the top 20 transfer window whispers - Football365",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZUhKWWZCZjNOWkJWaFJjNUNTRlNfMDRCdW11bVVwRU85bTkybXVvYU5WQXE5MDZBa1lNS3NoOXcyU0IzdjU1TnE0YmZFckpDcFQtUmJ5Qy16T2VCRHVQRWY4bDVPMzJTSW0xQW43dTNBZUNKb1kxT05xbExBNVUtNQ?oc=5",
+      "publishedAt": "2026-08-29T21:05:29.000Z",
+      "summary": "Rumour ranking: Assessing the top 20 transfer window whispers &nbsp;&nbsp; Football365",
+      "sourceKey": "romano-monitor",
+      "sourceName": "Fabrizio Romano 검색 모니터",
+      "status": "루머"
     },
     {
       "id": "https://www.bbc.co.uk/sport/football/articles/c9v4d2z2p7yo?at_medium=RSS&at_campaign=rss",
@@ -384,10 +374,10 @@
     },
     {
       "id": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcFJYTnBjbC1ua2NnRk0tdXJJaGtpR1ZEOVZNb2xEdy10a0RCQ1lLYjdrVzBsTzFuazZqMFpSc2M3QjJuV3Jud3JJWE9NLVlMUkRST194Sy1idUxwSkowYjhxblNJc1M3c0xXUnRZZTRJc1RSYzg0dkdKYWlvcWZla0xieC1LQQ?oc=5",
-      "title": "Liverpool: Cody Gakpo 'chooses next club' as Tottenham learn new transfer decision - aol.co.uk",
+      "title": "Liverpool: Cody Gakpo 'chooses next club' as Tottenham learn new transfer decision - AOL.co.uk",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcFJYTnBjbC1ua2NnRk0tdXJJaGtpR1ZEOVZNb2xEdy10a0RCQ1lLYjdrVzBsTzFuazZqMFpSc2M3QjJuV3Jud3JJWE9NLVlMUkRST194Sy1idUxwSkowYjhxblNJc1M3c0xXUnRZZTRJc1RSYzg0dkdKYWlvcWZla0xieC1LQQ?oc=5",
       "publishedAt": "2026-08-29T19:33:01.000Z",
-      "summary": "Liverpool: Cody Gakpo 'chooses next club' as Tottenham learn new transfer decision &nbsp;&nbsp; aol.co.uk",
+      "summary": "Liverpool: Cody Gakpo 'chooses next club' as Tottenham learn new transfer decision &nbsp;&nbsp; AOL.co.uk",
       "sourceKey": "ornstein-monitor",
       "sourceName": "David Ornstein 검색 모니터",
       "status": "업데이트"
@@ -420,16 +410,6 @@
       "summary": "Sky Sports football sitemap에서 가져온 실시간 헤드라인입니다.",
       "sourceKey": "sky-sports",
       "sourceName": "Sky Sports",
-      "status": "루머"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWnExaXNZOFVtRXFzMTNNdi1qZ0NJSWRBOGgzVmJmd05ISFYtYmpWdVJ1S1dZNkV6bzY2NUxHMTliOWNBejJMR0F6Q1hPQk8ycElDODQwM1lMUUtmc3dLVnYwS3lZbDY2X0tBMjNWV3huZVBfUGNab3YyV3UtOWVRV0NuUVdZTllsa2dUcVhOR0o?oc=5",
-      "title": "Fabrizio Romano confirms superstar set to jet into Liverpool as agreement reached - Yahoo Sports",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWnExaXNZOFVtRXFzMTNNdi1qZ0NJSWRBOGgzVmJmd05ISFYtYmpWdVJ1S1dZNkV6bzY2NUxHMTliOWNBejJMR0F6Q1hPQk8ycElDODQwM1lMUUtmc3dLVnYwS3lZbDY2X0tBMjNWV3huZVBfUGNab3YyV3UtOWVRV0NuUVdZTllsa2dUcVhOR0o?oc=5",
-      "publishedAt": "2026-08-29T19:20:00.000Z",
-      "summary": "Fabrizio Romano confirms superstar set to jet into Liverpool as agreement reached &nbsp;&nbsp; Yahoo Sports",
-      "sourceKey": "romano-monitor",
-      "sourceName": "Fabrizio Romano 검색 모니터",
       "status": "루머"
     },
     {
@@ -623,16 +603,6 @@
       "status": "업데이트"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdnFUbl9OV3RsMVFMWGt0R2FkWW1VVWlZanpkeXFpTkV3QUhuWGQ1WTFpeVdlX3RuaDUzb2lkbkZKeUVKYjlqZVVSRGw5ZjBQY3pZWk0zVHBnTmpXeDdwaDFxX0o4bGNIalZnU0ZGdkxsekRPT0lfbXdoRk9oR3ZjcnhKUHl1NmF1Z3lQanlzV2ktSzFTLWdxZGVjX2ZkRlMtRXlSdg?oc=5",
-      "title": "De Zerbi explains Savio absence as new Spurs signing misses Newcastle clash - London Evening Standard",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdnFUbl9OV3RsMVFMWGt0R2FkWW1VVWlZanpkeXFpTkV3QUhuWGQ1WTFpeVdlX3RuaDUzb2lkbkZKeUVKYjlqZVVSRGw5ZjBQY3pZWk0zVHBnTmpXeDdwaDFxX0o4bGNIalZnU0ZGdkxsekRPT0lfbXdoRk9oR3ZjcnhKUHl1NmF1Z3lQanlzV2ktSzFTLWdxZGVjX2ZkRlMtRXlSdg?oc=5",
-      "publishedAt": "2026-08-29T15:56:44.000Z",
-      "summary": "De Zerbi explains Savio absence as new Spurs signing misses Newcastle clash &nbsp;&nbsp; London Evening Standard",
-      "sourceKey": "tottenham-standard-monitor",
-      "sourceName": "The Standard Tottenham monitor",
-      "status": "업데이트"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XeUhULTZtMFVtcngyMmNBeHdaak0wSWJJVk5tSmdFMXlZaU9GeTJ1SGJ3UDJleFBvemd2cVlya2JfYTl2WkswZmFuOF9UMnZ0Vm00SmlHMWdfVVlpdktPT2RmbWZfOXc?oc=5",
       "title": "Daniel Munoz: Nottingham Forest agree deal to sign Crystal Palace defender - BBC",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XeUhULTZtMFVtcngyMmNBeHdaak0wSWJJVk5tSmdFMXlZaU9GeTJ1SGJ3UDJleFBvemd2cVlya2JfYTl2WkswZmFuOF9UMnZ0Vm00SmlHMWdfVVlpdktPT2RmbWZfOXc?oc=5",
@@ -680,6 +650,16 @@
       "summary": "Here we go – Real Madrid set to sign La Liga midfielder in €3m deal, contract until 2030 &nbsp;&nbsp; Yahoo Sports",
       "sourceKey": "romano-monitor",
       "sourceName": "Fabrizio Romano 검색 모니터",
+      "status": "루머"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54SGpNYm8wRVRQY0VRd1N5Z29yTEtycFlIT256UnI0SHozZldfdk9NTFpRYmJRYmtuTUhaX2x6NzFyNVdpX1hndVRaR0wzeG8weWlhUmF2TzBRUmM?oc=5",
+      "title": "Arsenal Transfer News: Arsenal Exploring Vinicius Junior Transfer! 💣 David Ornstein Bomba Reaction⁠ Alessandro Giuli (UZYusxmLvX) - Mshale",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54SGpNYm8wRVRQY0VRd1N5Z29yTEtycFlIT256UnI0SHozZldfdk9NTFpRYmJRYmtuTUhaX2x6NzFyNVdpX1hndVRaR0wzeG8weWlhUmF2TzBRUmM?oc=5",
+      "publishedAt": "2026-08-29T13:44:55.000Z",
+      "summary": "Arsenal Transfer News: Arsenal Exploring Vinicius Junior Transfer! 💣 David Ornstein Bomba Reaction⁠ Alessandro Giuli (UZYusxmLvX) &nbsp;&nbsp; Mshale",
+      "sourceKey": "ornstein-monitor",
+      "sourceName": "David Ornstein 검색 모니터",
       "status": "루머"
     },
     {
@@ -1113,16 +1093,6 @@
       "status": "업데이트"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCbVJTVDlvaVFRVFVEaV9weUVXdWl5cjZvMERzdHhvZEdGRy11MjhIWU9LSHoyUkVFU2xiNWJMOHVNV2U1LWNTZWt4N1daUE9NNmc?oc=5",
-      "title": "Negocjacje pomiędzy AS Monaco a Chelsea w sprawie Lamine'a Camary znacząco posunęły się naprzód w ciągu ostatnich kilku godzin. Chelsea ma teraz nadzieję sfinalizować transfer senegalskiego pomocnika jeszcze w ten weekend. Jeśli wszystko pójdzi - instagram.com",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCbVJTVDlvaVFRVFVEaV9weUVXdWl5cjZvMERzdHhvZEdGRy11MjhIWU9LSHoyUkVFU2xiNWJMOHVNV2U1LWNTZWt4N1daUE9NNmc?oc=5",
-      "publishedAt": "2026-08-28T23:19:10.000Z",
-      "summary": "Negocjacje pomiędzy AS Monaco a Chelsea w sprawie Lamine'a Camary znacząco posunęły się naprzód w ciągu ostatnich kilku godzin. Chelsea ma teraz nadzieję sfinalizować transfer senegalskiego pomocnika jeszcze w ten weekend. Jeśli wszystko pójdzi &nbsp;&nbsp; instagram.com",
-      "sourceKey": "instagram-indirect-monitor",
-      "sourceName": "Instagram 간접 검색 모니터",
-      "status": "업데이트"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9fcjEwSnBvejdPd202bnJfUVl0UkFxTTNCUW5ZSE5oc3ZLLU03Tm9zbDRqLW1GZkQxamEzM1RmZ1NjeGlfbTJDdWMwLUlJcG53MVE?oc=5",
       "title": "🚨 Selon Santi Aouna de Footmercato, les négociations entre Monaco et Chelsea ont beaucoup avancé dans la journée. Le club londonien espère signer Lamine Camara🦁🇸🇳 durant le weekend avant la fin du mercato. Que pensez-vous de ce potentiel transf - instagram.com",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9fcjEwSnBvejdPd202bnJfUVl0UkFxTTNCUW5ZSE5oc3ZLLU03Tm9zbDRqLW1GZkQxamEzM1RmZ1NjeGlfbTJDdWMwLUlJcG53MVE?oc=5",
@@ -1201,6 +1171,36 @@
       "sourceKey": "romano-monitor",
       "sourceName": "Fabrizio Romano 검색 모니터",
       "status": "루머"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5eko3bkYzNlMySVg2NEloQXBDZkVTNEpEd19EQ3BzTWVYeF9QU25oa0xaZUxqQ1AtT3pOR0VEY0JuTk13WjVLYlRCMWxBV1o2bG1EeW0yY0RsWFU?oc=5",
+      "title": "Fabrizio Romano: Arsenal Tracking Valdepeñas + Pulisic Linked As “Next Salah” | Transfer Update South East Water (Zk9oCC5d5T) - Mshale",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5eko3bkYzNlMySVg2NEloQXBDZkVTNEpEd19EQ3BzTWVYeF9QU25oa0xaZUxqQ1AtT3pOR0VEY0JuTk13WjVLYlRCMWxBV1o2bG1EeW0yY0RsWFU?oc=5",
+      "publishedAt": "2026-08-28T21:39:17.000Z",
+      "summary": "Fabrizio Romano: Arsenal Tracking Valdepeñas + Pulisic Linked As “Next Salah” | Transfer Update South East Water (Zk9oCC5d5T) &nbsp;&nbsp; Mshale",
+      "sourceKey": "romano-monitor",
+      "sourceName": "Fabrizio Romano 검색 모니터",
+      "status": "루머"
+    },
+    {
+      "id": "https://www.skysports.com/football/live-blog/11688/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
+      "title": "Championship news, transfer latest and gossip plus EFL updates from League One and League Two",
+      "url": "https://www.skysports.com/football/live-blog/11688/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
+      "publishedAt": "2026-08-28T21:38:00.000Z",
+      "summary": "Sky Sports football sitemap에서 가져온 실시간 헤드라인입니다.",
+      "sourceKey": "sky-sports",
+      "sourceName": "Sky Sports",
+      "status": "업데이트"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbHlmSElmNDViYmR2blhhWFltV29sRjhnVm42bXZuWnJRaWxIXzdUOFVKaURXRjFMWk0tQjJwYTA1ZjFFVVl3VHlSY2trdlhOa3B3TTVZS3VaeUlmNVJ4MVptS01oaWlKaGhGM3JnMzBoa1prNVlvUEJvSHdCS2JSOWQ2dHJ4Tm5iYzRtMmZ4VlUtTmd1a3hSd21vX1JJYknSAaQBQVVfeXFMT05qazV0RXFfU0ZsNmcyOWNEc3huVHVNTzMwR09abl8tS1hnUWFlSXVuSVlveXItdnRRZjEwLW1TaDhSMUJNU3JIZDZfN20xQlVuZGVmOTdhcm1tZ0lTSE12WHFDREQ0ZS1RbWotb2N6Z3p1NTE0UWJDV2ZfazM4NlItSERDc015RDhsOE53elMxNTVIREpxYUQ1SzV5dUNyTE43RHY?oc=5",
+      "title": "De Zerbi opens up on transfer dinner with Tottenham owners and big Kulusevski update - Football London",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbHlmSElmNDViYmR2blhhWFltV29sRjhnVm42bXZuWnJRaWxIXzdUOFVKaURXRjFMWk0tQjJwYTA1ZjFFVVl3VHlSY2trdlhOa3B3TTVZS3VaeUlmNVJ4MVptS01oaWlKaGhGM3JnMzBoa1prNVlvUEJvSHdCS2JSOWQ2dHJ4Tm5iYzRtMmZ4VlUtTmd1a3hSd21vX1JJYknSAaQBQVVfeXFMT05qazV0RXFfU0ZsNmcyOWNEc3huVHVNTzMwR09abl8tS1hnUWFlSXVuSVlveXItdnRRZjEwLW1TaDhSMUJNU3JIZDZfN20xQlVuZGVmOTdhcm1tZ0lTSE12WHFDREQ0ZS1RbWotb2N6Z3p1NTE0UWJDV2ZfazM4NlItSERDc015RDhsOE53elMxNTVIREpxYUQ1SzV5dUNyTE43RHY?oc=5",
+      "publishedAt": "2026-08-28T21:36:51.000Z",
+      "summary": "De Zerbi opens up on transfer dinner with Tottenham owners and big Kulusevski update &nbsp;&nbsp; Football London",
+      "sourceKey": "tottenham-football-london-monitor",
+      "sourceName": "Football.London Tottenham monitor",
+      "status": "업데이트"
     }
   ],
   "sourceHealth": [
@@ -1227,17 +1227,17 @@
     {
       "source": "Fabrizio Romano Google News",
       "ok": true,
-      "count": 93
+      "count": 94
     },
     {
       "source": "David Ornstein Google News",
       "ok": true,
-      "count": 88
+      "count": 90
     },
     {
       "source": "The Athletic Google News",
       "ok": true,
-      "count": 18
+      "count": 13
     },
     {
       "source": "Gianluca Di Marzio Google News",
@@ -1267,7 +1267,7 @@
     {
       "source": "Santi Aouna Google News",
       "ok": true,
-      "count": 59
+      "count": 60
     },
     {
       "source": "Tom Barclay Google News",
@@ -1277,7 +1277,7 @@
     {
       "source": "Sami Mokbel Google News",
       "ok": true,
-      "count": 60
+      "count": 61
     },
     {
       "source": "Mike McGrath Google News",
@@ -1287,7 +1287,7 @@
     {
       "source": "James Pearce Google News",
       "ok": true,
-      "count": 45
+      "count": 46
     },
     {
       "source": "Laurie Whitwell Google News",
@@ -1297,7 +1297,7 @@
     {
       "source": "Simon Stone Google News",
       "ok": true,
-      "count": 46
+      "count": 45
     },
     {
       "source": "Rob Dawson Google News",
@@ -1312,7 +1312,7 @@
     {
       "source": "David Hytner Google News",
       "ok": true,
-      "count": 32
+      "count": 34
     },
     {
       "source": "Paul Joyce Google News",
@@ -1377,7 +1377,7 @@
     {
       "source": "Bayern official-site monitor",
       "ok": true,
-      "count": 45
+      "count": 44
     },
     {
       "source": "Manchester City official-site monitor",
@@ -1437,12 +1437,12 @@
     {
       "source": "The Standard Tottenham monitor",
       "ok": true,
-      "count": 63
+      "count": 87
     },
     {
       "source": "The Athletic Tottenham monitor",
       "ok": true,
-      "count": 7
+      "count": 6
     },
     {
       "source": "Sky Sports Tottenham monitor",
