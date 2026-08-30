@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-30T16:33:46.770Z",
+  "fetchedAt": "2026-08-30T16:42:28.168Z",
   "itemCount": 120,
   "items": [
     {
@@ -123,6 +123,46 @@
       "status": "업데이트"
     },
     {
+      "id": "bluesky:at://did:plc:j62szermx6ods7lp3xqyembx/app.bsky.feed.post/3muctb7ys722s",
+      "title": "🚨 Aston Villa finalising deal with Southampton to sign Taylor Harwood-Bellis. Structure of £30m including add-ons package in place; work ongoing but set to close agreement for 24yo to join #AVFC from #SaintsFC 🚨 W/ @jacobtanswell.bsky.social @theathleticfc.bsky.social www.nytimes.com/athletic/751...",
+      "url": "https://bsky.app/profile/david-ornstein.bsky.social/post/3muctb7ys722s",
+      "publishedAt": "2026-08-30T16:37:49.345Z",
+      "summary": "Bluesky @david-ornstein.bsky.social 공개 게시물",
+      "sourceKey": "bluesky-ornstein",
+      "sourceName": "David Ornstein Bluesky",
+      "status": "완료"
+    },
+    {
+      "id": "https://www.skysports.com/football/live-blog/11741/13279295/brighton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "title": "Brighton transfers, latest news, rumours and gossip: Live updates, goals and highlights",
+      "url": "https://www.skysports.com/football/live-blog/11741/13279295/brighton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "publishedAt": "2026-08-30T16:35:00.000Z",
+      "summary": "Sky Sports football sitemap에서 가져온 실시간 헤드라인입니다.",
+      "sourceKey": "sky-sports",
+      "sourceName": "Sky Sports",
+      "status": "루머"
+    },
+    {
+      "id": "https://www.skysports.com/football/live-blog/11095/13279280/brentford-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "title": "Brentford transfers, latest news, rumours and gossip: Live updates, goals and highlights",
+      "url": "https://www.skysports.com/football/live-blog/11095/13279280/brentford-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
+      "publishedAt": "2026-08-30T16:27:00.000Z",
+      "summary": "Sky Sports football sitemap에서 가져온 실시간 헤드라인입니다.",
+      "sourceKey": "sky-sports",
+      "sourceName": "Sky Sports",
+      "status": "루머"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5nQ0hERjRzLURnenNlNGNFSExTS1RxMDVkYnMxWGNaTjB4c3FjOVltREo3TkNwZV8xelZjeUVmSElkLU14d3FFc1Zsb0EzZlU5MEE?oc=5",
+      "title": "After seven years at Arsenal, Gabriel Martinelli is leaving the club and will sign with Al-Hilal in a deal worth around $75M, per multiple reports. The Gunners' biggest-ever sale 💰 - instagram.com",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5nQ0hERjRzLURnenNlNGNFSExTS1RxMDVkYnMxWGNaTjB4c3FjOVltREo3TkNwZV8xelZjeUVmSElkLU14d3FFc1Zsb0EzZlU5MEE?oc=5",
+      "publishedAt": "2026-08-30T16:26:58.000Z",
+      "summary": "After seven years at Arsenal, Gabriel Martinelli is leaving the club and will sign with Al-Hilal in a deal worth around $75M, per multiple reports. The Gunners' biggest-ever sale 💰 &nbsp;&nbsp; instagram.com",
+      "sourceKey": "instagram-indirect-monitor",
+      "sourceName": "Instagram 간접 검색 모니터",
+      "status": "업데이트"
+    },
+    {
       "id": "https://www.bbc.co.uk/sport/football/articles/c9v4d2z2p7yo?at_medium=RSS&at_campaign=rss",
       "title": "All done deals in August 2026",
       "url": "https://www.bbc.co.uk/sport/football/articles/c9v4d2z2p7yo?at_medium=RSS&at_campaign=rss",
@@ -130,16 +170,6 @@
       "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
       "sourceKey": "bbc-sport",
       "sourceName": "BBC Sport",
-      "status": "업데이트"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNXzV3QjRzWi05SThocENvWUlMVDcwQ3BNVUlGV1I3YkJPMl9LbzItWW5hWFhrYTU3WVVkSTlCMmF1UGNOYk1DOXZQdElpVkIwRFo1bU4zWXVfZ25sT2JTNDRUQ0FnWTVtZm9RNlBwX0dTTW5NVDdMM3ZQYlg5bXVMaVRsQmZoQkFfWTBxVWlkOHJfNy1BZW5JMFI2cEdaTEJWWXJN?oc=5",
-      "title": "Arsenal Agree Brazilian Gabriel Martinelli Deal With Al Hilal For Around €65m - TVC News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNXzV3QjRzWi05SThocENvWUlMVDcwQ3BNVUlGV1I3YkJPMl9LbzItWW5hWFhrYTU3WVVkSTlCMmF1UGNOYk1DOXZQdElpVkIwRFo1bU4zWXVfZ25sT2JTNDRUQ0FnWTVtZm9RNlBwX0dTTW5NVDdMM3ZQYlg5bXVMaVRsQmZoQkFfWTBxVWlkOHJfNy1BZW5JMFI2cEdaTEJWWXJN?oc=5",
-      "publishedAt": "2026-08-30T16:20:00.000Z",
-      "summary": "Arsenal Agree Brazilian Gabriel Martinelli Deal With Al Hilal For Around €65m &nbsp;&nbsp; TVC News",
-      "sourceKey": "romano-monitor",
-      "sourceName": "Fabrizio Romano 검색 모니터",
       "status": "업데이트"
     },
     {
@@ -353,13 +383,13 @@
       "status": "루머"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5nQ0hERjRzLURnenNlNGNFSExTS1RxMDVkYnMxWGNaTjB4c3FjOVltREo3TkNwZV8xelZjeUVmSElkLU14d3FFc1Zsb0EzZlU5MEE?oc=5",
-      "title": "After seven years at Arsenal, Gabriel Martinelli is leaving the club and will sign with Al-Hilal in a deal worth around $75M, per multiple reports. The Gunners' biggest-ever sale 💰 - instagram.com",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5nQ0hERjRzLURnenNlNGNFSExTS1RxMDVkYnMxWGNaTjB4c3FjOVltREo3TkNwZV8xelZjeUVmSElkLU14d3FFc1Zsb0EzZlU5MEE?oc=5",
-      "publishedAt": "2026-08-30T13:58:44.000Z",
-      "summary": "After seven years at Arsenal, Gabriel Martinelli is leaving the club and will sign with Al-Hilal in a deal worth around $75M, per multiple reports. The Gunners' biggest-ever sale 💰 &nbsp;&nbsp; instagram.com",
-      "sourceKey": "instagram-indirect-monitor",
-      "sourceName": "Instagram 간접 검색 모니터",
+      "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOU2tuc3VGcHNXZnY0czVETVdEbEwyY2l0TWs4aGVnSElWWl85MFYtVmNUTjdnX0dYSjdseWcxWUllRWJuN0VKN1JGNjVGTXlzMm1OOTA4Ty1GYWdCZ0hocXI0Y1pHTUdhVFBqVFR3UnVHc0trTkZXbU5vRDJqaFlCOTJJSlNWMVM4NkYtdzZyVHFyUXNOWlR5UmRWTkE4bDBjVUk2dzJOaFY?oc=5",
+      "title": "HERE WE GO! Arsenal agree £56.5million deal ahead of Deadline Day - now.arsenal",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOU2tuc3VGcHNXZnY0czVETVdEbEwyY2l0TWs4aGVnSElWWl85MFYtVmNUTjdnX0dYSjdseWcxWUllRWJuN0VKN1JGNjVGTXlzMm1OOTA4Ty1GYWdCZ0hocXI0Y1pHTUdhVFBqVFR3UnVHc0trTkZXbU5vRDJqaFlCOTJJSlNWMVM4NkYtdzZyVHFyUXNOWlR5UmRWTkE4bDBjVUk2dzJOaFY?oc=5",
+      "publishedAt": "2026-08-30T13:41:50.000Z",
+      "summary": "HERE WE GO! Arsenal agree £56.5million deal ahead of Deadline Day &nbsp;&nbsp; now.arsenal",
+      "sourceKey": "romano-monitor",
+      "sourceName": "Fabrizio Romano 검색 모니터",
       "status": "업데이트"
     },
     {
@@ -371,6 +401,16 @@
       "sourceKey": "romano-monitor",
       "sourceName": "Fabrizio Romano 검색 모니터",
       "status": "업데이트"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYnFObHZzV1p2NXI0cng0ZmEwTFVZbWV1TUk5X2RXLV9JdUJUX2tlXzc5UzhkQk5DSEVMdTE1V3FlNUhMdHNyX1NtNjZQV0l0VXR1QTRSWm4wN2JFS1BEMTBTU1hLcU00bTVUQS1XeGRjYXZFcE51VFhfLVdaRDB1WGJmZ0FPV0N1b2ZVNFozYWt2RmNNekpyY1pHc0fSAaIBQVVfeXFMTm1vZHY1Qmp2TEg4SkZtTmVyQVhlTVRHM3hjeXRDZGlKaUZfaEpVT1pkTXBlZ2NsZ3FkNDQtZ0xUR3V6YmxDV0Z5aDQ5bVdhWHVOZ1pCSkRpSFNFdUQ5eHVrZ19jRHh3OGJyWHE1alM4N1NOOFJsNDFQdVgyQ3d6dzdXcE1mRW00R28tbmtpNXJKUDdiMWpKZGFhYVRpdjJNdFNB?oc=5",
+      "title": "Arsenal transfer news LIVE: Julian Alvarez decision, Barcelona agreement, Fabio Vieira exit - Football London",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYnFObHZzV1p2NXI0cng0ZmEwTFVZbWV1TUk5X2RXLV9JdUJUX2tlXzc5UzhkQk5DSEVMdTE1V3FlNUhMdHNyX1NtNjZQV0l0VXR1QTRSWm4wN2JFS1BEMTBTU1hLcU00bTVUQS1XeGRjYXZFcE51VFhfLVdaRDB1WGJmZ0FPV0N1b2ZVNFozYWt2RmNNekpyY1pHc0fSAaIBQVVfeXFMTm1vZHY1Qmp2TEg4SkZtTmVyQVhlTVRHM3hjeXRDZGlKaUZfaEpVT1pkTXBlZ2NsZ3FkNDQtZ0xUR3V6YmxDV0Z5aDQ5bVdhWHVOZ1pCSkRpSFNFdUQ5eHVrZ19jRHh3OGJyWHE1alM4N1NOOFJsNDFQdVgyQ3d6dzdXcE1mRW00R28tbmtpNXJKUDdiMWpKZGFhYVRpdjJNdFNB?oc=5",
+      "publishedAt": "2026-08-30T13:39:53.000Z",
+      "summary": "Arsenal transfer news LIVE: Julian Alvarez decision, Barcelona agreement, Fabio Vieira exit &nbsp;&nbsp; Football London",
+      "sourceKey": "romano-monitor",
+      "sourceName": "Fabrizio Romano 검색 모니터",
+      "status": "루머"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5KNEJiNkpmNkJXR0ItQ2FUM0Jhald2b2p5eWRwMUY5Sk50MUd3bTVPM1Zqa0drODZJbWljQ2RhdlJkb245Mm8zVkJSa2pzT3lEZWc?oc=5",
@@ -523,16 +563,6 @@
       "status": "업데이트"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTXN6NWI2alotdXBCVXVpSVp6bE9sV2xfTS1wS3RaaXRxTHZoRmM3Z2YxbVpHdlZ0WmxKU0Njdy01MHFHWFRnRkJDYnFiR2N1T19ieG5pemZnSEFUOFpyU3ZNSUpJdGs0ODhlUVdCYTVlXzgybmQyOW93a3FmcnBUM1VrX3FzaWNI0gGOAUFVX3lxTE1zRVdRWnRRN0xnbzZGd1p0d0E5dzJ6NnNuQU5nU2lMSjc0bHNUU3FEX2VkRW1wdHNXMTRVNVVRd1VwamZLbHZxXzFRdEZoRldwYXVSbE9udjVjQXlCdkV4WlJmR3BraDVYTy00dkRiWk1HUEZ3WlRjNVBqT3pwV1pLZXdOTXY2WFRDaW5KVHc?oc=5",
-      "title": "Virgil van Dijk’s message to Liverpool chiefs over Cody Gakpo transfer could not be any clearer - The Empire of The Kop",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTXN6NWI2alotdXBCVXVpSVp6bE9sV2xfTS1wS3RaaXRxTHZoRmM3Z2YxbVpHdlZ0WmxKU0Njdy01MHFHWFRnRkJDYnFiR2N1T19ieG5pemZnSEFUOFpyU3ZNSUpJdGs0ODhlUVdCYTVlXzgybmQyOW93a3FmcnBUM1VrX3FzaWNI0gGOAUFVX3lxTE1zRVdRWnRRN0xnbzZGd1p0d0E5dzJ6NnNuQU5nU2lMSjc0bHNUU3FEX2VkRW1wdHNXMTRVNVVRd1VwamZLbHZxXzFRdEZoRldwYXVSbE9udjVjQXlCdkV4WlJmR3BraDVYTy00dkRiWk1HUEZ3WlRjNVBqT3pwV1pLZXdOTXY2WFRDaW5KVHc?oc=5",
-      "publishedAt": "2026-08-30T11:45:31.000Z",
-      "summary": "Virgil van Dijk’s message to Liverpool chiefs over Cody Gakpo transfer could not be any clearer &nbsp;&nbsp; The Empire of The Kop",
-      "sourceKey": "romano-monitor",
-      "sourceName": "Fabrizio Romano 검색 모니터",
-      "status": "루머"
-    },
-    {
       "id": "https://www.skysports.com/football/live-blog/11710/13541482/coventry-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
       "title": "Coventry transfers, latest news, rumours and gossip: Live updates, goals and highlights",
       "url": "https://www.skysports.com/football/live-blog/11710/13541482/coventry-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
@@ -670,6 +700,16 @@
       "summary": "Tottenham reach agreement to sign Iliman Ndiaye with Richarlison heading back to Everton &nbsp;&nbsp; The New York Times",
       "sourceKey": "ornstein-monitor",
       "sourceName": "David Ornstein 검색 모니터",
+      "status": "업데이트"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1qN1Z4eTdyVG5mSl9ST0dyYS01Uk5wUnF2QlZrZmV4V0Itdjhzc2NHcjlHYS0tcHUyMXoxRUdrRmVHbmJvTFpjcGpTVkxPWHNjUk1YMXVOdXZSbDlfUXNEOGhRSHV4MTFVT1NFQ1kwdWhtWGs?oc=5",
+      "title": "Midday transfer round-up 💰 - OneFootball",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1qN1Z4eTdyVG5mSl9ST0dyYS01Uk5wUnF2QlZrZmV4V0Itdjhzc2NHcjlHYS0tcHUyMXoxRUdrRmVHbmJvTFpjcGpTVkxPWHNjUk1YMXVOdXZSbDlfUXNEOGhRSHV4MTFVT1NFQ1kwdWhtWGs?oc=5",
+      "publishedAt": "2026-08-30T10:18:36.000Z",
+      "summary": "Midday transfer round-up 💰 &nbsp;&nbsp; OneFootball",
+      "sourceKey": "romano-monitor",
+      "sourceName": "Fabrizio Romano 검색 모니터",
       "status": "업데이트"
     },
     {
@@ -1133,16 +1173,6 @@
       "status": "업데이트"
     },
     {
-      "id": "https://www.skysports.com/football/live-blog/11095/13279280/brentford-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "title": "Brentford transfers, latest news, rumours and gossip: Live updates, goals and highlights",
-      "url": "https://www.skysports.com/football/live-blog/11095/13279280/brentford-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "publishedAt": "2026-08-29T17:20:00.000Z",
-      "summary": "Sky Sports football sitemap에서 가져온 실시간 헤드라인입니다.",
-      "sourceKey": "sky-sports",
-      "sourceName": "Sky Sports",
-      "status": "루머"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMTYyS0R1V3ZUV0EzSXJ0NjBBaW1tQ2Nzb0RnSjJVdkNTLVZMZFppckhzS2hxSGpLZjA1VmgtTDd6ZzFNeVUxQTkxU0pvRFF5dXVxT0trZ21vX2pVZ0pSVWVWNGlVTDFkamtRc0VRcWJHaE5YQzJrMkVtS2tNVmVXdVczSHZ4T3dfdUNMMWJpREs1UQ?oc=5",
       "title": "Nottingham Forest agree £22m Daniel Munoz transfer with Crystal Palace - The Athletic - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMTYyS0R1V3ZUV0EzSXJ0NjBBaW1tQ2Nzb0RnSjJVdkNTLVZMZFppckhzS2hxSGpLZjA1VmgtTDd6ZzFNeVUxQTkxU0pvRFF5dXVxT0trZ21vX2pVZ0pSVWVWNGlVTDFkamtRc0VRcWJHaE5YQzJrMkVtS2tNVmVXdVczSHZ4T3dfdUNMMWJpREs1UQ?oc=5",
@@ -1171,36 +1201,6 @@
       "sourceKey": "bluesky-ornstein",
       "sourceName": "David Ornstein Bluesky",
       "status": "완료"
-    },
-    {
-      "id": "https://www.bbc.co.uk/sport/football/articles/c39m0vmgxrgo?at_medium=RSS&at_campaign=rss",
-      "title": "Forest agree £22m deal with Palace for Munoz",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c39m0vmgxrgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-29T16:43:25.000Z",
-      "summary": "Nottingham Forest agree a deal worth a minimum of £22m to sign Daniel Munoz from Crystal Palace.",
-      "sourceKey": "bbc-sport",
-      "sourceName": "BBC Sport",
-      "status": "업데이트"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPd211T3QzVzhPQVlselRvQVYzaU9uWkYtOUtGeEpJZ05TWUtSZnpSMDY0TzctUFVQNGozWE9JeTR6R1BnSVhNUG9nZjAteE15UVphWHZEUTZxakpBbjBoVzBsNjduV2tUNE9WZWFNeHIzOVJvTDA4UEJsdUozcmJBZmxZSlpWa2twNTVjYUs1dTJqR2lxeHZQcmdKZw?oc=5",
-      "title": "Eight Times Fabrizio Romano Got His Famous Here We Go Completely Wrong - Sportscape Magazine",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPd211T3QzVzhPQVlselRvQVYzaU9uWkYtOUtGeEpJZ05TWUtSZnpSMDY0TzctUFVQNGozWE9JeTR6R1BnSVhNUG9nZjAteE15UVphWHZEUTZxakpBbjBoVzBsNjduV2tUNE9WZWFNeHIzOVJvTDA4UEJsdUozcmJBZmxZSlpWa2twNTVjYUs1dTJqR2lxeHZQcmdKZw?oc=5",
-      "publishedAt": "2026-08-29T16:25:04.000Z",
-      "summary": "Eight Times Fabrizio Romano Got His Famous Here We Go Completely Wrong &nbsp;&nbsp; Sportscape Magazine",
-      "sourceKey": "romano-monitor",
-      "sourceName": "Fabrizio Romano 검색 모니터",
-      "status": "업데이트"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/aug/29/watford-west-ham-championship-match-report",
-      "title": "Amin Nabizada sparkles for Watford as draw puts pressure on West Ham’s Nuno",
-      "url": "https://www.theguardian.com/football/2026/aug/29/watford-west-ham-championship-match-report",
-      "publishedAt": "2026-08-29T16:15:30.000Z",
-      "summary": "When a club is an established part of English football’s upper echelons, plays its home games inside a 68,000-seater stadium, and promptly breaks the Championship transfer record following relegation from the top flight , there are expectations that naturally follow. By all accounts, West Ham were supposed to breeze through what is only meant to be a brief dalliance with a second-tier existence. To be winless three league matches into the season was inconceivable. If the travelling contingent’s boos after this draw at Watford were fleeting, their subsequent burst of “you’re getting sacked in the morning” directed at their team’s manager left no ambiguity. No matter how embryonic this campaign is, the repeated impotency is already unacceptable, and now Nuno Espírito Santo is in the firing line. Continue reading...",
-      "sourceKey": "guardian-football",
-      "sourceName": "The Guardian Football",
-      "status": "업데이트"
     }
   ],
   "sourceHealth": [
@@ -1212,7 +1212,7 @@
     {
       "source": "Sky Sports sitemap",
       "ok": true,
-      "count": 31
+      "count": 32
     },
     {
       "source": "ESPN FC page",
@@ -1242,12 +1242,12 @@
     {
       "source": "Gianluca Di Marzio Google News",
       "ok": true,
-      "count": 70
+      "count": 69
     },
     {
       "source": "Matteo Moretto Google News",
       "ok": true,
-      "count": 50
+      "count": 51
     },
     {
       "source": "Ben Jacobs Google News",
@@ -1272,7 +1272,7 @@
     {
       "source": "Tom Barclay Google News",
       "ok": true,
-      "count": 36
+      "count": 35
     },
     {
       "source": "Sami Mokbel Google News",
@@ -1282,12 +1282,12 @@
     {
       "source": "Mike McGrath Google News",
       "ok": true,
-      "count": 41
+      "count": 39
     },
     {
       "source": "James Pearce Google News",
       "ok": true,
-      "count": 46
+      "count": 45
     },
     {
       "source": "Laurie Whitwell Google News",
@@ -1297,7 +1297,7 @@
     {
       "source": "Simon Stone Google News",
       "ok": true,
-      "count": 47
+      "count": 48
     },
     {
       "source": "Rob Dawson Google News",
@@ -1312,7 +1312,7 @@
     {
       "source": "David Hytner Google News",
       "ok": true,
-      "count": 33
+      "count": 34
     },
     {
       "source": "Paul Joyce Google News",
@@ -1402,12 +1402,12 @@
     {
       "source": "Tottenham official-site monitor",
       "ok": true,
-      "count": 76
+      "count": 77
     },
     {
       "source": "Tottenham reporters Google News",
       "ok": true,
-      "count": 49
+      "count": 48
     },
     {
       "source": "Michael Bridge Tottenham monitor",
@@ -1442,12 +1442,12 @@
     {
       "source": "The Athletic Tottenham monitor",
       "ok": true,
-      "count": 7
+      "count": 6
     },
     {
       "source": "Sky Sports Tottenham monitor",
       "ok": true,
-      "count": 72
+      "count": 71
     },
     {
       "source": "X API direct monitor",
@@ -1465,7 +1465,7 @@
     {
       "source": "Bluesky @david-ornstein",
       "ok": true,
-      "count": 87,
+      "count": 88,
       "mode": "public-author-feed"
     },
     {
