@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-30T01:19:13.518Z",
+  "fetchedAt": "2026-08-30T01:28:03.857Z",
   "itemCount": 120,
   "items": [
     {
@@ -643,16 +643,6 @@
       "status": "루머"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU3l0dVlIOTdxNzY3UkxzRmZQUE9KMGdIaXhvbmFydEpyYTFMYXpjdUIyVzdzY29Fd2ZiY0FWejB3TVhCQmxFRVJiWFNOYzNjalVvQlFrbTloaEswWG05c1FFYkZmeEN5Q1lzRkFFU2NteGlTdnNWV3ZKZHdEOFJpY1hkQ1c2SFA3SkFLVjhJZnZXQQ?oc=5",
-      "title": "Tottenham revive talks over defender deal ahead of transfer deadline - London Evening Standard",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU3l0dVlIOTdxNzY3UkxzRmZQUE9KMGdIaXhvbmFydEpyYTFMYXpjdUIyVzdzY29Fd2ZiY0FWejB3TVhCQmxFRVJiWFNOYzNjalVvQlFrbTloaEswWG05c1FFYkZmeEN5Q1lzRkFFU2NteGlTdnNWV3ZKZHdEOFJpY1hkQ1c2SFA3SkFLVjhJZnZXQQ?oc=5",
-      "publishedAt": "2026-08-29T13:54:08.000Z",
-      "summary": "Tottenham revive talks over defender deal ahead of transfer deadline &nbsp;&nbsp; London Evening Standard",
-      "sourceKey": "tottenham-standard-monitor",
-      "sourceName": "The Standard Tottenham monitor",
-      "status": "업데이트"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdjUzSmJnZXh5YVV2Z0dCYTg3dW9kb1BTczEwNnNyOGc0eUpleXRCbFRuZ295bzk4bWw4OGhPcXhhOU1CWE4xVjBIOE1ranR4SGtSc005V3VwQU1fVktsb0E4eDdKaFFjNElEanE1RUlkREhab3pKNXh1aEJWaUhRVXIxMjkxMWw2YWtFVGNhVzFfQ25TRlE?oc=5",
       "title": "Liverpool finalise transfer agreement to sign Bradley Barcola from PSG - The Athletic - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdjUzSmJnZXh5YVV2Z0dCYTg3dW9kb1BTczEwNnNyOGc0eUpleXRCbFRuZ295bzk4bWw4OGhPcXhhOU1CWE4xVjBIOE1ranR4SGtSc005V3VwQU1fVktsb0E4eDdKaFFjNElEanE1RUlkREhab3pKNXh1aEJWaUhRVXIxMjkxMWw2YWtFVGNhVzFfQ25TRlE?oc=5",
@@ -710,6 +700,16 @@
       "summary": "Aston Villa agree £65m transfer of Nicolas Jackson from Chelsea - The Athletic &nbsp;&nbsp; The New York Times",
       "sourceKey": "ornstein-monitor",
       "sourceName": "David Ornstein 검색 모니터",
+      "status": "업데이트"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU3l0dVlIOTdxNzY3UkxzRmZQUE9KMGdIaXhvbmFydEpyYTFMYXpjdUIyVzdzY29Fd2ZiY0FWejB3TVhCQmxFRVJiWFNOYzNjalVvQlFrbTloaEswWG05c1FFYkZmeEN5Q1lzRkFFU2NteGlTdnNWV3ZKZHdEOFJpY1hkQ1c2SFA3SkFLVjhJZnZXQQ?oc=5",
+      "title": "Tottenham revive talks over defender deal ahead of transfer deadline - London Evening Standard",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU3l0dVlIOTdxNzY3UkxzRmZQUE9KMGdIaXhvbmFydEpyYTFMYXpjdUIyVzdzY29Fd2ZiY0FWejB3TVhCQmxFRVJiWFNOYzNjalVvQlFrbTloaEswWG05c1FFYkZmeEN5Q1lzRkFFU2NteGlTdnNWV3ZKZHdEOFJpY1hkQ1c2SFA3SkFLVjhJZnZXQQ?oc=5",
+      "publishedAt": "2026-08-29T13:19:06.000Z",
+      "summary": "Tottenham revive talks over defender deal ahead of transfer deadline &nbsp;&nbsp; London Evening Standard",
+      "sourceKey": "tottenham-standard-monitor",
+      "sourceName": "The Standard Tottenham monitor",
       "status": "업데이트"
     },
     {
@@ -1247,7 +1247,7 @@
     {
       "source": "Matteo Moretto Google News",
       "ok": true,
-      "count": 49
+      "count": 31
     },
     {
       "source": "Ben Jacobs Google News",
@@ -1257,7 +1257,7 @@
     {
       "source": "Florian Plettenberg Google News",
       "ok": true,
-      "count": 51
+      "count": 73
     },
     {
       "source": "Kaveh Solhekol Google News",
