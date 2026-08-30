@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-30T10:46:09.739Z",
+  "fetchedAt": "2026-08-30T10:54:58.072Z",
   "itemCount": 120,
   "items": [
     {
@@ -28,16 +28,6 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPREN6LWg2UE01YkN5TWk1ZW8zYVpOSWc3d1V2b3dQanlsTlJqX1VmS19oRGxhVzZEVjRJRWR4cUZHdUJ4b05sTWVSZHhZeGtYN3dqWlE1UkM4T1V5SEhiMDFEWnN3d0lQNU85WkF3Y1paWlhMR2t5WWwyLVZXbjJoMFN6VVE?oc=5",
       "publishedAt": "2026-08-25T09:00:00.000Z",
       "summary": "Sávio joins from Manchester City &nbsp;&nbsp; Tottenham Hotspur",
-      "sourceKey": "official-tottenham-monitor",
-      "sourceName": "Tottenham official-site monitor",
-      "status": "완료"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wd2taVmdHQU9CZjRSelNXUWNDMjBJR1A5cFJRTDUySTFBZzdGVWxxdlV1a1NrbEVCUjFVOUdqY3F2bFZYeTdyZHVCb1d2aGlWcU9PcDNacTdPQzRNZFVkRGs0eEhVYk53U3FjMlhPOWtNN0lmYjktcTdfMF9GWU0?oc=5",
-      "title": "Phillips joins Middlesbrough - Tottenham Hotspur",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wd2taVmdHQU9CZjRSelNXUWNDMjBJR1A5cFJRTDUySTFBZzdGVWxxdlV1a1NrbEVCUjFVOUdqY3F2bFZYeTdyZHVCb1d2aGlWcU9PcDNacTdPQzRNZFVkRGs0eEhVYk53U3FjMlhPOWtNN0lmYjktcTdfMF9GWU0?oc=5",
-      "publishedAt": "2026-08-15T07:00:00.000Z",
-      "summary": "Phillips joins Middlesbrough &nbsp;&nbsp; Tottenham Hotspur",
       "sourceKey": "official-tottenham-monitor",
       "sourceName": "Tottenham official-site monitor",
       "status": "완료"
@@ -113,6 +103,16 @@
       "status": "완료"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1LQVJzMktmMnNLbUR1Skp5eDZMUzJmOXFib1FudEFpVzFmZzIxekRDUC1TT0tNOUl4OE9QZlFmRkJOZm9uV2FJR29qRjlYTldBZ2p1NmlQWWFEUUl4Tk03UHVHZkloM2VraXZGSFVCQmEtRVdH?oc=5",
+      "title": "Bahia move for Veliz - Tottenham Hotspur",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1LQVJzMktmMnNLbUR1Skp5eDZMUzJmOXFib1FudEFpVzFmZzIxekRDUC1TT0tNOUl4OE9QZlFmRkJOZm9uV2FJR29qRjlYTldBZ2p1NmlQWWFEUUl4Tk03UHVHZkloM2VraXZGSFVCQmEtRVdH?oc=5",
+      "publishedAt": "2026-06-26T07:00:00.000Z",
+      "summary": "Bahia move for Veliz &nbsp;&nbsp; Tottenham Hotspur",
+      "sourceKey": "official-tottenham-monitor",
+      "sourceName": "Tottenham official-site monitor",
+      "status": "업데이트"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQT3ludUlfYzhsbkFpUjB2dElWTVA5anVuZGRhMDNMYlIzTmRIYXdrTVctS2VBS2lBSVhOQkwzT2p4ZEk0UXdUTU05ME1hWFdBOFpPanlGbGNNRWRibFdOVjQtaXp1QlFReHVlbDBQVzRRLUZiQmFCVkVpTW9VX3RteW92NHcyWTg?oc=5",
       "title": "Pelova deal secured - Tottenham Hotspur",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQT3ludUlfYzhsbkFpUjB2dElWTVA5anVuZGRhMDNMYlIzTmRIYXdrTVctS2VBS2lBSVhOQkwzT2p4ZEk0UXdUTU05ME1hWFdBOFpPanlGbGNNRWRibFdOVjQtaXp1QlFReHVlbDBQVzRRLUZiQmFCVkVpTW9VX3RteW92NHcyWTg?oc=5",
@@ -123,6 +123,16 @@
       "status": "업데이트"
     },
     {
+      "id": "https://www.theguardian.com/football/live/2026/aug/30/transfer-latest-premier-league-buildup-and-more-matchday-live",
+      "title": "Transfer latest as Chelsea sign Martínez, Premier League buildup and more – matchday live",
+      "url": "https://www.theguardian.com/football/live/2026/aug/30/transfer-latest-premier-league-buildup-and-more-matchday-live",
+      "publishedAt": "2026-08-30T10:46:03.000Z",
+      "summary": "Reaction to Saturday’s action and more football news Today’s matches | Results | Tables | And email Emillia How the table looks after yesterday’s results… Elsewhere in the Premier League, Hull continued their winning start against Coventry and Everton clinched a last-minute equaliser against Bournemouth. Continue reading...",
+      "sourceKey": "guardian-football",
+      "sourceName": "The Guardian Football",
+      "status": "업데이트"
+    },
+    {
       "id": "https://www.bbc.co.uk/sport/football/articles/crl631pgxj7o?at_medium=RSS&at_campaign=rss",
       "title": "Tottenham make Ndiaye move with Richarlison set for Everton",
       "url": "https://www.bbc.co.uk/sport/football/articles/crl631pgxj7o?at_medium=RSS&at_campaign=rss",
@@ -130,16 +140,6 @@
       "summary": "Tottenham are in advanced talks to sign Iliman Ndiaye from Everton, with Richarlison set to move in the opposite direction as part of separate negotiations.",
       "sourceKey": "bbc-sport",
       "sourceName": "BBC Sport",
-      "status": "업데이트"
-    },
-    {
-      "id": "https://www.theguardian.com/football/live/2026/aug/30/transfer-latest-premier-league-buildup-and-more-matchday-live",
-      "title": "Transfer latest as Chelsea sign Martínez, Premier League buildup and more – matchday live",
-      "url": "https://www.theguardian.com/football/live/2026/aug/30/transfer-latest-premier-league-buildup-and-more-matchday-live",
-      "publishedAt": "2026-08-30T10:24:19.000Z",
-      "summary": "Reaction to Saturday’s action and more football news Today’s matches | Results | Tables | And email Emillia How the table looks after yesterday’s results… Elsewhere in the Premier League, Hull continued their winning start against Coventry and Everton clinched a last-minute equaliser against Bournemouth. Continue reading...",
-      "sourceKey": "guardian-football",
-      "sourceName": "The Guardian Football",
       "status": "업데이트"
     },
     {
@@ -593,16 +593,6 @@
       "status": "루머"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9aQ19UVFBkTWV2NzNTNFdNZ3l1TTJwNC02NXdLX216bUtsUlpZV1dQZnpYc1F0WklQeWlBaXZiWkNRZ2ZJMVpkTXZ3SHcyUVFIY1E?oc=5",
-      "title": "🚨💣 BIG NEWS AND A MASSIVE ONE! 🔵🔴 Barcelona have proposed a potential Alejandro Balde–Federico Dimarco swap deal in the last few hours! 🔁 However, Inter Milan are NOT willing to sell their Italian left-back. ❌🇮🇹 — Matteo Moretto - instagram.com",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9aQ19UVFBkTWV2NzNTNFdNZ3l1TTJwNC02NXdLX216bUtsUlpZV1dQZnpYc1F0WklQeWlBaXZiWkNRZ2ZJMVpkTXZ3SHcyUVFIY1E?oc=5",
-      "publishedAt": "2026-08-29T21:35:33.000Z",
-      "summary": "🚨💣 BIG NEWS AND A MASSIVE ONE! 🔵🔴 Barcelona have proposed a potential Alejandro Balde–Federico Dimarco swap deal in the last few hours! 🔁 However, Inter Milan are NOT willing to sell their Italian left-back. ❌🇮🇹 — Matteo Moretto &nbsp;&nbsp; instagram.com",
-      "sourceKey": "instagram-indirect-monitor",
-      "sourceName": "Instagram 간접 검색 모니터",
-      "status": "업데이트"
-    },
-    {
       "id": "https://www.skysports.com/football/live-blog/11667/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
       "title": "Man Utd transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
       "url": "https://www.skysports.com/football/live-blog/11667/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
@@ -630,16 +620,6 @@
       "summary": "Napoli show interest in Newcastle forward Nick Woltemade, Manchester City winger Jack Grealish is wanted by Sunderland and Arsenal explore a move for Lille forward Matias Fernandez-Pardo.",
       "sourceKey": "bbc-sport",
       "sourceName": "BBC Sport",
-      "status": "루머"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3eDgzcVhmeGlTWnMya0FUNEJVOFNCejFSMU1zUUJGNUZxVGp6NnlOc2RYNllYeU9kcjlhRS1GTVAwcDhvYkxUQUljdW5tRXN0bFE?oc=5",
-      "title": "🚨🎖️| 𝐉𝐔𝐒𝐓 𝐈𝐍: Barcelona are exploring a SWAP DEAL between Balde and Dimarco, with Barça also paying an additional transfer fee. 🔹Although Balde has told the club he wants to stay and fight for his place, Barcelona believe he could be convinced. Talk - instagram.com",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB3eDgzcVhmeGlTWnMya0FUNEJVOFNCejFSMU1zUUJGNUZxVGp6NnlOc2RYNllYeU9kcjlhRS1GTVAwcDhvYkxUQUljdW5tRXN0bFE?oc=5",
-      "publishedAt": "2026-08-29T20:59:42.000Z",
-      "summary": "🚨🎖️| 𝐉𝐔𝐒𝐓 𝐈𝐍: Barcelona are exploring a SWAP DEAL between Balde and Dimarco, with Barça also paying an additional transfer fee. 🔹Although Balde has told the club he wants to stay and fight for his place, Barcelona believe he could be convinced. Talk &nbsp;&nbsp; instagram.com",
-      "sourceKey": "instagram-indirect-monitor",
-      "sourceName": "Instagram 간접 검색 모니터",
       "status": "루머"
     },
     {
@@ -680,16 +660,6 @@
       "summary": "Jamie Carragher shares Tottenham transfer theory during Newcastle clash - 'The evidence' &nbsp;&nbsp; Football London",
       "sourceKey": "tottenham-football-london-monitor",
       "sourceName": "Football.London Tottenham monitor",
-      "status": "업데이트"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNS3h4U1NoNjdtOUpISzVsWVNPRDh4QWlFNTBWaG4wS214dmQxRFJwUHlRcXRSdlhOQU9lQmJkVGNnWjhIT2FMV214ODBDYXpHZjFOYm9zNkMyc3FSa01Kd1FuRWF2djAtTlRBNkNRVmlNVl8tOGJTWTRZdjVzaEZiZHgtY3VPS1lFc2hvMA?oc=5",
-      "title": "Héctor Fort transferred to Real Sociedad - FC Barcelona",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNS3h4U1NoNjdtOUpISzVsWVNPRDh4QWlFNTBWaG4wS214dmQxRFJwUHlRcXRSdlhOQU9lQmJkVGNnWjhIT2FMV214ODBDYXpHZjFOYm9zNkMyc3FSa01Kd1FuRWF2djAtTlRBNkNRVmlNVl8tOGJTWTRZdjVzaEZiZHgtY3VPS1lFc2hvMA?oc=5",
-      "publishedAt": "2026-08-29T20:07:58.000Z",
-      "summary": "Héctor Fort transferred to Real Sociedad &nbsp;&nbsp; FC Barcelona",
-      "sourceKey": "official-barcelona-monitor",
-      "sourceName": "Barcelona official-site monitor",
       "status": "업데이트"
     },
     {
@@ -843,16 +813,6 @@
       "status": "업데이트"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9YYlNtOGtJYkd2dFR0VEpBM0sxTjBPcktVZHF6NFNrLWQtZWhpZ3JLNkhEZ1Q4SXRXSDMyaVRvYVNhTDRJS3ZLTnFoSjh6bmtnSmc?oc=5",
-      "title": "🚨🎖| 𝐉𝐔𝐒𝐓 𝐈𝐍: Signing a left-footed CB is now a PRIORITY for Barça in these final days of the transfer window. Deco and Amaral have already decided the name and they’re working on his signing. He’s young and of very much liking to the sporting departme - instagram.com",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9YYlNtOGtJYkd2dFR0VEpBM0sxTjBPcktVZHF6NFNrLWQtZWhpZ3JLNkhEZ1Q4SXRXSDMyaVRvYVNhTDRJS3ZLTnFoSjh6bmtnSmc?oc=5",
-      "publishedAt": "2026-08-29T17:10:54.000Z",
-      "summary": "🚨🎖| 𝐉𝐔𝐒𝐓 𝐈𝐍: Signing a left-footed CB is now a PRIORITY for Barça in these final days of the transfer window. Deco and Amaral have already decided the name and they’re working on his signing. He’s young and of very much liking to the sporting departme &nbsp;&nbsp; instagram.com",
-      "sourceKey": "instagram-indirect-monitor",
-      "sourceName": "Instagram 간접 검색 모니터",
-      "status": "업데이트"
-    },
-    {
       "id": "https://www.skysports.com/football/live-blog/11714/13548674/hull-city-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
       "title": "Hull City transfers, latest news, rumours and gossip: Live updates, goals and highlights",
       "url": "https://www.skysports.com/football/live-blog/11714/13548674/hull-city-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
@@ -921,16 +881,6 @@
       "sourceKey": "guardian-football",
       "sourceName": "The Guardian Football",
       "status": "업데이트"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE10RS1XblVlYklEd2l3UFBueVVUZ1k0TTVWdUVnTWpWNVNpSHpwUWtReWlISERkVDZ3UndLZTZ3Y3FRcUNzVHAwNVdEQlhYSXF5Tnc?oc=5",
-      "title": "Atalanta have sent an official contract proposal to Franck Kessié to try bring him back to the club as free agent 🚨. The confirmation makes this a story to watch closely. What do you think? - instagram.com",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE10RS1XblVlYklEd2l3UFBueVVUZ1k0TTVWdUVnTWpWNVNpSHpwUWtReWlISERkVDZ3UndLZTZ3Y3FRcUNzVHAwNVdEQlhYSXF5Tnc?oc=5",
-      "publishedAt": "2026-08-29T16:04:48.000Z",
-      "summary": "Atalanta have sent an official contract proposal to Franck Kessié to try bring him back to the club as free agent 🚨. The confirmation makes this a story to watch closely. What do you think? &nbsp;&nbsp; instagram.com",
-      "sourceKey": "instagram-indirect-monitor",
-      "sourceName": "Instagram 간접 검색 모니터",
-      "status": "완료"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XeUhULTZtMFVtcngyMmNBeHdaak0wSWJJVk5tSmdFMXlZaU9GeTJ1SGJ3UDJleFBvemd2cVlya2JfYTl2WkswZmFuOF9UMnZ0Vm00SmlHMWdfVVlpdktPT2RmbWZfOXc?oc=5",
@@ -1201,6 +1151,56 @@
       "sourceKey": "tottenham-sky-monitor",
       "sourceName": "Sky Sports Tottenham monitor",
       "status": "루머"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTFpwMGg4ZFg0Vkd1M3FhaGVyejZfZWZxYy1FYlNoRzRQXzhiRUY0T2htdVVYclhZTGg2eXpWeUd1eG93Rnk5TjJlR3daS0lPb1RfWTMyYnJGNndXYzl6ZExIVHJQTWFGSnAyX0hycTVaUkpxcWFyUkxPaERLRVJUemZvMHBjXzhFUXhBaU5jbDhmUU02QU9fc0hTel9xRDRQd3RNMjBNSHZVclNTLUdZMC1GTkY?oc=5",
+      "title": "Romano confirms Man Utd deal is done with fee revealed and documents ‘signed’ - Football365",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTFpwMGg4ZFg0Vkd1M3FhaGVyejZfZWZxYy1FYlNoRzRQXzhiRUY0T2htdVVYclhZTGg2eXpWeUd1eG93Rnk5TjJlR3daS0lPb1RfWTMyYnJGNndXYzl6ZExIVHJQTWFGSnAyX0hycTVaUkpxcWFyUkxPaERLRVJUemZvMHBjXzhFUXhBaU5jbDhmUU02QU9fc0hTel9xRDRQd3RNMjBNSHZVclNTLUdZMC1GTkY?oc=5",
+      "publishedAt": "2026-08-29T09:43:49.000Z",
+      "summary": "Romano confirms Man Utd deal is done with fee revealed and documents ‘signed’ &nbsp;&nbsp; Football365",
+      "sourceKey": "romano-monitor",
+      "sourceName": "Fabrizio Romano 검색 모니터",
+      "status": "완료"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNZ3pXd1VicjNTSEM4MnlvWFFwQXBUbWh1WXdpbVFwWDRWNFVyRldQUS1wTlJOYWxENWV6ekpLbkpQeU56VW1zNXQtUWwtd1pnTjEtUlJJLWZKaDItWXdNUGZFSnBtV2xDNFIwRWhOaUNXb0ZhTkJWNHQxYzFkQVVfU3FvRkhHZllydGZMY0xLdXVUQVBRRTZkYWtVV0F3aGxkSGdHN2RzSUNUam9PamZnajdMTGFHaDB2UWZzb3BMbUNtaFpyczN4eVJjYmI0aVpndGlLV0xFRmxuS2JKSXBXMU5VUGdoQUt0TEZKeW50MmlqYWZ1dWZEcm14TnRRMjlXWWhicS1zSQ?oc=5",
+      "title": "Nicolas Jackson transfer news: Aston Villa confirm club-record £65m signing as deal agreed to sign Ibrahim Mbaye from PSG - Sky Sports",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNZ3pXd1VicjNTSEM4MnlvWFFwQXBUbWh1WXdpbVFwWDRWNFVyRldQUS1wTlJOYWxENWV6ekpLbkpQeU56VW1zNXQtUWwtd1pnTjEtUlJJLWZKaDItWXdNUGZFSnBtV2xDNFIwRWhOaUNXb0ZhTkJWNHQxYzFkQVVfU3FvRkhHZllydGZMY0xLdXVUQVBRRTZkYWtVV0F3aGxkSGdHN2RzSUNUam9PamZnajdMTGFHaDB2UWZzb3BMbUNtaFpyczN4eVJjYmI0aVpndGlLV0xFRmxuS2JKSXBXMU5VUGdoQUt0TEZKeW50MmlqYWZ1dWZEcm14TnRRMjlXWWhicS1zSQ?oc=5",
+      "publishedAt": "2026-08-29T09:36:34.000Z",
+      "summary": "Nicolas Jackson transfer news: Aston Villa confirm club-record £65m signing as deal agreed to sign Ibrahim Mbaye from PSG &nbsp;&nbsp; Sky Sports",
+      "sourceKey": "tottenham-sky-monitor",
+      "sourceName": "Sky Sports Tottenham monitor",
+      "status": "루머"
+    },
+    {
+      "id": "https://www.skysports.com/football/live-blog/11695/13375102/sunderland-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "title": "Sunderland transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
+      "url": "https://www.skysports.com/football/live-blog/11695/13375102/sunderland-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "publishedAt": "2026-08-29T09:00:00.000Z",
+      "summary": "Sky Sports football sitemap에서 가져온 실시간 헤드라인입니다.",
+      "sourceKey": "sky-sports",
+      "sourceName": "Sky Sports",
+      "status": "루머"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPRWJlTWFVT01reVpndThPaE9NR2VDZzJZT1ZlRG1nRjVJdVVXZVhPcDY0ekJ6TFN5a3JGZy1hUGxZWkd2SkhXYlpwNXRfVFNxcTFVdDI4VWRhOWhyaDdLLW53R1NrMkxEeDZScFdLRnZ0TFN3ZVdGNHJVUzFFb1Y0UERmN1gwWVFjT3M4a0pyQS1RZ25vay1lOXZPN3E3czA4YUI5VFNtQi1DRy1GZmNuY3FYazVpVlQ3NUVkLThxTmtwUHR3NzZsRlIzZGo2SEJFZzdUaE81aGpqM1BLaWJzQmhvLUFfek5MVWpVbDh3TXlXUQ?oc=5",
+      "title": "“Full focus on Man Utd” – Fabrizio Romano delivers Saturday morning transfer update on £40m star - LiveScore",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPRWJlTWFVT01reVpndThPaE9NR2VDZzJZT1ZlRG1nRjVJdVVXZVhPcDY0ekJ6TFN5a3JGZy1hUGxZWkd2SkhXYlpwNXRfVFNxcTFVdDI4VWRhOWhyaDdLLW53R1NrMkxEeDZScFdLRnZ0TFN3ZVdGNHJVUzFFb1Y0UERmN1gwWVFjT3M4a0pyQS1RZ25vay1lOXZPN3E3czA4YUI5VFNtQi1DRy1GZmNuY3FYazVpVlQ3NUVkLThxTmtwUHR3NzZsRlIzZGo2SEJFZzdUaE81aGpqM1BLaWJzQmhvLUFfek5MVWpVbDh3TXlXUQ?oc=5",
+      "publishedAt": "2026-08-29T08:51:02.000Z",
+      "summary": "“Full focus on Man Utd” – Fabrizio Romano delivers Saturday morning transfer update on £40m star &nbsp;&nbsp; LiveScore",
+      "sourceKey": "romano-monitor",
+      "sourceName": "Fabrizio Romano 검색 모니터",
+      "status": "업데이트"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZFFDeXduSkM1TDBZaTd6VV92MW5lek1mUTVLMG80SGJqczU0VFhHTnJWdUVIS1ZzREJOZEpfeW5vTnU1ZkprODQ3eFE3Q0lINmt1SGZZY0JGdHBXNFk0RVlNbVd1VWdVOUNKbm5VY0FacVd6b18zZ09GUWNxUkV1Rw?oc=5",
+      "title": "“Full focus on Man Utd” – Fabrizio Romano delivers Saturday morning transfer update on £40m star - Yahoo Sports Canada",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZFFDeXduSkM1TDBZaTd6VV92MW5lek1mUTVLMG80SGJqczU0VFhHTnJWdUVIS1ZzREJOZEpfeW5vTnU1ZkprODQ3eFE3Q0lINmt1SGZZY0JGdHBXNFk0RVlNbVd1VWdVOUNKbm5VY0FacVd6b18zZ09GUWNxUkV1Rw?oc=5",
+      "publishedAt": "2026-08-29T08:50:00.000Z",
+      "summary": "“Full focus on Man Utd” – Fabrizio Romano delivers Saturday morning transfer update on £40m star &nbsp;&nbsp; Yahoo Sports Canada",
+      "sourceKey": "romano-monitor",
+      "sourceName": "Fabrizio Romano 검색 모니터",
+      "status": "업데이트"
     }
   ],
   "sourceHealth": [
@@ -1227,17 +1227,17 @@
     {
       "source": "Fabrizio Romano Google News",
       "ok": true,
-      "count": 93
+      "count": 92
     },
     {
       "source": "David Ornstein Google News",
       "ok": true,
-      "count": 92
+      "count": 90
     },
     {
       "source": "The Athletic Google News",
       "ok": true,
-      "count": 19
+      "count": 18
     },
     {
       "source": "Gianluca Di Marzio Google News",
@@ -1252,7 +1252,7 @@
     {
       "source": "Ben Jacobs Google News",
       "ok": true,
-      "count": 80
+      "count": 81
     },
     {
       "source": "Florian Plettenberg Google News",
@@ -1272,7 +1272,7 @@
     {
       "source": "Tom Barclay Google News",
       "ok": true,
-      "count": 35
+      "count": 34
     },
     {
       "source": "Sami Mokbel Google News",
@@ -1312,7 +1312,7 @@
     {
       "source": "David Hytner Google News",
       "ok": true,
-      "count": 35
+      "count": 33
     },
     {
       "source": "Paul Joyce Google News",
@@ -1352,7 +1352,7 @@
     {
       "source": "Matteo Moretto Instagram mentions",
       "ok": true,
-      "count": 74
+      "count": 80
     },
     {
       "source": "Santi Aouna Instagram mentions",
@@ -1402,7 +1402,7 @@
     {
       "source": "Tottenham official-site monitor",
       "ok": true,
-      "count": 80
+      "count": 79
     },
     {
       "source": "Tottenham reporters Google News",
