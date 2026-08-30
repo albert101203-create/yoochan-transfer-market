@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-30T22:27:35.345Z",
+  "fetchedAt": "2026-08-30T22:36:09.376Z",
   "itemCount": 120,
   "items": [
     {
@@ -28,6 +28,16 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPREN6LWg2UE01YkN5TWk1ZW8zYVpOSWc3d1V2b3dQanlsTlJqX1VmS19oRGxhVzZEVjRJRWR4cUZHdUJ4b05sTWVSZHhZeGtYN3dqWlE1UkM4T1V5SEhiMDFEWnN3d0lQNU85WkF3Y1paWlhMR2t5WWwyLVZXbjJoMFN6VVE?oc=5",
       "publishedAt": "2026-08-25T09:00:00.000Z",
       "summary": "Sávio joins from Manchester City &nbsp;&nbsp; Tottenham Hotspur",
+      "sourceKey": "official-tottenham-monitor",
+      "sourceName": "Tottenham official-site monitor",
+      "status": "완료"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wd2taVmdHQU9CZjRSelNXUWNDMjBJR1A5cFJRTDUySTFBZzdGVWxxdlV1a1NrbEVCUjFVOUdqY3F2bFZYeTdyZHVCb1d2aGlWcU9PcDNacTdPQzRNZFVkRGs0eEhVYk53U3FjMlhPOWtNN0lmYjktcTdfMF9GWU0?oc=5",
+      "title": "Phillips joins Middlesbrough - Tottenham Hotspur",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wd2taVmdHQU9CZjRSelNXUWNDMjBJR1A5cFJRTDUySTFBZzdGVWxxdlV1a1NrbEVCUjFVOUdqY3F2bFZYeTdyZHVCb1d2aGlWcU9PcDNacTdPQzRNZFVkRGs0eEhVYk53U3FjMlhPOWtNN0lmYjktcTdfMF9GWU0?oc=5",
+      "publishedAt": "2026-08-15T07:00:00.000Z",
+      "summary": "Phillips joins Middlesbrough &nbsp;&nbsp; Tottenham Hotspur",
       "sourceKey": "official-tottenham-monitor",
       "sourceName": "Tottenham official-site monitor",
       "status": "완료"
@@ -111,16 +121,6 @@
       "sourceKey": "official-tottenham-monitor",
       "sourceName": "Tottenham official-site monitor",
       "status": "업데이트"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRGJYWDhHXy1PNW5SNklwSFllaDRoU21KSWRGWnhYTTJQR0hvSFgxVm1RM2Z5bUpsVlotYUlSc1ZQZDhoYlg1cmprbnE3dS1sU3hDcG1DYU5qOGpwY09qRmd4R1ROMWFDT3kybVVvYjZmSThqbU96SS1QT3YybXN5QUg2SHdreDFJVXlWZmlB?oc=5",
-      "title": "Panengstuen signs for Spurs - Tottenham Hotspur",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRGJYWDhHXy1PNW5SNklwSFllaDRoU21KSWRGWnhYTTJQR0hvSFgxVm1RM2Z5bUpsVlotYUlSc1ZQZDhoYlg1cmprbnE3dS1sU3hDcG1DYU5qOGpwY09qRmd4R1ROMWFDT3kybVVvYjZmSThqbU96SS1QT3YybXN5QUg2SHdreDFJVXlWZmlB?oc=5",
-      "publishedAt": "2026-06-30T07:00:00.000Z",
-      "summary": "Panengstuen signs for Spurs &nbsp;&nbsp; Tottenham Hotspur",
-      "sourceKey": "official-tottenham-monitor",
-      "sourceName": "Tottenham official-site monitor",
-      "status": "완료"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPVGRPWGNEZXBhdGFYTy1XdExNZlJfMFpHaENZV1czRld4TVM2NjR4NGl4ZGJrMWlUZXc0b0FlR2NMcTlfMkRKWWI5R25CNnJiZGp2aWpBS2tXWXJ2aDNmc2IzSnJFMHdNUG5BX2VuQjlQZHhxMU5fMy14c0pPQmRkU2J2aUcwcTZiOWoyRG45MVFtTTlYQXBZLWRJbHBsMW8zZ09yLXhWS3FtU2tVNEdXXzNvVE9uVHlRdFlFQ3ZPeHh0ZmpybVFkRW1URUxnWEkwcTBJS0pVaTR0UHpWb0Vpdm1YZ01hZUZ1bVVRSXM4bU1BZk1Qay1VRi1vSFpuYWRXY0c2VHRyZGNrQjQ?oc=5",
@@ -283,6 +283,16 @@
       "status": "완료"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSmNUZWFrLUtLUXpJOWNKVDg0RFRkSlAyRFFnUkZnQWZQWXQwVzV0b0lZUTd5SU5hWG9ndmdDM19YZ0lKRFZWT3RkZ19pTG9semg3d2ZrbVZsdTBYY2xpRmphcFZNYTExMi1lQjNZLUhraEFBc3M5bXNWWDROSnN0a1M3OXVwYkVr0gGOAUFVX3lxTE1ZTW4zUVZBUFRoaTBmdGEyMUdYZ08xVF9tMGxsNlplaTc2YkRDTmhmdVBiZDBnMjBnckl0NkNfcFRURkFOZXdwSGVKeS1pWHlpZjRNRm00YUtMdWh1QXluZGdoTHhCdzJqNmxzYlljdWJRUGM4NXZydU15SkhEa2dnNktCUVhTOWNBMGZvWEE?oc=5",
+      "title": "‘Deal on’ – Fabrizio Romano drops exciting Liverpool update as Reds make official contact ahead of deadline day - CaughtOffside",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSmNUZWFrLUtLUXpJOWNKVDg0RFRkSlAyRFFnUkZnQWZQWXQwVzV0b0lZUTd5SU5hWG9ndmdDM19YZ0lKRFZWT3RkZ19pTG9semg3d2ZrbVZsdTBYY2xpRmphcFZNYTExMi1lQjNZLUhraEFBc3M5bXNWWDROSnN0a1M3OXVwYkVr0gGOAUFVX3lxTE1ZTW4zUVZBUFRoaTBmdGEyMUdYZ08xVF9tMGxsNlplaTc2YkRDTmhmdVBiZDBnMjBnckl0NkNfcFRURkFOZXdwSGVKeS1pWHlpZjRNRm00YUtMdWh1QXluZGdoTHhCdzJqNmxzYlljdWJRUGM4NXZydU15SkhEa2dnNktCUVhTOWNBMGZvWEE?oc=5",
+      "publishedAt": "2026-08-30T19:20:39.000Z",
+      "summary": "‘Deal on’ – Fabrizio Romano drops exciting Liverpool update as Reds make official contact ahead of deadline day &nbsp;&nbsp; CaughtOffside",
+      "sourceKey": "romano-monitor",
+      "sourceName": "Fabrizio Romano 검색 모니터",
+      "status": "완료"
+    },
+    {
       "id": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
       "title": "European football news and transfers: Barcelona, Real Madrid, PSG, Bayern Munich latest and more",
       "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
@@ -290,16 +300,6 @@
       "summary": "Sky Sports football sitemap에서 가져온 실시간 헤드라인입니다.",
       "sourceKey": "sky-sports",
       "sourceName": "Sky Sports",
-      "status": "업데이트"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM2VvSWp2bmxTcklDVE5ITjhhT2hXZjhaVk1LV3BaWEFFUWhBMURqajUwTUNzTE1ZUVZtM2NpVkp2YWlsNC1EeWVZYVdjN1c5c0F0UkhsS3B2cXZKMWNOdllweUpwd2tVbVhSdlVlbzJpR2U3c0FQRmZlU2ZxSk8zVXFETWs3V19yVHh0UHp5MlFoR3FMakk1c3dyOWJJMUF3bnM3WllVc0U?oc=5",
-      "title": "Fiorentina advancing in talks with Manchester United over Joshua Zirkzee loan move - The Athletic - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM2VvSWp2bmxTcklDVE5ITjhhT2hXZjhaVk1LV3BaWEFFUWhBMURqajUwTUNzTE1ZUVZtM2NpVkp2YWlsNC1EeWVZYVdjN1c5c0F0UkhsS3B2cXZKMWNOdllweUpwd2tVbVhSdlVlbzJpR2U3c0FQRmZlU2ZxSk8zVXFETWs3V19yVHh0UHp5MlFoR3FMakk1c3dyOWJJMUF3bnM3WllVc0U?oc=5",
-      "publishedAt": "2026-08-30T19:09:00.000Z",
-      "summary": "Fiorentina advancing in talks with Manchester United over Joshua Zirkzee loan move - The Athletic &nbsp;&nbsp; The New York Times",
-      "sourceKey": "laurie-whitwell-monitor",
-      "sourceName": "Laurie Whitwell monitor",
       "status": "업데이트"
     },
     {
@@ -330,6 +330,16 @@
       "summary": "Sky Sports football sitemap에서 가져온 실시간 헤드라인입니다.",
       "sourceKey": "sky-sports",
       "sourceName": "Sky Sports",
+      "status": "루머"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9EaXEwWVdhbEQyY3VlemV0UVcwWTFWR1JZWmpfRGxrZE5QaGtKYkc4MVJtNlNfS3NHMnc2Y25zejF6Mms3bXdXYVJLODhxUmxDSUE?oc=5",
+      "title": "🚨 NEW: 19-year-old striker Mahamadou Sangaré is set to sign for Saudi side Al Qadsiah, who previously brought in Tijjani Reijnders. 🇸🇦🔄 An agreement in principle is in place between the clubs for a fee of around $1M.💰 [@bendavidjacobs] The French strike - instagram.com",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9EaXEwWVdhbEQyY3VlemV0UVcwWTFWR1JZWmpfRGxrZE5QaGtKYkc4MVJtNlNfS3NHMnc2Y25zejF6Mms3bXdXYVJLODhxUmxDSUE?oc=5",
+      "publishedAt": "2026-08-30T17:49:33.000Z",
+      "summary": "🚨 NEW: 19-year-old striker Mahamadou Sangaré is set to sign for Saudi side Al Qadsiah, who previously brought in Tijjani Reijnders. 🇸🇦🔄 An agreement in principle is in place between the clubs for a fee of around $1M.💰 [@bendavidjacobs] The French strike &nbsp;&nbsp; instagram.com",
+      "sourceKey": "instagram-indirect-monitor",
+      "sourceName": "Instagram 간접 검색 모니터",
       "status": "루머"
     },
     {
@@ -578,16 +588,6 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdG13d1hIem1YV3VtUTBYSy13dkZYRHo4U3AwZUNSbDBEQnlRTHVfNDhvaVdjOGlqOW94cEhuN20zN3lvdFE4bnVKR2thbnlNaEMtLXZKNEktS3MyalZOQkY2YlgtOC1fRk1UZ2xqeVE1Wno4SzQxZVgwdDRZQlJfR0gxelRxTjVjSWpxZ1AwMlhNc2J6TWRGZkRKUVVxaDNTVGU5VXFvMFJGdkF4RTh4bXk5RQ?oc=5",
       "publishedAt": "2026-08-30T14:42:33.000Z",
       "summary": "Romano reveals Man Utd striker plan as £25m transfer agreement greenlit &nbsp;&nbsp; Football365",
-      "sourceKey": "romano-monitor",
-      "sourceName": "Fabrizio Romano 검색 모니터",
-      "status": "업데이트"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUlV1STg5LWJSLVdNQ25UZlNpa0oxUkpsbHdvVzhvbVVPVG9xUVljMmNzRlUxY0JNRGJlTEM2NTJxMjlqQjFHMHBUMC00Tk9OQW93bEl5STdOdzhJNE14U1FGYjFKMHNkOU5uaDRGUkJJbzVidHNjUE9rcVlEbWg0aUt1Q3BPR0tZS2fSAY8BQVVfeXFMTkFDT3ZSLXhrUkRlb1gybE1pRWgzMWJTb0JwX1VqZHRRTUhsWnJyZElDUXBaYXNZZjhOb3lZUUI2TWJVMTdpZG1jcjk0aWVaUV9TbnZyS0gtT0tROWNTb09XZkpfamRrZTFGcVdkdDN3dDJIbzZ6cmFRUG93OGFtNUZOTmFRd0pxeXBnVkhxSEU?oc=5",
-      "title": "Medical booked for Monday as Arsenal agree deal for striker ahead of deadline day - CaughtOffside",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUlV1STg5LWJSLVdNQ25UZlNpa0oxUkpsbHdvVzhvbVVPVG9xUVljMmNzRlUxY0JNRGJlTEM2NTJxMjlqQjFHMHBUMC00Tk9OQW93bEl5STdOdzhJNE14U1FGYjFKMHNkOU5uaDRGUkJJbzVidHNjUE9rcVlEbWg0aUt1Q3BPR0tZS2fSAY8BQVVfeXFMTkFDT3ZSLXhrUkRlb1gybE1pRWgzMWJTb0JwX1VqZHRRTUhsWnJyZElDUXBaYXNZZjhOb3lZUUI2TWJVMTdpZG1jcjk0aWVaUV9TbnZyS0gtT0tROWNTb09XZkpfamRrZTFGcVdkdDN3dDJIbzZ6cmFRUG93OGFtNUZOTmFRd0pxeXBnVkhxSEU?oc=5",
-      "publishedAt": "2026-08-30T14:36:40.000Z",
-      "summary": "Medical booked for Monday as Arsenal agree deal for striker ahead of deadline day &nbsp;&nbsp; CaughtOffside",
       "sourceKey": "romano-monitor",
       "sourceName": "Fabrizio Romano 검색 모니터",
       "status": "업데이트"
@@ -1103,6 +1103,16 @@
       "status": "루머"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdjUzSmJnZXh5YVV2Z0dCYTg3dW9kb1BTczEwNnNyOGc0eUpleXRCbFRuZ295bzk4bWw4OGhPcXhhOU1CWE4xVjBIOE1ranR4SGtSc005V3VwQU1fVktsb0E4eDdKaFFjNElEanE1RUlkREhab3pKNXh1aEJWaUhRVXIxMjkxMWw2YWtFVGNhVzFfQ25TRlE?oc=5",
+      "title": "Liverpool finalise transfer agreement to sign Bradley Barcola from PSG - The Athletic - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdjUzSmJnZXh5YVV2Z0dCYTg3dW9kb1BTczEwNnNyOGc0eUpleXRCbFRuZ295bzk4bWw4OGhPcXhhOU1CWE4xVjBIOE1ranR4SGtSc005V3VwQU1fVktsb0E4eDdKaFFjNElEanE1RUlkREhab3pKNXh1aEJWaUhRVXIxMjkxMWw2YWtFVGNhVzFfQ25TRlE?oc=5",
+      "publishedAt": "2026-08-30T01:01:49.000Z",
+      "summary": "Liverpool finalise transfer agreement to sign Bradley Barcola from PSG - The Athletic &nbsp;&nbsp; The New York Times",
+      "sourceKey": "ornstein-monitor",
+      "sourceName": "David Ornstein 검색 모니터",
+      "status": "업데이트"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwX3BXNkNDOGJKblMwcmVFOWlzNmJOSjMzNkp4amZ4eEFLTXU3cUxzUTZWNGVlQ2c3eFhSaTdBNjEybFg5dlJxeFMtTkt6NkRUSEE?oc=5",
       "title": "NEWS: #RIFC announces the transfer of defender Hamady Diop to Birmingham Legion FC for an undisclosed fee, pending league and federation approval. - instagram.com",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwX3BXNkNDOGJKblMwcmVFOWlzNmJOSjMzNkp4amZ4eEFLTXU3cUxzUTZWNGVlQ2c3eFhSaTdBNjEybFg5dlJxeFMtTkt6NkRUSEE?oc=5",
@@ -1191,16 +1201,6 @@
       "sourceKey": "instagram-indirect-monitor",
       "sourceName": "Instagram 간접 검색 모니터",
       "status": "완료"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNLXMtWWgxbzVoUmhOanNFMUc5REoxUFRQN0x3NDZEV2R6MUIxUk43TWJXTUNLUE9QSXdiaXhmSGl3VXJCdHpIaE92TkstMm8yeWk3TTRHaVI5dkRtTWRWWS1veVdhT3J4UXhKcHhoY2xTVllQelNqYWhmUFNYU2xwdzVmejRFaTVwV0Utc21nT1NKd28wVkZzYTM5b3dRWndTSFRzdlZPOFhjb19yWjZNMWpoWlhMd2d3?oc=5",
-      "title": "David Ornstein confirms Liverpool attacker has agreed shock move to Manchester City - readliverpoolfc.com",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNLXMtWWgxbzVoUmhOanNFMUc5REoxUFRQN0x3NDZEV2R6MUIxUk43TWJXTUNLUE9QSXdiaXhmSGl3VXJCdHpIaE92TkstMm8yeWk3TTRHaVI5dkRtTWRWWS1veVdhT3J4UXhKcHhoY2xTVllQelNqYWhmUFNYU2xwdzVmejRFaTVwV0Utc21nT1NKd28wVkZzYTM5b3dRWndTSFRzdlZPOFhjb19yWjZNMWpoWlhMd2d3?oc=5",
-      "publishedAt": "2026-08-29T19:40:21.000Z",
-      "summary": "David Ornstein confirms Liverpool attacker has agreed shock move to Manchester City &nbsp;&nbsp; readliverpoolfc.com",
-      "sourceKey": "ornstein-monitor",
-      "sourceName": "David Ornstein 검색 모니터",
-      "status": "업데이트"
     }
   ],
   "sourceHealth": [
@@ -1227,7 +1227,7 @@
     {
       "source": "Fabrizio Romano Google News",
       "ok": true,
-      "count": 92
+      "count": 93
     },
     {
       "source": "David Ornstein Google News",
@@ -1247,7 +1247,7 @@
     {
       "source": "Matteo Moretto Google News",
       "ok": true,
-      "count": 49
+      "count": 50
     },
     {
       "source": "Ben Jacobs Google News",
@@ -1257,7 +1257,7 @@
     {
       "source": "Florian Plettenberg Google News",
       "ok": true,
-      "count": 70
+      "count": 41
     },
     {
       "source": "Kaveh Solhekol Google News",
@@ -1267,7 +1267,7 @@
     {
       "source": "Santi Aouna Google News",
       "ok": true,
-      "count": 29
+      "count": 62
     },
     {
       "source": "Tom Barclay Google News",
@@ -1297,7 +1297,7 @@
     {
       "source": "Simon Stone Google News",
       "ok": true,
-      "count": 48
+      "count": 49
     },
     {
       "source": "Rob Dawson Google News",
@@ -1352,7 +1352,7 @@
     {
       "source": "Matteo Moretto Instagram mentions",
       "ok": true,
-      "count": 78
+      "count": 79
     },
     {
       "source": "Santi Aouna Instagram mentions",
@@ -1367,7 +1367,7 @@
     {
       "source": "Barcelona official-site monitor",
       "ok": true,
-      "count": 97
+      "count": 95
     },
     {
       "source": "Real Madrid official-site monitor",
@@ -1392,7 +1392,7 @@
     {
       "source": "Chelsea official-site monitor",
       "ok": true,
-      "count": 27
+      "count": 82
     },
     {
       "source": "Liverpool official-site monitor",
@@ -1432,7 +1432,7 @@
     {
       "source": "Football.London Tottenham monitor",
       "ok": true,
-      "count": 81
+      "count": 82
     },
     {
       "source": "The Standard Tottenham monitor",
@@ -1442,7 +1442,7 @@
     {
       "source": "The Athletic Tottenham monitor",
       "ok": true,
-      "count": 4
+      "count": 5
     },
     {
       "source": "Sky Sports Tottenham monitor",
