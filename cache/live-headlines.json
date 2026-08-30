@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-30T22:18:53.709Z",
+  "fetchedAt": "2026-08-30T22:27:35.345Z",
   "itemCount": 120,
   "items": [
     {
@@ -28,16 +28,6 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPREN6LWg2UE01YkN5TWk1ZW8zYVpOSWc3d1V2b3dQanlsTlJqX1VmS19oRGxhVzZEVjRJRWR4cUZHdUJ4b05sTWVSZHhZeGtYN3dqWlE1UkM4T1V5SEhiMDFEWnN3d0lQNU85WkF3Y1paWlhMR2t5WWwyLVZXbjJoMFN6VVE?oc=5",
       "publishedAt": "2026-08-25T09:00:00.000Z",
       "summary": "Sávio joins from Manchester City &nbsp;&nbsp; Tottenham Hotspur",
-      "sourceKey": "official-tottenham-monitor",
-      "sourceName": "Tottenham official-site monitor",
-      "status": "완료"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wd2taVmdHQU9CZjRSelNXUWNDMjBJR1A5cFJRTDUySTFBZzdGVWxxdlV1a1NrbEVCUjFVOUdqY3F2bFZYeTdyZHVCb1d2aGlWcU9PcDNacTdPQzRNZFVkRGs0eEhVYk53U3FjMlhPOWtNN0lmYjktcTdfMF9GWU0?oc=5",
-      "title": "Phillips joins Middlesbrough - Tottenham Hotspur",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wd2taVmdHQU9CZjRSelNXUWNDMjBJR1A5cFJRTDUySTFBZzdGVWxxdlV1a1NrbEVCUjFVOUdqY3F2bFZYeTdyZHVCb1d2aGlWcU9PcDNacTdPQzRNZFVkRGs0eEhVYk53U3FjMlhPOWtNN0lmYjktcTdfMF9GWU0?oc=5",
-      "publishedAt": "2026-08-15T07:00:00.000Z",
-      "summary": "Phillips joins Middlesbrough &nbsp;&nbsp; Tottenham Hotspur",
       "sourceKey": "official-tottenham-monitor",
       "sourceName": "Tottenham official-site monitor",
       "status": "완료"
@@ -121,6 +111,16 @@
       "sourceKey": "official-tottenham-monitor",
       "sourceName": "Tottenham official-site monitor",
       "status": "업데이트"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRGJYWDhHXy1PNW5SNklwSFllaDRoU21KSWRGWnhYTTJQR0hvSFgxVm1RM2Z5bUpsVlotYUlSc1ZQZDhoYlg1cmprbnE3dS1sU3hDcG1DYU5qOGpwY09qRmd4R1ROMWFDT3kybVVvYjZmSThqbU96SS1QT3YybXN5QUg2SHdreDFJVXlWZmlB?oc=5",
+      "title": "Panengstuen signs for Spurs - Tottenham Hotspur",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRGJYWDhHXy1PNW5SNklwSFllaDRoU21KSWRGWnhYTTJQR0hvSFgxVm1RM2Z5bUpsVlotYUlSc1ZQZDhoYlg1cmprbnE3dS1sU3hDcG1DYU5qOGpwY09qRmd4R1ROMWFDT3kybVVvYjZmSThqbU96SS1QT3YybXN5QUg2SHdreDFJVXlWZmlB?oc=5",
+      "publishedAt": "2026-06-30T07:00:00.000Z",
+      "summary": "Panengstuen signs for Spurs &nbsp;&nbsp; Tottenham Hotspur",
+      "sourceKey": "official-tottenham-monitor",
+      "sourceName": "Tottenham official-site monitor",
+      "status": "완료"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPVGRPWGNEZXBhdGFYTy1XdExNZlJfMFpHaENZV1czRld4TVM2NjR4NGl4ZGJrMWlUZXc0b0FlR2NMcTlfMkRKWWI5R25CNnJiZGp2aWpBS2tXWXJ2aDNmc2IzSnJFMHdNUG5BX2VuQjlQZHhxMU5fMy14c0pPQmRkU2J2aUcwcTZiOWoyRG45MVFtTTlYQXBZLWRJbHBsMW8zZ09yLXhWS3FtU2tVNEdXXzNvVE9uVHlRdFlFQ3ZPeHh0ZmpybVFkRW1URUxnWEkwcTBJS0pVaTR0UHpWb0Vpdm1YZ01hZUZ1bVVRSXM4bU1BZk1Qay1VRi1vSFpuYWRXY0c2VHRyZGNrQjQ?oc=5",
@@ -1227,12 +1227,12 @@
     {
       "source": "Fabrizio Romano Google News",
       "ok": true,
-      "count": 93
+      "count": 92
     },
     {
       "source": "David Ornstein Google News",
       "ok": true,
-      "count": 89
+      "count": 88
     },
     {
       "source": "The Athletic Google News",
@@ -1267,12 +1267,12 @@
     {
       "source": "Santi Aouna Google News",
       "ok": true,
-      "count": 62
+      "count": 29
     },
     {
       "source": "Tom Barclay Google News",
       "ok": true,
-      "count": 36
+      "count": 34
     },
     {
       "source": "Sami Mokbel Google News",
@@ -1282,7 +1282,7 @@
     {
       "source": "Mike McGrath Google News",
       "ok": true,
-      "count": 41
+      "count": 40
     },
     {
       "source": "James Pearce Google News",
@@ -1292,12 +1292,12 @@
     {
       "source": "Laurie Whitwell Google News",
       "ok": true,
-      "count": 39
+      "count": 41
     },
     {
       "source": "Simon Stone Google News",
       "ok": true,
-      "count": 49
+      "count": 48
     },
     {
       "source": "Rob Dawson Google News",
@@ -1322,7 +1322,7 @@
     {
       "source": "Fabrice Hawkins Google News",
       "ok": true,
-      "count": 40
+      "count": 41
     },
     {
       "source": "Miguel Delaney Google News",
@@ -1352,7 +1352,7 @@
     {
       "source": "Matteo Moretto Instagram mentions",
       "ok": true,
-      "count": 79
+      "count": 78
     },
     {
       "source": "Santi Aouna Instagram mentions",
@@ -1382,7 +1382,7 @@
     {
       "source": "Manchester City official-site monitor",
       "ok": true,
-      "count": 57
+      "count": 55
     },
     {
       "source": "Manchester United official-site monitor",
@@ -1392,7 +1392,7 @@
     {
       "source": "Chelsea official-site monitor",
       "ok": true,
-      "count": 82
+      "count": 27
     },
     {
       "source": "Liverpool official-site monitor",
@@ -1417,7 +1417,7 @@
     {
       "source": "Charlie Eccleshare Tottenham monitor",
       "ok": true,
-      "count": 21
+      "count": 22
     },
     {
       "source": "Jack Pitt-Brooke Tottenham monitor",
@@ -1442,7 +1442,7 @@
     {
       "source": "The Athletic Tottenham monitor",
       "ok": true,
-      "count": 3
+      "count": 4
     },
     {
       "source": "Sky Sports Tottenham monitor",
