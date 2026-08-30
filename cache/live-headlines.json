@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-30T15:33:01.574Z",
+  "fetchedAt": "2026-08-30T15:41:55.022Z",
   "itemCount": 120,
   "items": [
     {
@@ -123,6 +123,16 @@
       "status": "업데이트"
     },
     {
+      "id": "https://www.bbc.co.uk/sport/football/articles/c9v4d2z2p7yo?at_medium=RSS&at_campaign=rss",
+      "title": "All done deals in August 2026",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9v4d2z2p7yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-30T15:35:57.000Z",
+      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+      "sourceKey": "bbc-sport",
+      "sourceName": "BBC Sport",
+      "status": "업데이트"
+    },
+    {
       "id": "https://www.bbc.co.uk/sport/football/articles/c9qr79jr1qqo?at_medium=RSS&at_campaign=rss",
       "title": "Barcelona close to deal for Arsenal's Jesus",
       "url": "https://www.bbc.co.uk/sport/football/articles/c9qr79jr1qqo?at_medium=RSS&at_campaign=rss",
@@ -170,6 +180,16 @@
       "summary": "Hull City's move for Eintracht Frankfurt winger Jean-Matteo Bahoya falls through after the player decides against joining the Premier League side.",
       "sourceKey": "bbc-sport",
       "sourceName": "BBC Sport",
+      "status": "업데이트"
+    },
+    {
+      "id": "https://www.skysports.com/football/live-blog/11688/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
+      "title": "Championship news, transfer latest and gossip plus EFL updates from League One and League Two",
+      "url": "https://www.skysports.com/football/live-blog/11688/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
+      "publishedAt": "2026-08-30T15:00:00.000Z",
+      "summary": "Sky Sports football sitemap에서 가져온 실시간 헤드라인입니다.",
+      "sourceKey": "sky-sports",
+      "sourceName": "Sky Sports",
       "status": "업데이트"
     },
     {
@@ -373,16 +393,6 @@
       "status": "루머"
     },
     {
-      "id": "https://www.bbc.co.uk/sport/football/articles/c9v4d2z2p7yo?at_medium=RSS&at_campaign=rss",
-      "title": "All done deals in August 2026",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9v4d2z2p7yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-30T12:54:26.000Z",
-      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
-      "sourceKey": "bbc-sport",
-      "sourceName": "BBC Sport",
-      "status": "업데이트"
-    },
-    {
       "id": "https://www.skysports.com/football/live-blog/11714/13548674/hull-city-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
       "title": "Hull City transfers, latest news, rumours and gossip: Live updates, goals and highlights",
       "url": "https://www.skysports.com/football/live-blog/11714/13548674/hull-city-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
@@ -430,16 +440,6 @@
       "summary": "Danny Rohl makes move for Djeidi Gassama as Rangers face transfer deadline race &nbsp;&nbsp; Yahoo Sports",
       "sourceKey": "santi-aouna-monitor",
       "sourceName": "Santi Aouna monitor",
-      "status": "업데이트"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU3l0dVlIOTdxNzY3UkxzRmZQUE9KMGdIaXhvbmFydEpyYTFMYXpjdUIyVzdzY29Fd2ZiY0FWejB3TVhCQmxFRVJiWFNOYzNjalVvQlFrbTloaEswWG05c1FFYkZmeEN5Q1lzRkFFU2NteGlTdnNWV3ZKZHdEOFJpY1hkQ1c2SFA3SkFLVjhJZnZXQQ?oc=5",
-      "title": "Tottenham revive talks over defender deal ahead of transfer deadline - London Evening Standard",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU3l0dVlIOTdxNzY3UkxzRmZQUE9KMGdIaXhvbmFydEpyYTFMYXpjdUIyVzdzY29Fd2ZiY0FWejB3TVhCQmxFRVJiWFNOYzNjalVvQlFrbTloaEswWG05c1FFYkZmeEN5Q1lzRkFFU2NteGlTdnNWV3ZKZHdEOFJpY1hkQ1c2SFA3SkFLVjhJZnZXQQ?oc=5",
-      "publishedAt": "2026-08-30T12:24:52.000Z",
-      "summary": "Tottenham revive talks over defender deal ahead of transfer deadline &nbsp;&nbsp; London Evening Standard",
-      "sourceKey": "tottenham-standard-monitor",
-      "sourceName": "The Standard Tottenham monitor",
       "status": "업데이트"
     },
     {
@@ -553,16 +553,6 @@
       "status": "업데이트"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd1dKVVVJeHplYlppZmhEcnIxYlhIYWJiVHBRdU1vdU5hb1NHWEQwRks4QUxiUjNKSGx2WU9LZE4xMk1CQzFiSlhabnlQUUZ0YWtnWFB4OUs0aTljeVlFeFZ2V3pCd3EwczEzTDZxNG0yUG85QjIzaTdkcm1ZN2I1c3c0Q25BRjFLOXF0WU9BSFZjS21fa0EwNE1SWXlBeFB3UkFWbjZ1d2hJcGk4WDFLbzFETW1rY2g3eGtKVk1xbVU?oc=5",
-      "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd1dKVVVJeHplYlppZmhEcnIxYlhIYWJiVHBRdU1vdU5hb1NHWEQwRks4QUxiUjNKSGx2WU9LZE4xMk1CQzFiSlhabnlQUUZ0YWtnWFB4OUs0aTljeVlFeFZ2V3pCd3EwczEzTDZxNG0yUG85QjIzaTdkcm1ZN2I1c3c0Q25BRjFLOXF0WU9BSFZjS21fa0EwNE1SWXlBeFB3UkFWbjZ1d2hJcGk4WDFLbzFETW1rY2g3eGtKVk1xbVU?oc=5",
-      "publishedAt": "2026-08-30T11:02:18.000Z",
-      "summary": "Transfer Centre LIVE! Football transfer news, updates and rumours &nbsp;&nbsp; Sky Sports",
-      "sourceKey": "dimarzio-monitor",
-      "sourceName": "Gianluca Di Marzio 검색 모니터",
-      "status": "루머"
-    },
-    {
       "id": "https://www.skysports.com/football/live-blog/11679/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
       "title": "Man City transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
       "url": "https://www.skysports.com/football/live-blog/11679/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
@@ -633,16 +623,6 @@
       "status": "완료"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQME5XSFA1cGxQZHFuZnlUTHFWeWtRNVItaWxqdlRKaEN1MFZqZlJFZGswRmhBSENtdFJ5cGdKQ19lajBIWXdSVFA1aTB4WmFvb1R0TExicFhZRjR4UlFfYUdMOW1FNU5PcDBGWHJXa1M0OEg5R0JaS0ZVRk9uTjFZZEphYnRCNHdfQXNHamJjczlPU2ZGcmNBcTE4XzBEdEhGYXRQRWp5VWpTdU91S0HSAbMBQVVfeXFMT3ZCdWpRbDcxOEh2SzFMYjkzWmRNUGJ5cGRQTFhlYTh3Zm1McmN6MjQ1cko3dnlQX2twVlNXMVRWNWtVTnFmNG5ySklscFZxUnVoc0pZZHFyemJ5aW9kemVtLUtsZWtrUnpVUFVEQ1VNZTI0U255WHIzWUFMZWhXRDNRMWNBWDVDbDZHcjh4eTJsNTBHTENvcDNucmpMLXVPYlppUWJGbG56MmQtWUF1bU5BcTA?oc=5",
-      "title": "Tottenham CEO Vinai Venkatesham sends message about transfers, injuries and training ground changes - Football London",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQME5XSFA1cGxQZHFuZnlUTHFWeWtRNVItaWxqdlRKaEN1MFZqZlJFZGswRmhBSENtdFJ5cGdKQ19lajBIWXdSVFA1aTB4WmFvb1R0TExicFhZRjR4UlFfYUdMOW1FNU5PcDBGWHJXa1M0OEg5R0JaS0ZVRk9uTjFZZEphYnRCNHdfQXNHamJjczlPU2ZGcmNBcTE4XzBEdEhGYXRQRWp5VWpTdU91S0HSAbMBQVVfeXFMT3ZCdWpRbDcxOEh2SzFMYjkzWmRNUGJ5cGRQTFhlYTh3Zm1McmN6MjQ1cko3dnlQX2twVlNXMVRWNWtVTnFmNG5ySklscFZxUnVoc0pZZHFyemJ5aW9kemVtLUtsZWtrUnpVUFVEQ1VNZTI0U255WHIzWUFMZWhXRDNRMWNBWDVDbDZHcjh4eTJsNTBHTENvcDNucmpMLXVPYlppUWJGbG56MmQtWUF1bU5BcTA?oc=5",
-      "publishedAt": "2026-08-30T09:59:37.000Z",
-      "summary": "Tottenham CEO Vinai Venkatesham sends message about transfers, injuries and training ground changes &nbsp;&nbsp; Football London",
-      "sourceKey": "tottenham-football-london-monitor",
-      "sourceName": "Football.London Tottenham monitor",
-      "status": "업데이트"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQekxRQ1NRWkhPWENCbHNxT0ctRDNEaHBib1N0RmtzVjI1NkFCSmtqSC1sWUYzbHc1Ui0xQXY4RXJSSXV3Z2M3Mk5mY1B2YWV4d2xZdUduYU96ZlptZWhVMDF1ZDhlakRmbXJWeWE2cG1ueXdleERCUDZsMHU4cEd5T2ZlYkM0S3ktYWR0MEdnTk1NQmZESE5vcWFKX25yaHdiUzZBVlFjU01MdmtiTVdLS201VXlPanFIUFM5UjFhQU1Uc2lMMkNHQjZlNHlDRkNUellRbzA1ajM1cEktY0FnWU5JTEYwbC1zeU5oWkUtRUNQTGs?oc=5",
       "title": "Emi Martinez transfer news: Chelsea complete signing of Argentina international goalkeeper from Aston Villa - Sky Sports",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQekxRQ1NRWkhPWENCbHNxT0ctRDNEaHBib1N0RmtzVjI1NkFCSmtqSC1sWUYzbHc1Ui0xQXY4RXJSSXV3Z2M3Mk5mY1B2YWV4d2xZdUduYU96ZlptZWhVMDF1ZDhlakRmbXJWeWE2cG1ueXdleERCUDZsMHU4cEd5T2ZlYkM0S3ktYWR0MEdnTk1NQmZESE5vcWFKX25yaHdiUzZBVlFjU01MdmtiTVdLS201VXlPanFIUFM5UjFhQU1Uc2lMMkNHQjZlNHlDRkNUellRbzA1ajM1cEktY0FnWU5JTEYwbC1zeU5oWkUtRUNQTGs?oc=5",
@@ -670,16 +650,6 @@
       "summary": "Midday transfer update 💰 &nbsp;&nbsp; Yahoo Sports",
       "sourceKey": "romano-monitor",
       "sourceName": "Fabrizio Romano 검색 모니터",
-      "status": "업데이트"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSDNDMDdScWN2bHRfMFJFV1A5ZlAtRHRqYmM1bDdVYUl5NDIyTUFqSExGeElSUWFTVjJvT3RCX1VDTldXYWJmcldtQkNiVjQwOFhFcmxiejBxR1Zmc0k5RmpFZ1pVMnZ4OGhPYkhkbExzWTB6VGNMdEhhWmltSG0yQ3d4MkhLWU0waDFDVWRnNTZVckxhcmVCZnFfaw?oc=5",
-      "title": "Julian Alvarez to Arsenal transfer twist after Mikel Arteta talks - London Evening Standard",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSDNDMDdScWN2bHRfMFJFV1A5ZlAtRHRqYmM1bDdVYUl5NDIyTUFqSExGeElSUWFTVjJvT3RCX1VDTldXYWJmcldtQkNiVjQwOFhFcmxiejBxR1Zmc0k5RmpFZ1pVMnZ4OGhPYkhkbExzWTB6VGNMdEhhWmltSG0yQ3d4MkhLWU0waDFDVWRnNTZVckxhcmVCZnFfaw?oc=5",
-      "publishedAt": "2026-08-30T09:31:16.000Z",
-      "summary": "Julian Alvarez to Arsenal transfer twist after Mikel Arteta talks &nbsp;&nbsp; London Evening Standard",
-      "sourceKey": "ornstein-monitor",
-      "sourceName": "David Ornstein 검색 모니터",
       "status": "업데이트"
     },
     {
@@ -890,16 +860,6 @@
       "summary": "Tottenham handed Cody Gakpo transfer bombshell as Liverpool star makes final decision &nbsp;&nbsp; Football London",
       "sourceKey": "tottenham-football-london-monitor",
       "sourceName": "Football.London Tottenham monitor",
-      "status": "업데이트"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMlZBX3NMODFGMkZnVWpZQjBlN2JYZHhoRVZQbW4zTjEtR1FINUNYZUNnLVlDOTcwZXBnSEFiRFdUNHVLYzJ0MlAwR0VXQ1lQSGRoU3RWR0tNVmxHa3ZXSXJsNzV2dGVpZENJTmRwWFA5bWllSVhWZVBFT1pmVVp3cENXVWp3MUZMY0lTc2syRldlbFQ1T2w3TmFzdw?oc=5",
-      "title": "Alvarez 'holds family meeting to discuss Arsenal move' after Arteta talks - London Evening Standard",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMlZBX3NMODFGMkZnVWpZQjBlN2JYZHhoRVZQbW4zTjEtR1FINUNYZUNnLVlDOTcwZXBnSEFiRFdUNHVLYzJ0MlAwR0VXQ1lQSGRoU3RWR0tNVmxHa3ZXSXJsNzV2dGVpZENJTmRwWFA5bWllSVhWZVBFT1pmVVp3cENXVWp3MUZMY0lTc2syRldlbFQ1T2w3TmFzdw?oc=5",
-      "publishedAt": "2026-08-29T23:04:32.000Z",
-      "summary": "Alvarez 'holds family meeting to discuss Arsenal move' after Arteta talks &nbsp;&nbsp; London Evening Standard",
-      "sourceKey": "ornstein-monitor",
-      "sourceName": "David Ornstein 검색 모니터",
       "status": "업데이트"
     },
     {
@@ -1201,6 +1161,46 @@
       "sourceKey": "guardian-football",
       "sourceName": "The Guardian Football",
       "status": "업데이트"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ZRzhMZkh1azJEaW8zRUVndEpiYWcwMzZaWlQybmpxUTBud1hCWEUyVlZ0MEVud0RrelNiVkxBUHU2bzRRb3FLQW1OZnpaNHFuSkZ6X1NmRTRtbkRTS3pxZQ?oc=5",
+      "title": "Arsenal Fans React To Vinicius Jr Transfer Links | David Ornstein’s Bomba Report Venezuela (ZLVab8Bu5q) - Mshale",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ZRzhMZkh1azJEaW8zRUVndEpiYWcwMzZaWlQybmpxUTBud1hCWEUyVlZ0MEVud0RrelNiVkxBUHU2bzRRb3FLQW1OZnpaNHFuSkZ6X1NmRTRtbkRTS3pxZQ?oc=5",
+      "publishedAt": "2026-08-29T16:00:58.000Z",
+      "summary": "Arsenal Fans React To Vinicius Jr Transfer Links | David Ornstein’s Bomba Report Venezuela (ZLVab8Bu5q) &nbsp;&nbsp; Mshale",
+      "sourceKey": "ornstein-monitor",
+      "sourceName": "David Ornstein 검색 모니터",
+      "status": "업데이트"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XeUhULTZtMFVtcngyMmNBeHdaak0wSWJJVk5tSmdFMXlZaU9GeTJ1SGJ3UDJleFBvemd2cVlya2JfYTl2WkswZmFuOF9UMnZ0Vm00SmlHMWdfVVlpdktPT2RmbWZfOXc?oc=5",
+      "title": "Daniel Munoz: Nottingham Forest agree deal to sign Crystal Palace defender - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XeUhULTZtMFVtcngyMmNBeHdaak0wSWJJVk5tSmdFMXlZaU9GeTJ1SGJ3UDJleFBvemd2cVlya2JfYTl2WkswZmFuOF9UMnZ0Vm00SmlHMWdfVVlpdktPT2RmbWZfOXc?oc=5",
+      "publishedAt": "2026-08-29T15:03:58.000Z",
+      "summary": "Daniel Munoz: Nottingham Forest agree deal to sign Crystal Palace defender &nbsp;&nbsp; BBC",
+      "sourceKey": "sami-mokbel-monitor",
+      "sourceName": "Sami Mokbel monitor",
+      "status": "업데이트"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTFdEOTNMVUl0eHlSSV9qYkQ3dGtlbUI2RFNBR0lMZDVRbGhmd1VmeFR5WG14Tk5GaDBHV0xJQ0lxaVVPQmRmeUdYaWhxcngzQkRRRG93STVKVnF0QTN2a0J6eXpPMU9PZ2hPQjlwejYtNGZucUt6UXYyem0xaWszM1RmaS1HNy1YN1NXMkxB?oc=5",
+      "title": "Fabrizio Romano confirms Real Madrid agreement for 19-year-old Spanish midfielder - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTFdEOTNMVUl0eHlSSV9qYkQ3dGtlbUI2RFNBR0lMZDVRbGhmd1VmeFR5WG14Tk5GaDBHV0xJQ0lxaVVPQmRmeUdYaWhxcngzQkRRRG93STVKVnF0QTN2a0J6eXpPMU9PZ2hPQjlwejYtNGZucUt6UXYyem0xaWszM1RmaS1HNy1YN1NXMkxB?oc=5",
+      "publishedAt": "2026-08-29T15:00:00.000Z",
+      "summary": "Fabrizio Romano confirms Real Madrid agreement for 19-year-old Spanish midfielder &nbsp;&nbsp; Yahoo Sports",
+      "sourceKey": "romano-monitor",
+      "sourceName": "Fabrizio Romano 검색 모니터",
+      "status": "업데이트"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNU3dMV1FqNXJVUmthZ1hfeTJHQVUyRkZGMl84OFk5TXIwRzBfLXJwTmJwaEpJd29tS1NXaDhVcExmTEl6Sm9HRFlCT0M1d0dnZE0xWENkdlAtaUtlcjB1cGhiZm1oVlpfZ0Y4Q0w4OUVhckpTenFoZkVhekxxVG1iaFI5VElRVnM2YXBMZW91Ql8yYW5PRFBrUjFLMkg1SFY3QkxVN2ZHbFBhTlXSAbABQVVfeXFMTWZBak40LVhaQXZLdk1mYVVURUFsdXlBMy1TLXFBS3BsRG5MeDJRLWVGYzRmbjlxV21PTkN6U1B6bkw4UGZrZXBJT21GQWN6YVlORVl1NnJEeWYxcmZmVDIxMFpCbFRod3VFd0k2b2VoOTZlT1E3NXp2cS1Ic1FPcTBOU0E0Y1pxN3BfNzZCd1hJSUhNcGVab0ZacjlqTDFFWUVkaU8xR3hMNjhRNnZHNU8?oc=5",
+      "title": "Liverpool send Tottenham clear Cody Gakpo transfer message amid Man City battle - Football London",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNU3dMV1FqNXJVUmthZ1hfeTJHQVUyRkZGMl84OFk5TXIwRzBfLXJwTmJwaEpJd29tS1NXaDhVcExmTEl6Sm9HRFlCT0M1d0dnZE0xWENkdlAtaUtlcjB1cGhiZm1oVlpfZ0Y4Q0w4OUVhckpTenFoZkVhekxxVG1iaFI5VElRVnM2YXBMZW91Ql8yYW5PRFBrUjFLMkg1SFY3QkxVN2ZHbFBhTlXSAbABQVVfeXFMTWZBak40LVhaQXZLdk1mYVVURUFsdXlBMy1TLXFBS3BsRG5MeDJRLWVGYzRmbjlxV21PTkN6U1B6bkw4UGZrZXBJT21GQWN6YVlORVl1NnJEeWYxcmZmVDIxMFpCbFRod3VFd0k2b2VoOTZlT1E3NXp2cS1Ic1FPcTBOU0E0Y1pxN3BfNzZCd1hJSUhNcGVab0ZacjlqTDFFWUVkaU8xR3hMNjhRNnZHNU8?oc=5",
+      "publishedAt": "2026-08-29T14:43:12.000Z",
+      "summary": "Liverpool send Tottenham clear Cody Gakpo transfer message amid Man City battle &nbsp;&nbsp; Football London",
+      "sourceKey": "tottenham-football-london-monitor",
+      "sourceName": "Football.London Tottenham monitor",
+      "status": "업데이트"
     }
   ],
   "sourceHealth": [
@@ -1242,7 +1242,7 @@
     {
       "source": "Gianluca Di Marzio Google News",
       "ok": true,
-      "count": 69
+      "count": 67
     },
     {
       "source": "Matteo Moretto Google News",
@@ -1272,7 +1272,7 @@
     {
       "source": "Tom Barclay Google News",
       "ok": true,
-      "count": 36
+      "count": 35
     },
     {
       "source": "Sami Mokbel Google News",
@@ -1297,7 +1297,7 @@
     {
       "source": "Simon Stone Google News",
       "ok": true,
-      "count": 49
+      "count": 47
     },
     {
       "source": "Rob Dawson Google News",
@@ -1312,7 +1312,7 @@
     {
       "source": "David Hytner Google News",
       "ok": true,
-      "count": 34
+      "count": 33
     },
     {
       "source": "Paul Joyce Google News",
@@ -1362,7 +1362,7 @@
     {
       "source": "Arsenal official-site monitor",
       "ok": true,
-      "count": 83
+      "count": 82
     },
     {
       "source": "Barcelona official-site monitor",
@@ -1402,12 +1402,12 @@
     {
       "source": "Tottenham official-site monitor",
       "ok": true,
-      "count": 77
+      "count": 76
     },
     {
       "source": "Tottenham reporters Google News",
       "ok": true,
-      "count": 50
+      "count": 49
     },
     {
       "source": "Michael Bridge Tottenham monitor",
@@ -1437,17 +1437,17 @@
     {
       "source": "The Standard Tottenham monitor",
       "ok": true,
-      "count": 86
+      "count": 87
     },
     {
       "source": "The Athletic Tottenham monitor",
       "ok": true,
-      "count": 5
+      "count": 7
     },
     {
       "source": "Sky Sports Tottenham monitor",
       "ok": true,
-      "count": 73
+      "count": 71
     },
     {
       "source": "X API direct monitor",
