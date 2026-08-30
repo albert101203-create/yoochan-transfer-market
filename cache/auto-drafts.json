@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-30T01:28:03.914Z",
-  "basedOnFetchedAt": "2026-08-30T01:28:03.857Z",
+  "generatedAt": "2026-08-30T01:36:29.393Z",
+  "basedOnFetchedAt": "2026-08-30T01:36:29.316Z",
   "itemCount": 57,
-  "reviewItemCount": 14,
+  "reviewItemCount": 15,
   "archiveLimit": 200,
   "drafts": [
     {
@@ -1343,7 +1343,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
       "publishedAt": "2026-08-29 13:23",
-      "lastVerifiedAt": "2026-08-30 01:28",
+      "lastVerifiedAt": "2026-08-30 01:36",
       "extractionConfidence": "medium",
       "extractionPattern": "toby-collyer-west-brom-move",
       "needsVerification": false,
@@ -2266,7 +2266,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
       "publishedAt": "2026-08-29 18:14",
-      "lastVerifiedAt": "2026-08-30 01:28",
+      "lastVerifiedAt": "2026-08-30 01:36",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -2297,7 +2297,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
       "publishedAt": "2026-08-29 17:16",
-      "lastVerifiedAt": "2026-08-30 01:28",
+      "lastVerifiedAt": "2026-08-30 01:36",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -2340,6 +2340,37 @@
           "sourceTier": "medium",
           "headlineTitle": "Nottingham Forest agree £22m plus add-ons deal to sign Crystal Palace’s Daniel Munoz - The New York Times",
           "publishedAt": "2026-08-29 16:51"
+        }
+      ],
+      "sourceCount": 1
+    },
+    {
+      "id": "draft:https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ZRzhMZkh1azJEaW8zRUVndEpiYWcwMzZaWlQybmpxUTBud1hCWEUyVlZ0MEVud0RrelNiVkxBUHU2bzRRb3FLQW1OZnpaNHFuSkZ6X1NmRTRtbkRTS3pxZQ?oc=5",
+      "player": "Bomba Report",
+      "fromTeam": "David Ornstein",
+      "toTeam": "미상",
+      "league": "미분류",
+      "status": "확인 필요",
+      "fee": "미정",
+      "sourceKey": "ornstein-monitor",
+      "sourceTier": "medium",
+      "sourceName": "David Ornstein 검색 모니터",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ZRzhMZkh1azJEaW8zRUVndEpiYWcwMzZaWlQybmpxUTBud1hCWEUyVlZ0MEVud0RrelNiVkxBUHU2bzRRb3FLQW1OZnpaNHFuSkZ6X1NmRTRtbkRTS3pxZQ?oc=5",
+      "sourceType": "자동 추출 초안",
+      "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
+      "publishedAt": "2026-08-29 16:00",
+      "lastVerifiedAt": "2026-08-30 01:36",
+      "extractionConfidence": "low",
+      "extractionPattern": "fallback-unparsed-transfer-headline",
+      "needsVerification": true,
+      "headlineTitle": "Arsenal Fans React To Vinicius Jr Transfer Links | David Ornstein’s Bomba Report Venezuela (ZLVab8Bu5q) - Mshale",
+      "sourceLinks": [
+        {
+          "sourceName": "David Ornstein 검색 모니터",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ZRzhMZkh1azJEaW8zRUVndEpiYWcwMzZaWlQybmpxUTBud1hCWEUyVlZ0MEVud0RrelNiVkxBUHU2bzRRb3FLQW1OZnpaNHFuSkZ6X1NmRTRtbkRTS3pxZQ?oc=5",
+          "sourceTier": "medium",
+          "headlineTitle": "Arsenal Fans React To Vinicius Jr Transfer Links | David Ornstein’s Bomba Report Venezuela (ZLVab8Bu5q) - Mshale",
+          "publishedAt": "2026-08-29 16:00"
         }
       ],
       "sourceCount": 1
