@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-30T22:36:09.376Z",
+  "fetchedAt": "2026-08-30T22:44:36.534Z",
   "itemCount": 120,
   "items": [
     {
@@ -300,6 +300,16 @@
       "summary": "Sky Sports football sitemap에서 가져온 실시간 헤드라인입니다.",
       "sourceKey": "sky-sports",
       "sourceName": "Sky Sports",
+      "status": "업데이트"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM2VvSWp2bmxTcklDVE5ITjhhT2hXZjhaVk1LV3BaWEFFUWhBMURqajUwTUNzTE1ZUVZtM2NpVkp2YWlsNC1EeWVZYVdjN1c5c0F0UkhsS3B2cXZKMWNOdllweUpwd2tVbVhSdlVlbzJpR2U3c0FQRmZlU2ZxSk8zVXFETWs3V19yVHh0UHp5MlFoR3FMakk1c3dyOWJJMUF3bnM3WllVc0U?oc=5",
+      "title": "Fiorentina advancing in talks with Manchester United over Joshua Zirkzee loan move - The Athletic - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM2VvSWp2bmxTcklDVE5ITjhhT2hXZjhaVk1LV3BaWEFFUWhBMURqajUwTUNzTE1ZUVZtM2NpVkp2YWlsNC1EeWVZYVdjN1c5c0F0UkhsS3B2cXZKMWNOdllweUpwd2tVbVhSdlVlbzJpR2U3c0FQRmZlU2ZxSk8zVXFETWs3V19yVHh0UHp5MlFoR3FMakk1c3dyOWJJMUF3bnM3WllVc0U?oc=5",
+      "publishedAt": "2026-08-30T19:09:00.000Z",
+      "summary": "Fiorentina advancing in talks with Manchester United over Joshua Zirkzee loan move - The Athletic &nbsp;&nbsp; The New York Times",
+      "sourceKey": "laurie-whitwell-monitor",
+      "sourceName": "Laurie Whitwell monitor",
       "status": "업데이트"
     },
     {
@@ -1191,16 +1201,6 @@
       "sourceKey": "tottenham-football-london-monitor",
       "sourceName": "Football.London Tottenham monitor",
       "status": "업데이트"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DZE5VWVhMSnczQzZQbm1Sd0dEeDd0UzdkOFEycW1vVDVWeTBIRV80ZFVBRng0RnJVOU5iRU1jdjRLYnRMb0JmQTFIbU8wUkc1cUE?oc=5",
-      "title": "Cody Gakpo has decided to join Manchester City, reports David Ornstein 🤯 City are now negotiating with Liverpool over a deal for the £85m-rated forward 💰 What an unexpected transfer! 🤯 - instagram.com",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DZE5VWVhMSnczQzZQbm1Sd0dEeDd0UzdkOFEycW1vVDVWeTBIRV80ZFVBRng0RnJVOU5iRU1jdjRLYnRMb0JmQTFIbU8wUkc1cUE?oc=5",
-      "publishedAt": "2026-08-29T19:51:57.000Z",
-      "summary": "Cody Gakpo has decided to join Manchester City, reports David Ornstein 🤯 City are now negotiating with Liverpool over a deal for the £85m-rated forward 💰 What an unexpected transfer! 🤯 &nbsp;&nbsp; instagram.com",
-      "sourceKey": "instagram-indirect-monitor",
-      "sourceName": "Instagram 간접 검색 모니터",
-      "status": "완료"
     }
   ],
   "sourceHealth": [
@@ -1232,12 +1232,12 @@
     {
       "source": "David Ornstein Google News",
       "ok": true,
-      "count": 88
+      "count": 89
     },
     {
       "source": "The Athletic Google News",
       "ok": true,
-      "count": 18
+      "count": 17
     },
     {
       "source": "Gianluca Di Marzio Google News",
@@ -1247,7 +1247,7 @@
     {
       "source": "Matteo Moretto Google News",
       "ok": true,
-      "count": 50
+      "count": 49
     },
     {
       "source": "Ben Jacobs Google News",
@@ -1257,7 +1257,7 @@
     {
       "source": "Florian Plettenberg Google News",
       "ok": true,
-      "count": 41
+      "count": 70
     },
     {
       "source": "Kaveh Solhekol Google News",
@@ -1272,7 +1272,7 @@
     {
       "source": "Tom Barclay Google News",
       "ok": true,
-      "count": 34
+      "count": 36
     },
     {
       "source": "Sami Mokbel Google News",
@@ -1287,12 +1287,12 @@
     {
       "source": "James Pearce Google News",
       "ok": true,
-      "count": 47
+      "count": 46
     },
     {
       "source": "Laurie Whitwell Google News",
       "ok": true,
-      "count": 41
+      "count": 39
     },
     {
       "source": "Simon Stone Google News",
@@ -1317,7 +1317,7 @@
     {
       "source": "Paul Joyce Google News",
       "ok": true,
-      "count": 49
+      "count": 47
     },
     {
       "source": "Fabrice Hawkins Google News",
@@ -1357,7 +1357,7 @@
     {
       "source": "Santi Aouna Instagram mentions",
       "ok": true,
-      "count": 80
+      "count": 78
     },
     {
       "source": "Arsenal official-site monitor",
@@ -1367,7 +1367,7 @@
     {
       "source": "Barcelona official-site monitor",
       "ok": true,
-      "count": 95
+      "count": 97
     },
     {
       "source": "Real Madrid official-site monitor",
@@ -1407,7 +1407,7 @@
     {
       "source": "Tottenham reporters Google News",
       "ok": true,
-      "count": 50
+      "count": 49
     },
     {
       "source": "Michael Bridge Tottenham monitor",
@@ -1417,7 +1417,7 @@
     {
       "source": "Charlie Eccleshare Tottenham monitor",
       "ok": true,
-      "count": 22
+      "count": 21
     },
     {
       "source": "Jack Pitt-Brooke Tottenham monitor",
@@ -1442,7 +1442,7 @@
     {
       "source": "The Athletic Tottenham monitor",
       "ok": true,
-      "count": 5
+      "count": 3
     },
     {
       "source": "Sky Sports Tottenham monitor",
