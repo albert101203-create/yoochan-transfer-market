@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-30T15:06:50.093Z",
-  "basedOnFetchedAt": "2026-08-30T15:06:50.035Z",
+  "generatedAt": "2026-08-30T15:15:46.724Z",
+  "basedOnFetchedAt": "2026-08-30T15:15:46.603Z",
   "itemCount": 63,
-  "reviewItemCount": 8,
+  "reviewItemCount": 9,
   "archiveLimit": 200,
   "drafts": [
     {
@@ -420,7 +420,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-08-30 01:01",
-      "lastVerifiedAt": "2026-08-30 15:06",
+      "lastVerifiedAt": "2026-08-30 15:15",
       "extractionConfidence": "high",
       "extractionPattern": "barcola-liverpool-transfer",
       "needsVerification": false,
@@ -2418,6 +2418,37 @@
       "sourceCount": 1
     },
     {
+      "id": "draft:https://www.bbc.co.uk/sport/football/articles/cdj4g2zrdpjo?at_medium=RSS&at_campaign=rss",
+      "player": "Eintracht Frankfurt",
+      "fromTeam": "Hull",
+      "toTeam": "미상",
+      "league": "미분류",
+      "status": "확인 필요",
+      "fee": "미정",
+      "sourceKey": "bbc-sport",
+      "sourceTier": "medium",
+      "sourceName": "BBC Sport",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cdj4g2zrdpjo?at_medium=RSS&at_campaign=rss",
+      "sourceType": "자동 추출 초안",
+      "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
+      "publishedAt": "2026-08-30 15:09",
+      "lastVerifiedAt": "2026-08-30 15:15",
+      "extractionConfidence": "low",
+      "extractionPattern": "fallback-unparsed-transfer-headline",
+      "needsVerification": true,
+      "headlineTitle": "Hull's deal for Frankfurt winger Bahoya falls through",
+      "sourceLinks": [
+        {
+          "sourceName": "BBC Sport",
+          "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cdj4g2zrdpjo?at_medium=RSS&at_campaign=rss",
+          "sourceTier": "medium",
+          "headlineTitle": "Hull's deal for Frankfurt winger Bahoya falls through",
+          "publishedAt": "2026-08-30 15:09"
+        }
+      ],
+      "sourceCount": 1
+    },
+    {
       "id": "draft:https://news.google.com/rss/articles/CBMiowFBVV95cUxPZlhVVlZHejVZVVI1R0RsMzdLOFpYMGxkaHJLN1VyemNhcXhDWlJwengyckRTemFqSGdac25QdlpUTko4eTZPdFhFZ2R0U1hHTTJCUWJKWTNIX054a180OEI3UUp2LWV5VGFnM3JYcTYwbG9XaFB6NE10bGNhakZOWV9uZHhfbzNMYmFCWVR2UlB5cVBzak4tMlVlVXotZ01mSWlF?oc=5",
       "player": "Gabriel Martinelli",
       "fromTeam": "Arsenal",
@@ -2432,7 +2463,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
       "publishedAt": "2026-08-30 14:47",
-      "lastVerifiedAt": "2026-08-30 15:06",
+      "lastVerifiedAt": "2026-08-30 15:15",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
