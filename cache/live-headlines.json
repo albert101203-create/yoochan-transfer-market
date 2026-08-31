@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-31T05:34:21.349Z",
+  "fetchedAt": "2026-08-31T05:43:04.184Z",
   "itemCount": 120,
   "items": [
     {
@@ -350,16 +350,6 @@
       "summary": "Manchester United’s Toby Collyer completes West Brom move for initial £3m - The Athletic &nbsp;&nbsp; The New York Times",
       "sourceKey": "laurie-whitwell-monitor",
       "sourceName": "Laurie Whitwell monitor",
-      "status": "완료"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZmNOSndYRndEY3I5TmN5dnZXRnRKN0pDVi1MTDhvdUZUTlc4bzdiX3hUUy01c3VKZks5akhaQWc3SHVEN2MxTUZidDFzNk1XZVZTMmFUdTRZMFI4UjBxSXBRbUoyWmtXUUJFeXR2cks4TGh6UXE3TkNqMU81TmVJcFBPVmZ2bUloWXVCVXU1NHZ2WGFGdmRROHFhNUxsd0NIa3NTcTNvMmxKbEZQZW5JT0JVMDc0S3psTTJDSGpDa2J6X3BaWkFZSTd3REVNNnVGT2dtSldPUUJNUUw1ci1FeGZR?oc=5",
-      "title": "Arsenal Transfer News Today: Alvarez statement as agreement confirmed - footballtransfers.com",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZmNOSndYRndEY3I5TmN5dnZXRnRKN0pDVi1MTDhvdUZUTlc4bzdiX3hUUy01c3VKZks5akhaQWc3SHVEN2MxTUZidDFzNk1XZVZTMmFUdTRZMFI4UjBxSXBRbUoyWmtXUUJFeXR2cks4TGh6UXE3TkNqMU81TmVJcFBPVmZ2bUloWXVCVXU1NHZ2WGFGdmRROHFhNUxsd0NIa3NTcTNvMmxKbEZQZW5JT0JVMDc0S3psTTJDSGpDa2J6X3BaWkFZSTd3REVNNnVGT2dtSldPUUJNUUw1ci1FeGZR?oc=5",
-      "publishedAt": "2026-08-30T19:01:00.000Z",
-      "summary": "Arsenal Transfer News Today: Alvarez statement as agreement confirmed &nbsp;&nbsp; footballtransfers.com",
-      "sourceKey": "romano-monitor",
-      "sourceName": "Fabrizio Romano 검색 모니터",
       "status": "완료"
     },
     {
@@ -1201,6 +1191,16 @@
       "sourceKey": "guardian-football",
       "sourceName": "The Guardian Football",
       "status": "업데이트"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05NkVuYU90WV85UW9WdnFTMlVsTjRVcUpQNURTa1VwS09vN3M1SjlQX2VMaEtBYzlxcFpsMFJ6X0tzci1OWmlzc25GQ3BRWEZwVUE?oc=5",
+      "title": "BREAKING: Cody Gakpo has decided to join Manchester City, reports David Ornstein 🚨🔵 The Liverpool forward also considered staying at Anfield or moving to Tottenham, but has chosen City following the Reds’ move for Bradley Barcola. Talks are advancing - instagram.com",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05NkVuYU90WV85UW9WdnFTMlVsTjRVcUpQNURTa1VwS09vN3M1SjlQX2VMaEtBYzlxcFpsMFJ6X0tzci1OWmlzc25GQ3BRWEZwVUE?oc=5",
+      "publishedAt": "2026-08-29T20:16:59.000Z",
+      "summary": "BREAKING: Cody Gakpo has decided to join Manchester City, reports David Ornstein 🚨🔵 The Liverpool forward also considered staying at Anfield or moving to Tottenham, but has chosen City following the Reds’ move for Bradley Barcola. Talks are advancing &nbsp;&nbsp; instagram.com",
+      "sourceKey": "instagram-indirect-monitor",
+      "sourceName": "Instagram 간접 검색 모니터",
+      "status": "완료"
     }
   ],
   "sourceHealth": [
@@ -1227,7 +1227,7 @@
     {
       "source": "Fabrizio Romano Google News",
       "ok": true,
-      "count": 91
+      "count": 92
     },
     {
       "source": "David Ornstein Google News",
@@ -1247,7 +1247,7 @@
     {
       "source": "Matteo Moretto Google News",
       "ok": true,
-      "count": 50
+      "count": 51
     },
     {
       "source": "Ben Jacobs Google News",
@@ -1257,7 +1257,7 @@
     {
       "source": "Florian Plettenberg Google News",
       "ok": true,
-      "count": 72
+      "count": 47
     },
     {
       "source": "Kaveh Solhekol Google News",
@@ -1287,7 +1287,7 @@
     {
       "source": "James Pearce Google News",
       "ok": true,
-      "count": 45
+      "count": 46
     },
     {
       "source": "Laurie Whitwell Google News",
@@ -1307,12 +1307,12 @@
     {
       "source": "Mark Ogden Google News",
       "ok": true,
-      "count": 16
+      "count": 18
     },
     {
       "source": "David Hytner Google News",
       "ok": true,
-      "count": 33
+      "count": 34
     },
     {
       "source": "Paul Joyce Google News",
@@ -1322,7 +1322,7 @@
     {
       "source": "Fabrice Hawkins Google News",
       "ok": true,
-      "count": 40
+      "count": 18
     },
     {
       "source": "Miguel Delaney Google News",
@@ -1407,7 +1407,7 @@
     {
       "source": "Tottenham reporters Google News",
       "ok": true,
-      "count": 49
+      "count": 51
     },
     {
       "source": "Michael Bridge Tottenham monitor",
@@ -1417,12 +1417,12 @@
     {
       "source": "Charlie Eccleshare Tottenham monitor",
       "ok": true,
-      "count": 22
+      "count": 21
     },
     {
       "source": "Jack Pitt-Brooke Tottenham monitor",
       "ok": true,
-      "count": 27
+      "count": 28
     },
     {
       "source": "James Maw Tottenham monitor",
@@ -1432,7 +1432,7 @@
     {
       "source": "Football.London Tottenham monitor",
       "ok": true,
-      "count": 83
+      "count": 82
     },
     {
       "source": "The Standard Tottenham monitor",
