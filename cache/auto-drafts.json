@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-31T10:16:10.312Z",
-  "basedOnFetchedAt": "2026-08-31T10:16:10.251Z",
+  "generatedAt": "2026-08-31T10:25:03.997Z",
+  "basedOnFetchedAt": "2026-08-31T10:25:03.939Z",
   "itemCount": 63,
   "reviewItemCount": 22,
   "archiveLimit": 200,
@@ -1298,7 +1298,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
       "publishedAt": "2026-08-30 19:53",
-      "lastVerifiedAt": "2026-08-31 10:16",
+      "lastVerifiedAt": "2026-08-31 10:25",
       "extractionConfidence": "medium",
       "extractionPattern": "arsenal-julian-alvarez-interest",
       "needsVerification": false,
@@ -1465,6 +1465,13 @@
       "sourceLinks": [
         {
           "sourceName": "Instagram 간접 검색 모니터",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA1Tzd6VFRoLVNMeVRYQ1RDVzlfZG5aXzBRMXBUTVF5Mi00WFE1WFUwSnYxOWs0QUQ1ZVVDdG5BdWdBdXJiTHVQc08yaXUzVFVJYXc?oc=5",
+          "sourceTier": "low",
+          "headlineTitle": "🚨🗣️𝗠𝗔𝗝𝗢𝗥 𝗕𝗥𝗘𝗔𝗞𝗜𝗡𝗚: Chelsea wants Rayan Cherki in a swap deal for Enzo Fernandez to join Manchester City, plus a £20m fee, as revealed by @davidornstein 🗣️ David Ornstein: “Chelsea are ready to let Enzo Fernandez join City in a swap deal with - instagram.com",
+          "publishedAt": "2026-08-31 07:24"
+        },
+        {
+          "sourceName": "Instagram 간접 검색 모니터",
           "sourceUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE15dUFiYUlHRGZjZ3NJcVY2dEs4Um1aUGpPLWQteHVBU0x1NUJvUExYU0h3Y3I1aDhFWGpKYVBvV0k0V084N2tIWDZDSWo0ZWFhWVE?oc=5",
           "sourceTier": "low",
           "headlineTitle": "🚨💣𝗠𝗔𝗝𝗢𝗥 𝗕𝗥𝗘𝗔𝗞𝗜𝗡𝗚: Chelsea wants Rayan Cherki in a swap deal for Enzo Fernandez to join Manchester city plus a £20m fee as revealed by David Ornstein. 🗣️ David Ornstein: \"Chelsea are ready to let Enzo Fernandez join city in a swap deal with Cher - instagram.com",
@@ -1506,7 +1513,7 @@
           "publishedAt": "2026-08-27 06:28"
         }
       ],
-      "sourceCount": 6
+      "sourceCount": 7
     },
     {
       "id": "draft:49753093",
@@ -2501,7 +2508,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
       "publishedAt": "2026-08-31 09:30",
-      "lastVerifiedAt": "2026-08-31 10:16",
+      "lastVerifiedAt": "2026-08-31 10:25",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -2532,7 +2539,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
       "publishedAt": "2026-08-31 08:21",
-      "lastVerifiedAt": "2026-08-31 10:16",
+      "lastVerifiedAt": "2026-08-31 10:25",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -2594,7 +2601,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
       "publishedAt": "2026-08-30 19:08",
-      "lastVerifiedAt": "2026-08-31 10:16",
+      "lastVerifiedAt": "2026-08-31 10:25",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -2656,7 +2663,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
       "publishedAt": "2026-08-30 15:16",
-      "lastVerifiedAt": "2026-08-31 10:16",
+      "lastVerifiedAt": "2026-08-31 10:25",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -2687,7 +2694,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
       "publishedAt": "2026-08-30 15:12",
-      "lastVerifiedAt": "2026-08-31 10:16",
+      "lastVerifiedAt": "2026-08-31 10:25",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -2718,7 +2725,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
       "publishedAt": "2026-08-30 15:09",
-      "lastVerifiedAt": "2026-08-31 10:16",
+      "lastVerifiedAt": "2026-08-31 10:25",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -2966,7 +2973,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
       "publishedAt": "2026-08-30 15:00",
-      "lastVerifiedAt": "2026-08-31 08:49",
+      "lastVerifiedAt": "2026-08-31 10:25",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
