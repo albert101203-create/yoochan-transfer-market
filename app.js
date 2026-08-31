@@ -425,7 +425,12 @@ function renderCards() {
 
   cards.innerHTML = items
     .map((item) => {
-      const badgeClass = item.status === "완료" ? "done" : "rumor";
+      const displayStatus = item.needsVerification ? "\uD655\uC778 \uD544\uC694" : item.status;
+      const badgeClass = item.needsVerification
+        ? "review"
+        : item.status === "\uC644\uB8CC"
+          ? "done"
+          : "rumor";
       const sourceLinks = renderSourceLinks(item);
       return `
         <article class="card transfer-card">
@@ -437,7 +442,7 @@ function renderCards() {
                 <h2 class="player">${item.player}</h2>
               </div>
             </div>
-            <span class="badge ${badgeClass}">${item.status}</span>
+            <span class="badge ${badgeClass}">${displayStatus}</span>
           </div>
 
           <div class="transfer-grid">
@@ -629,7 +634,7 @@ function renderReviewCards(items) {
   }
 
   if (reviewStatus) {
-    reviewStatus.textContent = `${items.length}개 카드가 원문 확인을 기다리고 있습니다. 확인 전에는 공개 이적 카드에 포함하지 않습니다.`;
+    reviewStatus.textContent = `${items.length}\uAC1C \uCE74\uB4DC\uAC00 \uC790\uB3D9 \uAC80\uC218 \uB300\uAE30 \uC911\uC785\uB2C8\uB2E4. \uBAA8\uB4E0 \uCE74\uB4DC\uB294 \uC774\uC801 \uCE74\uB4DC \uCE78\uC5D0\uC11C\uB3C4 \uD655\uC778\uD560 \uC218 \uC788\uACE0, \uC774 \uBCF4\uAE30\uC5D0\uC11C\uB294 \uAC80\uC218 \uD544\uC694 \uCE74\uB4DC\uB9CC \uBAA8\uC544\uBD05\uB2C8\uB2E4.`;
   }
 
   reviewCards.innerHTML = items
@@ -676,7 +681,7 @@ function renderReviewCards(items) {
           </div>
 
           <div class="source-block review-details">
-            <div class="review-warning">${missingLabel}. 이 카드는 원문 확인 전까지 공개 카드로 승격하지 않습니다.</div>
+            <div class="review-warning">${missingLabel}. \uC774 \uCE74\uB4DC\uB294 \uC774\uC801 \uCE74\uB4DC \uCE78\uC5D0\uB3C4 \uD45C\uC2DC\uB418\uBA70, \uC6D0\uBB38 \uD655\uC778 \uC804\uC5D0\uB294 \uAC80\uC218 \uD544\uC694 \uC0C1\uD0DC\uB85C \uD45C\uC2DC\uB429\uB2C8\uB2E4.</div>
             <div class="source-link-box">
               <span>원문 링크</span>
               <a href="${item.sourceUrl || "#"}" target="_blank" rel="noreferrer">원문 열기 ↗</a>
@@ -809,15 +814,18 @@ async function loadAutoDrafts(force = false) {
   try {
     const result = await fetchJsonOrCache("/api/auto-drafts", "./cache/auto-drafts.json", force);
     const { payload } = result;
-    const items = payload.drafts.map((item) => enrichTransfer(item));
+    const publishedItems = (payload.drafts || []).map((item) => enrichTransfer(item));
     reviewTransfers = (payload.reviewItems || []).map((item) => enrichTransfer(item));
+    // Keep review items visible in the main transfer-card view instead of
+    // hiding them; the separate review view remains available as a filter.
+    const items = [...publishedItems, ...reviewTransfers];
     reviewItemCount = payload.reviewItemCount ?? reviewTransfers.length;
-    autoDraftCount = payload.itemCount || items.length;
-    rumorDraftCount = payload.drafts.filter((item) => item.status === "루머").length;
+    autoDraftCount = items.length;
+    rumorDraftCount = items.filter((item) => item.status === "\uB8E8\uBA38" || item.needsVerification).length;
     renderStats();
     autoDraftTransfers = items.map((item) => ({
       ...item,
-      cardOrigin: "기사 자동 추출",
+      cardOrigin: item.needsVerification ? "\uAC80\uC218 \uD544\uC694 \uCE74\uB4DC" : "\uAE30\uC0AC \uC790\uB3D9 \uCD94\uCD9C",
     }));
     mergeAllTransfers();
     initFilters();
@@ -826,7 +834,7 @@ async function loadAutoDrafts(force = false) {
     draftMode = result.mode;
     draftStatus.textContent = `마지막 생성 ${new Date(payload.generatedAt).toLocaleString(
       "ko-KR"
-    )} · 자동 초안 ${payload.itemCount}개`;
+    )} ? \uC774\uC801 \uCE74\uB4DC ${items.length}\uAC1C (\uAC80\uC218 \uD544\uC694 ${reviewTransfers.length}\uAC1C)`;
   } catch (error) {
     draftMode = "draft failed";
     draftStatus.textContent = `자동 초안 생성 실패: ${error.message}`;
