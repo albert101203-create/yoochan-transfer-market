@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-31T01:22:01.292Z",
+  "fetchedAt": "2026-08-31T01:30:38.734Z",
   "itemCount": 120,
   "items": [
     {
@@ -203,16 +203,6 @@
       "status": "업데이트"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFByaVdGNWlMOExMR1NDNTFEaVp3SUxfdS1oU3g1YXhxSExNU2loeUNjSVBLY25FcHB1OFU4Y0RHNTBNWUFQREhmd01hc3RuT3dEQnc?oc=5",
-      "title": "🇧🇪🚨 𝐁𝐑𝐄𝐀𝐊𝐈𝐍𝐆: Newcastle are 𝐂𝐋𝐎𝐒𝐄 𝐓𝐎 𝐒𝐄𝐀𝐋𝐈𝐍𝐆 a deal to buy Matias Fernandez-Pardo from Lille. 💣 [Simon Jones] 🥇/🥈 Looked like Santi Aouna jumped the gun this morning but he’s FINALLY been backed up by the English press… Here by the Ma - instagram.com",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFByaVdGNWlMOExMR1NDNTFEaVp3SUxfdS1oU3g1YXhxSExNU2loeUNjSVBLY25FcHB1OFU4Y0RHNTBNWUFQREhmd01hc3RuT3dEQnc?oc=5",
-      "publishedAt": "2026-08-30T20:30:38.000Z",
-      "summary": "🇧🇪🚨 𝐁𝐑𝐄𝐀𝐊𝐈𝐍𝐆: Newcastle are 𝐂𝐋𝐎𝐒𝐄 𝐓𝐎 𝐒𝐄𝐀𝐋𝐈𝐍𝐆 a deal to buy Matias Fernandez-Pardo from Lille. 💣 [Simon Jones] 🥇/🥈 Looked like Santi Aouna jumped the gun this morning but he’s FINALLY been backed up by the English press… Here by the Ma &nbsp;&nbsp; instagram.com",
-      "sourceKey": "instagram-indirect-monitor",
-      "sourceName": "Instagram 간접 검색 모니터",
-      "status": "업데이트"
-    },
-    {
       "id": "https://www.skysports.com/football/live-blog/11675/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
       "title": "Tottenham transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
       "url": "https://www.skysports.com/football/live-blog/11675/13025489/tottenham-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
@@ -270,6 +260,16 @@
       "summary": "Sky Sports football sitemap에서 가져온 실시간 헤드라인입니다.",
       "sourceKey": "sky-sports",
       "sourceName": "Sky Sports",
+      "status": "루머"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNDQ0dkExaGpvMFE5Q0RhWEZ4SFpGRlJsZ1FDd0ptSGllOGU2LUFzdlVkdFk2ellIMGZObE9JZWdEbXlRQ1pxLTI4ZjZjV1hfVGpoRzR6QThIeHVsR3NiblRiajM5Q0NyQzlzSzNKeVEyU3I0dktaSFRzOFlIa1hLNDFUMGpkdXliWGNPMDBiRjFBSXNFamVQaExRVlV0Q0lVaTBLam51VndidlMxWFRldlBteklRTnlSN3lwSTVGRVFNMDJkT29RRURaWmJaZw?oc=5",
+      "title": "Transfer news LIVE: Arsenal Alvarez talks, Martinelli medical; Barcola to Liverpool - standard.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNDQ0dkExaGpvMFE5Q0RhWEZ4SFpGRlJsZ1FDd0ptSGllOGU2LUFzdlVkdFk2ellIMGZObE9JZWdEbXlRQ1pxLTI4ZjZjV1hfVGpoRzR6QThIeHVsR3NiblRiajM5Q0NyQzlzSzNKeVEyU3I0dktaSFRzOFlIa1hLNDFUMGpkdXliWGNPMDBiRjFBSXNFamVQaExRVlV0Q0lVaTBLam51VndidlMxWFRldlBteklRTnlSN3lwSTVGRVFNMDJkT29RRURaWmJaZw?oc=5",
+      "publishedAt": "2026-08-30T19:41:21.000Z",
+      "summary": "Transfer news LIVE: Arsenal Alvarez talks, Martinelli medical; Barcola to Liverpool &nbsp;&nbsp; standard.co.uk",
+      "sourceKey": "romano-monitor",
+      "sourceName": "Fabrizio Romano 검색 모니터",
       "status": "루머"
     },
     {
@@ -351,16 +351,6 @@
       "sourceKey": "sky-sports",
       "sourceName": "Sky Sports",
       "status": "루머"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRVF6eWdLbjdiME5NLXM3T25aZmtTQU1iOFRtUlV3U3FZUlJQVzVzTVJOWTdwZzNwZ0hKU0V0YTlDR0dBMnZZaG8xWTBqQWRHeUVsSjUya2JjVkozR2VDYk0zUTdnWDhQRlBHQjZqZXNMYUg5c0FNSEtSV0hPOFJUQUk5bEFyYW1SeDdMN1Iwa2N6R3ItTndENlpXSlBISC1DN21TaVUxUUpwV0ljN3RiUEhWcElTSjh3ZUFVb2tnMG1WTmwxclpCdGVNeTdOSXQ0cnJfRzFXQU5FdXlud0w0?oc=5",
-      "title": "Chelsea Transfer News Today: Lamine Camara latest as deal announced - footballtransfers.com",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRVF6eWdLbjdiME5NLXM3T25aZmtTQU1iOFRtUlV3U3FZUlJQVzVzTVJOWTdwZzNwZ0hKU0V0YTlDR0dBMnZZaG8xWTBqQWRHeUVsSjUya2JjVkozR2VDYk0zUTdnWDhQRlBHQjZqZXNMYUg5c0FNSEtSV0hPOFJUQUk5bEFyYW1SeDdMN1Iwa2N6R3ItTndENlpXSlBISC1DN21TaVUxUUpwV0ljN3RiUEhWcElTSjh3ZUFVb2tnMG1WTmwxclpCdGVNeTdOSXQ0cnJfRzFXQU5FdXlud0w0?oc=5",
-      "publishedAt": "2026-08-30T18:02:00.000Z",
-      "summary": "Chelsea Transfer News Today: Lamine Camara latest as deal announced &nbsp;&nbsp; footballtransfers.com",
-      "sourceKey": "romano-monitor",
-      "sourceName": "Fabrizio Romano 검색 모니터",
-      "status": "완료"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9EaXEwWVdhbEQyY3VlemV0UVcwWTFWR1JZWmpfRGxrZE5QaGtKYkc4MVJtNlNfS3NHMnc2Y25zejF6Mms3bXdXYVJLODhxUmxDSUE?oc=5",
@@ -923,6 +913,16 @@
       "status": "업데이트"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaTNlazRMZm9FVHF3ODlwVkV1VmNsXzNyYW1heWkwZ2VqSnpHMUN0anoyNkF3THhLZXRxdkZaM0MxQUVZYmEwZlZIM3JPbXFCYWIwLVc2RzJWQllOWVhlMFVCLWdUNEhubGpjTWluVmFRLW1NU29TbkpCMUdsQUZNYVpka05XZw?oc=5",
+      "title": "Tottenham agree Iliman Ndiaye deal as Grealish talks advance - Read Everton",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaTNlazRMZm9FVHF3ODlwVkV1VmNsXzNyYW1heWkwZ2VqSnpHMUN0anoyNkF3THhLZXRxdkZaM0MxQUVZYmEwZlZIM3JPbXFCYWIwLVc2RzJWQllOWVhlMFVCLWdUNEhubGpjTWluVmFRLW1NU29TbkpCMUdsQUZNYVpka05XZw?oc=5",
+      "publishedAt": "2026-08-30T10:25:36.000Z",
+      "summary": "Tottenham agree Iliman Ndiaye deal as Grealish talks advance &nbsp;&nbsp; Read Everton",
+      "sourceKey": "ornstein-monitor",
+      "sourceName": "David Ornstein 검색 모니터",
+      "status": "업데이트"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE15dUFiYUlHRGZjZ3NJcVY2dEs4Um1aUGpPLWQteHVBU0x1NUJvUExYU0h3Y3I1aDhFWGpKYVBvV0k0V084N2tIWDZDSWo0ZWFhWVE?oc=5",
       "title": "🚨💣𝗠𝗔𝗝𝗢𝗥 𝗕𝗥𝗘𝗔𝗞𝗜𝗡𝗚: Chelsea wants Rayan Cherki in a swap deal for Enzo Fernandez to join Manchester city plus a £20m fee as revealed by David Ornstein. 🗣️ David Ornstein: \"Chelsea are ready to let Enzo Fernandez join city in a swap deal with Cher - instagram.com",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE15dUFiYUlHRGZjZ3NJcVY2dEs4Um1aUGpPLWQteHVBU0x1NUJvUExYU0h3Y3I1aDhFWGpKYVBvV0k0V084N2tIWDZDSWo0ZWFhWVE?oc=5",
@@ -1227,12 +1227,12 @@
     {
       "source": "Fabrizio Romano Google News",
       "ok": true,
-      "count": 90
+      "count": 91
     },
     {
       "source": "David Ornstein Google News",
       "ok": true,
-      "count": 89
+      "count": 94
     },
     {
       "source": "The Athletic Google News",
@@ -1257,7 +1257,7 @@
     {
       "source": "Florian Plettenberg Google News",
       "ok": true,
-      "count": 72
+      "count": 40
     },
     {
       "source": "Kaveh Solhekol Google News",
@@ -1322,7 +1322,7 @@
     {
       "source": "Fabrice Hawkins Google News",
       "ok": true,
-      "count": 41
+      "count": 40
     },
     {
       "source": "Miguel Delaney Google News",
@@ -1352,12 +1352,12 @@
     {
       "source": "Matteo Moretto Instagram mentions",
       "ok": true,
-      "count": 79
+      "count": 77
     },
     {
       "source": "Santi Aouna Instagram mentions",
       "ok": true,
-      "count": 81
+      "count": 80
     },
     {
       "source": "Arsenal official-site monitor",
@@ -1437,7 +1437,7 @@
     {
       "source": "The Standard Tottenham monitor",
       "ok": true,
-      "count": 86
+      "count": 85
     },
     {
       "source": "The Athletic Tottenham monitor",
