@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-31T20:53:22.255Z",
-  "basedOnGeneratedAt": "2026-08-31T20:53:22.254Z",
+  "generatedAt": "2026-08-31T21:02:30.830Z",
+  "basedOnGeneratedAt": "2026-08-31T21:02:30.828Z",
   "itemCount": 30,
   "items": [
     {
@@ -373,7 +373,7 @@
           "sourceName": "Premier League transfer monitor",
           "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPS1BfX0VaRmw3MkxYWlR0a3pZa2FWODFTYWJqNHBZajh6eHRoSFlwVjItc1RXY0ZlZzVzMk1sQlBjWHdHUS02aDVYbkNXcDFxc2tLMWsza054cUlYTXpVRTBLR3VxNGRrRV9Sd3VZTUlHeHJLVFRPVTNlc0RLUVpFWW1EVnB0MzktY0RTTXJYZlRPZU01ZFhxbzVKMmlEYTltcDJlWDJlWnJrTlZUblNmTlVhbzl5Qjg?oc=5",
           "sourceTier": "low",
-          "headlineTitle": "Bradley Barcola joins Liverpool in £123m move from Paris Saint-Germain - ESPN",
+          "headlineTitle": "Bradley Barcola joins Liverpool in £123m move from Paris Saint-Germain - espn.com",
           "publishedAt": "2026-08-31 13:00"
         },
         {
@@ -1098,7 +1098,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-08-31 19:12",
-      "lastVerifiedAt": "2026-08-31 20:53",
+      "lastVerifiedAt": "2026-08-31 21:02",
       "extractionConfidence": "medium",
       "extractionPattern": "club-agree-deal-for-player",
       "needsVerification": false,
