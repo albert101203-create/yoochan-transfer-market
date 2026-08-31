@@ -1078,5 +1078,23 @@
     "sourcePage": "https://en.wikipedia.org/wiki/Nick_Woltemade",
     "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Nick_Woltemade_Ecuador_v_Germany_25_June_2026-069.jpg/330px-Nick_Woltemade_Ecuador_v_Germany_25_June_2026-069.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
+  },
+  "./assets/clubs/liverpool-a7e67f80.png": {
+    "name": "Liverpool",
+    "sourcePage": "https://r2.thesportsdb.com/images/media/team/badge/kfaher1737969724.png",
+    "sourceImage": "https://r2.thesportsdb.com/images/media/team/badge/kfaher1737969724.png",
+    "note": "Seeded from TheSportsDB player artwork; verify the image license before redistribution."
+  },
+  "./assets/clubs/liverpool-a7e67f80.svg": {
+    "name": "Liverpool",
+    "sourcePage": "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg",
+    "note": "Seeded from the existing Wikimedia image reference; verify the image license before redistribution."
+  },
+  "./assets/players/eintracht-frankfurt-33b69db8.webp": {
+    "name": "Eintracht Frankfurt",
+    "sourcePage": "https://en.wikipedia.org/wiki/Eintracht_Frankfurt",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Eintracht_Frankfurt_crest.svg/330px-Eintracht_Frankfurt_crest.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
   }
 }

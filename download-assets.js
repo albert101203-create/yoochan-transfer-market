@@ -84,6 +84,7 @@ const SEEDED_ASSETS = {
       "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Vitor-roque-palmeiras-internacional-sep2025.jpg/960px-Vitor-roque-palmeiras-internacional-sep2025.jpg",
   },
   clubs: {
+    Liverpool: "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg",
     "West Ham United": "https://upload.wikimedia.org/wikipedia/en/c/c2/West_Ham_United_FC_logo.svg",
     Porto: "https://r2.thesportsdb.com/images/media/team/badge/xu47rb1628855600.png",
     "Swansea City": "https://r2.thesportsdb.com/images/media/team/badge/474rco1686920744.png",
