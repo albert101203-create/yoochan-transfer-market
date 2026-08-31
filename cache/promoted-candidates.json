@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-31T14:48:14.231Z",
-  "basedOnGeneratedAt": "2026-08-31T14:48:14.230Z",
+  "generatedAt": "2026-08-31T14:52:08.846Z",
+  "basedOnGeneratedAt": "2026-08-31T14:52:08.845Z",
   "itemCount": 30,
   "items": [
     {
@@ -342,6 +342,13 @@
       "headlineTitle": "Liverpool sign Bradley Barcola from Paris Saint-Germain - Liverpool FC",
       "sourceLinks": [
         {
+          "sourceName": "Premier League transfer monitor",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNSXRSLXZfdmV2X0d5NE13UDN5MVdCeUpNaWt2R1hJWkZXTXhJT0RNY1VYelBxYkpnM01ubVIyTmhjRE1MekIwTjNGU0tGYjE3ZEExSHVSbC1oNTF4TVR6Y1p2cFZ4QXVDMmRpUlYtaWVZaEpWZTJ5SkVmcmpzQ3FyOHMwekZFSUpwVEctSHdPSEpNS2d4RjNaMFVvVmw1SlBVZXcta3BvVk41MzMyeWlIT0drSnFfZnZiMi1Vc3ktUFlaRXhKS0pHQXlCa3BHSHp3aEVGS0hrVUFOOUl4cmJoU3llZ0Zzdw?oc=5",
+          "sourceTier": "low",
+          "headlineTitle": "Bradley Barcola Becomes Liverpool's Second-Most Expensive Signing After $145 Million PSG Transfer - NDTV Sports",
+          "publishedAt": "2026-08-31 14:13"
+        },
+        {
           "sourceName": "Liverpool official-site monitor",
           "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObkZ6bXV2ZWtxeE9HRWRxZUx2WEptbk0xQmFkWWVERlhZSzkxTHlvOG9FZkNHUmVsWDBWaGlRR3ZqVGNyamd1WU5HRVpHS1JUZXVqQ3lFaDQ2anBRaTdoNEprdURrbEJNRzNkNFNlWk8teXJsbTFUdjBPYmo0eGxNdlkyMFhmdWt6QnNz0gGTAUFVX3lxTE1HbWdpb0FEbHdtSFZSUF9VeEZuOEFuUlpBelNYeXdZMFRtc3hUMGp2akMtYVZiNDhGWHludXdPQTRJTlhGS0kwRE43UUxVWC1FNUxDMVV0VktWTUNfeVJqWlpnVXJSN1gzNlNSOE9WMzM4ODdRU2VKcDdzbkJCWkpWNXhmQUFJd2duWFVBT1ZqSzBCNA?oc=5",
           "sourceTier": "high",
@@ -417,9 +424,16 @@
           "sourceTier": "medium",
           "headlineTitle": "Liverpool close in on £120m deal for PSG's Barcola",
           "publishedAt": "2026-08-27 19:31"
+        },
+        {
+          "sourceName": "ESPN FC",
+          "sourceUrl": "https://www.espn.com/soccer/story/_/id/49750588/bradley-barcola-joins-liverpool-123-million-move-paris-saint-germain",
+          "sourceTier": "medium",
+          "headlineTitle": "Liverpool land PSG's Barcola in $167M transfer",
+          "publishedAt": "2026-08-31 23:07"
         }
       ],
-      "sourceCount": 11
+      "sourceCount": 13
     },
     {
       "id": "draft:49720080",
@@ -519,18 +533,18 @@
       "headlineTitle": "Manchester United’s Toby Collyer completes West Brom move for initial £3m - The New York Times",
       "sourceLinks": [
         {
+          "sourceName": "Laurie Whitwell monitor",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUDFueXNzQzFOZTBtQ3J1SlI0c2dGTzRpcGZHc1dCYlhYSnBQX2JwRm92bi0zZV8tNHl3c25XMnI3UTl6eHFyd09hXzQzclYzbERFZXgya2tGcDJKOGlFZTNCdnBROXB5RVFwQkFKalJHNWxxQXlmXzlyVUU0c1RNMWNGU3JtWHBKXzR2TG5FNkJNekFUaFBXUg?oc=5",
+          "sourceTier": "medium",
+          "headlineTitle": "Manchester United’s Toby Collyer completes West Brom move for initial £3m - The Athletic - The New York Times",
+          "publishedAt": "2026-08-30 19:08"
+        },
+        {
           "sourceName": "BBC Sport",
           "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c62ew152y7vo?at_medium=RSS&at_campaign=rss",
           "sourceTier": "medium",
           "headlineTitle": "West Brom sign Collyer from Manchester United",
           "publishedAt": "2026-08-30 20:45"
-        },
-        {
-          "sourceName": "Laurie Whitwell monitor",
-          "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUDFueXNzQzFOZTBtQ3J1SlI0c2dGTzRpcGZHc1dCYlhYSnBQX2JwRm92bi0zZV8tNHl3c25XMnI3UTl6eHFyd09hXzQzclYzbERFZXgya2tGcDJKOGlFZTNCdnBROXB5RVFwQkFKalJHNWxxQXlmXzlyVUU0c1RNMWNGU3JtWHBKXzR2TG5FNkJNekFUaFBXUg?oc=5",
-          "sourceTier": "medium",
-          "headlineTitle": "Manchester United’s Toby Collyer joining West Brom in transfer worth initial £3m - The Athletic - The New York Times",
-          "publishedAt": "2026-08-29 13:23"
         }
       ],
       "sourceCount": 2
