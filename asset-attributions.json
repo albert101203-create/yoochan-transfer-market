@@ -1126,5 +1126,17 @@
     "sourcePage": "https://en.wikipedia.org/wiki/AS_Roma",
     "sourceImage": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/AS_Roma_logo_%282017%29.svg/330px-AS_Roma_logo_%282017%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
+  },
+  "./assets/clubs/monza-61051af3.webp": {
+    "name": "Monza",
+    "sourcePage": "https://en.wikipedia.org/wiki/AC_Monza",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/AC_Monza_logo_%282021%29.svg/330px-AC_Monza_logo_%282021%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
+  },
+  "./assets/clubs/1-fc-magdeburg-568ee020.webp": {
+    "name": "1. FC Magdeburg",
+    "sourcePage": "https://en.wikipedia.org/wiki/1._FC_Magdeburg",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/1._FC_Magdeburg.svg/330px-1._FC_Magdeburg.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
   }
 }
