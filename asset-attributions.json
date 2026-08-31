@@ -1090,5 +1090,41 @@
     "sourcePage": "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg",
     "sourceImage": "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg",
     "note": "Seeded from the existing Wikimedia image reference; verify the image license before redistribution."
+  },
+  "./assets/players/yukinari-sugawara-31ea1efd.jpg": {
+    "name": "Yukinari Sugawara",
+    "sourcePage": "https://en.wikipedia.org/wiki/Yukinari_Sugawara",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/4822940_AE7I9740_-_Yukinari_Sugawara.jpg/330px-4822940_AE7I9740_-_Yukinari_Sugawara.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
+  },
+  "./assets/players/manu-kon-1567fe99.jpg": {
+    "name": "Manu Koné",
+    "sourcePage": "https://en.wikipedia.org/wiki/Manu_Kon%C3%A9",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Manu_Kone_France_v_Norway_26_June_26-066_%28cropped%29.jpg/330px-Manu_Kone_France_v_Norway_26_June_26-066_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
+  },
+  "./assets/players/tosin-adarabioyo-b6d27868.jpg": {
+    "name": "Tosin Adarabioyo",
+    "sourcePage": "https://en.wikipedia.org/wiki/Tosin_Adarabioyo",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Tosin_Adarabioyo_FIFA_Club_World_Cup_extraction.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
+  },
+  "./assets/clubs/southampton-aba6f600.webp": {
+    "name": "Southampton",
+    "sourcePage": "https://en.wikipedia.org/wiki/Southampton_F.C.",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/FC_Southampton.svg/330px-FC_Southampton.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
+  },
+  "./assets/clubs/cagliari-c7c42a71.webp": {
+    "name": "Cagliari",
+    "sourcePage": "https://en.wikipedia.org/wiki/Cagliari_Calcio",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/en/thumb/6/61/Cagliari_Calcio_1920.svg/330px-Cagliari_Calcio_1920.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
+  },
+  "./assets/clubs/roma-de5429d6.webp": {
+    "name": "Roma",
+    "sourcePage": "https://en.wikipedia.org/wiki/AS_Roma",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/AS_Roma_logo_%282017%29.svg/330px-AS_Roma_logo_%282017%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
   }
 }
