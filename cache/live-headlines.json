@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-31T05:25:42.102Z",
+  "fetchedAt": "2026-08-31T05:34:21.349Z",
   "itemCount": 120,
   "items": [
     {
@@ -123,14 +123,24 @@
       "status": "업데이트"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMlZBX3NMODFGMkZnVWpZQjBlN2JYZHhoRVZQbW4zTjEtR1FINUNYZUNnLVlDOTcwZXBnSEFiRFdUNHVLYzJ0MlAwR0VXQ1lQSGRoU3RWR0tNVmxHa3ZXSXJsNzV2dGVpZENJTmRwWFA5bWllSVhWZVBFT1pmVVp3cENXVWp3MUZMY0lTc2syRldlbFQ1T2w3TmFzdw?oc=5",
-      "title": "Alvarez 'holds family meeting to discuss Arsenal move' after Arteta talks - standard.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMlZBX3NMODFGMkZnVWpZQjBlN2JYZHhoRVZQbW4zTjEtR1FINUNYZUNnLVlDOTcwZXBnSEFiRFdUNHVLYzJ0MlAwR0VXQ1lQSGRoU3RWR0tNVmxHa3ZXSXJsNzV2dGVpZENJTmRwWFA5bWllSVhWZVBFT1pmVVp3cENXVWp3MUZMY0lTc2syRldlbFQ1T2w3TmFzdw?oc=5",
-      "publishedAt": "2026-08-31T05:03:32.000Z",
-      "summary": "Alvarez 'holds family meeting to discuss Arsenal move' after Arteta talks &nbsp;&nbsp; standard.co.uk",
-      "sourceKey": "ornstein-monitor",
-      "sourceName": "David Ornstein 검색 모니터",
+      "id": "https://www.bbc.co.uk/sport/football/articles/cvgy0qjl0xno?at_medium=RSS&at_campaign=rss",
+      "title": "'It's not a good relationship, it's a deal for money' - Emery on Villa-Chelsea deals",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvgy0qjl0xno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-31T05:31:02.000Z",
+      "summary": "Unai Emery insists that there are no \"good relations\" between Chelsea and Aston Villa after a series of transfers between the clubs.",
+      "sourceKey": "bbc-sport",
+      "sourceName": "BBC Sport",
       "status": "업데이트"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaENvTjlqeTNEZkVkQWwtbklKRHNWS0h6dnhoNWtmUGJRVjVFaGxCTEZtd1pJa3d6NVJWeDJ4cnl3VUZEb090SW1xelNXUHkzLWg1REEtVC1tTlNfa2RJTDd3WW54ZUdEYks5bTRCVFdMYk1fOFhNU0tVelBKeXcySlhFOXFkM2NfY1MwNmQyaWFkbnlQbnFybDdHN3hoUS1ZTTROeTNnNFY5TkFCTW1HRnhnV1FVV0ZBRnR4QVN1VERmSXVpdk1uTWVB?oc=5",
+      "title": "Transfer news: Summer transfer window 2026 - Premier League deals, ins and outs - Sky Sports",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQaENvTjlqeTNEZkVkQWwtbklKRHNWS0h6dnhoNWtmUGJRVjVFaGxCTEZtd1pJa3d6NVJWeDJ4cnl3VUZEb090SW1xelNXUHkzLWg1REEtVC1tTlNfa2RJTDd3WW54ZUdEYks5bTRCVFdMYk1fOFhNU0tVelBKeXcySlhFOXFkM2NfY1MwNmQyaWFkbnlQbnFybDdHN3hoUS1ZTTROeTNnNFY5TkFCTW1HRnhnV1FVV0ZBRnR4QVN1VERmSXVpdk1uTWVB?oc=5",
+      "publishedAt": "2026-08-31T05:25:56.000Z",
+      "summary": "Transfer news: Summer transfer window 2026 - Premier League deals, ins and outs &nbsp;&nbsp; Sky Sports",
+      "sourceKey": "tottenham-sky-monitor",
+      "sourceName": "Sky Sports Tottenham monitor",
+      "status": "루머"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUjFrU2pSTUVxSlhmSmFoYWZYbEVyb3lPYmgxbjMyeDNXZ1VzSUtqSkZDWlplR1FwcTNsaW82MUtjMTl6R1BEVm5FOWRST0RtWWlzRDBYeEFwYzVSYllMWlVDMFVBQ2VCc2lVUVRkZGdlMmQwajBkMHRjRjc5a3N3TmZrVl91NTFrTmYwU2VB?oc=5",
@@ -683,16 +693,6 @@
       "status": "업데이트"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQZmp3ZUE5dzV1X0g3ZGRNLXhmTGloaUFrdVloc1ZxZkk5RG9BZnpQSzFueDBkM0hCeUVJSjV2eUx3YmVpR0p1Ukd1VDlUelM2Rl9jY1ltN2U1SW1IOFBiUTBRaXlkVnpKeFNNcWFfMFNXQ0dvWU5qblhNLV8xTDV2ZkpBUDQyaU9ITWI0WGlhc21ma01aMnE0MnRMelZYTE16dkcxWGE3MzVTRmNNTTM4MjNmOVFjMjl3TnFiU0VPY2ZRUS1WcE9yRjlBclpnQ00xYkpJNEo1bjJJNXh2MnlQMmJNdHhwOGxVdV8xcnFrb3FLY2Z3M0pCSl93?oc=5",
-      "title": "Transfer bombshell at a knockdown price: Barcelona are apparently signing Gabriel Jesus from Arsenal - Goal.com",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQZmp3ZUE5dzV1X0g3ZGRNLXhmTGloaUFrdVloc1ZxZkk5RG9BZnpQSzFueDBkM0hCeUVJSjV2eUx3YmVpR0p1Ukd1VDlUelM2Rl9jY1ltN2U1SW1IOFBiUTBRaXlkVnpKeFNNcWFfMFNXQ0dvWU5qblhNLV8xTDV2ZkpBUDQyaU9ITWI0WGlhc21ma01aMnE0MnRMelZYTE16dkcxWGE3MzVTRmNNTTM4MjNmOVFjMjl3TnFiU0VPY2ZRUS1WcE9yRjlBclpnQ00xYkpJNEo1bjJJNXh2MnlQMmJNdHhwOGxVdV8xcnFrb3FLY2Z3M0pCSl93?oc=5",
-      "publishedAt": "2026-08-30T13:41:26.000Z",
-      "summary": "Transfer bombshell at a knockdown price: Barcelona are apparently signing Gabriel Jesus from Arsenal &nbsp;&nbsp; Goal.com",
-      "sourceKey": "romano-monitor",
-      "sourceName": "Fabrizio Romano 검색 모니터",
-      "status": "업데이트"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORHo2QVl3RU5XNVY5T05vaEt1XzVBV1BicV92VnFmMWRJUEt3RGVzR2ZPX1gwTFIyQmR1YXlwdXc3VDBhMl94ak1rNXJFYjZpajBNNFJVam9fZ3c5MW14N3ltZG1KS2pCb1NyWFlDQWwwNTRtejRoak5URFBLSUFNam1nRnN6ZmlMN0lWbXhpSVJ6Y3FUZjZ5S3cycjY4c1dXdm1fSmZ6TWphQQ?oc=5",
       "title": "Fabrizio Romano delivers shock Gabriel Jesus 'here we go' as Arsenal agree sale - Pain in the Arsenal",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORHo2QVl3RU5XNVY5T05vaEt1XzVBV1BicV92VnFmMWRJUEt3RGVzR2ZPX1gwTFIyQmR1YXlwdXc3VDBhMl94ak1rNXJFYjZpajBNNFJVam9fZ3c5MW14N3ltZG1KS2pCb1NyWFlDQWwwNTRtejRoak5URFBLSUFNam1nRnN6ZmlMN0lWbXhpSVJ6Y3FUZjZ5S3cycjY4c1dXdm1fSmZ6TWphQQ?oc=5",
@@ -871,6 +871,26 @@
       "sourceKey": "romano-monitor",
       "sourceName": "Fabrizio Romano 검색 모니터",
       "status": "업데이트"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd1dKVVVJeHplYlppZmhEcnIxYlhIYWJiVHBRdU1vdU5hb1NHWEQwRks4QUxiUjNKSGx2WU9LZE4xMk1CQzFiSlhabnlQUUZ0YWtnWFB4OUs0aTljeVlFeFZ2V3pCd3EwczEzTDZxNG0yUG85QjIzaTdkcm1ZN2I1c3c0Q25BRjFLOXF0WU9BSFZjS21fa0EwNE1SWXlBeFB3UkFWbjZ1d2hJcGk4WDFLbzFETW1rY2g3eGtKVk1xbVU?oc=5",
+      "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd1dKVVVJeHplYlppZmhEcnIxYlhIYWJiVHBRdU1vdU5hb1NHWEQwRks4QUxiUjNKSGx2WU9LZE4xMk1CQzFiSlhabnlQUUZ0YWtnWFB4OUs0aTljeVlFeFZ2V3pCd3EwczEzTDZxNG0yUG85QjIzaTdkcm1ZN2I1c3c0Q25BRjFLOXF0WU9BSFZjS21fa0EwNE1SWXlBeFB3UkFWbjZ1d2hJcGk4WDFLbzFETW1rY2g3eGtKVk1xbVU?oc=5",
+      "publishedAt": "2026-08-30T11:02:18.000Z",
+      "summary": "Transfer Centre LIVE! Football transfer news, updates and rumours &nbsp;&nbsp; Sky Sports",
+      "sourceKey": "dimarzio-monitor",
+      "sourceName": "Gianluca Di Marzio 검색 모니터",
+      "status": "루머"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMmpDU2JPb0ZUN1FPV01rOEw5VjBsS2lab3VfQUVDUWFyMnVkRGJZa1hvMTAzSlRrT1duSHpQOVBfZVFDbThOZG9hN2QtRlhabzhsYTVWSFZVQWhCLWp3UUh4UlZjc2JDX050UnpnSVF5a3c3SXg4YXBtaC13U00taXBhZzBud2lhZlJmTnhROTFnR1VmQ0NreXh6OHdReTAtZklUcThIT2xaOTFZSDBnRWFDT3JZdDlXV3NNMEhWTHlEdw?oc=5",
+      "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMmpDU2JPb0ZUN1FPV01rOEw5VjBsS2lab3VfQUVDUWFyMnVkRGJZa1hvMTAzSlRrT1duSHpQOVBfZVFDbThOZG9hN2QtRlhabzhsYTVWSFZVQWhCLWp3UUh4UlZjc2JDX050UnpnSVF5a3c3SXg4YXBtaC13U00taXBhZzBud2lhZlJmTnhROTFnR1VmQ0NreXh6OHdReTAtZklUcThIT2xaOTFZSDBnRWFDT3JZdDlXV3NNMEhWTHlEdw?oc=5",
+      "publishedAt": "2026-08-30T11:02:18.000Z",
+      "summary": "Transfer Centre LIVE! Football transfer news, updates and rumours &nbsp;&nbsp; Sky Sports",
+      "sourceKey": "michael-bridge-monitor",
+      "sourceName": "Michael Bridge monitor",
+      "status": "루머"
     },
     {
       "id": "https://www.skysports.com/football/live-blog/11679/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
@@ -1181,33 +1201,13 @@
       "sourceKey": "guardian-football",
       "sourceName": "The Guardian Football",
       "status": "업데이트"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05NkVuYU90WV85UW9WdnFTMlVsTjRVcUpQNURTa1VwS09vN3M1SjlQX2VMaEtBYzlxcFpsMFJ6X0tzci1OWmlzc25GQ3BRWEZwVUE?oc=5",
-      "title": "BREAKING: Cody Gakpo has decided to join Manchester City, reports David Ornstein 🚨🔵 The Liverpool forward also considered staying at Anfield or moving to Tottenham, but has chosen City following the Reds’ move for Bradley Barcola. Talks are advancing - instagram.com",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05NkVuYU90WV85UW9WdnFTMlVsTjRVcUpQNURTa1VwS09vN3M1SjlQX2VMaEtBYzlxcFpsMFJ6X0tzci1OWmlzc25GQ3BRWEZwVUE?oc=5",
-      "publishedAt": "2026-08-29T20:16:59.000Z",
-      "summary": "BREAKING: Cody Gakpo has decided to join Manchester City, reports David Ornstein 🚨🔵 The Liverpool forward also considered staying at Anfield or moving to Tottenham, but has chosen City following the Reds’ move for Bradley Barcola. Talks are advancing &nbsp;&nbsp; instagram.com",
-      "sourceKey": "instagram-indirect-monitor",
-      "sourceName": "Instagram 간접 검색 모니터",
-      "status": "완료"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYkZSVTJnN2VpUC1SWjIteWhSVk1Db2NaU3ZmSHlnRE9sM2YxRFk0VTRpclhETjBmeWdWZk13a2JHWm9PUVgzcVNyVHQzRUlzaVNlekdIampDcTZGcHZFbGR0cTlnOTQxc21sY0l6bVJpTjl6Y3JRbV9Lbmt1OGlWN25WVjBfYW1kaWRGWlJPTVNLWEdkTkRENVFlRjFTaEg5dU05RXZIa9IBrAFBVV95cUxPaW1UV2w0d1d4QTRacXhqSlBrQ1RVNVh4Q1EwQnQwMV9UcFl1Y0NtWFA2SWRXMFAxRGV4akl0dV83b1VHNlVlTnNXRVNBZDU0d0RfbW1INnFYMFdnT3RrNVRsbHBMVWo2c0d4TGRJYjU5em94SWs5c1JlVGFyY2pDNHdqM0NHVG00ZEd0dFduR1cyUW5RUGczeHBUUjI3ekZZQVdGWHNaVE1GbFFz?oc=5",
-      "title": "Jamie Carragher shares Tottenham transfer theory during Newcastle clash - 'The evidence' - Football London",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYkZSVTJnN2VpUC1SWjIteWhSVk1Db2NaU3ZmSHlnRE9sM2YxRFk0VTRpclhETjBmeWdWZk13a2JHWm9PUVgzcVNyVHQzRUlzaVNlekdIampDcTZGcHZFbGR0cTlnOTQxc21sY0l6bVJpTjl6Y3JRbV9Lbmt1OGlWN25WVjBfYW1kaWRGWlJPTVNLWEdkTkRENVFlRjFTaEg5dU05RXZIa9IBrAFBVV95cUxPaW1UV2w0d1d4QTRacXhqSlBrQ1RVNVh4Q1EwQnQwMV9UcFl1Y0NtWFA2SWRXMFAxRGV4akl0dV83b1VHNlVlTnNXRVNBZDU0d0RfbW1INnFYMFdnT3RrNVRsbHBMVWo2c0d4TGRJYjU5em94SWs5c1JlVGFyY2pDNHdqM0NHVG00ZEd0dFduR1cyUW5RUGczeHBUUjI3ekZZQVdGWHNaVE1GbFFz?oc=5",
-      "publishedAt": "2026-08-29T20:11:48.000Z",
-      "summary": "Jamie Carragher shares Tottenham transfer theory during Newcastle clash - 'The evidence' &nbsp;&nbsp; Football London",
-      "sourceKey": "tottenham-football-london-monitor",
-      "sourceName": "Football.London Tottenham monitor",
-      "status": "업데이트"
     }
   ],
   "sourceHealth": [
     {
       "source": "BBC Sport RSS",
       "ok": true,
-      "count": 20
+      "count": 21
     },
     {
       "source": "Sky Sports sitemap",
@@ -1232,27 +1232,27 @@
     {
       "source": "David Ornstein Google News",
       "ok": true,
-      "count": 88
+      "count": 89
     },
     {
       "source": "The Athletic Google News",
       "ok": true,
-      "count": 19
+      "count": 18
     },
     {
       "source": "Gianluca Di Marzio Google News",
       "ok": true,
-      "count": 69
+      "count": 70
     },
     {
       "source": "Matteo Moretto Google News",
       "ok": true,
-      "count": 51
+      "count": 50
     },
     {
       "source": "Ben Jacobs Google News",
       "ok": true,
-      "count": 80
+      "count": 81
     },
     {
       "source": "Florian Plettenberg Google News",
@@ -1272,12 +1272,12 @@
     {
       "source": "Tom Barclay Google News",
       "ok": true,
-      "count": 35
+      "count": 34
     },
     {
       "source": "Sami Mokbel Google News",
       "ok": true,
-      "count": 63
+      "count": 61
     },
     {
       "source": "Mike McGrath Google News",
@@ -1307,22 +1307,22 @@
     {
       "source": "Mark Ogden Google News",
       "ok": true,
-      "count": 18
+      "count": 16
     },
     {
       "source": "David Hytner Google News",
       "ok": true,
-      "count": 34
+      "count": 33
     },
     {
       "source": "Paul Joyce Google News",
       "ok": true,
-      "count": 48
+      "count": 47
     },
     {
       "source": "Fabrice Hawkins Google News",
       "ok": true,
-      "count": 39
+      "count": 40
     },
     {
       "source": "Miguel Delaney Google News",
@@ -1377,7 +1377,7 @@
     {
       "source": "Bayern official-site monitor",
       "ok": true,
-      "count": 48
+      "count": 47
     },
     {
       "source": "Manchester City official-site monitor",
@@ -1407,12 +1407,12 @@
     {
       "source": "Tottenham reporters Google News",
       "ok": true,
-      "count": 50
+      "count": 49
     },
     {
       "source": "Michael Bridge Tottenham monitor",
       "ok": true,
-      "count": 12
+      "count": 32
     },
     {
       "source": "Charlie Eccleshare Tottenham monitor",
