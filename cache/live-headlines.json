@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-31T12:53:59.729Z",
+  "fetchedAt": "2026-08-31T13:02:46.345Z",
   "itemCount": 120,
   "items": [
     {
@@ -123,14 +123,54 @@
       "status": "업데이트"
     },
     {
+      "id": "https://www.bbc.co.uk/sport/football/articles/c9v4d2z2p7yo?at_medium=RSS&at_campaign=rss",
+      "title": "All done deals in August 2026",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9v4d2z2p7yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-31T13:00:41.000Z",
+      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+      "sourceKey": "bbc-sport",
+      "sourceName": "BBC Sport",
+      "status": "업데이트"
+    },
+    {
       "id": "https://www.theguardian.com/football/live/2026/aug/31/football-transfer-deadline-day-looms-latest-news-on-gakpo-sarr-and-more-live",
-      "title": "Football transfer deadline day looms: Manchester City sign Allan, Muñoz joins Forest, and more – live",
+      "title": "Football transfer deadline day looms: Liverpool sign Barcola, Chelsea target Koné, and more – live",
       "url": "https://www.theguardian.com/football/live/2026/aug/31/football-transfer-deadline-day-looms-latest-news-on-gakpo-sarr-and-more-live",
-      "publishedAt": "2026-08-31T12:39:20.000Z",
+      "publishedAt": "2026-08-31T13:00:16.000Z",
       "summary": "Men’s transfer interactive | Women’s transfer interactive Get in touch: email Gregg and follow us on Bluesky Some slightly lower-key deals for you: Rotherham United have confirmed the signing of Manchester United youngster Jayce Fitzgerald on loan for the rest of the season. Barcelona have signed 16-year-old prodigy Mikael Baza from Hamburg – he will join their youth ranks. Jaden Heskey is to return to Sheffield Wednesday from Manchester City on loan after impressing last season. Continue reading...",
       "sourceKey": "guardian-football",
       "sourceName": "The Guardian Football",
-      "status": "완료"
+      "status": "루머"
+    },
+    {
+      "id": "https://www.skysports.com/football/news/11095/13577733/bradley-barcola-transfer-news-liverpool-complete-123m-signing-of-france-winger-from-psg",
+      "title": "Bradley Barcola transfer news: Liverpool complete &#163;123m signing of France winger from PSG",
+      "url": "https://www.skysports.com/football/news/11095/13577733/bradley-barcola-transfer-news-liverpool-complete-123m-signing-of-france-winger-from-psg",
+      "publishedAt": "2026-08-31T13:00:00.000Z",
+      "summary": "Sky Sports football sitemap에서 가져온 실시간 헤드라인입니다.",
+      "sourceKey": "sky-sports",
+      "sourceName": "Sky Sports",
+      "status": "루머"
+    },
+    {
+      "id": "https://www.bbc.co.uk/sport/football/articles/cx2zk08xe3ko?at_medium=RSS&at_campaign=rss",
+      "title": "Valencia interested in loan for Liverpool's Elliott",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2zk08xe3ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-31T12:56:36.000Z",
+      "summary": "Valencia are in talks with Liverpool to take midfielder Harvey Elliott on loan for the rest of the season.",
+      "sourceKey": "bbc-sport",
+      "sourceName": "BBC Sport",
+      "status": "루머"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNa3h6cEZhSndQMGJLRTV6RlpCV19WWndNQl9sb0wwRjlhc0RsSHhVdEdGRXhMOThhbEt0RUwwM3h0NmxTZXNMMGR6VVRMWlZxdXVhamdaMXNCZ1djNE9fSk9LVnZXUHZVbWJKWjBrV1lkSVNpRVBsajFlZG16Tnh2QWdUSDNrVnAyamNvNkFONjgwREFFSEktODEzZHNDTGhMcE9VQklyZF9FS0RJWDVxMFBDRFl6VV81d1BxdlRzMTZTaGFtUGJpYXJ0OUpURjdYaGI2WHdsdlQ5dFd2UUcyQmQ3bjhBb2EwM2c?oc=5",
+      "title": "Daniel Munoz: Nottingham Forest sign defender from Crystal Palace in transfer deal worth up to £22m - Sky Sports",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNa3h6cEZhSndQMGJLRTV6RlpCV19WWndNQl9sb0wwRjlhc0RsSHhVdEdGRXhMOThhbEt0RUwwM3h0NmxTZXNMMGR6VVRMWlZxdXVhamdaMXNCZ1djNE9fSk9LVnZXUHZVbWJKWjBrV1lkSVNpRVBsajFlZG16Tnh2QWdUSDNrVnAyamNvNkFONjgwREFFSEktODEzZHNDTGhMcE9VQklyZF9FS0RJWDVxMFBDRFl6VV81d1BxdlRzMTZTaGFtUGJpYXJ0OUpURjdYaGI2WHdsdlQ5dFd2UUcyQmQ3bjhBb2EwM2c?oc=5",
+      "publishedAt": "2026-08-31T12:44:16.000Z",
+      "summary": "Daniel Munoz: Nottingham Forest sign defender from Crystal Palace in transfer deal worth up to £22m &nbsp;&nbsp; Sky Sports",
+      "sourceKey": "tottenham-sky-monitor",
+      "sourceName": "Sky Sports Tottenham monitor",
+      "status": "업데이트"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNT0pvR2d6ZE5QZW5WOUhVdjR3SldRX3c2eHVvYjRpZF9ST0t3ZWxOa0piSmtCenRWVHd5NXp3YlJGaDNIajByV3RXTXM2ZktlWWFJRFRybXNOckxJUmJwMkNSSjRSTmNoWHloWXhoaldOVmlTQ21vVVg5Q3lsclBOc3k1eUp1SzJneElaNDAyMENpQ2J5NVFMZksxNVZ3NTB5bDdtMEtwbGdUUQ?oc=5",
@@ -150,16 +190,6 @@
       "summary": "Nottingham Forest complete the £22m signing of Daniel Munoz from Crystal Palace.",
       "sourceKey": "bbc-sport",
       "sourceName": "BBC Sport",
-      "status": "업데이트"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNa3h6cEZhSndQMGJLRTV6RlpCV19WWndNQl9sb0wwRjlhc0RsSHhVdEdGRXhMOThhbEt0RUwwM3h0NmxTZXNMMGR6VVRMWlZxdXVhamdaMXNCZ1djNE9fSk9LVnZXUHZVbWJKWjBrV1lkSVNpRVBsajFlZG16Tnh2QWdUSDNrVnAyamNvNkFONjgwREFFSEktODEzZHNDTGhMcE9VQklyZF9FS0RJWDVxMFBDRFl6VV81d1BxdlRzMTZTaGFtUGJpYXJ0OUpURjdYaGI2WHdsdlQ5dFd2UUcyQmQ3bjhBb2EwM2c?oc=5",
-      "title": "Daniel Munoz: Nottingham Forest sign defender from Crystal Palace in transfer deal worth up to £22m - Sky Sports",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNa3h6cEZhSndQMGJLRTV6RlpCV19WWndNQl9sb0wwRjlhc0RsSHhVdEdGRXhMOThhbEt0RUwwM3h0NmxTZXNMMGR6VVRMWlZxdXVhamdaMXNCZ1djNE9fSk9LVnZXUHZVbWJKWjBrV1lkSVNpRVBsajFlZG16Tnh2QWdUSDNrVnAyamNvNkFONjgwREFFSEktODEzZHNDTGhMcE9VQklyZF9FS0RJWDVxMFBDRFl6VV81d1BxdlRzMTZTaGFtUGJpYXJ0OUpURjdYaGI2WHdsdlQ5dFd2UUcyQmQ3bjhBb2EwM2c?oc=5",
-      "publishedAt": "2026-08-31T12:03:30.000Z",
-      "summary": "Daniel Munoz: Nottingham Forest sign defender from Crystal Palace in transfer deal worth up to £22m &nbsp;&nbsp; Sky Sports",
-      "sourceKey": "tottenham-sky-monitor",
-      "sourceName": "Sky Sports Tottenham monitor",
       "status": "업데이트"
     },
     {
@@ -423,14 +453,14 @@
       "status": "업데이트"
     },
     {
-      "id": "https://www.bbc.co.uk/sport/football/articles/c9v4d2z2p7yo?at_medium=RSS&at_campaign=rss",
-      "title": "All done deals in August 2026",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9v4d2z2p7yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-31T10:41:31.000Z",
-      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
-      "sourceKey": "bbc-sport",
-      "sourceName": "BBC Sport",
-      "status": "업데이트"
+      "id": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNa3NlNm5BOTRDYUN0VWxoZGJiY21nNGVxU050NXZvRmwtQ0RXbjlKRFhBdWVFZ0tCUWh5TWJaMlR0VHU5aEdUUVVmQVRLWGhtTGx4S0RXRHhwMm1TVGV6SVBsVHNKVzB6ZkloUWZ1d2JaRmp3V1ZBVUpXdFU0Tm9rSXNaNTZQbWFMemM0Slp2YlA1MXZoclc3dzhKNUZrR25sY2lJblVMZEV0cnJMNjY0aWtCSFFFbkU3UUJMNlp6dlQyUDZ1UWlsTzBUWkhMaVE?oc=5",
+      "title": "Transfer news LIVE: Arsenal triple deal, Alvarez boost; Barcola announcement - London Evening Standard",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNa3NlNm5BOTRDYUN0VWxoZGJiY21nNGVxU050NXZvRmwtQ0RXbjlKRFhBdWVFZ0tCUWh5TWJaMlR0VHU5aEdUUVVmQVRLWGhtTGx4S0RXRHhwMm1TVGV6SVBsVHNKVzB6ZkloUWZ1d2JaRmp3V1ZBVUpXdFU0Tm9rSXNaNTZQbWFMemM0Slp2YlA1MXZoclc3dzhKNUZrR25sY2lJblVMZEV0cnJMNjY0aWtCSFFFbkU3UUJMNlp6dlQyUDZ1UWlsTzBUWkhMaVE?oc=5",
+      "publishedAt": "2026-08-31T10:41:03.000Z",
+      "summary": "Transfer news LIVE: Arsenal triple deal, Alvarez boost; Barcola announcement &nbsp;&nbsp; London Evening Standard",
+      "sourceKey": "romano-monitor",
+      "sourceName": "Fabrizio Romano 검색 모니터",
+      "status": "루머"
     },
     {
       "id": "https://www.skysports.com/football/live-blog/11715/13353569/leeds-united-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
@@ -513,6 +543,16 @@
       "status": "업데이트"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Zc3hJTDBYZ3RDVEVjRG55Q2tiSXQ2MTlITWtjUGgyaGtpX3ZVNHVDZ1AxNVo2b25NN1U1a2JpV1hidWxmYnhPYzBPQnhYeWRMdmc?oc=5",
+      "title": "FOREST WANT MURPHY🔴🚨 Nottingham Forest are trying to sign 31 year old Jacob Murphy from Newcastle before the transfers deadline! The English right-wingers contract expires at NUFC next year and they won’t renew, they’re open to selling him now so t - instagram.com",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Zc3hJTDBYZ3RDVEVjRG55Q2tiSXQ2MTlITWtjUGgyaGtpX3ZVNHVDZ1AxNVo2b25NN1U1a2JpV1hidWxmYnhPYzBPQnhYeWRMdmc?oc=5",
+      "publishedAt": "2026-08-31T09:52:12.000Z",
+      "summary": "FOREST WANT MURPHY🔴🚨 Nottingham Forest are trying to sign 31 year old Jacob Murphy from Newcastle before the transfers deadline! The English right-wingers contract expires at NUFC next year and they won’t renew, they’re open to selling him now so t &nbsp;&nbsp; instagram.com",
+      "sourceKey": "instagram-indirect-monitor",
+      "sourceName": "Instagram 간접 검색 모니터",
+      "status": "업데이트"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM1Y5Qk1WWVV1NzFrNmxvXzlPbkJCNlBTMWZsd3N4ZWE1Ym1aOEdWc0JtZHUwWmI3ZlZ2czlMSUVqS1FPX25aWDlDa0YteFpISXptSlo3WGswMTVuMFBOb245UUJyRGJWendnVmZSaWRkTDNGYWJVQkdSRjJ6V004WVpsQmo1NjBQODZyU1V6NEpSeHVNYk9vT2drSXNCRVZGaEQyNHZuRU9HZFZ5ZTFEcWx5VEpOS1k?oc=5",
       "title": "‘Here we go’ – Fabrizio Romano confirms surprise Liverpool signing before deadline day - readliverpoolfc.com",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM1Y5Qk1WWVV1NzFrNmxvXzlPbkJCNlBTMWZsd3N4ZWE1Ym1aOEdWc0JtZHUwWmI3ZlZ2czlMSUVqS1FPX25aWDlDa0YteFpISXptSlo3WGswMTVuMFBOb245UUJyRGJWendnVmZSaWRkTDNGYWJVQkdSRjJ6V004WVpsQmo1NjBQODZyU1V6NEpSeHVNYk9vT2drSXNCRVZGaEQyNHZuRU9HZFZ5ZTFEcWx5VEpOS1k?oc=5",
@@ -551,16 +591,6 @@
       "sourceKey": "sky-sports",
       "sourceName": "Sky Sports",
       "status": "업데이트"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZUhKWWZCZjNOWkJWaFJjNUNTRlNfMDRCdW11bVVwRU85bTkybXVvYU5WQXE5MDZBa1lNS3NoOXcyU0IzdjU1TnE0YmZFckpDcFQtUmJ5Qy16T2VCRHVQRWY4bDVPMzJTSW0xQW43dTNBZUNKb1kxT05xbExBNVUtNQ?oc=5",
-      "title": "Rumour ranking: Assessing the top 20 transfer window whispers - Football365",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZUhKWWZCZjNOWkJWaFJjNUNTRlNfMDRCdW11bVVwRU85bTkybXVvYU5WQXE5MDZBa1lNS3NoOXcyU0IzdjU1TnE0YmZFckpDcFQtUmJ5Qy16T2VCRHVQRWY4bDVPMzJTSW0xQW43dTNBZUNKb1kxT05xbExBNVUtNQ?oc=5",
-      "publishedAt": "2026-08-31T09:15:20.000Z",
-      "summary": "Rumour ranking: Assessing the top 20 transfer window whispers &nbsp;&nbsp; Football365",
-      "sourceKey": "romano-monitor",
-      "sourceName": "Fabrizio Romano 검색 모니터",
-      "status": "루머"
     },
     {
       "id": "https://www.bbc.co.uk/sport/football/articles/crl631pgxj7o?at_medium=RSS&at_campaign=rss",
@@ -663,16 +693,6 @@
       "status": "업데이트"
     },
     {
-      "id": "https://www.bbc.co.uk/sport/football/articles/cq5xgz7n659o?at_medium=RSS&at_campaign=rss",
-      "title": "Wrexham close in on Burnley defender Worrall",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cq5xgz7n659o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-31T08:20:42.000Z",
-      "summary": "Wrexham, who are yet to keep a clean sheet this season, are moving to sign 29-year-old centre-back Joe Worrall from Championship rivals Burnley.",
-      "sourceKey": "bbc-sport",
-      "sourceName": "BBC Sport",
-      "status": "업데이트"
-    },
-    {
       "id": "https://www.bbc.co.uk/sport/football/articles/c7v433lejveo?at_medium=RSS&at_campaign=rss",
       "title": "The transfers to watch before window closes",
       "url": "https://www.bbc.co.uk/sport/football/articles/c7v433lejveo?at_medium=RSS&at_campaign=rss",
@@ -708,16 +728,6 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTFlDNVBZLWlXbkw2bWV6cnhUZXlhQmxPXzQwZFVpNDJLZVEtOHdvcV9INUpuZGpMRmFTdkFhSWVid3dXSjBaOWcwMkZZWEFZSkp3RGd1WGRsbF9ncTFBU0FUZDNHaDNmV29YMFlmakJrRnFnekFjRzJzTU11Z1lvWnBtS1Nfek53MGtFc25OSDVZMWNwZmplekJQc0w?oc=5",
       "publishedAt": "2026-08-31T07:47:11.000Z",
       "summary": "Arsenal now ‘believe’ they could sign Alvarez as Romano provides latest update &nbsp;&nbsp; Football365",
-      "sourceKey": "romano-monitor",
-      "sourceName": "Fabrizio Romano 검색 모니터",
-      "status": "루머"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNa3NlNm5BOTRDYUN0VWxoZGJiY21nNGVxU050NXZvRmwtQ0RXbjlKRFhBdWVFZ0tCUWh5TWJaMlR0VHU5aEdUUVVmQVRLWGhtTGx4S0RXRHhwMm1TVGV6SVBsVHNKVzB6ZkloUWZ1d2JaRmp3V1ZBVUpXdFU0Tm9rSXNaNTZQbWFMemM0Slp2YlA1MXZoclc3dzhKNUZrR25sY2lJblVMZEV0cnJMNjY0aWtCSFFFbkU3UUJMNlp6dlQyUDZ1UWlsTzBUWkhMaVE?oc=5",
-      "title": "Transfer news LIVE: Arsenal triple deal, Alvarez boost; Barcola announcement - London Evening Standard",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNa3NlNm5BOTRDYUN0VWxoZGJiY21nNGVxU050NXZvRmwtQ0RXbjlKRFhBdWVFZ0tCUWh5TWJaMlR0VHU5aEdUUVVmQVRLWGhtTGx4S0RXRHhwMm1TVGV6SVBsVHNKVzB6ZkloUWZ1d2JaRmp3V1ZBVUpXdFU0Tm9rSXNaNTZQbWFMemM0Slp2YlA1MXZoclc3dzhKNUZrR25sY2lJblVMZEV0cnJMNjY0aWtCSFFFbkU3UUJMNlp6dlQyUDZ1UWlsTzBUWkhMaVE?oc=5",
-      "publishedAt": "2026-08-31T07:46:51.000Z",
-      "summary": "Transfer news LIVE: Arsenal triple deal, Alvarez boost; Barcola announcement &nbsp;&nbsp; London Evening Standard",
       "sourceKey": "romano-monitor",
       "sourceName": "Fabrizio Romano 검색 모니터",
       "status": "루머"
@@ -813,11 +823,31 @@
       "status": "완료"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KYzhYRWtQX1lzSXdpV3NNMFRfM1AyTVpoMEVmcmxtYjZBN1F0dGpEWUxFZl9rZlRwMjRfdFhnUm1KMUUyR0lDN2wxR2ZPQ1h1MGZDYzVlWTJzaE44bmtWRjNhZFZmLW5VUGc?oc=5",
+      "title": "🚨 𝐇𝐄𝐑𝐄 𝐖𝐄 𝐆𝐎! 𝐁𝐀𝐑𝐂𝐄𝐋𝐎𝐍𝐀 𝐀𝐆𝐑𝐄𝐄 𝐎𝐍 𝐒𝐔𝐑𝐏𝐑𝐈𝐒𝐄 𝐃𝐄𝐀𝐋 𝐓𝐎 𝐒𝐈𝐆𝐍 𝐆𝐀𝐁𝐑𝐈𝐄𝐋 𝐉𝐄𝐒𝐔𝐒 🔵🔴🇧🇷 Agreement done with Arsenal for the Brazilian forward who’s travelling for medical in Spain, already booked on Monday ✈️ Gabriel Jesus will cost €𝟏𝟎 - instagram.com",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KYzhYRWtQX1lzSXdpV3NNMFRfM1AyTVpoMEVmcmxtYjZBN1F0dGpEWUxFZl9rZlRwMjRfdFhnUm1KMUUyR0lDN2wxR2ZPQ1h1MGZDYzVlWTJzaE44bmtWRjNhZFZmLW5VUGc?oc=5",
+      "publishedAt": "2026-08-31T06:29:21.000Z",
+      "summary": "🚨 𝐇𝐄𝐑𝐄 𝐖𝐄 𝐆𝐎! 𝐁𝐀𝐑𝐂𝐄𝐋𝐎𝐍𝐀 𝐀𝐆𝐑𝐄𝐄 𝐎𝐍 𝐒𝐔𝐑𝐏𝐑𝐈𝐒𝐄 𝐃𝐄𝐀𝐋 𝐓𝐎 𝐒𝐈𝐆𝐍 𝐆𝐀𝐁𝐑𝐈𝐄𝐋 𝐉𝐄𝐒𝐔𝐒 🔵🔴🇧🇷 Agreement done with Arsenal for the Brazilian forward who’s travelling for medical in Spain, already booked on Monday ✈️ Gabriel Jesus will cost €𝟏𝟎 &nbsp;&nbsp; instagram.com",
+      "sourceKey": "instagram-indirect-monitor",
+      "sourceName": "Instagram 간접 검색 모니터",
+      "status": "업데이트"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQckZ2UWgwRWR2VG9qSHRJRDEtWEhVbUpxU05RZkJQUUwwYVAxdmlMal9QYXRNNXNiY3BpN3NPR01jTDFDbXdlQVFqNmhIZDJMOEpDRm5xd25QaGhiU2dncXlncGNELVhEOHROUDUxNEw0TkRWSTdSQWl2ZEJsUVVobXhqeHdlSWthQm83WUFyaDZ1UmI0bHd3aQ?oc=5",
       "title": "Full financial details of Gabriel Jesus’ Barcelona transfer – Romano - Barca Universal",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQckZ2UWgwRWR2VG9qSHRJRDEtWEhVbUpxU05RZkJQUUwwYVAxdmlMal9QYXRNNXNiY3BpN3NPR01jTDFDbXdlQVFqNmhIZDJMOEpDRm5xd25QaGhiU2dncXlncGNELVhEOHROUDUxNEw0TkRWSTdSQWl2ZEJsUVVobXhqeHdlSWthQm83WUFyaDZ1UmI0bHd3aQ?oc=5",
       "publishedAt": "2026-08-31T06:22:51.000Z",
       "summary": "Full financial details of Gabriel Jesus’ Barcelona transfer – Romano &nbsp;&nbsp; Barca Universal",
+      "sourceKey": "romano-monitor",
+      "sourceName": "Fabrizio Romano 검색 모니터",
+      "status": "업데이트"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOa29DbTh6c2pseGNTaDJuZExlYkVvUTlWaElja21iSW84V2lKOUFTSjRQUnc0dzA0dEVrbk5HQzFqNEc1YTZ1TzFtN1NXQ0U1bWpEZC1LYmNDeldjMzVON21CYlduZUw4cHgwQ1BTbGJnY1hGNTZEMThmaktkMXZtZlpZNGV2Yl8tQThqZmVR?oc=5",
+      "title": "Full financial details of Gabriel Jesus’ Barcelona transfer – Romano - Yahoo Sports",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOa29DbTh6c2pseGNTaDJuZExlYkVvUTlWaElja21iSW84V2lKOUFTSjRQUnc0dzA0dEVrbk5HQzFqNEc1YTZ1TzFtN1NXQ0U1bWpEZC1LYmNDeldjMzVON21CYlduZUw4cHgwQ1BTbGJnY1hGNTZEMThmaktkMXZtZlpZNGV2Yl8tQThqZmVR?oc=5",
+      "publishedAt": "2026-08-31T06:20:00.000Z",
+      "summary": "Full financial details of Gabriel Jesus’ Barcelona transfer – Romano &nbsp;&nbsp; Yahoo Sports",
       "sourceKey": "romano-monitor",
       "sourceName": "Fabrizio Romano 검색 모니터",
       "status": "업데이트"
@@ -1171,36 +1201,6 @@
       "sourceKey": "official-liverpool-monitor",
       "sourceName": "Liverpool official-site monitor",
       "status": "루머"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQjNsUDFwbmRZTzcybzU2ajR2aVBjeENkY20tM2RlZ2JfREo0LU01SzhjVUUzRUc3MDYweWxCdk9zak5DWjBNTXZyRzcxNlh3aEI1ZVdGOUxTN2t5YzlqcXRyOHlwc2NqZW8yUHF3THhURTZ6S2RjLTJaVHhaT29KOFZwN3ZnenF3SVpmdXRkTzBUaldmNmJfVlRIWlQ?oc=5",
-      "title": "Tottenham reach agreement to sign Iliman Ndiaye, sell Richarlison back to Everton - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQjNsUDFwbmRZTzcybzU2ajR2aVBjeENkY20tM2RlZ2JfREo0LU01SzhjVUUzRUc3MDYweWxCdk9zak5DWjBNTXZyRzcxNlh3aEI1ZVdGOUxTN2t5YzlqcXRyOHlwc2NqZW8yUHF3THhURTZ6S2RjLTJaVHhaT29KOFZwN3ZnenF3SVpmdXRkTzBUaldmNmJfVlRIWlQ?oc=5",
-      "publishedAt": "2026-08-30T15:41:18.000Z",
-      "summary": "Tottenham reach agreement to sign Iliman Ndiaye, sell Richarlison back to Everton &nbsp;&nbsp; The New York Times",
-      "sourceKey": "ornstein-monitor",
-      "sourceName": "David Ornstein 검색 모니터",
-      "status": "업데이트"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZlhVVlZHejVZVVI1R0RsMzdLOFpYMGxkaHJLN1VyemNhcXhDWlJwengyckRTemFqSGdac25QdlpUTko4eTZPdFhFZ2R0U1hHTTJCUWJKWTNIX054a180OEI3UUp2LWV5VGFnM3JYcTYwbG9XaFB6NE10bGNhakZOWV9uZHhfbzNMYmFCWVR2UlB5cVBzak4tMlVlVXotZ01mSWlF?oc=5",
-      "title": "Arsenal’s Gabriel Martinelli set for Al Hilal transfer with clubs finalising €70m agreement - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZlhVVlZHejVZVVI1R0RsMzdLOFpYMGxkaHJLN1VyemNhcXhDWlJwengyckRTemFqSGdac25QdlpUTko4eTZPdFhFZ2R0U1hHTTJCUWJKWTNIX054a180OEI3UUp2LWV5VGFnM3JYcTYwbG9XaFB6NE10bGNhakZOWV9uZHhfbzNMYmFCWVR2UlB5cVBzak4tMlVlVXotZ01mSWlF?oc=5",
-      "publishedAt": "2026-08-30T15:16:08.000Z",
-      "summary": "Arsenal’s Gabriel Martinelli set for Al Hilal transfer with clubs finalising €70m agreement &nbsp;&nbsp; The New York Times",
-      "sourceKey": "ornstein-monitor",
-      "sourceName": "David Ornstein 검색 모니터",
-      "status": "업데이트"
-    },
-    {
-      "id": "https://www.theguardian.com/football/2026/aug/30/chelsea-brighton-premier-league-match-report",
-      "title": "Chelsea hold off Brighton in 4-3 win but remain chaotic under Xabi Alonso",
-      "url": "https://www.theguardian.com/football/2026/aug/30/chelsea-brighton-premier-league-match-report",
-      "publishedAt": "2026-08-30T15:15:25.000Z",
-      "summary": "In the fullness of time Chelsea’s surrender against Brighton in April may be seen as the turning point. The humiliation accelerated Liam ­Rosenior’s demise and forced the Stamford Bridge hierarchy into a ­reckoning leading to the appointment of Xabi Alonso, a shift in ­transfer ­strategy, the birth of the JP&nbsp;Morgan front three and the end of ­Robert&nbsp;Sánchez’s time in goal. For now, though, the argument that Emiliano Martínez is the final piece in the jigsaw seems a touch ­premature. With seven goals scored and five conceded while winning their first two league games, it is not hard to see where Chelsea need to improve in order to sustain a title challenge. They have to be savvier when ahead, and although the good has so far outweighed the bad Alonso could do with his side not dropping their guard when they have the ­opposition on the ropes. Continue reading...",
-      "sourceKey": "guardian-football",
-      "sourceName": "The Guardian Football",
-      "status": "업데이트"
     }
   ],
   "sourceHealth": [
@@ -1212,7 +1212,7 @@
     {
       "source": "Sky Sports sitemap",
       "ok": true,
-      "count": 35
+      "count": 36
     },
     {
       "source": "ESPN FC page",
@@ -1237,7 +1237,7 @@
     {
       "source": "The Athletic Google News",
       "ok": true,
-      "count": 19
+      "count": 20
     },
     {
       "source": "Gianluca Di Marzio Google News",
@@ -1252,7 +1252,7 @@
     {
       "source": "Ben Jacobs Google News",
       "ok": true,
-      "count": 80
+      "count": 82
     },
     {
       "source": "Florian Plettenberg Google News",
@@ -1287,17 +1287,17 @@
     {
       "source": "James Pearce Google News",
       "ok": true,
-      "count": 47
+      "count": 46
     },
     {
       "source": "Laurie Whitwell Google News",
       "ok": true,
-      "count": 41
+      "count": 42
     },
     {
       "source": "Simon Stone Google News",
       "ok": true,
-      "count": 24
+      "count": 48
     },
     {
       "source": "Rob Dawson Google News",
@@ -1317,7 +1317,7 @@
     {
       "source": "Paul Joyce Google News",
       "ok": true,
-      "count": 47
+      "count": 48
     },
     {
       "source": "Fabrice Hawkins Google News",
@@ -1327,17 +1327,17 @@
     {
       "source": "Miguel Delaney Google News",
       "ok": true,
-      "count": 36
+      "count": 34
     },
     {
       "source": "Melissa Reddy Google News",
       "ok": true,
-      "count": 26
+      "count": 27
     },
     {
       "source": "Fabrizio Romano Instagram mentions",
       "ok": true,
-      "count": 4
+      "count": 5
     },
     {
       "source": "Florian Plettenberg Instagram mentions",
@@ -1362,7 +1362,7 @@
     {
       "source": "Arsenal official-site monitor",
       "ok": true,
-      "count": 83
+      "count": 84
     },
     {
       "source": "Barcelona official-site monitor",
@@ -1397,7 +1397,7 @@
     {
       "source": "Liverpool official-site monitor",
       "ok": true,
-      "count": 57
+      "count": 86
     },
     {
       "source": "Tottenham official-site monitor",
@@ -1417,7 +1417,7 @@
     {
       "source": "Charlie Eccleshare Tottenham monitor",
       "ok": true,
-      "count": 21
+      "count": 22
     },
     {
       "source": "Jack Pitt-Brooke Tottenham monitor",
