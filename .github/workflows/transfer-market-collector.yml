@@ -32,14 +32,27 @@ jobs:
           node-version: 22
 
       - name: Collect and cache transfer data
+        continue-on-error: true
         env:
           X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
-        run: node cloud-collector.js
+        run: |
+          for attempt in 1 2 3; do
+            if node cloud-collector.js; then
+              exit 0
+            fi
+            echo "Collector attempt $attempt failed; retrying..."
+            sleep 10
+          done
+          exit 1
 
       - name: Validate card names and images
+        if: always()
+        continue-on-error: true
         run: node validate-assets.js
 
       - name: Commit updated cache
+        if: always()
+        continue-on-error: true
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
