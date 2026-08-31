@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-31T15:21:53.690Z",
+  "fetchedAt": "2026-08-31T15:23:15.024Z",
   "itemCount": 300,
   "items": [
     {
@@ -131,6 +131,16 @@
       "sourceKey": "caughtoffside",
       "sourceName": "CaughtOffside",
       "status": "완료"
+    },
+    {
+      "id": "https://www.bbc.co.uk/sport/football/articles/c780wzlzl45o?at_medium=RSS&at_campaign=rss",
+      "title": "Everton make bid for Monaco striker Balogun",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c780wzlzl45o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-31T15:16:28.000Z",
+      "summary": "Everton make an offer for Monaco forward Folarin Balogun - who is valued at £40m by the French club.",
+      "sourceKey": "bbc-sport",
+      "sourceName": "BBC Sport",
+      "status": "루머"
     },
     {
       "id": "https://football-italia.net/lazio-agreement-dia-rennes-e8-5m-request-man/",
@@ -1383,16 +1393,6 @@
       "status": "루머"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWkNqT2ZjUERJbkswQ2J3am1iX3RfdHlnRkViTExROWZiVzFWdG1FRElWU0xpT1pDZjhMMmo0ekRTWjhlX1NSYTRJVGhoNnp3NWxWNXhpTW95OE5EYmdFR0w4ck9kVjFVMFY3cldvUkdrYjQ5LWFiQkFZeGFQVG11dnA1c21MSHU2eGFkZUR4ZWh1U0J2ZHNIS1czREc4eUU?oc=5",
-      "title": "Liverpool transfer news as Bradley Barcola’s shirt number emerges - readliverpoolfc.com",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWkNqT2ZjUERJbkswQ2J3am1iX3RfdHlnRkViTExROWZiVzFWdG1FRElWU0xpT1pDZjhMMmo0ekRTWjhlX1NSYTRJVGhoNnp3NWxWNXhpTW95OE5EYmdFR0w4ck9kVjFVMFY3cldvUkdrYjQ5LWFiQkFZeGFQVG11dnA1c21MSHU2eGFkZUR4ZWh1U0J2ZHNIS1czREc4eUU?oc=5",
-      "publishedAt": "2026-08-31T10:12:08.000Z",
-      "summary": "Liverpool transfer news as Bradley Barcola’s shirt number emerges &nbsp;&nbsp; readliverpoolfc.com",
-      "sourceKey": "premier-league-transfer-monitor",
-      "sourceName": "Premier League transfer monitor",
-      "status": "루머"
-    },
-    {
       "id": "https://football-italia.net/celtic-secure-deal-parma-midfielder-sorensen/",
       "title": "Celtic secure deal for Parma midfielder Sorensen after Gineitis attempt",
       "url": "https://football-italia.net/celtic-secure-deal-parma-midfielder-sorensen/",
@@ -2443,16 +2443,6 @@
       "status": "업데이트"
     },
     {
-      "id": "https://www.bbc.co.uk/sport/football/articles/cdj4g2zrdpjo?at_medium=RSS&at_campaign=rss",
-      "title": "Hull's deal for Frankfurt winger Bahoya falls through",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cdj4g2zrdpjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-30T15:09:49.000Z",
-      "summary": "Hull City's move for Eintracht Frankfurt winger Jean-Matteo Bahoya falls through after the player decides against joining the Premier League side.",
-      "sourceKey": "bbc-sport",
-      "sourceName": "BBC Sport",
-      "status": "업데이트"
-    },
-    {
       "id": "https://www.skysports.com/football/live-blog/11688/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
       "title": "Championship news, transfer latest and gossip plus EFL updates from League One and League Two",
       "url": "https://www.skysports.com/football/live-blog/11688/13163353/championship-news-transfer-latest-and-gossip-plus-efl-updates-from-league-one-and-league-two",
@@ -2683,16 +2673,6 @@
       "status": "루머"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQdXBSM0tNOXhoRmJ3dkNjMWh5T3N0OWNpYmtzYkV6aFZiU2YtY3hUZlNBSWdKd1pFMmdYWkF1dFdCOXktMW9UclZnYUsyMnZXS2RpWnZVdThCTUZYQUlkY0lfZVFHZTg?oc=5",
-      "title": "Arsenal transfer news: Hamburg in advanced talks to buy Fabio Vieira - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQdXBSM0tNOXhoRmJ3dkNjMWh5T3N0OWNpYmtzYkV6aFZiU2YtY3hUZlNBSWdKd1pFMmdYWkF1dFdCOXktMW9UclZnYUsyMnZXS2RpWnZVdThCTUZYQUlkY0lfZVFHZTg?oc=5",
-      "publishedAt": "2026-08-30T11:27:02.000Z",
-      "summary": "Arsenal transfer news: Hamburg in advanced talks to buy Fabio Vieira &nbsp;&nbsp; BBC",
-      "sourceKey": "sami-mokbel-monitor",
-      "sourceName": "Sami Mokbel monitor",
-      "status": "루머"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSWhVUXY3cnh0TE8xZUtkMG5JWjk1UG94RUdwU2JZckIyZzRMdUctNmUxLTU1WktzV19GM1ZqTHZ5dU5CUTk0Q1VER1czdUdBdkxQWHhsMFFzVzZneGVBZ0NUeGxyRF9Ea3YySnlZOXAtS3NnZmE5VnZKV3REQTlWQi1sTDdTbmYzNGtiWmdlNndocEdHSnpScQ?oc=5",
       "title": "Ben Jacobs Issues Enzo Fernandez Chelsea to Man City Transfer Prediction - GiveMeSport",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSWhVUXY3cnh0TE8xZUtkMG5JWjk1UG94RUdwU2JZckIyZzRMdUctNmUxLTU1WktzV19GM1ZqTHZ5dU5CUTk0Q1VER1czdUdBdkxQWHhsMFFzVzZneGVBZ0NUeGxyRF9Ea3YySnlZOXAtS3NnZmE5VnZKV3REQTlWQi1sTDdTbmYzNGtiWmdlNndocEdHSnpScQ?oc=5",
@@ -2710,16 +2690,6 @@
       "summary": "‘Stay tuned’ – Fabrizio Romano teases possibility of ‘surprising’ last-minute Liverpool transfer &nbsp;&nbsp; The Empire of The Kop",
       "sourceKey": "romano-monitor",
       "sourceName": "Fabrizio Romano 검색 모니터",
-      "status": "업데이트"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBZSGdha2YxVTN0aGRsbHhRLURLVWYxeWM2QmVEeHVPaG42R2NXa0FFeEo4czRuU0ROLVk4RWVJdU9vVFR6eE1mR1NrbDNjajZZNEJMbmZqeUhpalcyMlpWcGFjVUdyWjl6NGRGTU5VeTUtdzVsZ2c5MC01ZC1qdw?oc=5",
-      "title": "Transfer Update - alle Wechsel & Gerüchte im Überblick - Sky.de",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBZSGdha2YxVTN0aGRsbHhRLURLVWYxeWM2QmVEeHVPaG42R2NXa0FFeEo4czRuU0ROLVk4RWVJdU9vVFR6eE1mR1NrbDNjajZZNEJMbmZqeUhpalcyMlpWcGFjVUdyWjl6NGRGTU5VeTUtdzVsZ2c5MC01ZC1qdw?oc=5",
-      "publishedAt": "2026-08-30T11:10:24.000Z",
-      "summary": "Transfer Update - alle Wechsel & Gerüchte im Überblick &nbsp;&nbsp; Sky.de",
-      "sourceKey": "plettenberg-monitor",
-      "sourceName": "Florian Plettenberg monitor",
       "status": "업데이트"
     },
     {
@@ -2893,16 +2863,6 @@
       "status": "업데이트"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWC1BWlVUQnNhWnM0aDNWZmlLZXM0RzJRZGFkSUJYcC14SkI3NlhZWjYxOHNuM1ozY2wwYjc5U3FaUWpacFkzWnlsaGNQT3VXa2Z2THJjMlVQdlNVY0xFQjZpR0NxcEpFUlRVb0FNWjIzUzhSd2ZVdm03N0F5aDA4N3prNDZ4MXZPVGphQU5SS3MwRExCUmp0UzBQblk5a1BXdDNKWi1RVFdZc3JudE1QR21nQWhmTWtN?oc=5",
-      "title": "Transfer rumors, news: Liverpool in talks to sign Ismaïla Sarr - ESPN",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWC1BWlVUQnNhWnM0aDNWZmlLZXM0RzJRZGFkSUJYcC14SkI3NlhZWjYxOHNuM1ozY2wwYjc5U3FaUWpacFkzWnlsaGNQT3VXa2Z2THJjMlVQdlNVY0xFQjZpR0NxcEpFUlRVb0FNWjIzUzhSd2ZVdm03N0F5aDA4N3prNDZ4MXZPVGphQU5SS3MwRExCUmp0UzBQblk5a1BXdDNKWi1RVFdZc3JudE1QR21nQWhmTWtN?oc=5",
-      "publishedAt": "2026-08-30T08:47:55.000Z",
-      "summary": "Transfer rumors, news: Liverpool in talks to sign Ismaïla Sarr &nbsp;&nbsp; ESPN",
-      "sourceKey": "santi-aouna-monitor",
-      "sourceName": "Santi Aouna monitor",
-      "status": "루머"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE40Y2JkRThVa2czRXAzQUNyaXFPTkZLSlZnUHVhbS1uZ1BadzBxMlRSUGNTYno3TzZwRVM3REh5enpqVDJ3U2h4WnRSbmdCeDNoT2c?oc=5",
       "title": "🚨BREAKING : Newcastle are close to agreeing a fee with Lille to sign Matias Fernandez-Pardo. (via : Santi Aouna) #NUFC #fblifestyle - instagram.com",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE40Y2JkRThVa2czRXAzQUNyaXFPTkZLSlZnUHVhbS1uZ1BadzBxMlRSUGNTYno3TzZwRVM3REh5enpqVDJ3U2h4WnRSbmdCeDNoT2c?oc=5",
@@ -3001,6 +2961,46 @@
       "sourceKey": "tottenham-transfer-news-monitor",
       "sourceName": "Tottenham transfer news monitor",
       "status": "루머"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pRG1HTW1ZS0xPUmJISElZQjN2YkxFcnFQOTJOSi1QVkY5a1dScElteXNyWUFibXVQb2NtZU95aWU5cjlBUThOdDc0bFVPTTdRcWc?oc=5",
+      "title": "🚨🔵🔴 𝐅𝐔𝐋𝐋-𝐁𝐀𝐂𝐊 𝐒𝐖𝐀𝐏! Barcelona have proposed exchanging Alejandro Balde for Federico Dimarco. Inter Milan’s stance is clear: Dimarco is not for sale. (Source: Matteo Moretto) #Barcelona #InterMilan #AlejandroBalde #Dimarco #Transfers - instagram.com",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1pRG1HTW1ZS0xPUmJISElZQjN2YkxFcnFQOTJOSi1QVkY5a1dScElteXNyWUFibXVQb2NtZU95aWU5cjlBUThOdDc0bFVPTTdRcWc?oc=5",
+      "publishedAt": "2026-08-30T02:40:41.000Z",
+      "summary": "🚨🔵🔴 𝐅𝐔𝐋𝐋-𝐁𝐀𝐂𝐊 𝐒𝐖𝐀𝐏! Barcelona have proposed exchanging Alejandro Balde for Federico Dimarco. Inter Milan’s stance is clear: Dimarco is not for sale. (Source: Matteo Moretto) #Barcelona #InterMilan #AlejandroBalde #Dimarco #Transfers &nbsp;&nbsp; instagram.com",
+      "sourceKey": "instagram-indirect-monitor",
+      "sourceName": "Instagram 간접 검색 모니터",
+      "status": "업데이트"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQThFV25paTk0NnZBMkJIdFFPbVMyeE5DUzRkV0dTUFdiUEdMYWZueVJYNTgwalNmRXFWOS1mS0FiZTk3NmtTaWxOWklNSzZNcU1FUlpBNDg1dFFhZzdGWFpUMDNkU0FKenJmcXZUNzBTaHAwS04zMzhXa3UzZElzWVo5NDl1THFoeFlRbFZhazVFRVRuYVZyU1J6RDFOMGVJdElaRnAydTBRUlJXVzE4WV9MZHVoNDVuRmlNakVaNEVfRUFNRTVMTThZeFVSdXBoZFZV?oc=5",
+      "title": "Transfer News LIVE: Garang Kuol finds new home as former Melb Victory star moves abroad - football360.com.au",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQThFV25paTk0NnZBMkJIdFFPbVMyeE5DUzRkV0dTUFdiUEdMYWZueVJYNTgwalNmRXFWOS1mS0FiZTk3NmtTaWxOWklNSzZNcU1FUlpBNDg1dFFhZzdGWFpUMDNkU0FKenJmcXZUNzBTaHAwS04zMzhXa3UzZElzWVo5NDl1THFoeFlRbFZhazVFRVRuYVZyU1J6RDFOMGVJdElaRnAydTBRUlJXVzE4WV9MZHVoNDVuRmlNakVaNEVfRUFNRTVMTThZeFVSdXBoZFZV?oc=5",
+      "publishedAt": "2026-08-30T00:26:52.000Z",
+      "summary": "Transfer News LIVE: Garang Kuol finds new home as former Melb Victory star moves abroad &nbsp;&nbsp; football360.com.au",
+      "sourceKey": "global-transfer-monitor",
+      "sourceName": "Global transfer news monitor",
+      "status": "루머"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwX3BXNkNDOGJKblMwcmVFOWlzNmJOSjMzNkp4amZ4eEFLTXU3cUxzUTZWNGVlQ2c3eFhSaTdBNjEybFg5dlJxeFMtTkt6NkRUSEE?oc=5",
+      "title": "NEWS: #RIFC announces the transfer of defender Hamady Diop to Birmingham Legion FC for an undisclosed fee, pending league and federation approval. - instagram.com",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwX3BXNkNDOGJKblMwcmVFOWlzNmJOSjMzNkp4amZ4eEFLTXU3cUxzUTZWNGVlQ2c3eFhSaTdBNjEybFg5dlJxeFMtTkt6NkRUSEE?oc=5",
+      "publishedAt": "2026-08-29T23:31:57.000Z",
+      "summary": "NEWS: #RIFC announces the transfer of defender Hamady Diop to Birmingham Legion FC for an undisclosed fee, pending league and federation approval. &nbsp;&nbsp; instagram.com",
+      "sourceKey": "instagram-indirect-monitor",
+      "sourceName": "Instagram 간접 검색 모니터",
+      "status": "업데이트"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWlhPZ3hjYXVnaWR6MTZRcG9HNTRJWWpha2dQbjdhZUUzeEhlNkoxM1Jkblc2aTcyWm91THppbnNXOThRdWd1Vm5UX3RzeDNsTFZ4NWhzRWV2blZLbl9sVUhSWDduTk1tLXdWM0s3cGVET2JVYmpNTU9Fekg5NUlnRDFLTlE0SGhlZk5lZjRWSW5NUmtvZHVNRzNrVVFCeV81MUNuOVd5MG1FUdIBrwFBVV95cUxNSzdwSmtpTktwTG0zNFF5UWdLQ29fUEQ4RFhQaWhoRFk3ekI1eWR6eXRac0poU1NMRHZnLXhvSUpLanNqMjRHODZMWnJjREFDR3RyQXdwdDhMalhmV3ZMTDlJek5kOUdiM0VEWXJaRW1leldzNVRlbkxOdnpzcGs3eUpHUlZielFLbXFFeHhWM3FKUUlyVXVPTHV2TlV6SF9ST2w4NE5xc1Bua2toMzVJ?oc=5",
+      "title": "Tottenham handed Cody Gakpo transfer bombshell as Liverpool star makes final decision - Football London",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWlhPZ3hjYXVnaWR6MTZRcG9HNTRJWWpha2dQbjdhZUUzeEhlNkoxM1Jkblc2aTcyWm91THppbnNXOThRdWd1Vm5UX3RzeDNsTFZ4NWhzRWV2blZLbl9sVUhSWDduTk1tLXdWM0s3cGVET2JVYmpNTU9Fekg5NUlnRDFLTlE0SGhlZk5lZjRWSW5NUmtvZHVNRzNrVVFCeV81MUNuOVd5MG1FUdIBrwFBVV95cUxNSzdwSmtpTktwTG0zNFF5UWdLQ29fUEQ4RFhQaWhoRFk3ekI1eWR6eXRac0poU1NMRHZnLXhvSUpLanNqMjRHODZMWnJjREFDR3RyQXdwdDhMalhmV3ZMTDlJek5kOUdiM0VEWXJaRW1leldzNVRlbkxOdnpzcGs3eUpHUlZielFLbXFFeHhWM3FKUUlyVXVPTHV2TlV6SF9ST2w4NE5xc1Bua2toMzVJ?oc=5",
+      "publishedAt": "2026-08-29T23:10:31.000Z",
+      "summary": "Tottenham handed Cody Gakpo transfer bombshell as Liverpool star makes final decision &nbsp;&nbsp; Football London",
+      "sourceKey": "tottenham-football-london-monitor",
+      "sourceName": "Football.London Tottenham monitor",
+      "status": "업데이트"
     }
   ],
   "sourceHealth": [
@@ -3057,7 +3057,7 @@
     {
       "source": "David Ornstein Google News",
       "ok": true,
-      "count": 88
+      "count": 89
     },
     {
       "source": "The Athletic Google News",
@@ -3082,7 +3082,7 @@
     {
       "source": "Florian Plettenberg Google News",
       "ok": true,
-      "count": 74
+      "count": 47
     },
     {
       "source": "Kaveh Solhekol Google News",
@@ -3092,7 +3092,7 @@
     {
       "source": "Santi Aouna Google News",
       "ok": true,
-      "count": 32
+      "count": 64
     },
     {
       "source": "Tom Barclay Google News",
@@ -3102,7 +3102,7 @@
     {
       "source": "Sami Mokbel Google News",
       "ok": true,
-      "count": 60
+      "count": 55
     },
     {
       "source": "Mike McGrath Google News",
@@ -3132,7 +3132,7 @@
     {
       "source": "Mark Ogden Google News",
       "ok": true,
-      "count": 17
+      "count": 18
     },
     {
       "source": "David Hytner Google News",
@@ -3177,7 +3177,7 @@
     {
       "source": "Matteo Moretto Instagram mentions",
       "ok": true,
-      "count": 78
+      "count": 76
     },
     {
       "source": "Santi Aouna Instagram mentions",
@@ -3187,7 +3187,7 @@
     {
       "source": "Arsenal official-site monitor",
       "ok": true,
-      "count": 47
+      "count": 82
     },
     {
       "source": "Barcelona official-site monitor",
@@ -3197,7 +3197,7 @@
     {
       "source": "Real Madrid official-site monitor",
       "ok": true,
-      "count": 11
+      "count": 7
     },
     {
       "source": "Bayern official-site monitor",
