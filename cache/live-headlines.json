@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-31T04:07:28.294Z",
+  "fetchedAt": "2026-08-31T04:16:28.116Z",
   "itemCount": 120,
   "items": [
     {
@@ -1123,16 +1123,6 @@
       "status": "업데이트"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdjUzSmJnZXh5YVV2Z0dCYTg3dW9kb1BTczEwNnNyOGc0eUpleXRCbFRuZ295bzk4bWw4OGhPcXhhOU1CWE4xVjBIOE1ranR4SGtSc005V3VwQU1fVktsb0E4eDdKaFFjNElEanE1RUlkREhab3pKNXh1aEJWaUhRVXIxMjkxMWw2YWtFVGNhVzFfQ25TRlE?oc=5",
-      "title": "Liverpool finalise transfer agreement to sign Bradley Barcola from PSG - The Athletic - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdjUzSmJnZXh5YVV2Z0dCYTg3dW9kb1BTczEwNnNyOGc0eUpleXRCbFRuZ295bzk4bWw4OGhPcXhhOU1CWE4xVjBIOE1ranR4SGtSc005V3VwQU1fVktsb0E4eDdKaFFjNElEanE1RUlkREhab3pKNXh1aEJWaUhRVXIxMjkxMWw2YWtFVGNhVzFfQ25TRlE?oc=5",
-      "publishedAt": "2026-08-30T01:01:49.000Z",
-      "summary": "Liverpool finalise transfer agreement to sign Bradley Barcola from PSG - The Athletic &nbsp;&nbsp; The New York Times",
-      "sourceKey": "ornstein-monitor",
-      "sourceName": "David Ornstein 검색 모니터",
-      "status": "업데이트"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwX3BXNkNDOGJKblMwcmVFOWlzNmJOSjMzNkp4amZ4eEFLTXU3cUxzUTZWNGVlQ2c3eFhSaTdBNjEybFg5dlJxeFMtTkt6NkRUSEE?oc=5",
       "title": "NEWS: #RIFC announces the transfer of defender Hamady Diop to Birmingham Legion FC for an undisclosed fee, pending league and federation approval. - instagram.com",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAwX3BXNkNDOGJKblMwcmVFOWlzNmJOSjMzNkp4amZ4eEFLTXU3cUxzUTZWNGVlQ2c3eFhSaTdBNjEybFg5dlJxeFMtTkt6NkRUSEE?oc=5",
@@ -1201,6 +1191,16 @@
       "sourceKey": "tottenham-football-london-monitor",
       "sourceName": "Football.London Tottenham monitor",
       "status": "업데이트"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNS3h4U1NoNjdtOUpISzVsWVNPRDh4QWlFNTBWaG4wS214dmQxRFJwUHlRcXRSdlhOQU9lQmJkVGNnWjhIT2FMV214ODBDYXpHZjFOYm9zNkMyc3FSa01Kd1FuRWF2djAtTlRBNkNRVmlNVl8tOGJTWTRZdjVzaEZiZHgtY3VPS1lFc2hvMA?oc=5",
+      "title": "Héctor Fort transferred to Real Sociedad - FC Barcelona",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNS3h4U1NoNjdtOUpISzVsWVNPRDh4QWlFNTBWaG4wS214dmQxRFJwUHlRcXRSdlhOQU9lQmJkVGNnWjhIT2FMV214ODBDYXpHZjFOYm9zNkMyc3FSa01Kd1FuRWF2djAtTlRBNkNRVmlNVl8tOGJTWTRZdjVzaEZiZHgtY3VPS1lFc2hvMA?oc=5",
+      "publishedAt": "2026-08-29T20:05:56.000Z",
+      "summary": "Héctor Fort transferred to Real Sociedad &nbsp;&nbsp; FC Barcelona",
+      "sourceKey": "official-barcelona-monitor",
+      "sourceName": "Barcelona official-site monitor",
+      "status": "업데이트"
     }
   ],
   "sourceHealth": [
@@ -1232,7 +1232,7 @@
     {
       "source": "David Ornstein Google News",
       "ok": true,
-      "count": 87
+      "count": 88
     },
     {
       "source": "The Athletic Google News",
@@ -1277,12 +1277,12 @@
     {
       "source": "Sami Mokbel Google News",
       "ok": true,
-      "count": 63
+      "count": 64
     },
     {
       "source": "Mike McGrath Google News",
       "ok": true,
-      "count": 40
+      "count": 10
     },
     {
       "source": "James Pearce Google News",
@@ -1382,7 +1382,7 @@
     {
       "source": "Manchester City official-site monitor",
       "ok": true,
-      "count": 28
+      "count": 56
     },
     {
       "source": "Manchester United official-site monitor",
