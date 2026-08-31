@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-31T22:20:25.532Z",
-  "basedOnGeneratedAt": "2026-08-31T22:20:25.530Z",
+  "generatedAt": "2026-08-31T22:29:08.105Z",
+  "basedOnGeneratedAt": "2026-08-31T22:29:08.082Z",
   "itemCount": 30,
   "items": [
     {
@@ -129,7 +129,7 @@
           "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQWdxQkw3R0JUVHNxNk5jV09ndzhwckxsWjQxZVY4VE16OVQwbFFiYlhXUV9nQUxiZkpMVzdOWEZwYURzMVhkbnJvSGdBemQ0M2ZxNi02bFJCbktBZGNvYTlQaVJLa3c4bGZUQlZQdHRHa1JOS053RFBQbjg2bXJWaA?oc=5",
           "sourceTier": "high",
           "headlineTitle": "Lankshear on the move to Boro - Tottenham Hotspur",
-          "publishedAt": "2026-07-22 16:00"
+          "publishedAt": "2026-07-22 07:00"
         }
       ],
       "sourceCount": 1
@@ -346,7 +346,7 @@
           "sourceUrl": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPZ21RVU9DN1g0dzhNWnVLQmtScjkyVUx0VDhBbzBsV2VJb2JTdU5OT05yRTJ2SFkxSUxJWEtzVmotTVd6WTRjdFUwakJ5NjlwaDg4aDhCX043cFNjdXpyREcwMlJaTkZEUnk0RUxaS2hnMXpIbV9taG0ycllWdG9kckt0VGhoMzNVWldrNW5zYVNORm1GSVl3ZVZzZXY5Y1FDQkgtdDl3clQtNENhck9Lcno2cVJfVGFPdC1BSHUtN2RsUjJOQWJjU1dIOXd6cV9JQmhkZnp3QjdiUnJvdHVmT2NRWnZxWXlRdXdseEpScjRyTndweVRWNUVpQ01nQQ?oc=5",
           "sourceTier": "medium",
           "headlineTitle": "Bradley Barcola to Liverpool: France forward who has moved from PSG is quick, strong, versatile, intelligent - Sky Sports",
-          "publishedAt": "2026-08-31 21:20"
+          "publishedAt": "2026-08-31 22:22"
         },
         {
           "sourceName": "James Pearce monitor",
@@ -366,7 +366,7 @@
           "sourceName": "Paul Joyce monitor",
           "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdHdLZjQ2NkYyRnJTajUtOWlrbngxY0tmdkI3eGpfaUxVUWtuWEN0YWtkeXVoS2ZOZU5vTmw1ZVBwQ1RlQmdUcElyVXdFalpJUGFfRThBeDVaZ2hOZFZ4aHhKanVJYjY4SlllLVk5V0g3SU52WFZ6cGZUYXFpY0RnblgzMzVzUFdScUVVSkRacElOUGdVbjlz?oc=5",
           "sourceTier": "medium",
-          "headlineTitle": "Liverpool complete £123m deal for PSG’s Bradley Barcola - The Times",
+          "headlineTitle": "Liverpool complete £123m deal for PSG’s Bradley Barcola - thetimes.com",
           "publishedAt": "2026-08-31 13:01"
         },
         {
@@ -1098,7 +1098,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-08-31 19:12",
-      "lastVerifiedAt": "2026-08-31 22:20",
+      "lastVerifiedAt": "2026-08-31 22:29",
       "extractionConfidence": "medium",
       "extractionPattern": "club-agree-deal-for-player",
       "needsVerification": false,
