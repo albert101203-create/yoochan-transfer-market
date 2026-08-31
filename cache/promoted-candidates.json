@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-31T19:44:34.289Z",
-  "basedOnGeneratedAt": "2026-08-31T19:44:34.287Z",
+  "generatedAt": "2026-08-31T19:52:49.776Z",
+  "basedOnGeneratedAt": "2026-08-31T19:52:49.774Z",
   "itemCount": 30,
   "items": [
     {
@@ -359,7 +359,7 @@
           "sourceName": "Premier League transfer monitor",
           "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObkZ6bXV2ZWtxeE9HRWRxZUx2WEptbk0xQmFkWWVERlhZSzkxTHlvOG9FZkNHUmVsWDBWaGlRR3ZqVGNyamd1WU5HRVpHS1JUZXVqQ3lFaDQ2anBRaTdoNEprdURrbEJNRzNkNFNlWk8teXJsbTFUdjBPYmo0eGxNdlkyMFhmdWt6QnNz0gGTAUFVX3lxTE1HbWdpb0FEbHdtSFZSUF9VeEZuOEFuUlpBelNYeXdZMFRtc3hUMGp2akMtYVZiNDhGWHludXdPQTRJTlhGS0kwRE43UUxVWC1FNUxDMVV0VktWTUNfeVJqWlpnVXJSN1gzNlNSOE9WMzM4ODdRU2VKcDdzbkJCWkpWNXhmQUFJd2duWFVBT1ZqSzBCNA?oc=5",
           "sourceTier": "low",
-          "headlineTitle": "Liverpool sign Bradley Barcola from Paris Saint-Germain - Liverpool FC",
+          "headlineTitle": "Liverpool sign Bradley Barcola from Paris Saint-Germain - liverpoolfc.com",
           "publishedAt": "2026-08-31 13:11"
         },
         {
@@ -1098,7 +1098,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-08-31 19:12",
-      "lastVerifiedAt": "2026-08-31 19:44",
+      "lastVerifiedAt": "2026-08-31 19:52",
       "extractionConfidence": "medium",
       "extractionPattern": "club-agree-deal-for-player",
       "needsVerification": false,
