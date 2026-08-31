@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-31T15:49:25.731Z",
-  "basedOnFetchedAt": "2026-08-31T15:49:25.658Z",
+  "generatedAt": "2026-08-31T15:58:06.183Z",
+  "basedOnFetchedAt": "2026-08-31T15:58:06.109Z",
   "itemCount": 72,
   "reviewItemCount": 12,
   "archiveLimit": 400,
@@ -351,9 +351,9 @@
           "publishedAt": "2026-08-31 14:13"
         },
         {
-          "sourceName": "Liverpool official-site monitor",
+          "sourceName": "Premier League transfer monitor",
           "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObkZ6bXV2ZWtxeE9HRWRxZUx2WEptbk0xQmFkWWVERlhZSzkxTHlvOG9FZkNHUmVsWDBWaGlRR3ZqVGNyamd1WU5HRVpHS1JUZXVqQ3lFaDQ2anBRaTdoNEprdURrbEJNRzNkNFNlWk8teXJsbTFUdjBPYmo0eGxNdlkyMFhmdWt6QnNz0gGTAUFVX3lxTE1HbWdpb0FEbHdtSFZSUF9VeEZuOEFuUlpBelNYeXdZMFRtc3hUMGp2akMtYVZiNDhGWHludXdPQTRJTlhGS0kwRE43UUxVWC1FNUxDMVV0VktWTUNfeVJqWlpnVXJSN1gzNlNSOE9WMzM4ODdRU2VKcDdzbkJCWkpWNXhmQUFJd2duWFVBT1ZqSzBCNA?oc=5",
-          "sourceTier": "high",
+          "sourceTier": "low",
           "headlineTitle": "Liverpool sign Bradley Barcola from Paris Saint-Germain - Liverpool FC",
           "publishedAt": "2026-08-31 13:11"
         },
@@ -1250,7 +1250,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-08-30 09:30",
-      "lastVerifiedAt": "2026-08-31 15:49",
+      "lastVerifiedAt": "2026-08-31 15:58",
       "extractionConfidence": "medium",
       "extractionPattern": "club-agrees-deal-for-player",
       "needsVerification": false,
@@ -1484,8 +1484,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSDNDMDdScWN2bHRfMFJFV1A5ZlAtRHRqYmM1bDdVYUl5NDIyTUFqSExGeElSUWFTVjJvT3RCX1VDTldXYWJmcldtQkNiVjQwOFhFcmxiejBxR1Zmc0k5RmpFZ1pVMnZ4OGhPYkhkbExzWTB6VGNMdEhhWmltSG0yQ3d4MkhLWU0waDFDVWRnNTZVckxhcmVCZnFfaw?oc=5",
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
-      "publishedAt": "2026-08-31 15:29",
-      "lastVerifiedAt": "2026-08-31 15:49",
+      "publishedAt": "2026-08-31 15:54",
+      "lastVerifiedAt": "2026-08-31 15:58",
       "extractionConfidence": "medium",
       "extractionPattern": "arsenal-julian-alvarez-interest",
       "needsVerification": false,
@@ -1496,7 +1496,7 @@
           "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSDNDMDdScWN2bHRfMFJFV1A5ZlAtRHRqYmM1bDdVYUl5NDIyTUFqSExGeElSUWFTVjJvT3RCX1VDTldXYWJmcldtQkNiVjQwOFhFcmxiejBxR1Zmc0k5RmpFZ1pVMnZ4OGhPYkhkbExzWTB6VGNMdEhhWmltSG0yQ3d4MkhLWU0waDFDVWRnNTZVckxhcmVCZnFfaw?oc=5",
           "sourceTier": "medium",
           "headlineTitle": "Julian Alvarez to Arsenal transfer twist after Mikel Arteta talks - London Evening Standard",
-          "publishedAt": "2026-08-31 15:29"
+          "publishedAt": "2026-08-31 15:54"
         }
       ],
       "sourceCount": 1
@@ -1547,7 +1547,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
       "publishedAt": "2026-08-31 14:29",
-      "lastVerifiedAt": "2026-08-31 15:49",
+      "lastVerifiedAt": "2026-08-31 15:58",
       "extractionConfidence": "medium",
       "extractionPattern": "newcastle-fernandez-pardo-interest",
       "needsVerification": false,
@@ -1578,7 +1578,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
       "publishedAt": "2026-08-31 12:34",
-      "lastVerifiedAt": "2026-08-31 15:49",
+      "lastVerifiedAt": "2026-08-31 15:58",
       "extractionConfidence": "medium",
       "extractionPattern": "martinelli-al-hilal-agreement",
       "needsVerification": false,
@@ -1751,6 +1751,13 @@
       "headlineTitle": "Liverpool’s Cody Gakpo wants to join Manchester City, clubs in talks to reach agreement - The Athletic - The New York Times",
       "sourceLinks": [
         {
+          "sourceName": "David Ornstein 검색 모니터",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWHp1VHBISnUyZXh4Z3lLVGRSM25oVWpPV2FDVl9zVG5FZE9RWVZodXlRMFZQRzljUG12Y3U1U1g3RGlNcDNRQTFXYzFFdTdyNjBpbDlXTEQyRmx5RUFMQXBZeExfY3daaGNHV3dxbFRfUVFQenZOZ01nS2QzZ0VOeDk3eWJ6SmNOLS1OVXpRVlFvRHphZWVCal9HWXViZndi?oc=5",
+          "sourceTier": "medium",
+          "headlineTitle": "Liverpool’s Cody Gakpo wants to join Manchester City, clubs in talks to reach agreement - The Athletic - The New York Times",
+          "publishedAt": "2026-08-29 21:20"
+        },
+        {
           "sourceName": "Rob Dawson monitor",
           "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeVYzZk13emMxMkdSaFVyWXJPSmdfMjNyMUYyVmdFd3hkMUd2TTZVVTJySjlrOXBtMk00TjFYXzlka0ItZXBRcjJMSy1ueXF6YWlZUmo2aWpmd0k2TUJYNE00UERxemZlQVFxcE9TeHVleTBsWm0tNUJBdzRHVWRJOTBYY0NYczZnTlFWQXg0eFJabEg0bmEyYXBvQXJVR1FYM04wR3ZmMA?oc=5",
           "sourceTier": "medium",
@@ -1763,13 +1770,6 @@
           "sourceTier": "medium",
           "headlineTitle": "Liverpool’s Cody Gakpo wants to join Manchester City, clubs in talks to reach agreement - The Athletic - The New York Times",
           "publishedAt": "2026-08-29 19:18"
-        },
-        {
-          "sourceName": "David Ornstein 검색 모니터",
-          "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWHp1VHBISnUyZXh4Z3lLVGRSM25oVWpPV2FDVl9zVG5FZE9RWVZodXlRMFZQRzljUG12Y3U1U1g3RGlNcDNRQTFXYzFFdTdyNjBpbDlXTEQyRmx5RUFMQXBZeExfY3daaGNHV3dxbFRfUVFQenZOZ01nS2QzZ0VOeDk3eWJ6SmNOLS1OVXpRVlFvRHphZWVCal9HWXViZndi?oc=5",
-          "sourceTier": "medium",
-          "headlineTitle": "Liverpool’s Cody Gakpo wants to join Manchester City, clubs in talks to reach agreement - The Athletic - The New York Times",
-          "publishedAt": "2026-08-29 19:35"
         },
         {
           "sourceName": "Instagram 간접 검색 모니터",
@@ -2631,7 +2631,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
       "publishedAt": "2026-08-31 10:54",
-      "lastVerifiedAt": "2026-08-31 15:49",
+      "lastVerifiedAt": "2026-08-31 15:58",
       "extractionConfidence": "medium",
       "extractionPattern": "arsenal-iliman-ndiaye-interest",
       "needsVerification": false,
@@ -2926,7 +2926,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
       "publishedAt": "2026-08-31 15:16",
-      "lastVerifiedAt": "2026-08-31 15:49",
+      "lastVerifiedAt": "2026-08-31 15:58",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -2957,7 +2957,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
       "publishedAt": "2026-08-31 13:32",
-      "lastVerifiedAt": "2026-08-31 15:49",
+      "lastVerifiedAt": "2026-08-31 15:58",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -3019,7 +3019,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
       "publishedAt": "2026-08-31 15:05",
-      "lastVerifiedAt": "2026-08-31 15:49",
+      "lastVerifiedAt": "2026-08-31 15:58",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
