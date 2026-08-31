@@ -691,6 +691,7 @@ function renderReviewCards(items) {
               <span>${item.sourceName || "출처 미상"}</span>
               <span>${item.extractionPattern || "pattern-unknown"}</span>
               <span>자동 검증 ${item.lastVerifiedAt || "시간 미상"}</span>
+              <span>?? ???? ${item.reviewSourceCheckedAt || "??"}</span>
             </div>
             <p class="source-note">${item.sourceReason || "선수·구단 정보를 자동으로 확정하지 못했습니다. 원문을 직접 확인해 주세요."}</p>
             <p class="review-headline">원문 제목: ${item.headlineTitle || "제목 없음"}</p>

@@ -2681,7 +2681,122 @@ async function buildLivePayload() {
   };
 }
 
-function buildDraftPayload(livePayload, previousPayload = draftCache) {
+
+const REVIEW_SOURCE_FETCH_LIMIT = 24;
+const REVIEW_SOURCE_TIMEOUT_MS = 8000;
+
+function extractMetaContent(html, attribute, value) {
+  const escapedValue = value.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+  const pattern = new RegExp(
+    `<meta[^>]+${attribute}=["']${escapedValue}["'][^>]+content=["']([^"']+)["'][^>]*>` +
+      `|<meta[^>]+content=["']([^"']+)["'][^>]+${attribute}=["']${escapedValue}["'][^>]*>`,
+    "i",
+  );
+  const match = html.match(pattern);
+  return decodeHtmlEntities(match?.[1] || match?.[2] || "").trim();
+}
+
+function extractCanonicalUrl(html) {
+  const match = html.match(/<link[^>]+rel=["'][^"']*canonical[^"']*["'][^>]+href=["']([^"']+)["'][^>]*>/i);
+  return decodeHtmlEntities(match?.[1] || "").trim();
+}
+
+function extractArticlePageTitle(html) {
+  const ogTitle =
+    extractMetaContent(html, "property", "og:title") ||
+    extractMetaContent(html, "name", "twitter:title") ||
+    extractMetaContent(html, "name", "title");
+  if (ogTitle) return stripHtml(ogTitle);
+  const title = html.match(/<title[^>]*>([\s\S]*?)<\/title>/i)?.[1] || "";
+  return stripHtml(title);
+}
+
+async function fetchReviewSource(url) {
+  if (!url || url === "#") return null;
+  const controller = new AbortController();
+  const timer = setTimeout(() => controller.abort(), REVIEW_SOURCE_TIMEOUT_MS);
+  try {
+    const response = await fetch(url, {
+      headers: {
+        "user-agent": "Mozilla/5.0 (compatible; TransferMarketReview/1.0)",
+        accept: "text/html,application/xhtml+xml",
+      },
+      redirect: "follow",
+      signal: controller.signal,
+    });
+    if (!response.ok) return null;
+    const html = await response.text();
+    if (!html || html.length < 200) return null;
+    const finalUrl = response.url || url;
+    return {
+      url: finalUrl,
+      title: extractArticlePageTitle(html),
+      description:
+        extractMetaContent(html, "name", "description") ||
+        extractMetaContent(html, "property", "og:description"),
+      image:
+        extractMetaContent(html, "property", "og:image") ||
+        extractMetaContent(html, "name", "twitter:image"),
+      canonical: extractCanonicalUrl(html),
+    };
+  } catch {
+    return null;
+  } finally {
+    clearTimeout(timer);
+  }
+}
+
+async function enrichReviewCandidate(item) {
+  const urls = [
+    item.sourceUrl,
+    ...(item.sourceLinks || []).map((link) => link.sourceUrl),
+  ].filter((url, index, all) => url && url !== "#" && all.indexOf(url) === index);
+
+  for (const url of urls.slice(0, 3)) {
+    const page = await fetchReviewSource(url);
+    if (!page) continue;
+    const pageTitle = normalizeWhitespace(page.title || "");
+    if (!pageTitle || pageTitle.length < 8) continue;
+
+    const reparsed = normalizeDraftRecord(
+      extractAutoDraft({
+        ...item,
+        id: item.id,
+        title: pageTitle,
+        summary: page.description || item.sourceReason || "",
+        url: page.canonical || page.url,
+      }) || item,
+    );
+    if (!reparsed) continue;
+
+    return {
+      ...item,
+      ...reparsed,
+      sourceUrl: page.canonical || page.url,
+      articleImageUrl: page.image || item.articleImageUrl || "",
+      reviewSourceCheckedAt: formatStamp(),
+      reviewSourceUrl: page.canonical || page.url,
+      sourceReason: reparsed.needsVerification
+        ? `${reparsed.sourceReason || ""} ?? ??? ?? ???? ????? ?? ?? ??? ?????.`
+        : reparsed.sourceReason,
+    };
+  }
+
+  return {
+    ...item,
+    reviewSourceCheckedAt: formatStamp(),
+  };
+}
+
+async function enrichReviewQueue(items) {
+  const queue = items.filter((item) => item && !isPublishableDraft(item)).slice(0, REVIEW_SOURCE_FETCH_LIMIT);
+  if (!queue.length) return items;
+  const enriched = await Promise.all(queue.map((item) => enrichReviewCandidate(item)));
+  const byId = new Map(enriched.map((item) => [item.id, item]));
+  return items.map((item) => byId.get(item.id) || item);
+}
+
+async function buildDraftPayload(livePayload, previousPayload = draftCache) {
   const freshDrafts = livePayload.items
     .map(extractAutoDraft)
     .filter(Boolean)
@@ -2693,7 +2808,8 @@ function buildDraftPayload(livePayload, previousPayload = draftCache) {
   const previousReviewItems = Array.isArray(previousPayload?.reviewItems)
     ? previousPayload.reviewItems.map(normalizeDraftRecord).filter(Boolean)
     : [];
-  const candidates = dedupeDrafts([...freshDrafts, ...previousDrafts, ...previousReviewItems]);
+  const seedCandidates = dedupeDrafts([...freshDrafts, ...previousDrafts, ...previousReviewItems]);
+  const candidates = await enrichReviewQueue(seedCandidates);
   const reviewItems = candidates
     .filter((item) => !isPublishableDraft(item))
     .sort(compareDraftPriority)
@@ -2745,7 +2861,7 @@ async function refreshAllData(reason = "background") {
     };
     writeJsonCache(LIVE_CACHE_FILE, livePayload);
 
-    const draftPayload = buildDraftPayload(livePayload, draftCache);
+    const draftPayload = await buildDraftPayload(livePayload, draftCache);
     draftCache = draftPayload;
     writeJsonCache(DRAFT_CACHE_FILE, draftPayload);
 
@@ -2791,7 +2907,7 @@ async function getLivePayload(force = false) {
 async function getDraftPayload(force = false) {
   await getLivePayload(force);
   if (!force && draftCache) return draftCache;
-  const payload = buildDraftPayload(liveCache.payload, draftCache);
+  const payload = await buildDraftPayload(liveCache.payload, draftCache);
   draftCache = payload;
   writeJsonCache(DRAFT_CACHE_FILE, payload);
   return payload;
