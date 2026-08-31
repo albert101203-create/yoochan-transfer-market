@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-31T10:33:58.257Z",
+  "fetchedAt": "2026-08-31T10:42:38.188Z",
   "itemCount": 120,
   "items": [
     {
@@ -123,6 +123,26 @@
       "status": "업데이트"
     },
     {
+      "id": "https://www.bbc.co.uk/sport/football/articles/c9v4d2z2p7yo?at_medium=RSS&at_campaign=rss",
+      "title": "All done deals in August 2026",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9v4d2z2p7yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-31T10:41:31.000Z",
+      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
+      "sourceKey": "bbc-sport",
+      "sourceName": "BBC Sport",
+      "status": "업데이트"
+    },
+    {
+      "id": "https://www.skysports.com/football/live-blog/11715/13353569/leeds-united-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "title": "Leeds United transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
+      "url": "https://www.skysports.com/football/live-blog/11715/13353569/leeds-united-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "publishedAt": "2026-08-31T10:36:00.000Z",
+      "summary": "Sky Sports football sitemap에서 가져온 실시간 헤드라인입니다.",
+      "sourceKey": "sky-sports",
+      "sourceName": "Sky Sports",
+      "status": "루머"
+    },
+    {
       "id": "https://www.bbc.co.uk/sport/football/articles/c4g5x8y0n2jo?at_medium=RSS&at_campaign=rss",
       "title": "Germany's Wamser completes move to Man City",
       "url": "https://www.bbc.co.uk/sport/football/articles/c4g5x8y0n2jo?at_medium=RSS&at_campaign=rss",
@@ -131,6 +151,16 @@
       "sourceKey": "bbc-sport",
       "sourceName": "BBC Sport",
       "status": "완료"
+    },
+    {
+      "id": "https://www.skysports.com/football/live-blog/11685/13210475/west-ham-latest-news",
+      "title": "West Ham transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
+      "url": "https://www.skysports.com/football/live-blog/11685/13210475/west-ham-latest-news",
+      "publishedAt": "2026-08-31T10:30:00.000Z",
+      "summary": "Sky Sports football sitemap에서 가져온 실시간 헤드라인입니다.",
+      "sourceKey": "sky-sports",
+      "sourceName": "Sky Sports",
+      "status": "루머"
     },
     {
       "id": "https://www.theguardian.com/football/live/2026/aug/31/football-transfer-deadline-day-looms-latest-news-on-gakpo-sarr-and-more-live",
@@ -150,6 +180,16 @@
       "summary": "‘Here we go’ – Fabrizio Romano confirms Liverpool ‘agreement’ as green light given for medical &nbsp;&nbsp; The Empire of The Kop",
       "sourceKey": "romano-monitor",
       "sourceName": "Fabrizio Romano 검색 모니터",
+      "status": "업데이트"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPX0VaMUJQSmljaE9TOXQxVXVUem5yVWZlb2k5OHlNZ1pmei1Rdy1FZ1lfRXZTdFgySU9lcVZxS0c5QVFrNFFIZ1hfYWVTdjNkbVlBYXhQNnhjTXdhMzJ1TE1Nb1poR3N4bEQ5NmVJdXlMQnF6OHV4VkZQN2EyWUIya2hHUGE0QnpxdERBUU00OV9FcFNNSENTRlU1VXc4dVZiZWxERDJR0gGrAUFVX3lxTE0wb2VQQ3cweHZ1aHlqRHI3MmxmcG1tQ0UyQzZ2OFVVeHBzTFFsMVBEeTAtRVFMMXFTZTVrZWFqY1B1VEZJWUlzb0FneEFCd3FBUU1GQ3p1cjVkVmVMejdUOFZZd1Qya21wcTZadmg4YTlJbU5VTm5UaXpjTmRFSE1YN2lLSnZDbm1BendwQ3BKOTB2MmZsT2VUV3k5Uno3U01NVU5OMDdQaFMwQQ?oc=5",
+      "title": "Tottenham make shock move for ex-Chelsea star as Cody Gakpo alternative after Man City approach - Football London",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPX0VaMUJQSmljaE9TOXQxVXVUem5yVWZlb2k5OHlNZ1pmei1Rdy1FZ1lfRXZTdFgySU9lcVZxS0c5QVFrNFFIZ1hfYWVTdjNkbVlBYXhQNnhjTXdhMzJ1TE1Nb1poR3N4bEQ5NmVJdXlMQnF6OHV4VkZQN2EyWUIya2hHUGE0QnpxdERBUU00OV9FcFNNSENTRlU1VXc4dVZiZWxERDJR0gGrAUFVX3lxTE0wb2VQQ3cweHZ1aHlqRHI3MmxmcG1tQ0UyQzZ2OFVVeHBzTFFsMVBEeTAtRVFMMXFTZTVrZWFqY1B1VEZJWUlzb0FneEFCd3FBUU1GQ3p1cjVkVmVMejdUOFZZd1Qya21wcTZadmg4YTlJbU5VTm5UaXpjTmRFSE1YN2lLSnZDbm1BendwQ3BKOTB2MmZsT2VUV3k5Uno3U01NVU5OMDdQaFMwQQ?oc=5",
+      "publishedAt": "2026-08-31T09:54:31.000Z",
+      "summary": "Tottenham make shock move for ex-Chelsea star as Cody Gakpo alternative after Man City approach &nbsp;&nbsp; Football London",
+      "sourceKey": "tottenham-football-london-monitor",
+      "sourceName": "Football.London Tottenham monitor",
       "status": "업데이트"
     },
     {
@@ -813,16 +853,6 @@
       "status": "완료"
     },
     {
-      "id": "https://www.bbc.co.uk/sport/football/articles/c9v4d2z2p7yo?at_medium=RSS&at_campaign=rss",
-      "title": "All done deals in August 2026",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c9v4d2z2p7yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-08-30T17:11:42.000Z",
-      "summary": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and Women's Super League.",
-      "sourceKey": "bbc-sport",
-      "sourceName": "BBC Sport",
-      "status": "업데이트"
-    },
-    {
       "id": "https://www.skysports.com/football/news/11677/13579158/aston-villa-transfer-news-ollie-watkins-joins-al-hilal-as-deal-agreed-for-taylor-harwood-bellis",
       "title": "Aston Villa transfer news: Ollie Watkins joins Al Hilal as deal agreed for Taylor Harwood-Bellis",
       "url": "https://www.skysports.com/football/news/11677/13579158/aston-villa-transfer-news-ollie-watkins-joins-al-hilal-as-deal-agreed-for-taylor-harwood-bellis",
@@ -871,16 +901,6 @@
       "sourceKey": "instagram-indirect-monitor",
       "sourceName": "Instagram 간접 검색 모니터",
       "status": "완료"
-    },
-    {
-      "id": "https://www.skysports.com/football/live-blog/11715/13353569/leeds-united-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "title": "Leeds United transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
-      "url": "https://www.skysports.com/football/live-blog/11715/13353569/leeds-united-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "publishedAt": "2026-08-30T16:14:00.000Z",
-      "summary": "Sky Sports football sitemap에서 가져온 실시간 헤드라인입니다.",
-      "sourceKey": "sky-sports",
-      "sourceName": "Sky Sports",
-      "status": "루머"
     },
     {
       "id": "https://www.bbc.co.uk/sport/football/articles/c9qr79jr1qqo?at_medium=RSS&at_campaign=rss",
@@ -1181,26 +1201,6 @@
       "sourceKey": "sky-sports",
       "sourceName": "Sky Sports",
       "status": "루머"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQdXBSM0tNOXhoRmJ3dkNjMWh5T3N0OWNpYmtzYkV6aFZiU2YtY3hUZlNBSWdKd1pFMmdYWkF1dFdCOXktMW9UclZnYUsyMnZXS2RpWnZVdThCTUZYQUlkY0lfZVFHZTg?oc=5",
-      "title": "Arsenal transfer news: Hamburg in advanced talks to buy Fabio Vieira - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQdXBSM0tNOXhoRmJ3dkNjMWh5T3N0OWNpYmtzYkV6aFZiU2YtY3hUZlNBSWdKd1pFMmdYWkF1dFdCOXktMW9UclZnYUsyMnZXS2RpWnZVdThCTUZYQUlkY0lfZVFHZTg?oc=5",
-      "publishedAt": "2026-08-30T11:27:02.000Z",
-      "summary": "Arsenal transfer news: Hamburg in advanced talks to buy Fabio Vieira &nbsp;&nbsp; BBC",
-      "sourceKey": "sami-mokbel-monitor",
-      "sourceName": "Sami Mokbel monitor",
-      "status": "루머"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSWhVUXY3cnh0TE8xZUtkMG5JWjk1UG94RUdwU2JZckIyZzRMdUctNmUxLTU1WktzV19GM1ZqTHZ5dU5CUTk0Q1VER1czdUdBdkxQWHhsMFFzVzZneGVBZ0NUeGxyRF9Ea3YySnlZOXAtS3NnZmE5VnZKV3REQTlWQi1sTDdTbmYzNGtiWmdlNndocEdHSnpScQ?oc=5",
-      "title": "Ben Jacobs Issues Enzo Fernandez Chelsea to Man City Transfer Prediction - GiveMeSport",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSWhVUXY3cnh0TE8xZUtkMG5JWjk1UG94RUdwU2JZckIyZzRMdUctNmUxLTU1WktzV19GM1ZqTHZ5dU5CUTk0Q1VER1czdUdBdkxQWHhsMFFzVzZneGVBZ0NUeGxyRF9Ea3YySnlZOXAtS3NnZmE5VnZKV3REQTlWQi1sTDdTbmYzNGtiWmdlNndocEdHSnpScQ?oc=5",
-      "publishedAt": "2026-08-30T11:16:12.000Z",
-      "summary": "Ben Jacobs Issues Enzo Fernandez Chelsea to Man City Transfer Prediction &nbsp;&nbsp; GiveMeSport",
-      "sourceKey": "ben-jacobs-monitor",
-      "sourceName": "Ben Jacobs monitor",
-      "status": "업데이트"
     }
   ],
   "sourceHealth": [
@@ -1252,7 +1252,7 @@
     {
       "source": "Ben Jacobs Google News",
       "ok": true,
-      "count": 81
+      "count": 80
     },
     {
       "source": "Florian Plettenberg Google News",
@@ -1287,7 +1287,7 @@
     {
       "source": "James Pearce Google News",
       "ok": true,
-      "count": 45
+      "count": 46
     },
     {
       "source": "Laurie Whitwell Google News",
@@ -1322,7 +1322,7 @@
     {
       "source": "Fabrice Hawkins Google News",
       "ok": true,
-      "count": 38
+      "count": 39
     },
     {
       "source": "Miguel Delaney Google News",
