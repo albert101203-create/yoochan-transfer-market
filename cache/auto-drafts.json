@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-08-31T02:05:24.797Z",
-  "basedOnFetchedAt": "2026-08-31T02:05:24.734Z",
+  "generatedAt": "2026-08-31T02:14:19.734Z",
+  "basedOnFetchedAt": "2026-08-31T02:14:19.683Z",
   "itemCount": 63,
-  "reviewItemCount": 14,
+  "reviewItemCount": 16,
   "archiveLimit": 200,
   "drafts": [
     {
@@ -427,6 +427,20 @@
       "headlineTitle": "Liverpool finalise transfer agreement to sign Bradley Barcola from PSG - The Athletic - The New York Times",
       "sourceLinks": [
         {
+          "sourceName": "Sky Sports",
+          "sourceUrl": "https://www.skysports.com/football/news/11669/13578446/bradley-barcola-set-to-sign-liverpool-contract-to-2031-after-psg-agree-transfer-worth-up-to-123m",
+          "sourceTier": "medium",
+          "headlineTitle": "Bradley Barcola set to sign Liverpool contract to 2031 after PSG agree transfer worth up to &#163;123m",
+          "publishedAt": "2026-08-29 07:25"
+        },
+        {
+          "sourceName": "David Ornstein Bluesky",
+          "sourceUrl": "https://bsky.app/profile/david-ornstein.bsky.social/post/3mu2e62lb322j",
+          "sourceTier": "medium",
+          "headlineTitle": "🚨 BREAKING: Liverpool reach agreement in principle on terms of deal to sign Bradley Barcola from Paris Saint-Germain. Still details to finalise between #LFC & #PSG but moving fast after breakthrough overnight on package ~£120m, ~£100m fixed @theathleticfc.bsky.social www.nytimes.com/athletic/753...",
+          "publishedAt": "2026-08-27 07:46"
+        },
+        {
           "sourceName": "David Ornstein 검색 모니터",
           "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdjUzSmJnZXh5YVV2Z0dCYTg3dW9kb1BTczEwNnNyOGc0eUpleXRCbFRuZ295bzk4bWw4OGhPcXhhOU1CWE4xVjBIOE1ranR4SGtSc005V3VwQU1fVktsb0E4eDdKaFFjNElEanE1RUlkREhab3pKNXh1aEJWaUhRVXIxMjkxMWw2YWtFVGNhVzFfQ25TRlE?oc=5",
           "sourceTier": "medium",
@@ -446,13 +460,6 @@
           "sourceTier": "medium",
           "headlineTitle": "Liverpool agree £123m deal for PSG's Barcola",
           "publishedAt": "2026-08-29 08:03"
-        },
-        {
-          "sourceName": "Sky Sports",
-          "sourceUrl": "https://www.skysports.com/football/news/11669/13578446/bradley-barcola-set-to-sign-liverpool-contract-to-2031-after-psg-agree-transfer-worth-up-to-123m",
-          "sourceTier": "medium",
-          "headlineTitle": "Bradley Barcola set to sign Liverpool contract to 2031 after PSG agree transfer worth up to &#163;123m",
-          "publishedAt": "2026-08-29 07:25"
         },
         {
           "sourceName": "Paul Joyce monitor",
@@ -483,7 +490,7 @@
           "publishedAt": "2026-08-27 19:31"
         }
       ],
-      "sourceCount": 8
+      "sourceCount": 9
     },
     {
       "id": "draft:https://www.theguardian.com/football/2026/aug/28/nicolas-jackson-nears-aston-villa-move-unai-emery-ollie-watkins",
@@ -998,18 +1005,18 @@
       "headlineTitle": "Man United agree to £70m deal for Brighton's Carlos Baleba - sources - ESPN",
       "sourceLinks": [
         {
-          "sourceName": "Rob Dawson monitor",
-          "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeloyZG1QX002bWlzNVBlcUtsZ1B2aURvakdRdG01X3RSMWh2eWVmRmlKc21ZUC03NU1CeE1vUWZlRS1GODUtS2hwVWJ6dl9rSS12WTV1ckNEZF9vbl9XbzN2REJNNWZtdmVGaTNWMWpESFNlNC0xdTlWQkhSaXFGeVAxQkJ2RGVYei13bFV3SFFXbm9kR2txOHlROHFpdjBwOE5oOHkyby0?oc=5",
-          "sourceTier": "medium",
-          "headlineTitle": "Man United agree to £70m deal for Brighton's Carlos Baleba - sources - ESPN",
-          "publishedAt": "2026-08-22 05:47"
-        },
-        {
           "sourceName": "David Ornstein Bluesky",
           "sourceUrl": "https://bsky.app/profile/david-ornstein.bsky.social/post/3mtgebnzl722f",
           "sourceTier": "medium",
           "headlineTitle": "🚨 EXCLUSIVE: Manchester United closing in on deal to sign Carlos Baleba from Brighton & Hove Albion. #MUFC offer for 22yo Cameroon midfielder ~£60+5m; below #BHAFC valuation but amicable talks ongoing as all parties work to reach agreement 🚨 @theathleticfc.bsky.social www.nytimes.com/athletic/724...",
           "publishedAt": "2026-08-19 08:55"
+        },
+        {
+          "sourceName": "Rob Dawson monitor",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeloyZG1QX002bWlzNVBlcUtsZ1B2aURvakdRdG01X3RSMWh2eWVmRmlKc21ZUC03NU1CeE1vUWZlRS1GODUtS2hwVWJ6dl9rSS12WTV1ckNEZF9vbl9XbzN2REJNNWZtdmVGaTNWMWpESFNlNC0xdTlWQkhSaXFGeVAxQkJ2RGVYei13bFV3SFFXbm9kR2txOHlROHFpdjBwOE5oOHkyby0?oc=5",
+          "sourceTier": "medium",
+          "headlineTitle": "Man United agree to £70m deal for Brighton's Carlos Baleba - sources - ESPN",
+          "publishedAt": "2026-08-22 05:47"
         }
       ],
       "sourceCount": 2
@@ -2301,6 +2308,13 @@
       "headlineTitle": "Jack Grealish to Sunderland: loan offer submitted — Ornstein - SPORF",
       "sourceLinks": [
         {
+          "sourceName": "David Ornstein Bluesky",
+          "sourceUrl": "https://bsky.app/profile/david-ornstein.bsky.social/post/3mtym2cebp22w",
+          "sourceTier": "medium",
+          "headlineTitle": "🚨 EXCL: Sunderland submit offer to sign Jack Grealish from Manchester City. Bid for 30yo winger loan with #MCFC covering part of salary + potential to become permanent next summer when contract ends. #SAFC pursuing Igor Paixao in parallel 🚨 @theathleticfc.bsky.social www.nytimes.com/athletic/737...",
+          "publishedAt": "2026-08-26 15:02"
+        },
+        {
           "sourceName": "David Ornstein 검색 모니터",
           "sourceUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONWZvSWZna2tGdTA2cUVMQmlXY2FaNEJzWTdPVVhxLTZ0bE1XSVFrRmdSMjNDZ2QzNjlVaDQwSjY5RHQtbDI1d2dIemNNb2pfWkJmUXFzMng4OER2Y0lENDBkd19vb2ZzSGhfYTgtWkx2NUpIRXh1VnYtX2xQY1d2OGRJZmRqcHc?oc=5",
           "sourceTier": "medium",
@@ -2313,13 +2327,6 @@
           "sourceTier": "medium",
           "headlineTitle": "Sunderland make loan offer for Manchester City’s Jack Grealish - The New York Times",
           "publishedAt": "2026-08-27 00:08"
-        },
-        {
-          "sourceName": "David Ornstein Bluesky",
-          "sourceUrl": "https://bsky.app/profile/david-ornstein.bsky.social/post/3mtym2cebp22w",
-          "sourceTier": "medium",
-          "headlineTitle": "🚨 EXCL: Sunderland submit offer to sign Jack Grealish from Manchester City. Bid for 30yo winger loan with #MCFC covering part of salary + potential to become permanent next summer when contract ends. #SAFC pursuing Igor Paixao in parallel 🚨 @theathleticfc.bsky.social www.nytimes.com/athletic/737...",
-          "publishedAt": "2026-08-27 00:02"
         }
       ],
       "sourceCount": 3
@@ -2556,7 +2563,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
       "publishedAt": "2026-08-30 15:09",
-      "lastVerifiedAt": "2026-08-31 02:05",
+      "lastVerifiedAt": "2026-08-31 02:14",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -2666,6 +2673,37 @@
       "sourceCount": 1
     },
     {
+      "id": "draft:https://www.theguardian.com/football/2026/aug/28/esther-gonzalez-saudi-arabia-gotham-nwsl",
+      "player": "Premier League",
+      "fromTeam": "That",
+      "toTeam": "미상",
+      "league": "미분류",
+      "status": "확인 필요",
+      "fee": "미정",
+      "sourceKey": "guardian-football",
+      "sourceTier": "medium",
+      "sourceName": "The Guardian Football",
+      "sourceUrl": "https://www.theguardian.com/football/2026/aug/28/esther-gonzalez-saudi-arabia-gotham-nwsl",
+      "sourceType": "자동 추출 초안",
+      "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
+      "publishedAt": "2026-08-28 13:00",
+      "lastVerifiedAt": "2026-08-31 02:14",
+      "extractionConfidence": "low",
+      "extractionPattern": "fallback-unparsed-transfer-headline",
+      "needsVerification": true,
+      "headlineTitle": "Esther González, Saudi Arabia and the questions around an unexpected transfer saga",
+      "sourceLinks": [
+        {
+          "sourceName": "The Guardian Football",
+          "sourceUrl": "https://www.theguardian.com/football/2026/aug/28/esther-gonzalez-saudi-arabia-gotham-nwsl",
+          "sourceTier": "medium",
+          "headlineTitle": "Esther González, Saudi Arabia and the questions around an unexpected transfer saga",
+          "publishedAt": "2026-08-28 13:00"
+        }
+      ],
+      "sourceCount": 1
+    },
+    {
       "id": "draft:https://www.bbc.co.uk/sport/football/articles/ckgw294pyl9o?at_medium=RSS&at_campaign=rss",
       "player": "Kevin Kelsy",
       "fromTeam": "소속팀 확인 중",
@@ -2692,6 +2730,37 @@
           "sourceTier": "medium",
           "headlineTitle": "Rangers agree deal for Venezuela striker Kelsy - gossip",
           "publishedAt": "2026-08-27 15:46"
+        }
+      ],
+      "sourceCount": 1
+    },
+    {
+      "id": "draft:bluesky:at://did:plc:j62szermx6ods7lp3xqyembx/app.bsky.feed.post/3mtbb46ilec27",
+      "player": "Guglielmo Vicario",
+      "fromTeam": "소속팀 확인 중",
+      "toTeam": "미상",
+      "league": "미분류",
+      "status": "확인 필요",
+      "fee": "미정",
+      "sourceKey": "bluesky-ornstein",
+      "sourceTier": "medium",
+      "sourceName": "David Ornstein Bluesky",
+      "sourceUrl": "https://bsky.app/profile/david-ornstein.bsky.social/post/3mtbb46ilec27",
+      "sourceType": "자동 추출 초안",
+      "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
+      "publishedAt": "2026-08-17 08:15",
+      "lastVerifiedAt": "2026-08-31 02:14",
+      "extractionConfidence": "low",
+      "extractionPattern": "fallback-unparsed-transfer-headline",
+      "needsVerification": true,
+      "headlineTitle": "🚨 Tottenham Hotspur accept Juventus bid for Guglielmo Vicario. Proposal sent overnight; loan + option to buy 29yo #THFC goalkeeper next summer. All sides expect signing of Italy int’l by #Juve to go ahead after Martinez pursuit called off 🚨 @theathleticfc.bsky.social www.nytimes.com/athletic/724...",
+      "sourceLinks": [
+        {
+          "sourceName": "David Ornstein Bluesky",
+          "sourceUrl": "https://bsky.app/profile/david-ornstein.bsky.social/post/3mtbb46ilec27",
+          "sourceTier": "medium",
+          "headlineTitle": "🚨 Tottenham Hotspur accept Juventus bid for Guglielmo Vicario. Proposal sent overnight; loan + option to buy 29yo #THFC goalkeeper next summer. All sides expect signing of Italy int’l by #Juve to go ahead after Martinez pursuit called off 🚨 @theathleticfc.bsky.social www.nytimes.com/athletic/724...",
+          "publishedAt": "2026-08-17 08:15"
         }
       ],
       "sourceCount": 1
