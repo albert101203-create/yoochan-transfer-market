@@ -58,6 +58,10 @@ const SEEDED_ASSETS = {
     "Iliman Ndiaye": "https://r2.thesportsdb.com/images/media/player/thumb/mewy8h1628334209.jpg",
     "Enzo Fernández": "https://r2.thesportsdb.com/images/media/player/thumb/59cm7k1771427301.jpg",
     "Gabriel Jesus": "https://r2.thesportsdb.com/images/media/player/thumb/iwt0021678196502.jpg",
+    "Carlotta Wamser": "https://r2.thesportsdb.com/images/media/player/thumb/6sumyd1753369688.jpg",
+    "Jean-Mattéo Bahoya": "https://r2.thesportsdb.com/images/media/player/thumb/r3nycn1680872627.jpg",
+    "Guglielmo Vicario": "https://r2.thesportsdb.com/images/media/player/thumb/evd0s01748760786.jpg",
+    "Matías Fernández-Pardo": "https://r2.thesportsdb.com/images/media/player/thumb/6fak4n1779039585.jpg",
     "Omar Marmoush":
       "https://r2.thesportsdb.com/images/media/player/thumb/w1jx521658324336.jpg",
     "Issa Kaboré":
@@ -88,6 +92,10 @@ const SEEDED_ASSETS = {
     "West Bromwich Albion": "https://r2.thesportsdb.com/images/media/team/badge/rsvuxw1448813527.png",
     Valencia: "https://r2.thesportsdb.com/images/media/team/badge/dm8l6o1655594864.png",
     "RB Leipzig": "https://r2.thesportsdb.com/images/media/team/badge/zjgapo1594244951.png",
+    "Newcastle United": "https://r2.thesportsdb.com/images/media/team/badge/lhwuiz1621593302.png",
+    Hull: "https://r2.thesportsdb.com/images/media/team/badge/fbqqda1601726113.png",
+    "Eintracht Frankfurt": "https://r2.thesportsdb.com/images/media/team/badge/rurwpy1473453269.png",
+    Genk: "https://r2.thesportsdb.com/images/media/team/badge/tp06te1534875918.png",
     "Bayern Munich": "https://r2.thesportsdb.com/images/media/team/badge/01ogkh1716960412.png",
     "OL Lyonnes": "https://upload.wikimedia.org/wikipedia/en/7/7a/Olympique_Lyonnais_Feminin_logo.svg",
     "SK Brann": "https://r2.thesportsdb.com/images/media/team/badge/ovuad71690695412.png",

@@ -97,6 +97,7 @@ const GENERIC_DRAFT_SKIP_PATTERNS = [
   /^all done deals in /i,
   /^transfer latest:/i,
   /^transfer latest as /i,
+  /^football transfer deadline day looms/i,
   /^what will .* bring to /i,
   /^is .* top transfer target .* replacement/i,
   /carabao cup .* cruise past/i,
@@ -116,6 +117,13 @@ const GENERIC_DRAFT_SKIP_PATTERNS = [
   /^transfer roundup:/i,
   /^arsenal fans react to vinicius jr transfer links/i,
   /^fabrizio romano: .* enzo plan/i,
+  /^folarin balogun to everton\?/i,
+  /^man utd near deal for .* bernal/i,
+  /^arsenal endrick move dead/i,
+  /^esther gonzález, saudi arabia/i,
+  /^swansea agree loan of .* monga/i,
+  /^man utd turn down .*waiting.*replacement/i,
+  /^source: man utd near deal for /i,
 ];
 
 const POSITION_PATTERN =
@@ -1633,6 +1641,103 @@ function normalizeDraftRecord(draft) {
     normalized.extractionConfidence = "medium";
     normalized.extractionPattern = "barcelona-gabriel-jesus-interest";
     normalized.needsVerification = false;
+  } else if (/Manchester United[\u2019']s Toby Collyer completes West Brom move/i.test(title)) {
+    normalized.player = "Toby Collyer";
+    normalized.fromTeam = "Manchester United";
+    normalized.toTeam = "West Bromwich Albion";
+    normalized.status = "완료";
+    normalized.extractionConfidence = "high";
+    normalized.extractionPattern = "west-brom-collyer-signing";
+    normalized.needsVerification = false;
+  } else if (/Allan Elias joins Man City from Palmeiras/i.test(title)) {
+    normalized.player = "Allan Elias";
+    normalized.fromTeam = "Palmeiras";
+    normalized.toTeam = "Manchester City";
+    normalized.status = "완료";
+    normalized.extractionConfidence = "high";
+    normalized.extractionPattern = "manchester-city-allan-elias-signing";
+    normalized.needsVerification = false;
+  } else if (/Nick Woltemade agrees to join Juventus on loan from Newcastle/i.test(title)) {
+    normalized.player = "Nick Woltemade";
+    normalized.fromTeam = "Newcastle United";
+    normalized.toTeam = "Juventus";
+    normalized.status = "루머";
+    normalized.extractionConfidence = "medium";
+    normalized.extractionPattern = "juventus-woltemade-loan";
+    normalized.needsVerification = false;
+  } else if (/Valencia interested in loan for Liverpool[\u2019']s Elliott/i.test(title)) {
+    normalized.player = "Harvey Elliott";
+    normalized.fromTeam = "Liverpool";
+    normalized.toTeam = "Valencia";
+    normalized.status = "루머";
+    normalized.extractionConfidence = "medium";
+    normalized.extractionPattern = "valencia-harvey-elliott-interest";
+    normalized.needsVerification = false;
+  } else if (/Liverpool advancing in deal for Genk goalkeeper Lucca Brughmans/i.test(title)) {
+    normalized.player = "Lucca Brughmans";
+    normalized.fromTeam = "Genk";
+    normalized.toTeam = "Liverpool";
+    normalized.status = "루머";
+    normalized.extractionConfidence = "medium";
+    normalized.extractionPattern = "liverpool-lucca-brughmans-interest";
+    normalized.needsVerification = true;
+  } else if (/Germany[\u2019']s Wamser completes move to Man City/i.test(title)) {
+    normalized.player = "Carlotta Wamser";
+    normalized.fromTeam = "Eintracht Frankfurt";
+    normalized.toTeam = "Manchester City";
+    normalized.status = "완료";
+    normalized.extractionConfidence = "high";
+    normalized.extractionPattern = "manchester-city-wamser-signing";
+    normalized.needsVerification = false;
+  } else if (/Arsenal[\u2019']s Gabriel Martinelli set for Al Hilal transfer/i.test(title) || /Gabriel Martinelli to Al Hilal: David Ornstein confirms/i.test(title)) {
+    normalized.player = "Gabriel Martinelli";
+    normalized.fromTeam = "Arsenal";
+    normalized.toTeam = "Al Hilal";
+    normalized.status = "루머";
+    normalized.extractionConfidence = "medium";
+    normalized.extractionPattern = "martinelli-al-hilal-agreement";
+    normalized.needsVerification = false;
+  } else if (/Hull[\u2019']s deal for Frankfurt winger Bahoya falls through/i.test(title)) {
+    normalized.player = "Jean-Mattéo Bahoya";
+    normalized.fromTeam = "Eintracht Frankfurt";
+    normalized.toTeam = "Hull";
+    normalized.status = "루머";
+    normalized.extractionConfidence = "medium";
+    normalized.extractionPattern = "hull-bahoya-transfer";
+    normalized.needsVerification = false;
+  } else if (/Gabriel Jesus to Barcelona: Arsenal agree/i.test(title)) {
+    normalized.player = "Gabriel Jesus";
+    normalized.fromTeam = "Arsenal";
+    normalized.toTeam = "Barcelona";
+    normalized.status = "루머";
+    normalized.extractionConfidence = "medium";
+    normalized.extractionPattern = "barcelona-gabriel-jesus-interest";
+    normalized.needsVerification = false;
+  } else if (/Tottenham Hotspur accept Juventus bid for Guglielmo Vicario/i.test(title)) {
+    normalized.player = "Guglielmo Vicario";
+    normalized.fromTeam = "Tottenham";
+    normalized.toTeam = "Juventus";
+    normalized.status = "루머";
+    normalized.extractionConfidence = "medium";
+    normalized.extractionPattern = "juventus-vicario-bid";
+    normalized.needsVerification = false;
+  } else if (/Newcastle are .* buy Matias Fernandez-Pardo from Lille|Newcastle United strike .* to sign Matias Fernandez-Pardo from Lille/i.test(title)) {
+    normalized.player = "Matías Fernández-Pardo";
+    normalized.fromTeam = "Lille";
+    normalized.toTeam = "Newcastle United";
+    normalized.status = "루머";
+    normalized.extractionConfidence = "medium";
+    normalized.extractionPattern = "newcastle-fernandez-pardo-interest";
+    normalized.needsVerification = false;
+  } else if (/Saudi side Al-Qadsiah set to sign Manchester City[\u2019']s Mahamadou Sangaré/i.test(title)) {
+    normalized.player = "Mahamadou Sangaré";
+    normalized.fromTeam = "Manchester City";
+    normalized.toTeam = "Al-Qadsiah";
+    normalized.status = "루머";
+    normalized.extractionConfidence = "medium";
+    normalized.extractionPattern = "al-qadsiah-sangare-interest";
+    normalized.needsVerification = true;
+    normalized.sourceReason = "맨체스터 시티의 마하마두 상가레가 알카디시야로 향할 수 있다는 보도입니다. 구단 로고와 원문 세부사항 확인 후 확정합니다.";
   } else if (/Nottingham Forest agree .*Daniel M(?:u|ú)noz/i.test(title)) {
     normalized.player = "Daniel Muñoz";
     normalized.fromTeam = "Crystal Palace";

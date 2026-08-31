@@ -1007,40 +1007,76 @@
     "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Enzo_Fernandez_Argentina_v_Spain_19_July_2026-050_%28cropped%29.jpg/330px-Enzo_Fernandez_Argentina_v_Spain_19_July_2026-050_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
   },
-  "./assets/players/eintracht-frankfurt-33b69db8.webp": {
-    "name": "Eintracht Frankfurt",
-    "sourcePage": "https://en.wikipedia.org/wiki/Eintracht_Frankfurt",
-    "sourceImage": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/Eintracht_Frankfurt_crest.svg/330px-Eintracht_Frankfurt_crest.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
-  },
-  "./assets/clubs/hull-dc040757.webp": {
-    "name": "Hull",
-    "sourcePage": "https://en.wikipedia.org/wiki/Hull_F.C.",
-    "sourceImage": "https://upload.wikimedia.org/wikipedia/en/thumb/0/08/Hull_F.C._logo.svg/330px-Hull_F.C._logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
-  },
-  "./assets/players/guglielmo-vicario-ed63c26e.png": {
-    "name": "Guglielmo Vicario",
-    "sourcePage": "https://en.wikipedia.org/wiki/Guglielmo_Vicario",
-    "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Guglielmo_Vicario.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
-  },
   "./assets/clubs/mexico-41937b20.webp": {
     "name": "Mexico",
     "sourcePage": "https://en.wikipedia.org/wiki/Mexico",
     "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/330px-Flag_of_Mexico.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
   },
-  "./assets/players/folarin-balogun-45595e47.jpg": {
-    "name": "Folarin Balogun",
-    "sourcePage": "https://en.wikipedia.org/wiki/Folarin_Balogun",
-    "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Folarin_Balogun_Australia_v_USA_19_June_2026-64.jpg/330px-Folarin_Balogun_Australia_v_USA_19_June_2026-64.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
-  },
   "./assets/clubs/germany-17d53e0e.webp": {
     "name": "Germany",
     "sourcePage": "https://en.wikipedia.org/wiki/Germany",
     "sourceImage": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/330px-Flag_of_Germany.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
+  },
+  "./assets/players/matias-fernandez-pardo-47deca7f.jpg": {
+    "name": "Matias Fernandez-Pardo",
+    "sourcePage": "https://en.wikipedia.org/wiki/Matias_Fernandez-Pardo",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Pardo_asselosc_2425_%28cropped%29.jpg/330px-Pardo_asselosc_2425_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
+  },
+  "./assets/players/carlotta-wamser-d460ff75.jpg": {
+    "name": "Carlotta Wamser",
+    "sourcePage": "https://r2.thesportsdb.com/images/media/player/thumb/6sumyd1753369688.jpg",
+    "sourceImage": "https://r2.thesportsdb.com/images/media/player/thumb/6sumyd1753369688.jpg",
+    "note": "Seeded from TheSportsDB player artwork; verify the image license before redistribution."
+  },
+  "./assets/players/jean-matt-o-bahoya-22381306.jpg": {
+    "name": "Jean-Mattéo Bahoya",
+    "sourcePage": "https://r2.thesportsdb.com/images/media/player/thumb/r3nycn1680872627.jpg",
+    "sourceImage": "https://r2.thesportsdb.com/images/media/player/thumb/r3nycn1680872627.jpg",
+    "note": "Seeded from TheSportsDB player artwork; verify the image license before redistribution."
+  },
+  "./assets/players/guglielmo-vicario-ed63c26e.jpg": {
+    "name": "Guglielmo Vicario",
+    "sourcePage": "https://r2.thesportsdb.com/images/media/player/thumb/evd0s01748760786.jpg",
+    "sourceImage": "https://r2.thesportsdb.com/images/media/player/thumb/evd0s01748760786.jpg",
+    "note": "Seeded from TheSportsDB player artwork; verify the image license before redistribution."
+  },
+  "./assets/players/mat-as-fern-ndez-pardo-df0d94bb.jpg": {
+    "name": "Matías Fernández-Pardo",
+    "sourcePage": "https://r2.thesportsdb.com/images/media/player/thumb/6fak4n1779039585.jpg",
+    "sourceImage": "https://r2.thesportsdb.com/images/media/player/thumb/6fak4n1779039585.jpg",
+    "note": "Seeded from TheSportsDB player artwork; verify the image license before redistribution."
+  },
+  "./assets/clubs/newcastle-united-36e54226.png": {
+    "name": "Newcastle United",
+    "sourcePage": "https://r2.thesportsdb.com/images/media/team/badge/lhwuiz1621593302.png",
+    "sourceImage": "https://r2.thesportsdb.com/images/media/team/badge/lhwuiz1621593302.png",
+    "note": "Seeded from TheSportsDB player artwork; verify the image license before redistribution."
+  },
+  "./assets/clubs/hull-dc040757.png": {
+    "name": "Hull",
+    "sourcePage": "https://r2.thesportsdb.com/images/media/team/badge/fbqqda1601726113.png",
+    "sourceImage": "https://r2.thesportsdb.com/images/media/team/badge/fbqqda1601726113.png",
+    "note": "Seeded from TheSportsDB player artwork; verify the image license before redistribution."
+  },
+  "./assets/clubs/eintracht-frankfurt-33b69db8.png": {
+    "name": "Eintracht Frankfurt",
+    "sourcePage": "https://r2.thesportsdb.com/images/media/team/badge/rurwpy1473453269.png",
+    "sourceImage": "https://r2.thesportsdb.com/images/media/team/badge/rurwpy1473453269.png",
+    "note": "Seeded from TheSportsDB player artwork; verify the image license before redistribution."
+  },
+  "./assets/clubs/genk-36abd368.png": {
+    "name": "Genk",
+    "sourcePage": "https://r2.thesportsdb.com/images/media/team/badge/tp06te1534875918.png",
+    "sourceImage": "https://r2.thesportsdb.com/images/media/team/badge/tp06te1534875918.png",
+    "note": "Seeded from TheSportsDB player artwork; verify the image license before redistribution."
+  },
+  "./assets/players/nick-woltemade-771756b1.jpg": {
+    "name": "Nick Woltemade",
+    "sourcePage": "https://en.wikipedia.org/wiki/Nick_Woltemade",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Nick_Woltemade_Ecuador_v_Germany_25_June_2026-069.jpg/330px-Nick_Woltemade_Ecuador_v_Germany_25_June_2026-069.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
   }
 }

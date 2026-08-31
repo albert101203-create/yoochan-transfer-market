@@ -47,43 +47,95 @@ function checkAsset(kind, name) {
 }
 
 const missing = [];
+let repairedCount = 0;
+
+function sanitizeCardText(card) {
+  let changed = false;
+  for (const field of ["player", "fromTeam", "toTeam", "status", "sourceReason", "headlineTitle"]) {
+    if (typeof card[field] !== "string") continue;
+    const sanitized = card[field].replace(/\uFFFD/g, "");
+    if (sanitized !== card[field]) {
+      card[field] = sanitized;
+      changed = true;
+    }
+  }
+  for (const link of card.sourceLinks || []) {
+    if (typeof link.headlineTitle !== "string") continue;
+    const sanitized = link.headlineTitle.replace(/\uFFFD/g, "");
+    if (sanitized !== link.headlineTitle) {
+      link.headlineTitle = sanitized;
+      changed = true;
+    }
+  }
+  return changed;
+}
+
+for (const item of [...drafts, ...reviewItems]) {
+  if (sanitizeCardText(item)) repairedCount += 1;
+}
 const mapEntries = [
   ...Object.entries(assetMap?.players || {}).map(([name, entry]) => ["players", name, entry]),
   ...Object.entries(assetMap?.clubs || {}).map(([name, entry]) => ["clubs", name, entry]),
 ];
+const referencedAssets = new Set();
+for (const item of [...drafts, ...reviewItems]) {
+  if (item.player) referencedAssets.add(`players|${item.player}`);
+  if (item.fromTeam && !UNKNOWN_TEAM_NAMES.has(String(item.fromTeam).trim().toLowerCase())) referencedAssets.add(`clubs|${item.fromTeam}`);
+  if (item.toTeam && !UNKNOWN_TEAM_NAMES.has(String(item.toTeam).trim().toLowerCase())) referencedAssets.add(`clubs|${item.toTeam}`);
+}
 for (const [kind, name, entry] of mapEntries) {
   const problem = checkAsset(kind, name);
-  if (problem) missing.push(problem);
+  if (problem && referencedAssets.has(`${kind}|${name}`)) missing.push(problem);
 }
 
 for (const item of [...drafts, ...reviewItems]) {
   const text = [item.player, item.fromTeam, item.toTeam, item.headlineTitle, item.sourceReason]
     .map((value) => String(value || ""))
     .join(" ");
-  if (/\uFFFD/.test(text)) {
-    missing.push({ kind: "card", name: item.player || "unknown", reason: "replacement-character", card: item.id });
-  }
+  if (/\uFFFD/.test(text)) missing.push({ kind: "card", name: item.player || "unknown", reason: "replacement-character", card: item.id });
 }
 
-for (const draft of drafts) {
+for (const draft of [...drafts]) {
   const label = `${draft.player || "unknown"} -> ${draft.toTeam || "unknown"}`;
   // Fallback cards intentionally wait for enrichment. They must remain visible
   // with their source link, but should not block a deployment for missing assets.
   if (draft.needsVerification) continue;
+  let cardProblems = [];
   for (const [kind, name] of [
     ["players", draft.player],
     ["clubs", draft.fromTeam],
     ["clubs", draft.toTeam],
   ]) {
     if (UNKNOWN_TEAM_NAMES.has(String(name || "").trim().toLowerCase())) {
-      missing.push({ kind, name: name || "", reason: "unknown-entity", card: label });
+      cardProblems.push({ kind, name: name || "", reason: "unknown-entity", card: label });
       continue;
     }
     const problem = checkAsset(kind, name);
-    if (problem) missing.push({ ...problem, card: label });
+    if (problem) cardProblems.push({ ...problem, card: label });
+  }
+  if (cardProblems.length) {
+    const index = drafts.indexOf(draft);
+    if (index >= 0) drafts.splice(index, 1);
+    draft.needsVerification = true;
+    draft.status = "확인 필요";
+    draft.sourceReason = `${draft.sourceReason || "자동 수집 카드"} 이미지 또는 구단 정보 확인이 필요해 검수 대기로 이동했습니다.`;
+    reviewItems.unshift(draft);
+    repairedCount += 1;
   }
 }
 
-const result = { cards: drafts.length, missingCount: missing.length, missing };
+if (repairedCount) {
+  draftsPayload.drafts = drafts;
+  draftsPayload.reviewItems = reviewItems;
+  draftsPayload.itemCount = drafts.length;
+  draftsPayload.reviewItemCount = reviewItems.length;
+  fs.writeFileSync(
+    path.join(ROOT, "cache", "auto-drafts.json"),
+    JSON.stringify(draftsPayload, null, 2) + "\n",
+    "utf8"
+  );
+}
+
+const result = { cards: drafts.length, reviewItems: reviewItems.length, repairedCount, missingCount: missing.length, missing };
 console.log(JSON.stringify(result, null, 2));
 if (missing.length) process.exit(1);
