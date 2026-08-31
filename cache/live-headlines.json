@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-31T07:21:24.603Z",
+  "fetchedAt": "2026-08-31T07:30:01.383Z",
   "itemCount": 120,
   "items": [
     {
@@ -271,6 +271,16 @@
       "sourceKey": "sky-sports",
       "sourceName": "Sky Sports",
       "status": "루머"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMjFRWXRPOEFNc0MzZktWRzNhNzY2bjdlb3ZkdTR1RWVycm9yTHB6dmhvTjNZNU50OGpYamJJREpZTFdiWHRidXdhVmlDVlN4VHhxTENoVnhPd2Y3ZmxOUmlndXh4MlJmcnhSZGFZejNlLUxVUDExOFNrMDBwOGtnQmJSQ3pCOWRJSHN0bWU4OGJYNlZ2VnJzbl9DSmJYZTh2eEV2UkVKZUJLUEE?oc=5",
+      "title": "Aston Villa reach Taylor Harwood-Bellis £30m transfer agreement with Southampton - The Athletic - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMjFRWXRPOEFNc0MzZktWRzNhNzY2bjdlb3ZkdTR1RWVycm9yTHB6dmhvTjNZNU50OGpYamJJREpZTFdiWHRidXdhVmlDVlN4VHhxTENoVnhPd2Y3ZmxOUmlndXh4MlJmcnhSZGFZejNlLUxVUDExOFNrMDBwOGtnQmJSQ3pCOWRJSHN0bWU4OGJYNlZ2VnJzbl9DSmJYZTh2eEV2UkVKZUJLUEE?oc=5",
+      "publishedAt": "2026-08-30T21:07:26.000Z",
+      "summary": "Aston Villa reach Taylor Harwood-Bellis £30m transfer agreement with Southampton - The Athletic &nbsp;&nbsp; The New York Times",
+      "sourceKey": "ornstein-monitor",
+      "sourceName": "David Ornstein 검색 모니터",
+      "status": "업데이트"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNS1BJVEV0cU9kQ3l4NFpONzJMc1BrZ2J4ZEdPd21SeFNYekVSTjVGVXQza1VtUmIzbjl2Sm83ZEpMelU3NE9lZjdpOGVuZHlJNU91OWVpWWJCRlpDdXFtOWRaYjNtc1FuaWo2M0dyNkFGR1dDZjNuVEk1M0lIMmxmTVJGelIxSWlFcUtfeGQ0M251WS1PNFp3b0JwVmc2X2ExeGRfYmhMMmtvY0szX1FIOVlDakVnYzJKc0J6SC1EU0ctcHV5NnIzR0hzWkpXeXc4XzZhRmg1QXpHcUU4N1k4bGtLSG5aVHVlc244QU56SzF5QnRtWjlDNEpWTTFrQ2dEaVpQOFM0aEtKR0huT1VKbkw3Wkt1QVc4LTJteHBfTQ?oc=5",
@@ -551,16 +561,6 @@
       "sourceKey": "sky-sports",
       "sourceName": "Sky Sports",
       "status": "루머"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMjFRWXRPOEFNc0MzZktWRzNhNzY2bjdlb3ZkdTR1RWVycm9yTHB6dmhvTjNZNU50OGpYamJJREpZTFdiWHRidXdhVmlDVlN4VHhxTENoVnhPd2Y3ZmxOUmlndXh4MlJmcnhSZGFZejNlLUxVUDExOFNrMDBwOGtnQmJSQ3pCOWRJSHN0bWU4OGJYNlZ2VnJzbl9DSmJYZTh2eEV2UkVKZUJLUEE?oc=5",
-      "title": "Aston Villa finalising Taylor Harwood-Bellis transfer agreement with Southampton - The Athletic - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMjFRWXRPOEFNc0MzZktWRzNhNzY2bjdlb3ZkdTR1RWVycm9yTHB6dmhvTjNZNU50OGpYamJJREpZTFdiWHRidXdhVmlDVlN4VHhxTENoVnhPd2Y3ZmxOUmlndXh4MlJmcnhSZGFZejNlLUxVUDExOFNrMDBwOGtnQmJSQ3pCOWRJSHN0bWU4OGJYNlZ2VnJzbl9DSmJYZTh2eEV2UkVKZUJLUEE?oc=5",
-      "publishedAt": "2026-08-30T16:27:19.000Z",
-      "summary": "Aston Villa finalising Taylor Harwood-Bellis transfer agreement with Southampton - The Athletic &nbsp;&nbsp; The New York Times",
-      "sourceKey": "ornstein-monitor",
-      "sourceName": "David Ornstein 검색 모니터",
-      "status": "업데이트"
     },
     {
       "id": "https://www.skysports.com/football/live-blog/11095/13279280/brentford-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
@@ -1212,7 +1212,7 @@
     {
       "source": "Sky Sports sitemap",
       "ok": true,
-      "count": 31
+      "count": 30
     },
     {
       "source": "ESPN FC page",
@@ -1232,7 +1232,7 @@
     {
       "source": "David Ornstein Google News",
       "ok": true,
-      "count": 88
+      "count": 89
     },
     {
       "source": "The Athletic Google News",
@@ -1312,7 +1312,7 @@
     {
       "source": "David Hytner Google News",
       "ok": true,
-      "count": 34
+      "count": 33
     },
     {
       "source": "Paul Joyce Google News",
@@ -1322,12 +1322,12 @@
     {
       "source": "Fabrice Hawkins Google News",
       "ok": true,
-      "count": 38
+      "count": 39
     },
     {
       "source": "Miguel Delaney Google News",
       "ok": true,
-      "count": 35
+      "count": 37
     },
     {
       "source": "Melissa Reddy Google News",
