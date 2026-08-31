@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-08-31T06:37:34.535Z",
+  "fetchedAt": "2026-08-31T06:46:12.989Z",
   "itemCount": 120,
   "items": [
     {
@@ -121,6 +121,16 @@
       "sourceKey": "official-tottenham-monitor",
       "sourceName": "Tottenham official-site monitor",
       "status": "완료"
+    },
+    {
+      "id": "https://www.bbc.co.uk/sport/football/articles/c7v433lejveo?at_medium=RSS&at_campaign=rss",
+      "title": "The transfers to watch before window closes",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c7v433lejveo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-08-31T06:42:23.000Z",
+      "summary": "BBC Sport's football experts picks out the standout transfers that could go through before Tuesday's 23:00 BST English deadline.",
+      "sourceKey": "bbc-sport",
+      "sourceName": "BBC Sport",
+      "status": "업데이트"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOa29DbTh6c2pseGNTaDJuZExlYkVvUTlWaElja21iSW84V2lKOUFTSjRQUnc0dzA0dEVrbk5HQzFqNEc1YTZ1TzFtN1NXQ0U1bWpEZC1LYmNDeldjMzVON21CYlduZUw4cHgwQ1BTbGJnY1hGNTZEMThmaktkMXZtZlpZNGV2Yl8tQThqZmVR?oc=5",
@@ -873,6 +883,16 @@
       "status": "업데이트"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd1dKVVVJeHplYlppZmhEcnIxYlhIYWJiVHBRdU1vdU5hb1NHWEQwRks4QUxiUjNKSGx2WU9LZE4xMk1CQzFiSlhabnlQUUZ0YWtnWFB4OUs0aTljeVlFeFZ2V3pCd3EwczEzTDZxNG0yUG85QjIzaTdkcm1ZN2I1c3c0Q25BRjFLOXF0WU9BSFZjS21fa0EwNE1SWXlBeFB3UkFWbjZ1d2hJcGk4WDFLbzFETW1rY2g3eGtKVk1xbVU?oc=5",
+      "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd1dKVVVJeHplYlppZmhEcnIxYlhIYWJiVHBRdU1vdU5hb1NHWEQwRks4QUxiUjNKSGx2WU9LZE4xMk1CQzFiSlhabnlQUUZ0YWtnWFB4OUs0aTljeVlFeFZ2V3pCd3EwczEzTDZxNG0yUG85QjIzaTdkcm1ZN2I1c3c0Q25BRjFLOXF0WU9BSFZjS21fa0EwNE1SWXlBeFB3UkFWbjZ1d2hJcGk4WDFLbzFETW1rY2g3eGtKVk1xbVU?oc=5",
+      "publishedAt": "2026-08-30T11:02:18.000Z",
+      "summary": "Transfer Centre LIVE! Football transfer news, updates and rumours &nbsp;&nbsp; Sky Sports",
+      "sourceKey": "dimarzio-monitor",
+      "sourceName": "Gianluca Di Marzio 검색 모니터",
+      "status": "루머"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbW9ZaWpSbE9rU3JDUGRXYnU0ZVRmSTNpX3Q5Q1NrRGtWYmpJWXhkeW94dlE3dFNBekFlZTJCVVFOS1FaUG5Ka05OeTdpRWU1Z1NVbVBrMDdZWFJ3N1A5a2M5UGtPSDgtekdxOW1LZjdiUUl6VjVVRzd5VzZzMlpOSUhrempJZk1UakN2S0k5TWItODN0TzBEQUhwcDVIdkNsMU1NendEWDhCdXNrUVpHbGhzVnV2c1FWZzdNWUdPWFc?oc=5",
       "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbW9ZaWpSbE9rU3JDUGRXYnU0ZVRmSTNpX3Q5Q1NrRGtWYmpJWXhkeW94dlE3dFNBekFlZTJCVVFOS1FaUG5Ka05OeTdpRWU1Z1NVbVBrMDdZWFJ3N1A5a2M5UGtPSDgtekdxOW1LZjdiUUl6VjVVRzd5VzZzMlpOSUhrempJZk1UakN2S0k5TWItODN0TzBEQUhwcDVIdkNsMU1NendEWDhCdXNrUVpHbGhzVnV2c1FWZzdNWUdPWFc?oc=5",
@@ -1181,33 +1201,13 @@
       "sourceKey": "tottenham-football-london-monitor",
       "sourceName": "Football.London Tottenham monitor",
       "status": "업데이트"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVndLbDBiSTVOcXl5QmdLSFlRbXRqa1NsY3ZaTlRyV3g4YW1DUldGNnFEOWlHTmE2aDN4dnZTd1BrbjNSbGRVdE02ZjVJVVpJeDI5ejI5UmhPNW9oUXhVS1BUWklfUi03Wk5rQk9Rc2FGSlEtVGE2RExJWmpZWi01TnoyS1NGdnNlZ2ZsZ0dwTWJ0bXh5d21PbGNCaXVkUQ?oc=5",
-      "title": "Latest transfer news and rumors: Gakpo going to Man City - theScore",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVndLbDBiSTVOcXl5QmdLSFlRbXRqa1NsY3ZaTlRyV3g4YW1DUldGNnFEOWlHTmE2aDN4dnZTd1BrbjNSbGRVdE02ZjVJVVpJeDI5ejI5UmhPNW9oUXhVS1BUWklfUi03Wk5rQk9Rc2FGSlEtVGE2RExJWmpZWi01TnoyS1NGdnNlZ2ZsZ0dwTWJ0bXh5d21PbGNCaXVkUQ?oc=5",
-      "publishedAt": "2026-08-29T22:08:36.000Z",
-      "summary": "Latest transfer news and rumors: Gakpo going to Man City &nbsp;&nbsp; theScore",
-      "sourceKey": "romano-monitor",
-      "sourceName": "Fabrizio Romano 검색 모니터",
-      "status": "루머"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM01yWmFhczAyeXVXeHZnTEU4WGlHRXhDZjJYV2FPMk1qTlg5RFdkd3dFU0sxODB2TUd4M2hRVHBpM0R1TnhRZk5TNHdUdWpVdUJZbHdrZXpmdEZvWUZvY0RDV25KYzJyVmxkaVZRVW1wWW1rTjJNeFlscEhsc3JSV3d4aWJJODVfTjdPSmlKam9ESHpwMndpVG9zb3JvRm5Pa1UzTi1zQXA?oc=5",
-      "title": "Fabrizio Romano reveals huge Cody Gakpo bid Man City will send Liverpool - Football365",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM01yWmFhczAyeXVXeHZnTEU4WGlHRXhDZjJYV2FPMk1qTlg5RFdkd3dFU0sxODB2TUd4M2hRVHBpM0R1TnhRZk5TNHdUdWpVdUJZbHdrZXpmdEZvWUZvY0RDV25KYzJyVmxkaVZRVW1wWW1rTjJNeFlscEhsc3JSV3d4aWJJODVfTjdPSmlKam9ESHpwMndpVG9zb3JvRm5Pa1UzTi1zQXA?oc=5",
-      "publishedAt": "2026-08-29T20:38:21.000Z",
-      "summary": "Fabrizio Romano reveals huge Cody Gakpo bid Man City will send Liverpool &nbsp;&nbsp; Football365",
-      "sourceKey": "romano-monitor",
-      "sourceName": "Fabrizio Romano 검색 모니터",
-      "status": "루머"
     }
   ],
   "sourceHealth": [
     {
       "source": "BBC Sport RSS",
       "ok": true,
-      "count": 21
+      "count": 22
     },
     {
       "source": "Sky Sports sitemap",
@@ -1237,17 +1237,17 @@
     {
       "source": "The Athletic Google News",
       "ok": true,
-      "count": 19
+      "count": 18
     },
     {
       "source": "Gianluca Di Marzio Google News",
       "ok": true,
-      "count": 69
+      "count": 70
     },
     {
       "source": "Matteo Moretto Google News",
       "ok": true,
-      "count": 50
+      "count": 49
     },
     {
       "source": "Ben Jacobs Google News",
@@ -1257,7 +1257,7 @@
     {
       "source": "Florian Plettenberg Google News",
       "ok": true,
-      "count": 72
+      "count": 71
     },
     {
       "source": "Kaveh Solhekol Google News",
@@ -1272,7 +1272,7 @@
     {
       "source": "Tom Barclay Google News",
       "ok": true,
-      "count": 36
+      "count": 35
     },
     {
       "source": "Sami Mokbel Google News",
@@ -1287,12 +1287,12 @@
     {
       "source": "James Pearce Google News",
       "ok": true,
-      "count": 45
+      "count": 33
     },
     {
       "source": "Laurie Whitwell Google News",
       "ok": true,
-      "count": 42
+      "count": 43
     },
     {
       "source": "Simon Stone Google News",
@@ -1307,17 +1307,17 @@
     {
       "source": "Mark Ogden Google News",
       "ok": true,
-      "count": 16
+      "count": 18
     },
     {
       "source": "David Hytner Google News",
       "ok": true,
-      "count": 33
+      "count": 34
     },
     {
       "source": "Paul Joyce Google News",
       "ok": true,
-      "count": 48
+      "count": 47
     },
     {
       "source": "Fabrice Hawkins Google News",
@@ -1327,7 +1327,7 @@
     {
       "source": "Miguel Delaney Google News",
       "ok": true,
-      "count": 21
+      "count": 35
     },
     {
       "source": "Melissa Reddy Google News",
@@ -1397,7 +1397,7 @@
     {
       "source": "Liverpool official-site monitor",
       "ok": true,
-      "count": 56
+      "count": 86
     },
     {
       "source": "Tottenham official-site monitor",
@@ -1432,12 +1432,12 @@
     {
       "source": "Football.London Tottenham monitor",
       "ok": true,
-      "count": 82
+      "count": 83
     },
     {
       "source": "The Standard Tottenham monitor",
       "ok": true,
-      "count": 86
+      "count": 85
     },
     {
       "source": "The Athletic Tottenham monitor",
