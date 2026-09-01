@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-01T11:10:43.522Z",
-  "basedOnGeneratedAt": "2026-09-01T11:10:43.519Z",
+  "generatedAt": "2026-09-01T11:24:36.293Z",
+  "basedOnGeneratedAt": "2026-09-01T11:24:36.283Z",
   "itemCount": 30,
   "items": [
     {
@@ -469,6 +469,37 @@
         }
       ],
       "sourceCount": 18
+    },
+    {
+      "id": "draft:https://football-italia.net/chelsea-confirm-ahanor-transfer-joining-2027/",
+      "player": "Honest Ahanor",
+      "fromTeam": "Atalanta: &#8216;Joining in 2027&#8217",
+      "toTeam": "Official &#8211; Chelsea",
+      "league": "미분류",
+      "status": "완료",
+      "fee": "미정",
+      "sourceKey": "football-italia",
+      "sourceTier": "medium",
+      "sourceName": "Football Italia",
+      "sourceUrl": "https://football-italia.net/chelsea-confirm-ahanor-transfer-joining-2027/",
+      "sourceType": "자동 추출 초안",
+      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
+      "publishedAt": "2026-09-01 11:22",
+      "lastVerifiedAt": "2026-09-01 11:24",
+      "extractionConfidence": "high",
+      "extractionPattern": "club-signs-player-from",
+      "needsVerification": false,
+      "headlineTitle": "Official &#8211; Chelsea sign Ahanor from Atalanta: &#8216;Joining in 2027&#8217;",
+      "sourceLinks": [
+        {
+          "sourceName": "Football Italia",
+          "sourceUrl": "https://football-italia.net/chelsea-confirm-ahanor-transfer-joining-2027/",
+          "sourceTier": "medium",
+          "headlineTitle": "Official &#8211; Chelsea sign Ahanor from Atalanta: &#8216;Joining in 2027&#8217;",
+          "publishedAt": "2026-09-01 11:22"
+        }
+      ],
+      "sourceCount": 1
     },
     {
       "id": "draft:49720080",
@@ -1098,7 +1129,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-08-31 19:12",
-      "lastVerifiedAt": "2026-09-01 11:10",
+      "lastVerifiedAt": "2026-09-01 11:24",
       "extractionConfidence": "medium",
       "extractionPattern": "club-agree-deal-for-player",
       "needsVerification": false,
@@ -1113,43 +1144,6 @@
         }
       ],
       "sourceCount": 1
-    },
-    {
-      "id": "draft:https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeloyZG1QX002bWlzNVBlcUtsZ1B2aURvakdRdG01X3RSMWh2eWVmRmlKc21ZUC03NU1CeE1vUWZlRS1GODUtS2hwVWJ6dl9rSS12WTV1ckNEZF9vbl9XbzN2REJNNWZtdmVGaTNWMWpESFNlNC0xdTlWQkhSaXFGeVAxQkJ2RGVYei13bFV3SFFXbm9kR2txOHlROHFpdjBwOE5oOHkyby0?oc=5",
-      "player": "Carlos Baleba",
-      "fromTeam": "Brighton",
-      "toTeam": "Manchester United",
-      "league": "프리미어리그",
-      "status": "완료",
-      "fee": "£70M",
-      "sourceKey": "rob-dawson-monitor",
-      "sourceTier": "medium",
-      "sourceName": "Rob Dawson monitor",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeloyZG1QX002bWlzNVBlcUtsZ1B2aURvakdRdG01X3RSMWh2eWVmRmlKc21ZUC03NU1CeE1vUWZlRS1GODUtS2hwVWJ6dl9rSS12WTV1ckNEZF9vbl9XbzN2REJNNWZtdmVGaTNWMWpESFNlNC0xdTlWQkhSaXFGeVAxQkJ2RGVYei13bFV3SFFXbm9kR2txOHlROHFpdjBwOE5oOHkyby0?oc=5",
-      "sourceType": "자동 추출 초안",
-      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
-      "publishedAt": "2026-08-22 05:47",
-      "lastVerifiedAt": "2026-08-24 00:24",
-      "extractionConfidence": "medium",
-      "extractionPattern": "club-agree-deal-for-player",
-      "headlineTitle": "Man United agree to £70m deal for Brighton's Carlos Baleba - sources - ESPN",
-      "sourceLinks": [
-        {
-          "sourceName": "David Ornstein Bluesky",
-          "sourceUrl": "https://bsky.app/profile/david-ornstein.bsky.social/post/3mtgebnzl722f",
-          "sourceTier": "medium",
-          "headlineTitle": "🚨 EXCLUSIVE: Manchester United closing in on deal to sign Carlos Baleba from Brighton & Hove Albion. #MUFC offer for 22yo Cameroon midfielder ~£60+5m; below #BHAFC valuation but amicable talks ongoing as all parties work to reach agreement 🚨 @theathleticfc.bsky.social www.nytimes.com/athletic/724...",
-          "publishedAt": "2026-08-19 08:55"
-        },
-        {
-          "sourceName": "Rob Dawson monitor",
-          "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeloyZG1QX002bWlzNVBlcUtsZ1B2aURvakdRdG01X3RSMWh2eWVmRmlKc21ZUC03NU1CeE1vUWZlRS1GODUtS2hwVWJ6dl9rSS12WTV1ckNEZF9vbl9XbzN2REJNNWZtdmVGaTNWMWpESFNlNC0xdTlWQkhSaXFGeVAxQkJ2RGVYei13bFV3SFFXbm9kR2txOHlROHFpdjBwOE5oOHkyby0?oc=5",
-          "sourceTier": "medium",
-          "headlineTitle": "Man United agree to £70m deal for Brighton's Carlos Baleba - sources - ESPN",
-          "publishedAt": "2026-08-22 05:47"
-        }
-      ],
-      "sourceCount": 2
     }
   ],
   "rules": {
