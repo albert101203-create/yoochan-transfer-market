@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-01T23:32:17.237Z",
-  "basedOnGeneratedAt": "2026-09-01T23:32:17.235Z",
+  "generatedAt": "2026-09-01T23:41:14.783Z",
+  "basedOnGeneratedAt": "2026-09-01T23:41:14.780Z",
   "itemCount": 30,
   "items": [
     {
@@ -342,6 +342,20 @@
       "headlineTitle": "Liverpool sign Bradley Barcola from Paris Saint-Germain - Liverpool FC",
       "sourceLinks": [
         {
+          "sourceName": "Sky Sports",
+          "sourceUrl": "https://www.skysports.com/football/news/11669/13565590/bradley-barcola-to-liverpool-or-arsenal-psg-and-france-forward-is-quick-strong-versatile-intelligent-8211-and-in-demand",
+          "sourceTier": "medium",
+          "headlineTitle": "Bradley Barcola to Liverpool: France forward who has moved from PSG is quick, strong, versatile, intelligent",
+          "publishedAt": "2026-08-31 13:00"
+        },
+        {
+          "sourceName": "David Ornstein Bluesky",
+          "sourceUrl": "https://bsky.app/profile/david-ornstein.bsky.social/post/3mu2e62lb322j",
+          "sourceTier": "medium",
+          "headlineTitle": "🚨 BREAKING: Liverpool reach agreement in principle on terms of deal to sign Bradley Barcola from Paris Saint-Germain. Still details to finalise between #LFC & #PSG but moving fast after breakthrough overnight on package ~£120m, ~£100m fixed @theathleticfc.bsky.social www.nytimes.com/athletic/753...",
+          "publishedAt": "2026-08-27 07:46"
+        },
+        {
           "sourceName": "James Pearce monitor",
           "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUUNmMFlrcjdoYlBBYWJvN0otZXc2Nm8wNTQ1aHM1bjB1WVZRaV8tLUZLOElaMy03VWI2eW1KSjBFRzBiNVFzOXN5OFB3WEo1RXNiSXExWjlTV21CdHVIcmpmYzJYOVYzSHhheVdubHlKRkdLU3JoSXVMd1pEMmdsb1pVWmFFQnBHb1JmYnE1TVBzaDNpWl9UdDZ3?oc=5",
           "sourceTier": "medium",
@@ -361,20 +375,6 @@
           "sourceTier": "medium",
           "headlineTitle": "Bradley Barcola to Liverpool: France forward who has moved from PSG is quick, strong, versatile, intelligent - Sky Sports",
           "publishedAt": "2026-09-01 10:29"
-        },
-        {
-          "sourceName": "Sky Sports",
-          "sourceUrl": "https://www.skysports.com/football/news/11669/13565590/bradley-barcola-to-liverpool-or-arsenal-psg-and-france-forward-is-quick-strong-versatile-intelligent-8211-and-in-demand",
-          "sourceTier": "medium",
-          "headlineTitle": "Bradley Barcola to Liverpool: France forward who has moved from PSG is quick, strong, versatile, intelligent",
-          "publishedAt": "2026-08-31 13:00"
-        },
-        {
-          "sourceName": "David Ornstein Bluesky",
-          "sourceUrl": "https://bsky.app/profile/david-ornstein.bsky.social/post/3mu2e62lb322j",
-          "sourceTier": "medium",
-          "headlineTitle": "🚨 BREAKING: Liverpool reach agreement in principle on terms of deal to sign Bradley Barcola from Paris Saint-Germain. Still details to finalise between #LFC & #PSG but moving fast after breakthrough overnight on package ~£120m, ~£100m fixed @theathleticfc.bsky.social www.nytimes.com/athletic/753...",
-          "publishedAt": "2026-08-27 07:46"
         },
         {
           "sourceName": "Liverpool official-site monitor",
@@ -485,7 +485,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-09-01 23:13",
-      "lastVerifiedAt": "2026-09-01 23:32",
+      "lastVerifiedAt": "2026-09-01 23:40",
       "extractionConfidence": "high",
       "extractionPattern": "club-signs-player-from",
       "needsVerification": false,
@@ -516,7 +516,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-09-01 23:04",
-      "lastVerifiedAt": "2026-09-01 23:32",
+      "lastVerifiedAt": "2026-09-01 23:40",
       "extractionConfidence": "high",
       "extractionPattern": "club-signs-player-from",
       "needsVerification": false,
@@ -533,33 +533,26 @@
       "sourceCount": 1
     },
     {
-      "id": "draft:https://news.google.com/rss/articles/CBMi8wFBVV95cUxNY3ljM2lNd1B5NTJtT2pYUUt2amJFd25zRmFOZUptcVhDS1dTYmU1OXRSSWNrRDdGaTlyOXBuUy01c1RsM1o5RE9oZ1hsLXZOZlluQXBRUWtTYmdXckdONFVESW1DN3pzUklmVUNuSWhkaTZFc1JtVC1FeHlFYjM1Zl9lNTlLc1hNWVI4alZWemNMWDRxYzFHUlNlTTNhLUc1Z1M0dG5VQjIyNC1FVkJrRWhnOWZXR29aSC1ZSW1TN005R1kwN3BLTFNQQU4yZkpROVowR25xRHF4RGZaZ3ZpbWw5ZW1scnNCbWpPWWZhejBZeVk?oc=5",
+      "id": "draft:https://www.skysports.com/football/news/11671/13579669/iliman-ndiaye-transfer-news-man-city-sign-65m-winger-from-everton-as-jack-grealish-joins-toffees-on-loan",
       "player": "Iliman Ndiaye transfer",
       "fromTeam": "Everton as Jack Grealish joins Toffees",
       "toTeam": "Manchester City",
       "league": "프리미어리그",
       "status": "완료",
       "fee": "£65M",
-      "sourceKey": "tottenham-sky-monitor",
+      "sourceKey": "sky-sports",
       "sourceTier": "medium",
-      "sourceName": "Sky Sports Tottenham monitor",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNY3ljM2lNd1B5NTJtT2pYUUt2amJFd25zRmFOZUptcVhDS1dTYmU1OXRSSWNrRDdGaTlyOXBuUy01c1RsM1o5RE9oZ1hsLXZOZlluQXBRUWtTYmdXckdONFVESW1DN3pzUklmVUNuSWhkaTZFc1JtVC1FeHlFYjM1Zl9lNTlLc1hNWVI4alZWemNMWDRxYzFHUlNlTTNhLUc1Z1M0dG5VQjIyNC1FVkJrRWhnOWZXR29aSC1ZSW1TN005R1kwN3BLTFNQQU4yZkpROVowR25xRHF4RGZaZ3ZpbWw5ZW1scnNCbWpPWWZhejBZeVk?oc=5",
+      "sourceName": "Sky Sports",
+      "sourceUrl": "https://www.skysports.com/football/news/11671/13579669/iliman-ndiaye-transfer-news-man-city-sign-65m-winger-from-everton-as-jack-grealish-joins-toffees-on-loan",
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
-      "publishedAt": "2026-09-01 22:00",
-      "lastVerifiedAt": "2026-09-01 23:32",
+      "publishedAt": "2026-09-01 21:49",
+      "lastVerifiedAt": "2026-09-01 23:40",
       "extractionConfidence": "high",
       "extractionPattern": "player-club-signs-from",
       "needsVerification": false,
-      "headlineTitle": "Iliman Ndiaye transfer news: Man City sign £65m winger from Everton as Jack Grealish joins Toffees on loan - Sky Sports",
+      "headlineTitle": "Iliman Ndiaye transfer news: Man City sign &#163;65m winger from Everton as Jack Grealish joins Toffees on loan",
       "sourceLinks": [
-        {
-          "sourceName": "Sky Sports Tottenham monitor",
-          "sourceUrl": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNY3ljM2lNd1B5NTJtT2pYUUt2amJFd25zRmFOZUptcVhDS1dTYmU1OXRSSWNrRDdGaTlyOXBuUy01c1RsM1o5RE9oZ1hsLXZOZlluQXBRUWtTYmdXckdONFVESW1DN3pzUklmVUNuSWhkaTZFc1JtVC1FeHlFYjM1Zl9lNTlLc1hNWVI4alZWemNMWDRxYzFHUlNlTTNhLUc1Z1M0dG5VQjIyNC1FVkJrRWhnOWZXR29aSC1ZSW1TN005R1kwN3BLTFNQQU4yZkpROVowR25xRHF4RGZaZ3ZpbWw5ZW1scnNCbWpPWWZhejBZeVk?oc=5",
-          "sourceTier": "medium",
-          "headlineTitle": "Iliman Ndiaye transfer news: Man City sign £65m winger from Everton as Jack Grealish joins Toffees on loan - Sky Sports",
-          "publishedAt": "2026-09-01 22:00"
-        },
         {
           "sourceName": "Sky Sports",
           "sourceUrl": "https://www.skysports.com/football/news/11671/13579669/iliman-ndiaye-transfer-news-man-city-sign-65m-winger-from-everton-as-jack-grealish-joins-toffees-on-loan",
@@ -568,7 +561,7 @@
           "publishedAt": "2026-09-01 21:49"
         }
       ],
-      "sourceCount": 2
+      "sourceCount": 1
     },
     {
       "id": "draft:https://www.bbc.co.uk/sport/football/articles/c3wj1qw5x04o?at_medium=RSS&at_campaign=rss",
@@ -637,7 +630,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-09-01 19:57",
-      "lastVerifiedAt": "2026-09-01 23:32",
+      "lastVerifiedAt": "2026-09-01 23:40",
       "extractionConfidence": "high",
       "extractionPattern": "player-club-signs-from",
       "needsVerification": false,
@@ -668,7 +661,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-09-01 18:57",
-      "lastVerifiedAt": "2026-09-01 23:32",
+      "lastVerifiedAt": "2026-09-01 23:40",
       "extractionConfidence": "high",
       "extractionPattern": "player-club-signs-from",
       "needsVerification": false,
@@ -699,7 +692,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-09-01 18:16",
-      "lastVerifiedAt": "2026-09-01 23:32",
+      "lastVerifiedAt": "2026-09-01 23:40",
       "extractionConfidence": "high",
       "extractionPattern": "player-club-signs-from",
       "needsVerification": false,
@@ -730,7 +723,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-09-01 17:42",
-      "lastVerifiedAt": "2026-09-01 23:32",
+      "lastVerifiedAt": "2026-09-01 23:40",
       "extractionConfidence": "high",
       "extractionPattern": "player-club-signs-from",
       "needsVerification": false,
@@ -761,7 +754,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-09-01 14:01",
-      "lastVerifiedAt": "2026-09-01 23:32",
+      "lastVerifiedAt": "2026-09-01 23:40",
       "extractionConfidence": "high",
       "extractionPattern": "club-signs-player-from",
       "needsVerification": false,
