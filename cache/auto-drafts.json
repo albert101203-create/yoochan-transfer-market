@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-01T12:32:32.683Z",
-  "basedOnFetchedAt": "2026-09-01T12:32:31.739Z",
+  "generatedAt": "2026-09-01T12:49:25.972Z",
+  "basedOnFetchedAt": "2026-09-01T12:49:09.891Z",
   "itemCount": 74,
-  "reviewItemCount": 80,
+  "reviewItemCount": 78,
   "archiveLimit": 400,
   "drafts": [
     {
@@ -344,6 +344,20 @@
       "headlineTitle": "Liverpool sign Bradley Barcola from Paris Saint-Germain - Liverpool FC",
       "sourceLinks": [
         {
+          "sourceName": "Sky Sports",
+          "sourceUrl": "https://www.skysports.com/football/news/11669/13565590/bradley-barcola-to-liverpool-or-arsenal-psg-and-france-forward-is-quick-strong-versatile-intelligent-8211-and-in-demand",
+          "sourceTier": "medium",
+          "headlineTitle": "Bradley Barcola to Liverpool: France forward who has moved from PSG is quick, strong, versatile, intelligent",
+          "publishedAt": "2026-08-31 13:00"
+        },
+        {
+          "sourceName": "David Ornstein Bluesky",
+          "sourceUrl": "https://bsky.app/profile/david-ornstein.bsky.social/post/3mu2e62lb322j",
+          "sourceTier": "medium",
+          "headlineTitle": "🚨 BREAKING: Liverpool reach agreement in principle on terms of deal to sign Bradley Barcola from Paris Saint-Germain. Still details to finalise between #LFC & #PSG but moving fast after breakthrough overnight on package ~£120m, ~£100m fixed @theathleticfc.bsky.social www.nytimes.com/athletic/753...",
+          "publishedAt": "2026-08-27 07:46"
+        },
+        {
           "sourceName": "Sky Sports Tottenham monitor",
           "sourceUrl": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPZ21RVU9DN1g0dzhNWnVLQmtScjkyVUx0VDhBbzBsV2VJb2JTdU5OT05yRTJ2SFkxSUxJWEtzVmotTVd6WTRjdFUwakJ5NjlwaDg4aDhCX043cFNjdXpyREcwMlJaTkZEUnk0RUxaS2hnMXpIbV9taG0ycllWdG9kckt0VGhoMzNVWldrNW5zYVNORm1GSVl3ZVZzZXY5Y1FDQkgtdDl3clQtNENhck9Lcno2cVJfVGFPdC1BSHUtN2RsUjJOQWJjU1dIOXd6cV9JQmhkZnp3QjdiUnJvdHVmT2NRWnZxWXlRdXdseEpScjRyTndweVRWNUVpQ01nQQ?oc=5",
           "sourceTier": "medium",
@@ -377,20 +391,6 @@
           "sourceTier": "medium",
           "headlineTitle": "Liverpool complete £123m deal for PSG’s Bradley Barcola - The Times",
           "publishedAt": "2026-08-31 13:01"
-        },
-        {
-          "sourceName": "Sky Sports",
-          "sourceUrl": "https://www.skysports.com/football/news/11669/13565590/bradley-barcola-to-liverpool-or-arsenal-psg-and-france-forward-is-quick-strong-versatile-intelligent-8211-and-in-demand",
-          "sourceTier": "medium",
-          "headlineTitle": "Bradley Barcola to Liverpool: France forward who has moved from PSG is quick, strong, versatile, intelligent",
-          "publishedAt": "2026-08-31 13:00"
-        },
-        {
-          "sourceName": "David Ornstein Bluesky",
-          "sourceUrl": "https://bsky.app/profile/david-ornstein.bsky.social/post/3mu2e62lb322j",
-          "sourceTier": "medium",
-          "headlineTitle": "🚨 BREAKING: Liverpool reach agreement in principle on terms of deal to sign Bradley Barcola from Paris Saint-Germain. Still details to finalise between #LFC & #PSG but moving fast after breakthrough overnight on package ~£120m, ~£100m fixed @theathleticfc.bsky.social www.nytimes.com/athletic/753...",
-          "publishedAt": "2026-08-27 07:46"
         },
         {
           "sourceName": "Premier League transfer monitor",
@@ -1100,7 +1100,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-08-31 19:12",
-      "lastVerifiedAt": "2026-09-01 12:32",
+      "lastVerifiedAt": "2026-09-01 12:49",
       "extractionConfidence": "medium",
       "extractionPattern": "club-agree-deal-for-player",
       "needsVerification": false,
@@ -1679,7 +1679,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
       "publishedAt": "2026-08-31 14:29",
-      "lastVerifiedAt": "2026-09-01 10:19",
+      "lastVerifiedAt": "2026-09-01 12:49",
       "extractionConfidence": "medium",
       "extractionPattern": "newcastle-fernandez-pardo-interest",
       "needsVerification": false,
@@ -2562,7 +2562,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
       "publishedAt": "2026-08-17 08:15",
-      "lastVerifiedAt": "2026-09-01 06:56",
+      "lastVerifiedAt": "2026-09-01 12:49",
       "extractionConfidence": "medium",
       "extractionPattern": "juventus-vicario-bid",
       "needsVerification": false,
@@ -2754,7 +2754,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다. 이미지 또는 구단 정보 확인이 필요해 검수 대기로 이동했습니다.",
       "publishedAt": "2026-09-01 11:36",
-      "lastVerifiedAt": "2026-09-01 12:32",
+      "lastVerifiedAt": "2026-09-01 12:49",
       "extractionConfidence": "low",
       "extractionPattern": "club-targets-player",
       "needsVerification": true,
@@ -2766,68 +2766,6 @@
           "sourceTier": "low",
           "headlineTitle": "£80m Liverpool target could move before deadline as representatives push for deal",
           "publishedAt": "2026-09-01 11:36"
-        }
-      ],
-      "sourceCount": 1
-    },
-    {
-      "id": "draft:https://news.google.com/rss/articles/CBMijAFBVV95cUxNemFpTmxCM05HQndhR1RzSWZQekdsVXljMVdQM1E4bE4wRExpcnZMVGVwSVpuT3B3dENuLW9jWVpvbWs2c1YyYTJkQ2FGMGdPRERWcWhUTmFBdndRbldNVU8zdXRTci1XZWRhd0hwSmNmZFZCZTREYllrT0tIcHNEV3k1SGdjaEFLTXRTbQ?oc=5",
-      "player": "Malick Fofana",
-      "fromTeam": "Lyon",
-      "toTeam": "Arsenal weighing up move",
-      "league": "미분류",
-      "status": "확인 필요",
-      "fee": "미정",
-      "sourceKey": "ornstein-monitor",
-      "sourceTier": "medium",
-      "sourceName": "David Ornstein 검색 모니터",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNemFpTmxCM05HQndhR1RzSWZQekdsVXljMVdQM1E4bE4wRExpcnZMVGVwSVpuT3B3dENuLW9jWVpvbWs2c1YyYTJkQ2FGMGdPRERWcWhUTmFBdndRbldNVU8zdXRTci1XZWRhd0hwSmNmZFZCZTREYllrT0tIcHNEV3k1SGdjaEFLTXRTbQ?oc=5",
-      "sourceType": "자동 추출 초안",
-      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다. 이미지 또는 구단 정보 확인이 필요해 검수 대기로 이동했습니다.",
-      "publishedAt": "2026-08-31 16:29",
-      "lastVerifiedAt": "2026-09-01 12:32",
-      "extractionConfidence": "medium",
-      "extractionPattern": "club-talks-to-sign-player",
-      "needsVerification": true,
-      "headlineTitle": "Arsenal weighing up move to sign Malick Fofana from Lyon - The Athletic - The New York Times",
-      "sourceLinks": [
-        {
-          "sourceName": "David Ornstein 검색 모니터",
-          "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNemFpTmxCM05HQndhR1RzSWZQekdsVXljMVdQM1E4bE4wRExpcnZMVGVwSVpuT3B3dENuLW9jWVpvbWs2c1YyYTJkQ2FGMGdPRERWcWhUTmFBdndRbldNVU8zdXRTci1XZWRhd0hwSmNmZFZCZTREYllrT0tIcHNEV3k1SGdjaEFLTXRTbQ?oc=5",
-          "sourceTier": "medium",
-          "headlineTitle": "Arsenal weighing up move to sign Malick Fofana from Lyon - The Athletic - The New York Times",
-          "publishedAt": "2026-08-31 16:29"
-        }
-      ],
-      "sourceCount": 1
-    },
-    {
-      "id": "draft:https://news.google.com/rss/articles/CBMikAFBVV95cUxPNm5DT2RBamJqLUgybGMwMTFYUEY5aTdRMVUyZDBScE5oVHNCMlh6Y3QxZzhCSjJEQ1pVWEppbGhsQjJNTFFBSHdoREQtY1QzVTEybVMwejZPVkhwMFhweFd2MlAxcV9XeENCVjNUSUx1UlFsUFlkaGE4M1JoVjc5TmFSTUZfenNxSnlhUko3bXI?oc=5",
-      "player": "Manu Kone",
-      "fromTeam": "AS Roma",
-      "toTeam": "Chelsea make contact",
-      "league": "미분류",
-      "status": "확인 필요",
-      "fee": "미정",
-      "sourceKey": "santi-aouna-monitor",
-      "sourceTier": "medium",
-      "sourceName": "Santi Aouna monitor",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNm5DT2RBamJqLUgybGMwMTFYUEY5aTdRMVUyZDBScE5oVHNCMlh6Y3QxZzhCSjJEQ1pVWEppbGhsQjJNTFFBSHdoREQtY1QzVTEybVMwejZPVkhwMFhweFd2MlAxcV9XeENCVjNUSUx1UlFsUFlkaGE4M1JoVjc5TmFSTUZfenNxSnlhUko3bXI?oc=5",
-      "sourceType": "자동 추출 초안",
-      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다. 이미지 또는 구단 정보 확인이 필요해 검수 대기로 이동했습니다.",
-      "publishedAt": "2026-09-01 12:11",
-      "lastVerifiedAt": "2026-09-01 12:32",
-      "extractionConfidence": "medium",
-      "extractionPattern": "club-talks-to-sign-player",
-      "needsVerification": true,
-      "headlineTitle": "Chelsea make contact to sign Manu Kone from AS Roma - football-talk.co.uk",
-      "sourceLinks": [
-        {
-          "sourceName": "Santi Aouna monitor",
-          "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNm5DT2RBamJqLUgybGMwMTFYUEY5aTdRMVUyZDBScE5oVHNCMlh6Y3QxZzhCSjJEQ1pVWEppbGhsQjJNTFFBSHdoREQtY1QzVTEybVMwejZPVkhwMFhweFd2MlAxcV9XeENCVjNUSUx1UlFsUFlkaGE4M1JoVjc5TmFSTUZfenNxSnlhUko3bXI?oc=5",
-          "sourceTier": "medium",
-          "headlineTitle": "Chelsea make contact to sign Manu Kone from AS Roma - football-talk.co.uk",
-          "publishedAt": "2026-09-01 12:11"
         }
       ],
       "sourceCount": 1
@@ -2847,7 +2785,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다. 이미지 또는 구단 정보 확인이 필요해 검수 대기로 이동했습니다.",
       "publishedAt": "2026-09-01 11:22",
-      "lastVerifiedAt": "2026-09-01 12:32",
+      "lastVerifiedAt": "2026-09-01 12:49",
       "extractionConfidence": "high",
       "extractionPattern": "club-signs-player-from",
       "needsVerification": true,
@@ -2894,7 +2832,7 @@
       ],
       "sourceCount": 1,
       "articleImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "reviewSourceCheckedAt": "2026-09-01 08:57",
+      "reviewSourceCheckedAt": "2026-09-01 12:49",
       "reviewSourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYVRRdnkxNTA2XzIzaEk3UllHMjEwcUxjMnlPbW5LQmlxZEkyMFBoaExZY3F0RE0zTHpNRG5EdUJaRFZzbTlRdEk0VGlwUXdDbEU5d3hPYU80MUFHbUx6R3g4V3dTMER1NVFOSzNKSHhyMXJUOThZT3E3cUJQMW8wQw"
     },
     {
@@ -2928,7 +2866,7 @@
       ],
       "sourceCount": 1,
       "articleImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "reviewSourceCheckedAt": "2026-09-01 08:57",
+      "reviewSourceCheckedAt": "2026-09-01 12:49",
       "reviewSourceUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1UclVYbGlINWtMN0poZUZsN0U2S0kyN1R0b2ZoVHpFRWJ4X0lMLW5DZDdCOFpIU3cyeThadkF1VGM1WWRrX0ZvNWhMblBIR1JKX2ZXNXdKQUZteFl0eHNsOWE2Nkg1ZUJCZjVmLUxxcmJFdlBlRTI3Y3dn"
     },
     {
@@ -2994,7 +2932,7 @@
       ],
       "sourceCount": 1,
       "articleImageUrl": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ea66/live/69099940-a566-11f1-8335-ffad7fc340bf.jpg",
-      "reviewSourceCheckedAt": "2026-09-01 06:56",
+      "reviewSourceCheckedAt": "2026-09-01 12:49",
       "reviewSourceUrl": "https://www.bbc.co.uk/sport/football/articles/cm2m37k27pjo"
     },
     {
@@ -3028,7 +2966,7 @@
       ],
       "sourceCount": 1,
       "articleImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "reviewSourceCheckedAt": "2026-09-01 06:57",
+      "reviewSourceCheckedAt": "2026-09-01 12:49",
       "reviewSourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVVNPanNNQ091angwVl9TTmJnWXJTQ2I2NnMtbTE5OF9qQlVacEI4dVZfX0FsSGVjV3RrWE4wSkh1OThTQ2lHbEYzZ0JDbDRLWVlLNEk3X3ZTUzlRY0VvQm9UNndKRklOaERNT3JSdE1DZDlkaWtKMkJJWEhadnh0V2ROQUs1cWxyWEFZNGtzS3RVdUpCNjI3aEpGek5mWDVncDEzeGsxOFpJVTd4LWc"
     },
     {
@@ -3062,7 +3000,7 @@
       ],
       "sourceCount": 1,
       "articleImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "reviewSourceCheckedAt": "2026-09-01 06:57",
+      "reviewSourceCheckedAt": "2026-09-01 12:49",
       "reviewSourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTXdoSjBCRm9HMWwwUnFudExhbUxJRDB2VTZHZ2ZkUjZ5d2RqSmRKLVpjcUZ5cHNwMTE4V2VvQzFCUzE0NUZ2d0JTbjZpQkJkYlFWWGJER3U2OTN1a2p1aUtWYkNLLTI0a0t5MjBXelRKT25IUnBybTNjN0RnN1A2V2NETURmall0VWhJ"
     },
     {
@@ -3078,7 +3016,7 @@
       "sourceName": "David Ornstein 검색 모니터",
       "sourceUrl": "https://bsky.app/profile/david-ornstein.bsky.social/post/3mtym2cebp22w",
       "sourceType": "자동 추출 초안",
-      "sourceReason": "맨체스터 시티의 잭 그릴리시가 선덜랜드 임대 후보로 언급된 기사입니다. 임대 제안과 최종 합의 여부를 원문에서 확인해야 하므로 검수 대기 카드로 보관합니다.",
+      "sourceReason": "맨체스터 시티의 잭 그릴리시가 선덜랜드 임대 후보로 언급된 기사입니다. 임대 제안과 최종 합의 여부를 원문에서 확인해야 하므로 검수 대기 카드로 보관합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
       "publishedAt": "2026-08-27 00:12",
       "lastVerifiedAt": "2026-08-27 00:17",
       "extractionConfidence": "medium",
@@ -3110,7 +3048,7 @@
       ],
       "sourceCount": 3,
       "articleImageUrl": "https://cdn.bsky.app/img/avatar_thumbnail/plain/did:plc:j62szermx6ods7lp3xqyembx/bafkreichkfgicnp4ur3e7gdpcbneb2kdgw5qd6sziepcnvap6pd77waaiq",
-      "reviewSourceCheckedAt": "2026-09-01 06:56",
+      "reviewSourceCheckedAt": "2026-09-01 12:49",
       "reviewSourceUrl": "https://bsky.app/profile/david-ornstein.bsky.social/post/3mtym2cebp22w"
     },
     {
@@ -3124,9 +3062,9 @@
       "sourceKey": "bbc-sport",
       "sourceTier": "medium",
       "sourceName": "BBC Sport",
-      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cje8x575v51o?at_medium=RSS&at_campaign=rss",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cje8x575v51o",
       "sourceType": "자동 추출 초안",
-      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다. 이미지 또는 구단 정보 확인이 필요해 검수 대기로 이동했습니다.",
+      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다. 이미지 또는 구단 정보 확인이 필요해 검수 대기로 이동했습니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
       "publishedAt": "2026-09-01 09:57",
       "lastVerifiedAt": "2026-09-01 10:57",
       "extractionConfidence": "high",
@@ -3142,7 +3080,42 @@
           "publishedAt": "2026-09-01 09:57"
         }
       ],
-      "sourceCount": 1
+      "sourceCount": 1,
+      "articleImageUrl": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/96ec/live/dda4ff50-a5f3-11f1-a291-b542ee92de7c.png",
+      "reviewSourceCheckedAt": "2026-09-01 12:49",
+      "reviewSourceUrl": "https://www.bbc.co.uk/sport/football/articles/cje8x575v51o"
+    },
+    {
+      "id": "draft:https://news.google.com/rss/articles/CBMikAFBVV95cUxPNm5DT2RBamJqLUgybGMwMTFYUEY5aTdRMVUyZDBScE5oVHNCMlh6Y3QxZzhCSjJEQ1pVWEppbGhsQjJNTFFBSHdoREQtY1QzVTEybVMwejZPVkhwMFhweFd2MlAxcV9XeENCVjNUSUx1UlFsUFlkaGE4M1JoVjc5TmFSTUZfenNxSnlhUko3bXI?oc=5",
+      "player": "Manu Kone",
+      "fromTeam": "AS Roma",
+      "toTeam": "Chelsea make contact",
+      "league": "미분류",
+      "status": "확인 필요",
+      "fee": "미정",
+      "sourceKey": "santi-aouna-monitor",
+      "sourceTier": "medium",
+      "sourceName": "Santi Aouna monitor",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNm5DT2RBamJqLUgybGMwMTFYUEY5aTdRMVUyZDBScE5oVHNCMlh6Y3QxZzhCSjJEQ1pVWEppbGhsQjJNTFFBSHdoREQtY1QzVTEybVMwejZPVkhwMFhweFd2MlAxcV9XeENCVjNUSUx1UlFsUFlkaGE4M1JoVjc5TmFSTUZfenNxSnlhUko3bXI?oc=5",
+      "sourceType": "자동 추출 초안",
+      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다. 이미지 또는 구단 정보 확인이 필요해 검수 대기로 이동했습니다.",
+      "publishedAt": "2026-09-01 12:11",
+      "lastVerifiedAt": "2026-09-01 12:32",
+      "extractionConfidence": "medium",
+      "extractionPattern": "club-talks-to-sign-player",
+      "needsVerification": true,
+      "headlineTitle": "Chelsea make contact to sign Manu Kone from AS Roma - football-talk.co.uk",
+      "sourceLinks": [
+        {
+          "sourceName": "Santi Aouna monitor",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNm5DT2RBamJqLUgybGMwMTFYUEY5aTdRMVUyZDBScE5oVHNCMlh6Y3QxZzhCSjJEQ1pVWEppbGhsQjJNTFFBSHdoREQtY1QzVTEybVMwejZPVkhwMFhweFd2MlAxcV9XeENCVjNUSUx1UlFsUFlkaGE4M1JoVjc5TmFSTUZfenNxSnlhUko3bXI?oc=5",
+          "sourceTier": "medium",
+          "headlineTitle": "Chelsea make contact to sign Manu Kone from AS Roma - football-talk.co.uk",
+          "publishedAt": "2026-09-01 12:11"
+        }
+      ],
+      "sourceCount": 1,
+      "reviewSourceCheckedAt": "2026-09-01 12:49"
     },
     {
       "id": "draft:https://news.google.com/rss/articles/CBMihwFBVV95cUxPMDdUQ2ptano4bW80U1REMXRuYjdhTHlnaUhjXzlIVHZKcWFZa1lVRnFNTnlfZ3dOZUNLZGxudXllektIbWRlVm9acEFPT3VqTmcxYnJiRGpqTHlYRnlZd2hfZ0ZWRFV0NXYzZ3c3a2FNb1NMQjFnT3ZJSHdXa2hHem1kTE1QQm8?oc=5",
@@ -3173,7 +3146,40 @@
           "publishedAt": "2026-09-01 07:50"
         }
       ],
-      "sourceCount": 1
+      "sourceCount": 1,
+      "reviewSourceCheckedAt": "2026-09-01 12:49"
+    },
+    {
+      "id": "draft:https://news.google.com/rss/articles/CBMijAFBVV95cUxNemFpTmxCM05HQndhR1RzSWZQekdsVXljMVdQM1E4bE4wRExpcnZMVGVwSVpuT3B3dENuLW9jWVpvbWs2c1YyYTJkQ2FGMGdPRERWcWhUTmFBdndRbldNVU8zdXRTci1XZWRhd0hwSmNmZFZCZTREYllrT0tIcHNEV3k1SGdjaEFLTXRTbQ?oc=5",
+      "player": "Malick Fofana",
+      "fromTeam": "Lyon",
+      "toTeam": "Arsenal weighing up move",
+      "league": "미분류",
+      "status": "확인 필요",
+      "fee": "미정",
+      "sourceKey": "ornstein-monitor",
+      "sourceTier": "medium",
+      "sourceName": "David Ornstein 검색 모니터",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNemFpTmxCM05HQndhR1RzSWZQekdsVXljMVdQM1E4bE4wRExpcnZMVGVwSVpuT3B3dENuLW9jWVpvbWs2c1YyYTJkQ2FGMGdPRERWcWhUTmFBdndRbldNVU8zdXRTci1XZWRhd0hwSmNmZFZCZTREYllrT0tIcHNEV3k1SGdjaEFLTXRTbQ?oc=5",
+      "sourceType": "자동 추출 초안",
+      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다. 이미지 또는 구단 정보 확인이 필요해 검수 대기로 이동했습니다.",
+      "publishedAt": "2026-08-31 16:29",
+      "lastVerifiedAt": "2026-09-01 12:32",
+      "extractionConfidence": "medium",
+      "extractionPattern": "club-talks-to-sign-player",
+      "needsVerification": true,
+      "headlineTitle": "Arsenal weighing up move to sign Malick Fofana from Lyon - The Athletic - The New York Times",
+      "sourceLinks": [
+        {
+          "sourceName": "David Ornstein 검색 모니터",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNemFpTmxCM05HQndhR1RzSWZQekdsVXljMVdQM1E4bE4wRExpcnZMVGVwSVpuT3B3dENuLW9jWVpvbWs2c1YyYTJkQ2FGMGdPRERWcWhUTmFBdndRbldNVU8zdXRTci1XZWRhd0hwSmNmZFZCZTREYllrT0tIcHNEV3k1SGdjaEFLTXRTbQ?oc=5",
+          "sourceTier": "medium",
+          "headlineTitle": "Arsenal weighing up move to sign Malick Fofana from Lyon - The Athletic - The New York Times",
+          "publishedAt": "2026-08-31 16:29"
+        }
+      ],
+      "sourceCount": 1,
+      "reviewSourceCheckedAt": "2026-09-01 12:49"
     },
     {
       "id": "draft:https://www.bbc.co.uk/sport/football/articles/c4g73yvjz9do?at_medium=RSS&at_campaign=rss",
@@ -3188,7 +3194,7 @@
       "sourceName": "BBC Sport",
       "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c4g73yvjz9do",
       "sourceType": "자동 추출 초안",
-      "sourceReason": "코벤트리의 테디 음푸니 임대 보도입니다. 선수 사진과 원문 세부사항 확인 후 확정합니다.",
+      "sourceReason": "코벤트리의 테디 음푸니 임대 보도입니다. 선수 사진과 원문 세부사항 확인 후 확정합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
       "publishedAt": "2026-08-30 20:55",
       "lastVerifiedAt": "2026-08-30 23:45",
       "extractionConfidence": "medium",
@@ -3206,7 +3212,7 @@
       ],
       "sourceCount": 1,
       "articleImageUrl": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/d8ce/live/635a1c80-a468-11f1-b370-b9b7934350c8.png",
-      "reviewSourceCheckedAt": "2026-09-01 06:56",
+      "reviewSourceCheckedAt": "2026-09-01 12:49",
       "reviewSourceUrl": "https://www.bbc.co.uk/sport/football/articles/c4g73yvjz9do"
     },
     {
@@ -3224,7 +3230,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
       "publishedAt": "2026-09-01 12:27",
-      "lastVerifiedAt": "2026-09-01 12:32",
+      "lastVerifiedAt": "2026-09-01 12:49",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -3253,7 +3259,7 @@
       "sourceName": "BBC Sport",
       "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c0m31e8v9jgo",
       "sourceType": "자동 추출 초안",
-      "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
+      "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
       "publishedAt": "2026-09-01 12:16",
       "lastVerifiedAt": "2026-09-01 12:32",
       "extractionConfidence": "low",
@@ -3271,7 +3277,7 @@
       ],
       "sourceCount": 1,
       "articleImageUrl": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/fe1c/live/aca5adc0-a5ec-11f1-8348-fb0cb1cd9761.jpg",
-      "reviewSourceCheckedAt": "2026-09-01 12:32",
+      "reviewSourceCheckedAt": "2026-09-01 12:49",
       "reviewSourceUrl": "https://www.bbc.co.uk/sport/football/articles/c0m31e8v9jgo"
     },
     {
@@ -3289,7 +3295,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
       "publishedAt": "2026-09-01 11:35",
-      "lastVerifiedAt": "2026-09-01 12:32",
+      "lastVerifiedAt": "2026-09-01 12:49",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -3305,7 +3311,7 @@
       ],
       "sourceCount": 1,
       "articleImageUrl": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/aec0/live/fd14b290-e25e-11ef-a819-277e390a7a08.jpg",
-      "reviewSourceCheckedAt": "2026-09-01 12:32",
+      "reviewSourceCheckedAt": "2026-09-01 12:49",
       "reviewSourceUrl": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo"
     },
     {
@@ -3339,7 +3345,7 @@
       ],
       "sourceCount": 1,
       "articleImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "reviewSourceCheckedAt": "2026-09-01 12:32",
+      "reviewSourceCheckedAt": "2026-09-01 12:49",
       "reviewSourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWldsWHNLbW5EOWtoWFFKdU9SZ1R4RmxlLWt6Ujd2TU5nNk5MTTNSZlNaWnV5ZFVaSkxNbjFPa1BrVVA2VGF1Z0QxRU9nTDhVM0xPWEZsb2xNS2tIZncwVTdIN1hIcW5JNVlRdDlwWFNDSkhDX1NsWGx6LVdOVzlJWdIBhgFBVV95cUxPQW8wNkx6VnIyc0FUME44NW5tYXYzQXRKc1UzbnpmNXB0QW96dFN2YWNNaS1vTG04eUQwaUY3d0pCd3hZcUR5dmFtZk05NzVESVN4NDdGMVBGdTZGeGtJeE5Dc25WNTljSU9VZXM5SG1jSF9faEYzRFUtenoyT1cwU2w5TG1MUQ"
     },
     {
@@ -3357,7 +3363,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
       "publishedAt": "2026-09-01 10:11",
-      "lastVerifiedAt": "2026-09-01 12:32",
+      "lastVerifiedAt": "2026-09-01 12:49",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -3373,7 +3379,7 @@
       ],
       "sourceCount": 1,
       "articleImageUrl": "https://icdn.football-italia.net/wp-content/uploads/2026/08/chelsea-v-aston-villa-premier-league-1.jpg",
-      "reviewSourceCheckedAt": "2026-09-01 12:32",
+      "reviewSourceCheckedAt": "2026-09-01 12:49",
       "reviewSourceUrl": "https://football-italia.net/roma-push-gittens-leweling-block-kone-chelsea/"
     },
     {
@@ -3425,7 +3431,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
       "publishedAt": "2026-09-01 10:00",
-      "lastVerifiedAt": "2026-09-01 12:32",
+      "lastVerifiedAt": "2026-09-01 12:49",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -3654,7 +3660,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
       "publishedAt": "2026-09-01 07:34",
-      "lastVerifiedAt": "2026-09-01 12:32",
+      "lastVerifiedAt": "2026-09-01 12:49",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -3669,7 +3675,7 @@
         }
       ],
       "sourceCount": 1,
-      "reviewSourceCheckedAt": "2026-09-01 12:32"
+      "reviewSourceCheckedAt": "2026-09-01 12:49"
     },
     {
       "id": "draft:https://news.google.com/rss/articles/CBMigwFBVV95cUxPSGM1R2ZVb05tbGYyOE1CNE94Ni1PNHNBUUN2bDdnWHAxRmR1VTViNXlsMlFacEZVUHE3b0ZHbnNidUlHTlllVjVYbmw0Ry05OThlZFdWT1Q1TENxSENtc1VRUnUzVWJVaDlaT0pZYjR1dU9KQ1ZqUzNvZ2twVzhmd01tUQ?oc=5",
@@ -3754,7 +3760,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
       "publishedAt": "2026-08-31 21:45",
-      "lastVerifiedAt": "2026-09-01 12:32",
+      "lastVerifiedAt": "2026-09-01 12:49",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -4188,7 +4194,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
       "publishedAt": "2025-07-31 07:06",
-      "lastVerifiedAt": "2026-09-01 06:56",
+      "lastVerifiedAt": "2026-09-01 12:49",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -4204,7 +4210,7 @@
       ],
       "sourceCount": 1,
       "articleImageUrl": "https://cdn.bsky.app/img/avatar_thumbnail/plain/did:plc:izvnphdojvtthdhdkw6bl6ep/bafkreicjrvv3t6yoqpgkfo7crlcl55koanbat7deyigpmtiu6k2u7xmjbe",
-      "reviewSourceCheckedAt": "2026-09-01 06:56",
+      "reviewSourceCheckedAt": "2026-09-01 12:49",
       "reviewSourceUrl": "https://bsky.app/profile/jaydmharris.bsky.social/post/3lval54f45s2w"
     },
     {
@@ -4253,7 +4259,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
       "publishedAt": "2026-09-01 11:42",
-      "lastVerifiedAt": "2026-09-01 12:32",
+      "lastVerifiedAt": "2026-09-01 12:49",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -4284,7 +4290,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
       "publishedAt": "2026-09-01 11:23",
-      "lastVerifiedAt": "2026-09-01 12:32",
+      "lastVerifiedAt": "2026-09-01 12:49",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -4300,7 +4306,7 @@
       ],
       "sourceCount": 1,
       "articleImageUrl": "https://icdn.caughtoffside.com/wp-content/uploads/2026/08/COS-FeaturedHero-Image-Templates-116.jpg",
-      "reviewSourceCheckedAt": "2026-09-01 12:32",
+      "reviewSourceCheckedAt": "2026-09-01 12:49",
       "reviewSourceUrl": "https://www.caughtoffside.com/2026/09/01/chelsea-make-e45m-move-for-22-year-old-star-as-enzo-fernandez-exit-looms/"
     },
     {
@@ -4404,74 +4410,6 @@
       "articleImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "reviewSourceCheckedAt": "2026-09-01 12:32",
       "reviewSourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTzIydUVoS2lVTmdUTnlkME5NSzVydlllMkpvZFNmUlVIU3RDVWkzNnd1ZjJVX1dvc2tFNVVQMlljMW9SUkZUbFpMTFdId1lXMEdkM0VndHRoNnFTbzFsQ0h3bUZGMDQ5R3FMdFpGQzMyd3V3MjFQRHBfOGNIQUw2cjVqakJrVEdBcGllQWRvZ0N1SUtoQkdoVVJfSQ"
-    },
-    {
-      "id": "draft:https://news.google.com/rss/articles/CBMimwFBVV95cUxOTzIydUVoS2lVTmdUTnlkME5NSzVydlllMkpvZFNmUlVIU3RDVWkzNnd1ZjJVX1dvc2tFNVVQMlljMW9SUkZUbFpMTFdId1lXMEdkM0VndHRoNnFTbzFsQ0h3bUZGMDQ5R3FMdFpGQzMyd3V3MjFQRHBfOGNIQUw2cjVqakJrVEdBcGllQWRvZ0N1SUtoQkdoVVJfSQ?oc=5",
-      "player": "Tottenham's Ndiaye",
-      "fromTeam": "Tottenham",
-      "toTeam": "미상",
-      "league": "미분류",
-      "status": "확인 필요",
-      "fee": "£65M",
-      "sourceKey": "tottenham-transfer-news-monitor",
-      "sourceTier": "low",
-      "sourceName": "Tottenham transfer news monitor",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTzIydUVoS2lVTmdUTnlkME5NSzVydlllMkpvZFNmUlVIU3RDVWkzNnd1ZjJVX1dvc2tFNVVQMlljMW9SUkZUbFpMTFdId1lXMEdkM0VndHRoNnFTbzFsQ0h3bUZGMDQ5R3FMdFpGQzMyd3V3MjFQRHBfOGNIQUw2cjVqakJrVEdBcGllQWRvZ0N1SUtoQkdoVVJfSQ",
-      "sourceType": "자동 추출 초안",
-      "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
-      "publishedAt": "2026-09-01 09:59",
-      "lastVerifiedAt": "2026-09-01 12:32",
-      "extractionConfidence": "low",
-      "extractionPattern": "fallback-unparsed-transfer-headline",
-      "needsVerification": true,
-      "headlineTitle": "Tottenham's Ndiaye deal hijacked as Man City book medical for £65m star - standard.co.uk",
-      "sourceLinks": [
-        {
-          "sourceName": "Tottenham transfer news monitor",
-          "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTzIydUVoS2lVTmdUTnlkME5NSzVydlllMkpvZFNmUlVIU3RDVWkzNnd1ZjJVX1dvc2tFNVVQMlljMW9SUkZUbFpMTFdId1lXMEdkM0VndHRoNnFTbzFsQ0h3bUZGMDQ5R3FMdFpGQzMyd3V3MjFQRHBfOGNIQUw2cjVqakJrVEdBcGllQWRvZ0N1SUtoQkdoVVJfSQ?oc=5",
-          "sourceTier": "low",
-          "headlineTitle": "Tottenham's Ndiaye deal hijacked as Man City book medical for £65m star - standard.co.uk",
-          "publishedAt": "2026-09-01 09:59"
-        }
-      ],
-      "sourceCount": 1,
-      "articleImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "reviewSourceCheckedAt": "2026-09-01 12:32",
-      "reviewSourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTzIydUVoS2lVTmdUTnlkME5NSzVydlllMkpvZFNmUlVIU3RDVWkzNnd1ZjJVX1dvc2tFNVVQMlljMW9SUkZUbFpMTFdId1lXMEdkM0VndHRoNnFTbzFsQ0h3bUZGMDQ5R3FMdFpGQzMyd3V3MjFQRHBfOGNIQUw2cjVqakJrVEdBcGllQWRvZ0N1SUtoQkdoVVJfSQ"
-    },
-    {
-      "id": "draft:https://news.google.com/rss/articles/CBMiogFBVV95cUxOUkZhYXhLUFFRaGlEbVFZbXZCdUhQLU00QWdKZEtGU2hsWjlZdXZzZHBtM0MyTl9WQmJyQThZOWctWUxUS1dRaDFoTmdHQmZCYkx6R3ZReGJyVUN3V2tnbmFjYjhPcmoxUGJoazA2UGhDSHdyMFVna0pIaWtSSmNKd2gzOWREQlBlN2RzTkVFenJwemJiOHBVVEMzeVhjQ2ktT2fSAacBQVVfeXFMTkN6NlRFamhNMDU4bWh2UUpGS1duVk1nVEJhNFNfU2VzeERkV2dUajlUQ3RxSmVBRWw0R09hZ1IxbWhWOTJJY3dNeFgxRUpTd1lnQXNuNEdOdmp5d09OWTRLVlU3alpUaG5rMkRjSm55eHhGVVhScUJyLWwwQlFDdWIybHdTcGhBTk5Jd0xfclVuSXlqWWcyZHVHeHJoNng3OU9wR29POTg?oc=5",
-      "player": "Julián Álvarez",
-      "fromTeam": "Atlético Madrid",
-      "toTeam": "미상",
-      "league": "미분류",
-      "status": "확인 필요",
-      "fee": "미정",
-      "sourceKey": "global-transfer-monitor",
-      "sourceTier": "low",
-      "sourceName": "Global transfer news monitor",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUkZhYXhLUFFRaGlEbVFZbXZCdUhQLU00QWdKZEtGU2hsWjlZdXZzZHBtM0MyTl9WQmJyQThZOWctWUxUS1dRaDFoTmdHQmZCYkx6R3ZReGJyVUN3V2tnbmFjYjhPcmoxUGJoazA2UGhDSHdyMFVna0pIaWtSSmNKd2gzOWREQlBlN2RzTkVFenJwemJiOHBVVEMzeVhjQ2ktT2fSAacBQVVfeXFMTkN6NlRFamhNMDU4bWh2UUpGS1duVk1nVEJhNFNfU2VzeERkV2dUajlUQ3RxSmVBRWw0R09hZ1IxbWhWOTJJY3dNeFgxRUpTd1lnQXNuNEdOdmp5d09OWTRLVlU3alpUaG5rMkRjSm55eHhGVVhScUJyLWwwQlFDdWIybHdTcGhBTk5Jd0xfclVuSXlqWWcyZHVHeHJoNng3OU9wR29POTg",
-      "sourceType": "자동 추출 초안",
-      "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
-      "publishedAt": "2026-09-01 08:59",
-      "lastVerifiedAt": "2026-09-01 12:32",
-      "extractionConfidence": "low",
-      "extractionPattern": "fallback-unparsed-transfer-headline",
-      "needsVerification": true,
-      "headlineTitle": "Arsenal's Julian Alvarez Plan B emerges in transfer deadline day rush - mirror.co.uk",
-      "sourceLinks": [
-        {
-          "sourceName": "Global transfer news monitor",
-          "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUkZhYXhLUFFRaGlEbVFZbXZCdUhQLU00QWdKZEtGU2hsWjlZdXZzZHBtM0MyTl9WQmJyQThZOWctWUxUS1dRaDFoTmdHQmZCYkx6R3ZReGJyVUN3V2tnbmFjYjhPcmoxUGJoazA2UGhDSHdyMFVna0pIaWtSSmNKd2gzOWREQlBlN2RzTkVFenJwemJiOHBVVEMzeVhjQ2ktT2fSAacBQVVfeXFMTkN6NlRFamhNMDU4bWh2UUpGS1duVk1nVEJhNFNfU2VzeERkV2dUajlUQ3RxSmVBRWw0R09hZ1IxbWhWOTJJY3dNeFgxRUpTd1lnQXNuNEdOdmp5d09OWTRLVlU3alpUaG5rMkRjSm55eHhGVVhScUJyLWwwQlFDdWIybHdTcGhBTk5Jd0xfclVuSXlqWWcyZHVHeHJoNng3OU9wR29POTg?oc=5",
-          "sourceTier": "low",
-          "headlineTitle": "Arsenal's Julian Alvarez Plan B emerges in transfer deadline day rush - mirror.co.uk",
-          "publishedAt": "2026-09-01 08:59"
-        }
-      ],
-      "sourceCount": 1,
-      "articleImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "reviewSourceCheckedAt": "2026-09-01 12:32",
-      "reviewSourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUkZhYXhLUFFRaGlEbVFZbXZCdUhQLU00QWdKZEtGU2hsWjlZdXZzZHBtM0MyTl9WQmJyQThZOWctWUxUS1dRaDFoTmdHQmZCYkx6R3ZReGJyVUN3V2tnbmFjYjhPcmoxUGJoazA2UGhDSHdyMFVna0pIaWtSSmNKd2gzOWREQlBlN2RzTkVFenJwemJiOHBVVEMzeVhjQ2ktT2fSAacBQVVfeXFMTkN6NlRFamhNMDU4bWh2UUpGS1duVk1nVEJhNFNfU2VzeERkV2dUajlUQ3RxSmVBRWw0R09hZ1IxbWhWOTJJY3dNeFgxRUpTd1lnQXNuNEdOdmp5d09OWTRLVlU3alpUaG5rMkRjSm55eHhGVVhScUJyLWwwQlFDdWIybHdTcGhBTk5Jd0xfclVuSXlqWWcyZHVHeHJoNng3OU9wR29POTg"
     },
     {
       "id": "draft:https://news.google.com/rss/articles/CBMiogFBVV95cUxOUkZhYXhLUFFRaGlEbVFZbXZCdUhQLU00QWdKZEtGU2hsWjlZdXZzZHBtM0MyTl9WQmJyQThZOWctWUxUS1dRaDFoTmdHQmZCYkx6R3ZReGJyVUN3V2tnbmFjYjhPcmoxUGJoazA2UGhDSHdyMFVna0pIaWtSSmNKd2gzOWREQlBlN2RzTkVFenJwemJiOHBVVEMzeVhjQ2ktT2fSAacBQVVfeXFMTkN6NlRFamhNMDU4bWh2UUpGS1duVk1nVEJhNFNfU2VzeERkV2dUajlUQ3RxSmVBRWw0R09hZ1IxbWhWOTJJY3dNeFgxRUpTd1lnQXNuNEdOdmp5d09OWTRLVlU3alpUaG5rMkRjSm55eHhGVVhScUJyLWwwQlFDdWIybHdTcGhBTk5Jd0xfclVuSXlqWWcyZHVHeHJoNng3OU9wR29POTg?oc=5",
@@ -4624,7 +4562,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
       "publishedAt": "2026-09-01 07:51",
-      "lastVerifiedAt": "2026-09-01 12:32",
+      "lastVerifiedAt": "2026-09-01 12:49",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
