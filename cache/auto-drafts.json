@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-01T05:53:32.659Z",
-  "basedOnFetchedAt": "2026-09-01T05:53:32.140Z",
+  "generatedAt": "2026-09-01T06:04:46.071Z",
+  "basedOnFetchedAt": "2026-09-01T06:04:45.629Z",
   "itemCount": 74,
   "reviewItemCount": 52,
   "archiveLimit": 400,
@@ -1100,7 +1100,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-08-31 19:12",
-      "lastVerifiedAt": "2026-09-01 05:53",
+      "lastVerifiedAt": "2026-09-01 06:04",
       "extractionConfidence": "medium",
       "extractionPattern": "club-agree-deal-for-player",
       "needsVerification": false,
@@ -1679,7 +1679,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
       "publishedAt": "2026-08-31 14:29",
-      "lastVerifiedAt": "2026-09-01 05:53",
+      "lastVerifiedAt": "2026-09-01 06:04",
       "extractionConfidence": "medium",
       "extractionPattern": "newcastle-fernandez-pardo-interest",
       "needsVerification": false,
@@ -2754,7 +2754,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다. 이미지 또는 구단 정보 확인이 필요해 검수 대기로 이동했습니다.",
       "publishedAt": "2026-08-31 18:00",
-      "lastVerifiedAt": "2026-09-01 05:53",
+      "lastVerifiedAt": "2026-09-01 06:04",
       "extractionConfidence": "low",
       "extractionPattern": "club-targets-player",
       "needsVerification": true,
@@ -2785,7 +2785,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다. 이미지 또는 구단 정보 확인이 필요해 검수 대기로 이동했습니다.",
       "publishedAt": "2026-08-31 16:29",
-      "lastVerifiedAt": "2026-09-01 05:53",
+      "lastVerifiedAt": "2026-09-01 06:04",
       "extractionConfidence": "medium",
       "extractionPattern": "club-talks-to-sign-player",
       "needsVerification": true,
@@ -3100,7 +3100,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
       "publishedAt": "2026-08-31 23:05",
-      "lastVerifiedAt": "2026-09-01 05:53",
+      "lastVerifiedAt": "2026-09-01 06:04",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -3116,7 +3116,7 @@
       ],
       "sourceCount": 1,
       "articleImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "reviewSourceCheckedAt": "2026-09-01 05:53",
+      "reviewSourceCheckedAt": "2026-09-01 06:04",
       "reviewSourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSGM1R2ZVb05tbGYyOE1CNE94Ni1PNHNBUUN2bDdnWHAxRmR1VTViNXlsMlFacEZVUHE3b0ZHbnNidUlHTlllVjVYbmw0Ry05OThlZFdWT1Q1TENxSENtc1VRUnUzVWJVaDlaT0pZYjR1dU9KQ1ZqUzNvZ2twVzhmd01tUQ"
     },
     {
@@ -3134,7 +3134,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
       "publishedAt": "2026-08-31 21:45",
-      "lastVerifiedAt": "2026-09-01 05:53",
+      "lastVerifiedAt": "2026-09-01 06:04",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -3199,7 +3199,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
       "publishedAt": "2026-08-31 18:54",
-      "lastVerifiedAt": "2026-09-01 05:53",
+      "lastVerifiedAt": "2026-09-01 06:04",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -3215,7 +3215,7 @@
       ],
       "sourceCount": 1,
       "articleImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "reviewSourceCheckedAt": "2026-09-01 05:53",
+      "reviewSourceCheckedAt": "2026-09-01 06:04",
       "reviewSourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQS3BiMWlWOXBsM19aNEF2VXdIaDFMdkpNUGkwWEZBMVcxTkZhUndNV2M5a0NhZ2g2X0RMQ0hIRWZWMkhBUUhtT2FaRmdtdWNYTnVtcWJUclVDX2xsVGUydGRjR2hhVE5ycnJDR3U3ZmZ0RkJyU2lSXzFzeUVnNUd1VVNJTGZNMWF3S1RDUFl1dXVjZXluQk5WVXBIX01QMVU"
     },
     {
@@ -3308,7 +3308,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
       "publishedAt": "2026-08-31 17:10",
-      "lastVerifiedAt": "2026-09-01 05:53",
+      "lastVerifiedAt": "2026-09-01 06:04",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -3324,7 +3324,7 @@
       ],
       "sourceCount": 1,
       "articleImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "reviewSourceCheckedAt": "2026-09-01 05:53",
+      "reviewSourceCheckedAt": "2026-09-01 06:04",
       "reviewSourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUHNaQXBBR3BSSUxkZmgzNHpxYjRrRWs5ZGtsWVR0RHpjaWxPOEtzWEU4UUx2aEZ3dDRQMmhBV0NvX3NjSXpacXhPY1lsODBWZkFKTkpoWV9zLTFuLUptN1VsaVR4OHV2eGRGeDlRcWZWT05EcHpvVXk1Sl9TWEJ2cDBrUk9MZjVkVVBZbVo1elRLc1dqd1JteEhPMDltOXls"
     },
     {
@@ -3444,7 +3444,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
       "publishedAt": "2026-08-31 14:35",
-      "lastVerifiedAt": "2026-09-01 05:53",
+      "lastVerifiedAt": "2026-09-01 06:04",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -3460,7 +3460,7 @@
       ],
       "sourceCount": 1,
       "articleImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "reviewSourceCheckedAt": "2026-09-01 05:53",
+      "reviewSourceCheckedAt": "2026-09-01 06:04",
       "reviewSourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVXhwU3phUWNJQjZsWUoydkF4STl0Z3V1NXdGSjI2SFlwRWJid0lTS0c5T0JjV01YUGJtMjRZQmk3NjJlNmhJcUFjbDRxdF9XZ1oxcnk2NzZCQkFaNEhhQ3RPUVE3TG5kbUp6Zzk3b2hncXFLR21hME1xcXVUclBYMDQtZUdjZzhSb1NFQUV1UQ"
     },
     {
@@ -3478,7 +3478,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
       "publishedAt": "2026-08-31 11:36",
-      "lastVerifiedAt": "2026-09-01 05:53",
+      "lastVerifiedAt": "2026-09-01 06:04",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -3494,7 +3494,7 @@
       ],
       "sourceCount": 1,
       "articleImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "reviewSourceCheckedAt": "2026-09-01 05:53",
+      "reviewSourceCheckedAt": "2026-09-01 06:04",
       "reviewSourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iMVZvRl9ZNnZUdEM5YU9vM1hlT3Axa3NmNm41elNwNUVneS1tZzdVNWxxamRrSHJ2d0IwRmRONWF0RW9pSVpwTnFGdDk2ZEhVV1V1WkxIYVFCajhFeDRSak5kX3Z1SmF4MHYxRVRCS291LWZWT3JwMmdySWQwNFE"
     },
     {
@@ -3611,7 +3611,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
       "publishedAt": "2026-09-01 00:48",
-      "lastVerifiedAt": "2026-09-01 05:53",
+      "lastVerifiedAt": "2026-09-01 06:04",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -3627,7 +3627,7 @@
       ],
       "sourceCount": 1,
       "articleImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "reviewSourceCheckedAt": "2026-09-01 05:53",
+      "reviewSourceCheckedAt": "2026-09-01 06:04",
       "reviewSourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTzIydUVoS2lVTmdUTnlkME5NSzVydlllMkpvZFNmUlVIU3RDVWkzNnd1ZjJVX1dvc2tFNVVQMlljMW9SUkZUbFpMTFdId1lXMEdkM0VndHRoNnFTbzFsQ0h3bUZGMDQ5R3FMdFpGQzMyd3V3MjFQRHBfOGNIQUw2cjVqakJrVEdBcGllQWRvZ0N1SUtoQkdoVVJfSQ"
     },
     {
@@ -3645,7 +3645,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
       "publishedAt": "2026-08-31 22:22",
-      "lastVerifiedAt": "2026-09-01 05:53",
+      "lastVerifiedAt": "2026-09-01 06:04",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -3661,7 +3661,7 @@
       ],
       "sourceCount": 1,
       "articleImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "reviewSourceCheckedAt": "2026-09-01 05:53",
+      "reviewSourceCheckedAt": "2026-09-01 06:04",
       "reviewSourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZVlDaUVuVXdhLS1VYkZSSm1lYnd0cWt5U0RfX2VORW9kVVdFR1BxOHg1SThTOTdtanFrQUNhOGJ3Wi1FU295OVEtUmtFV3BYRllKT1ViNzBsMGgwR0F0N1VidUtzeFFyc1hmZ0oyYlZ2NEwyQ2M2X0JfYWhMbVUwcE95S1Y2UHRMaWZGeVNBY0hrbmJSSTVr"
     },
     {
@@ -3679,7 +3679,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
       "publishedAt": "2026-08-31 21:29",
-      "lastVerifiedAt": "2026-09-01 05:53",
+      "lastVerifiedAt": "2026-09-01 06:04",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -3702,7 +3702,7 @@
       ],
       "sourceCount": 2,
       "articleImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "reviewSourceCheckedAt": "2026-09-01 05:53",
+      "reviewSourceCheckedAt": "2026-09-01 06:04",
       "reviewSourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1RR1pfV0ROdEY3OC1jaHRuNDZIMWlTSmFkcVZKLTduYmlJZkp3RHdGQU40STI4TWt1OUg3RkRWODZXN0YyZTJ0Q2NtdHlHTXduVkdOc2xvdE5KamhCVXFUb29JendGOUU"
     },
     {
@@ -3720,7 +3720,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
       "publishedAt": "2026-08-31 21:02",
-      "lastVerifiedAt": "2026-09-01 05:53",
+      "lastVerifiedAt": "2026-09-01 06:04",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -3736,7 +3736,7 @@
       ],
       "sourceCount": 1,
       "articleImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "reviewSourceCheckedAt": "2026-09-01 05:53",
+      "reviewSourceCheckedAt": "2026-09-01 06:04",
       "reviewSourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMWdwTXVhamV6LXpLQnF6TmNCc0lTTkk0QkkzRmo4bUpxSG9WUVdsVkY4d1cxTzFvMzduSzJsa010cDNTWE9YTExzdE1jZFcxVnpKRi1KOE1hcGQwOUNZbmJ4ZXBLLXYwcXkxWXRiNGdjT09lR0YxcnhLTTlrN2tTbG9abGt5MWdNUUJpR2FqM1BFb0hZNU13VdIBngFBVV95cUxPX3JoVlFBY1dZRHVXT0I5Wks5QVp3RldFT00yeER1YUp6OWdiTFYwYUhUaWdhQlhfUGZ5dGd2Q3pTTU5HcnVNMlhWQm05cTZZaFNhdm13VE1oeHVRUjdBdXJsVEw5cE9qTFdwTTh6cnJEQjQxT3NjRG8xTUtvNG9wcVppcVNRYjZ0SkZJbGwtcTRzTWNGZzFDckFyQkdmZw"
     },
     {
@@ -3754,7 +3754,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
       "publishedAt": "2026-08-31 19:50",
-      "lastVerifiedAt": "2026-09-01 05:53",
+      "lastVerifiedAt": "2026-09-01 06:04",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -3770,7 +3770,7 @@
       ],
       "sourceCount": 1,
       "articleImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "reviewSourceCheckedAt": "2026-09-01 05:53",
+      "reviewSourceCheckedAt": "2026-09-01 06:04",
       "reviewSourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYWJaQlFEUy14emRIMFg0dnpDbmh3M3hhSUprN2JwUzFlU3NxeUY1TVpLZmdsRDc3MnJDWlY3eFYwVk5Nb0M2N1l1TzlNVllMLXplSjBIRElEV1BUeHFfNERrcjMzMUlwZjBIdi1pNGhLdFVEZHRtNHNHOFVwR3RKYUxwMkxZRng2YmR1LS1rRGtqdzE1ZF9DdW5uUXBNcnJQS1o2NHVaWTEtMzVfQUxtb251akdvb29TT3hDQkdvcVZ0S19sNlE0"
     },
     {
@@ -3822,7 +3822,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
       "publishedAt": "2026-08-31 19:28",
-      "lastVerifiedAt": "2026-09-01 05:53",
+      "lastVerifiedAt": "2026-09-01 06:04",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -3838,7 +3838,7 @@
       ],
       "sourceCount": 1,
       "articleImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "reviewSourceCheckedAt": "2026-09-01 05:53",
+      "reviewSourceCheckedAt": "2026-09-01 06:04",
       "reviewSourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWks1d0lHSWxWN1U4RjRXaEo4cFRsNHNSakhyblNLZENUbFVEa20tOVJjM1JvNld1SjMtd3FlcWpDXzFGTE9EeVVSMW93UWRKUFIweWpaSU5ydDNIVEJ0MlN0ZWtMWDhzU0pxalFhWUttbXQ0aDJDRW5vaHE4SENjTA"
     },
     {
@@ -3856,7 +3856,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
       "publishedAt": "2026-08-31 19:15",
-      "lastVerifiedAt": "2026-09-01 05:53",
+      "lastVerifiedAt": "2026-09-01 06:04",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -3872,7 +3872,7 @@
       ],
       "sourceCount": 1,
       "articleImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "reviewSourceCheckedAt": "2026-09-01 05:53",
+      "reviewSourceCheckedAt": "2026-09-01 06:04",
       "reviewSourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxPaGQ2UXV0LWVHYU9yUW5DZHF2dzFyQjctNlZlS1czUExUbkZsbEZaRnhuYjI1U2ZHeml1bmNDVEdwUGdaX1c5WWZxS0Q1Sk9wZmwtWC1nOE5BbVBjYWlBWGlxQ1VnNjl2QWNNNTlhMDdKWGxqR1daTlVkb3ZkbnBqdVZ1dDlDbkpoM1FOa1pYSjVWU0F3dVpUeThFVFFyZ9IBowFBVV95cUxObDJLUE82X25YVTAySUFIanowM19mcGRIT1NnbVRFY2JOXzRCalJ2Z0M5ZUtUc1JKOVJEV2tiRlMwQ3dnUEd3SEYzcFVZaThRMDQyRDBNQ3RaLVRDLTZKVlZPN2I5dU42NmVXRW5aQVI4RnNWVHpOeld4ZmljVGZDX0Z2eUFYTUxrSTJyQk15ZTZpa2hUdGV1c2xKTDY0bjZBbkUw"
     },
     {
@@ -3890,7 +3890,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
       "publishedAt": "2026-08-31 19:01",
-      "lastVerifiedAt": "2026-09-01 05:53",
+      "lastVerifiedAt": "2026-09-01 06:04",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -3906,7 +3906,7 @@
       ],
       "sourceCount": 1,
       "articleImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "reviewSourceCheckedAt": "2026-09-01 05:53",
+      "reviewSourceCheckedAt": "2026-09-01 06:04",
       "reviewSourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNnFibTJWUVlKczZDZk1WZTM2NnVTX0Nib28tWWduRTNURnN3UWdLcDhnMVNzTkZuMHdwb01ZeXFwNno0cW5EbHdQTEJfSk5Lb3A1SkZZamZnUkJRX1ZRbUkwcW5QcUlQRm9RLTRtVl9Vd0NaUWpPNmxyRHhjVElDZmVZcjRya3dLRTZLcUpVSEZ4bVlOZENSYQ"
     },
     {
@@ -3924,7 +3924,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
       "publishedAt": "2026-08-31 19:00",
-      "lastVerifiedAt": "2026-09-01 05:53",
+      "lastVerifiedAt": "2026-09-01 06:04",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -3940,7 +3940,7 @@
       ],
       "sourceCount": 1,
       "articleImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "reviewSourceCheckedAt": "2026-09-01 05:53",
+      "reviewSourceCheckedAt": "2026-09-01 06:04",
       "reviewSourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSEZwYXJiYVVLZUE5bG5nMVBIck50aWVfSWQzaVdLT0doMU5sZVEwRHJZdnE2Um9KM3RnVjJHYnVXMXctRW03ZWtONExMVXFhbTI1M1VBZ1BVNDBFVjhwVmhEVVViV05nZFEta1ZGZ2NLWW9CaDgzR3lZMHhORExhRlF0eS1QUVFpQVEwSVMyU0VRVFgwSTBqN0RRQjRua3ItaXVoWnE4MlRBeWZFUk9wQ3U1WDdUVFhTaC01cEEyaw"
     },
     {
@@ -3958,7 +3958,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
       "publishedAt": "2026-08-31 18:57",
-      "lastVerifiedAt": "2026-09-01 05:53",
+      "lastVerifiedAt": "2026-09-01 06:04",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -3974,7 +3974,7 @@
       ],
       "sourceCount": 1,
       "articleImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "reviewSourceCheckedAt": "2026-09-01 05:53",
+      "reviewSourceCheckedAt": "2026-09-01 06:04",
       "reviewSourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNFlyVFNnRG4wNXNYV0J0b0drQUNYMXUtWE9HMEN5VU5xWTRZVkhPai1lWjJYMTZGWkVWekxVY2J6VjVUaHA3bnJsOVdxNDJBdG10bFpaYzExdDNvZ1lmWWp0b0Y3bUlaZmRIZGpPOXVQdjBaaTQyMmJSUWhzOTNoM2p3SmRkdngtX2Zfa2YxUW40SldTVnI1M0hwdnhkX0p5"
     },
     {
@@ -3992,7 +3992,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
       "publishedAt": "2026-08-31 18:54",
-      "lastVerifiedAt": "2026-09-01 05:53",
+      "lastVerifiedAt": "2026-09-01 06:04",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -4008,7 +4008,7 @@
       ],
       "sourceCount": 1,
       "articleImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "reviewSourceCheckedAt": "2026-09-01 05:53",
+      "reviewSourceCheckedAt": "2026-09-01 06:04",
       "reviewSourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNV2RiTVp3TG5lMld0bFRJU3NmUW9zNnZkM21ET0h5LTRJRjAzODFoZU9NMmVRSFJfVktiRHFFNlVtNTFNQjB2d2NwSWxJaUVLOWFESDF0UUVWMjhfZFEwX1gxdVJnNjFfdTdUMk42ZVVyZlBOTl93b19uMzd2WDhwbnlrSk96UGc2SXhhZjd3NzhTSVV2R1p6clFFWmZkTEtoMDdCTDVSb192ckh0MEwxWEp1OE0"
     },
     {
@@ -4060,7 +4060,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
       "publishedAt": "2026-08-31 18:01",
-      "lastVerifiedAt": "2026-09-01 05:53",
+      "lastVerifiedAt": "2026-09-01 06:04",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -4076,7 +4076,7 @@
       ],
       "sourceCount": 1,
       "articleImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "reviewSourceCheckedAt": "2026-09-01 05:53",
+      "reviewSourceCheckedAt": "2026-09-01 06:04",
       "reviewSourceUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9aek94REVWYjBYSlhhaGJvLXJGenRMTnB4ZW1oRjVIbXIwZTRqejFqaWpKUVV1MTdrVUtqNHNFc1hfeUd3ZEtxOHpaemU3MUMyTGc"
     },
     {
@@ -4162,7 +4162,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
       "publishedAt": "2026-08-31 17:47",
-      "lastVerifiedAt": "2026-09-01 05:53",
+      "lastVerifiedAt": "2026-09-01 06:04",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -4178,7 +4178,7 @@
       ],
       "sourceCount": 1,
       "articleImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "reviewSourceCheckedAt": "2026-09-01 05:53",
+      "reviewSourceCheckedAt": "2026-09-01 06:04",
       "reviewSourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcVpjRFpTQWhZb3hEaXdMZzRGZGRqdy1jNXdlNV9HaGE5b2MzOUktVGRiZzFpNWxwV05wam95WVZ3RElrY3I2YlpYdU1MYTlhTFRSYmJLWE84amVWNTdiMHdFdEtGSTFobnI4LXVBTGxYTHF1WktmTE15R2FvRmhWdWZESnZQSnp1dzdIUU4xUGdVd2Nna3FrZHBtWWFpMHdKLUE"
     },
     {
@@ -4230,7 +4230,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
       "publishedAt": "2026-08-31 16:00",
-      "lastVerifiedAt": "2026-09-01 05:53",
+      "lastVerifiedAt": "2026-09-01 06:04",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -4327,7 +4327,7 @@
       "sourceName": "Instagram 간접 검색 모니터",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBINHFRYlhWYlZUaThmVnZ3OU1nQXVoWFg1eTdEYzZGaWhRcHRvWlcxNkxWLUVmY2IzajdYbXdwOF9ZV2owSVc2MUVWZUgyZzNmcWc",
       "sourceType": "자동 추출 초안",
-      "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
+      "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
       "publishedAt": "2026-08-31 14:46",
       "lastVerifiedAt": "2026-08-31 19:18",
       "extractionConfidence": "low",
@@ -4345,7 +4345,7 @@
       ],
       "sourceCount": 1,
       "articleImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "reviewSourceCheckedAt": "2026-09-01 05:53",
+      "reviewSourceCheckedAt": "2026-09-01 06:04",
       "reviewSourceUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBINHFRYlhWYlZUaThmVnZ3OU1nQXVoWFg1eTdEYzZGaWhRcHRvWlcxNkxWLUVmY2IzajdYbXdwOF9ZV2owSVc2MUVWZUgyZzNmcWc"
     },
     {
@@ -4363,7 +4363,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
       "publishedAt": "2026-08-31 14:27",
-      "lastVerifiedAt": "2026-09-01 05:53",
+      "lastVerifiedAt": "2026-09-01 06:04",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -4379,7 +4379,7 @@
       ],
       "sourceCount": 1,
       "articleImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "reviewSourceCheckedAt": "2026-09-01 05:53",
+      "reviewSourceCheckedAt": "2026-09-01 06:04",
       "reviewSourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaUlsZ2MyRmUtUDhnckxQQ2dIbXNBNWZubjVPNmh6Wi1WMGFmU0p4Q0FPTjBETFowNWdLNVhRMU9mMUJ2TFJYQjhEVkpkaEVTWXRsTGxTV1BPODNiRDVtQ1V4LW1vVWdQc0txUGVkX1NFLVJtd2xLNXViX1ZjMXdOcUtsQ1hIRTVVYVdzUHVDdnp6WlJmUGplVXVldw"
     },
     {
@@ -4397,7 +4397,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
       "publishedAt": "2026-08-31 14:16",
-      "lastVerifiedAt": "2026-09-01 05:53",
+      "lastVerifiedAt": "2026-09-01 06:04",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -4413,7 +4413,7 @@
       ],
       "sourceCount": 1,
       "articleImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "reviewSourceCheckedAt": "2026-09-01 05:53",
+      "reviewSourceCheckedAt": "2026-09-01 06:04",
       "reviewSourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVzFQTHdBaWY4QzFOcGJFbEVVbTVqSWpYbnUzS05WYUNqZ2pYNktwUmNYS09vWGgtRjExTWFqVTlhbkFQSHgxZnFQeno5cWRfZmhqN1RpaHBlYldILVVncXlWME5QWHptTUlad095YnEzRUM2a3BiVkVJWEdzdHkwV0pNOU53YjdjNVhKUWdrTk55dw"
     },
     {
@@ -4431,7 +4431,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
       "publishedAt": "2026-08-31 13:29",
-      "lastVerifiedAt": "2026-09-01 05:53",
+      "lastVerifiedAt": "2026-09-01 06:04",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -4447,7 +4447,7 @@
       ],
       "sourceCount": 1,
       "articleImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "reviewSourceCheckedAt": "2026-09-01 05:53",
+      "reviewSourceCheckedAt": "2026-09-01 06:04",
       "reviewSourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWlJhRXctemRJampXNGlubWZ0amFpakFDVjFneGJzRlRCUmtZMjlsLXdPekJ3UkxwZGxXZ01XM0M1d2RIbEpMOWNUeExPU2RJY1hzMHh5bVVEa2NjVGFrZGI0dzJfNXQzU2xvTXFiSEtCN1pyaDlvNk9jMGQ1LUd1WlJQeXM2X2dSYVFPdjM4cXBHOS11Sk0tNlVIUWVqZEE5TVZ1cDE2WEU"
     },
     {
