@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-01T15:29:11.060Z",
-  "basedOnFetchedAt": "2026-09-01T15:29:10.382Z",
+  "generatedAt": "2026-09-01T16:14:04.547Z",
+  "basedOnFetchedAt": "2026-09-01T16:14:04.100Z",
   "itemCount": 74,
   "reviewItemCount": 92,
   "archiveLimit": 400,
@@ -2754,7 +2754,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다. 이미지 또는 구단 정보 확인이 필요해 검수 대기로 이동했습니다.",
       "publishedAt": "2026-09-01 12:11",
-      "lastVerifiedAt": "2026-09-01 15:29",
+      "lastVerifiedAt": "2026-09-01 16:14",
       "extractionConfidence": "medium",
       "extractionPattern": "club-talks-to-sign-player",
       "needsVerification": true,
@@ -2785,7 +2785,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다. 이미지 또는 구단 정보 확인이 필요해 검수 대기로 이동했습니다.",
       "publishedAt": "2026-09-01 11:22",
-      "lastVerifiedAt": "2026-09-01 15:29",
+      "lastVerifiedAt": "2026-09-01 16:14",
       "extractionConfidence": "high",
       "extractionPattern": "club-signs-player-from",
       "needsVerification": true,
@@ -2816,7 +2816,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다. 이미지 또는 구단 정보 확인이 필요해 검수 대기로 이동했습니다.",
       "publishedAt": "2026-09-01 14:01",
-      "lastVerifiedAt": "2026-09-01 15:29",
+      "lastVerifiedAt": "2026-09-01 16:14",
       "extractionConfidence": "high",
       "extractionPattern": "club-signs-player-from",
       "needsVerification": true,
@@ -2967,6 +2967,37 @@
       "reviewSourceUrl": "https://www.bbc.co.uk/sport/football/articles/cm2m37k27pjo"
     },
     {
+      "id": "draft:https://www.caughtoffside.com/2026/09/01/liverpool-malo-gusto/",
+      "player": "Chelsea star",
+      "fromTeam": "소속팀 확인 중",
+      "toTeam": "&#8220;Final push&#8221; as Liverpool make attempt to",
+      "league": "미분류",
+      "status": "완료",
+      "fee": "미정",
+      "sourceKey": "caughtoffside",
+      "sourceTier": "low",
+      "sourceName": "CaughtOffside",
+      "sourceUrl": "https://www.caughtoffside.com/2026/09/01/liverpool-malo-gusto/",
+      "sourceType": "자동 추출 초안",
+      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
+      "publishedAt": "2026-09-01 15:49",
+      "lastVerifiedAt": "2026-09-01 16:14",
+      "extractionConfidence": "medium",
+      "extractionPattern": "club-signs-player",
+      "needsVerification": false,
+      "headlineTitle": "&#8220;Final push&#8221; as Liverpool make attempt to sign Chelsea star on loan",
+      "sourceLinks": [
+        {
+          "sourceName": "CaughtOffside",
+          "sourceUrl": "https://www.caughtoffside.com/2026/09/01/liverpool-malo-gusto/",
+          "sourceTier": "low",
+          "headlineTitle": "&#8220;Final push&#8221; as Liverpool make attempt to sign Chelsea star on loan",
+          "publishedAt": "2026-09-01 15:49"
+        }
+      ],
+      "sourceCount": 1
+    },
+    {
       "id": "draft:https://news.google.com/rss/articles/CBMirgFBVV95cUxQVVNPanNNQ091angwVl9TTmJnWXJTQ2I2NnMtbTE5OF9qQlVacEI4dVZfX0FsSGVjV3RrWE4wSkh1OThTQ2lHbEYzZ0JDbDRLWVlLNEk3X3ZTUzlRY0VvQm9UNndKRklOaERNT3JSdE1DZDlkaWtKMkJJWEhadnh0V2ROQUs1cWxyWEFZNGtzS3RVdUpCNjI3aEpGek5mWDVncDEzeGsxOFpJVTd4LWc?oc=5",
       "player": "Felipe Chávez",
       "fromTeam": "Bayern Munich",
@@ -3097,7 +3128,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
       "publishedAt": "2026-09-01 12:49",
-      "lastVerifiedAt": "2026-09-01 15:29",
+      "lastVerifiedAt": "2026-09-01 16:14",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -3113,7 +3144,7 @@
       ],
       "sourceCount": 1,
       "articleImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "reviewSourceCheckedAt": "2026-09-01 15:29",
+      "reviewSourceCheckedAt": "2026-09-01 16:14",
       "reviewSourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tUWJPSzRpcnNJSTVNWUp0dl9uRmxkWVo5bEpQYnRQcVVrWXVNR0wzc1VnUmtyd014X1RLdXRFVzBqWWU2Uy1hb2tqb2RXTEp6YWpuXzVNUzJfOFU2Z2JFWHBQenQ0V2MxZXA4cS16TzV4clhyY2ItaVVXZjJDdFU"
     },
     {
@@ -3131,7 +3162,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
       "publishedAt": "2026-09-01 11:19",
-      "lastVerifiedAt": "2026-09-01 15:29",
+      "lastVerifiedAt": "2026-09-01 16:14",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -3147,7 +3178,7 @@
       ],
       "sourceCount": 1,
       "articleImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "reviewSourceCheckedAt": "2026-09-01 15:29",
+      "reviewSourceCheckedAt": "2026-09-01 16:14",
       "reviewSourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOY0tLalV0YjRibC01X204X1R2RWMtU2F3VG5fem5OT0tsbUVjalZFNmpCanJMXzhwbkFFMTV2bWJ5UzFsLTkwWndUaDZnZ3l5Qks3Vk01bm42TTNzak5zV3Z1NjdhMDJ5dFVTQ0xvMzRLdTVvMHpEVHdaUmNFZmJxQmZQM0lJSVYxWm8tM252eTNSbGhoaGc"
     },
     {
@@ -3296,7 +3327,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
       "publishedAt": "2026-09-01 14:20",
-      "lastVerifiedAt": "2026-09-01 15:29",
+      "lastVerifiedAt": "2026-09-01 16:14",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -3312,7 +3343,7 @@
       ],
       "sourceCount": 1,
       "articleImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "reviewSourceCheckedAt": "2026-09-01 15:29",
+      "reviewSourceCheckedAt": "2026-09-01 16:14",
       "reviewSourceUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPemJwN2ZhRzU2ZjlZMTU2WHhuVkY4OWl0b2xSRGIza2NzQVRSWDBqUXVKRFZROURLejd2cTE0TWJCS2F5aE1NZGFDWDhvM3RoUHFWNjZNNEhUMUU1VWFGMDZIYTIyU3ctWlZKMDh2TFVVS1BqQ2Mxc0o4emxwQ2pOazlpMTc"
     },
     {
@@ -3330,7 +3361,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
       "publishedAt": "2026-09-01 14:16",
-      "lastVerifiedAt": "2026-09-01 15:29",
+      "lastVerifiedAt": "2026-09-01 16:14",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -3346,7 +3377,7 @@
       ],
       "sourceCount": 1,
       "articleImageUrl": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/aec0/live/fd14b290-e25e-11ef-a819-277e390a7a08.jpg",
-      "reviewSourceCheckedAt": "2026-09-01 15:29",
+      "reviewSourceCheckedAt": "2026-09-01 16:14",
       "reviewSourceUrl": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo"
     },
     {
@@ -3364,7 +3395,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
       "publishedAt": "2026-09-01 13:53",
-      "lastVerifiedAt": "2026-09-01 15:29",
+      "lastVerifiedAt": "2026-09-01 16:14",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -3380,7 +3411,7 @@
       ],
       "sourceCount": 1,
       "articleImageUrl": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/c596/live/addf35a0-a5e0-11f1-ae66-53604efd186f.jpg",
-      "reviewSourceCheckedAt": "2026-09-01 15:29",
+      "reviewSourceCheckedAt": "2026-09-01 16:14",
       "reviewSourceUrl": "https://www.bbc.co.uk/sport/football/articles/cdx5e590qqeo"
     },
     {
@@ -3398,7 +3429,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
       "publishedAt": "2026-09-01 13:06",
-      "lastVerifiedAt": "2026-09-01 15:29",
+      "lastVerifiedAt": "2026-09-01 16:14",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -3429,7 +3460,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
       "publishedAt": "2026-09-01 12:27",
-      "lastVerifiedAt": "2026-09-01 15:29",
+      "lastVerifiedAt": "2026-09-01 16:14",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -3494,7 +3525,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
       "publishedAt": "2026-09-01 11:28",
-      "lastVerifiedAt": "2026-09-01 15:29",
+      "lastVerifiedAt": "2026-09-01 16:14",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -3510,7 +3541,7 @@
       ],
       "sourceCount": 1,
       "articleImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "reviewSourceCheckedAt": "2026-09-01 15:29",
+      "reviewSourceCheckedAt": "2026-09-01 16:14",
       "reviewSourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTmpLVHY2Ymw5VklWZmxQVlJZdFd2ODFud0dQOXVKVXF0TU9DeWZaRTdNZUYtOERteVVNUHMxWUFqeTNzS2IwWGFhbzdoSUViY0tQd1RhcExPWGJvSDdCLWx1N1JheE5xbHVkcGpGY1ZlQktCSm94cm5TaDVxZXJpNWhIMU90TlV0eHJqTVI1Y0M0QS1sdkNyOXdHRnphTFhGRktGcGZn0gGrAUFVX3lxTE5BR2RXQVZta19oVFZjVVNKYU91dENNMTRLSTl1N1NZcXFQWm8wcVBQd2tBa1VYNEFWU0VYT1NYOWRjQ3F2MGdZSW44Z2hGMWF3VTFGWm9FbklTbnR6RXQ0QWF5N2tSaWxCalBTUjd0NE1TeHZVX2tkbFB1QjF3WlF4UmtJSURDam8tMDBiS1dSQ3JjemFLbi02SEhmbERSVm5ua0dBcldGcER4Yw"
     },
     {
@@ -3526,7 +3557,7 @@
       "sourceName": "Fabrizio Romano 검색 모니터",
       "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZFBmZUg3cDlfeUVzVUppb2I0cHV5QlozbXpFTk1qYV9XcEJVT2M1QjFOMkhTbkJ6T0Z3ZndQWkFRMDFxcGtQUEExRTYtLTdnTnNFMFNCTEtPaGFLTWNYNTRRZVhfVmIzMTl6ZU5CSE8wOGgxWklGN0VNMlF5emlmcFBHaGI2bVk4cVk5UzI4cERxRTdlMkc4Y0RxWndTWkRZSVZQQWNR",
       "sourceType": "자동 추출 초안",
-      "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
+      "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
       "publishedAt": "2026-09-01 11:27",
       "lastVerifiedAt": "2026-09-01 13:43",
       "extractionConfidence": "low",
@@ -3544,7 +3575,7 @@
       ],
       "sourceCount": 1,
       "articleImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "reviewSourceCheckedAt": "2026-09-01 15:29",
+      "reviewSourceCheckedAt": "2026-09-01 16:14",
       "reviewSourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZFBmZUg3cDlfeUVzVUppb2I0cHV5QlozbXpFTk1qYV9XcEJVT2M1QjFOMkhTbkJ6T0Z3ZndQWkFRMDFxcGtQUEExRTYtLTdnTnNFMFNCTEtPaGFLTWNYNTRRZVhfVmIzMTl6ZU5CSE8wOGgxWklGN0VNMlF5emlmcFBHaGI2bVk4cVk5UzI4cERxRTdlMkc4Y0RxWndTWkRZSVZQQWNR"
     },
     {
@@ -3562,7 +3593,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
       "publishedAt": "2026-09-01 10:35",
-      "lastVerifiedAt": "2026-09-01 15:29",
+      "lastVerifiedAt": "2026-09-01 16:14",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -3578,7 +3609,7 @@
       ],
       "sourceCount": 1,
       "articleImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "reviewSourceCheckedAt": "2026-09-01 15:29",
+      "reviewSourceCheckedAt": "2026-09-01 16:14",
       "reviewSourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWldsWHNLbW5EOWtoWFFKdU9SZ1R4RmxlLWt6Ujd2TU5nNk5MTTNSZlNaWnV5ZFVaSkxNbjFPa1BrVVA2VGF1Z0QxRU9nTDhVM0xPWEZsb2xNS2tIZncwVTdIN1hIcW5JNVlRdDlwWFNDSkhDX1NsWGx6LVdOVzlJWdIBhgFBVV95cUxPQW8wNkx6VnIyc0FUME44NW5tYXYzQXRKc1UzbnpmNXB0QW96dFN2YWNNaS1vTG04eUQwaUY3d0pCd3hZcUR5dmFtZk05NzVESVN4NDdGMVBGdTZGeGtJeE5Dc25WNTljSU9VZXM5SG1jSF9faEYzRFUtenoyT1cwU2w5TG1MUQ"
     },
     {
@@ -3630,7 +3661,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
       "publishedAt": "2026-09-01 10:03",
-      "lastVerifiedAt": "2026-09-01 15:29",
+      "lastVerifiedAt": "2026-09-01 16:14",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -3646,7 +3677,7 @@
       ],
       "sourceCount": 1,
       "articleImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "reviewSourceCheckedAt": "2026-09-01 15:29",
+      "reviewSourceCheckedAt": "2026-09-01 16:14",
       "reviewSourceUrl": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQV1oxbjJyUmNyWV92bEV0WEVId1hFVTZVeFR2Qjk0RFdmRGxvTGNyaEd6UVk2NnJydS1XcVZOMC1kUU9PVkRzVmdyd1RUOHF4MGJsWHUwc2VGbF9LWGtUOXhjamdYbUJBekcxVXZ3NWZuZ3FZMkhQVVFtc0VnME5LWDg3NkFmakFIM2dEQTBuUWtuUWNROHFpUHkzSVdLejhXeXhsS0l3aU9maDh5SUVCSFZWUFE4aHhZMHc2anhaRllBanZkOGhXTk4zenV6TUUwQmdzUXNjM2pWX0Nxb29lSE1INGRxcXQycXdsTWVVNzFGcUd1RFE"
     },
     {
@@ -3664,7 +3695,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
       "publishedAt": "2026-09-01 10:00",
-      "lastVerifiedAt": "2026-09-01 15:29",
+      "lastVerifiedAt": "2026-09-01 16:14",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -3726,7 +3757,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
       "publishedAt": "2026-09-01 09:54",
-      "lastVerifiedAt": "2026-09-01 15:29",
+      "lastVerifiedAt": "2026-09-01 16:14",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -3742,41 +3773,7 @@
       ],
       "sourceCount": 1,
       "articleImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "reviewSourceCheckedAt": "2026-09-01 15:29",
-      "reviewSourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTG9uTDc1WW5pMVlLZHo2Y2NnVEhtZW9wa3B1UnRZRVE2SDhnZlpBVWJkeTc4M0thNWRjMjZfNWJCTk90YzBmMXMwbTdxMDRIS19EdDljcnFBX0NreFEtVWRaMVZaa1RSTmRibjRSQlNUdXZsSnhESm05OU9EMGZSYUxUVzhEaFJaVk1yZVFjek5EVWsySnpxOThoenFlUjN3OVJlbkl3RHBQNlRHM1BnU21jSTlpX1XSAbwBQVVfeXFMT1pMOEt0T2hxS3FQb3JwQ25qYUJZYVZzcGg4dEpkZmNKMHpjWHNiRGxlY2c5WVhjcm5Vb1M4ZExKV2RsVFZPQnprc1ZwRkl0bzE4a2syRXBXTG5vbWlqSjNHM3pDVjJJTkE2d1NlNDhIMnE1RlB2UmpHa0dCVFY4aXlKNVZ2UGZBOTI5VlZLOTFIWFJmTmNmdUhodkg0OFNvZE5BYUdlb2lKbXNINF9TTDhHcVMwcHA4dzJxRUU"
-    },
-    {
-      "id": "draft:https://news.google.com/rss/articles/CBMitwFBVV95cUxOTG9uTDc1WW5pMVlLZHo2Y2NnVEhtZW9wa3B1UnRZRVE2SDhnZlpBVWJkeTc4M0thNWRjMjZfNWJCTk90YzBmMXMwbTdxMDRIS19EdDljcnFBX0NreFEtVWRaMVZaa1RSTmRibjRSQlNUdXZsSnhESm05OU9EMGZSYUxUVzhEaFJaVk1yZVFjek5EVWsySnpxOThoenFlUjN3OVJlbkl3RHBQNlRHM1BnU21jSTlpX1XSAbwBQVVfeXFMT1pMOEt0T2hxS3FQb3JwQ25qYUJZYVZzcGg4dEpkZmNKMHpjWHNiRGxlY2c5WVhjcm5Vb1M4ZExKV2RsVFZPQnprc1ZwRkl0bzE4a2syRXBXTG5vbWlqSjNHM3pDVjJJTkE2d1NlNDhIMnE1RlB2UmpHa0dCVFY4aXlKNVZ2UGZBOTI5VlZLOTFIWFJmTmNmdUhodkg0OFNvZE5BYUdlb2lKbXNINF9TTDhHcVMwcHA4dzJxRUU?oc=5",
-      "player": "Enzo Fernández",
-      "fromTeam": "Chelsea",
-      "toTeam": "미상",
-      "league": "미분류",
-      "status": "확인 필요",
-      "fee": "미정",
-      "sourceKey": "dimarzio-monitor",
-      "sourceTier": "medium",
-      "sourceName": "Gianluca Di Marzio 검색 모니터",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTG9uTDc1WW5pMVlLZHo2Y2NnVEhtZW9wa3B1UnRZRVE2SDhnZlpBVWJkeTc4M0thNWRjMjZfNWJCTk90YzBmMXMwbTdxMDRIS19EdDljcnFBX0NreFEtVWRaMVZaa1RSTmRibjRSQlNUdXZsSnhESm05OU9EMGZSYUxUVzhEaFJaVk1yZVFjek5EVWsySnpxOThoenFlUjN3OVJlbkl3RHBQNlRHM1BnU21jSTlpX1XSAbwBQVVfeXFMT1pMOEt0T2hxS3FQb3JwQ25qYUJZYVZzcGg4dEpkZmNKMHpjWHNiRGxlY2c5WVhjcm5Vb1M4ZExKV2RsVFZPQnprc1ZwRkl0bzE4a2syRXBXTG5vbWlqSjNHM3pDVjJJTkE2d1NlNDhIMnE1RlB2UmpHa0dCVFY4aXlKNVZ2UGZBOTI5VlZLOTFIWFJmTmNmdUhodkg0OFNvZE5BYUdlb2lKbXNINF9TTDhHcVMwcHA4dzJxRUU",
-      "sourceType": "자동 추출 초안",
-      "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
-      "publishedAt": "2026-09-01 09:54",
-      "lastVerifiedAt": "2026-09-01 15:29",
-      "extractionConfidence": "low",
-      "extractionPattern": "fallback-unparsed-transfer-headline",
-      "needsVerification": true,
-      "headlineTitle": "Enzo Fernandez set to leave Chelsea for Man City as deal reaches final stage – Di Marzio - Tribuna.com",
-      "sourceLinks": [
-        {
-          "sourceName": "Gianluca Di Marzio 검색 모니터",
-          "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTG9uTDc1WW5pMVlLZHo2Y2NnVEhtZW9wa3B1UnRZRVE2SDhnZlpBVWJkeTc4M0thNWRjMjZfNWJCTk90YzBmMXMwbTdxMDRIS19EdDljcnFBX0NreFEtVWRaMVZaa1RSTmRibjRSQlNUdXZsSnhESm05OU9EMGZSYUxUVzhEaFJaVk1yZVFjek5EVWsySnpxOThoenFlUjN3OVJlbkl3RHBQNlRHM1BnU21jSTlpX1XSAbwBQVVfeXFMT1pMOEt0T2hxS3FQb3JwQ25qYUJZYVZzcGg4dEpkZmNKMHpjWHNiRGxlY2c5WVhjcm5Vb1M4ZExKV2RsVFZPQnprc1ZwRkl0bzE4a2syRXBXTG5vbWlqSjNHM3pDVjJJTkE2d1NlNDhIMnE1RlB2UmpHa0dCVFY4aXlKNVZ2UGZBOTI5VlZLOTFIWFJmTmNmdUhodkg0OFNvZE5BYUdlb2lKbXNINF9TTDhHcVMwcHA4dzJxRUU?oc=5",
-          "sourceTier": "medium",
-          "headlineTitle": "Enzo Fernandez set to leave Chelsea for Man City as deal reaches final stage – Di Marzio - Tribuna.com",
-          "publishedAt": "2026-09-01 09:54"
-        }
-      ],
-      "sourceCount": 1,
-      "articleImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "reviewSourceCheckedAt": "2026-09-01 15:29",
+      "reviewSourceCheckedAt": "2026-09-01 16:14",
       "reviewSourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTG9uTDc1WW5pMVlLZHo2Y2NnVEhtZW9wa3B1UnRZRVE2SDhnZlpBVWJkeTc4M0thNWRjMjZfNWJCTk90YzBmMXMwbTdxMDRIS19EdDljcnFBX0NreFEtVWRaMVZaa1RSTmRibjRSQlNUdXZsSnhESm05OU9EMGZSYUxUVzhEaFJaVk1yZVFjek5EVWsySnpxOThoenFlUjN3OVJlbkl3RHBQNlRHM1BnU21jSTlpX1XSAbwBQVVfeXFMT1pMOEt0T2hxS3FQb3JwQ25qYUJZYVZzcGg4dEpkZmNKMHpjWHNiRGxlY2c5WVhjcm5Vb1M4ZExKV2RsVFZPQnprc1ZwRkl0bzE4a2syRXBXTG5vbWlqSjNHM3pDVjJJTkE2d1NlNDhIMnE1RlB2UmpHa0dCVFY4aXlKNVZ2UGZBOTI5VlZLOTFIWFJmTmNmdUhodkg0OFNvZE5BYUdlb2lKbXNINF9TTDhHcVMwcHA4dzJxRUU"
     },
     {
@@ -3826,25 +3823,25 @@
       "sourceName": "David Ornstein 검색 모니터",
       "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZVlDaUVuVXdhLS1VYkZSSm1lYnd0cWt5U0RfX2VORW9kVVdFR1BxOHg1SThTOTdtanFrQUNhOGJ3Wi1FU295OVEtUmtFV3BYRllKT1ViNzBsMGgwR0F0N1VidUtzeFFyc1hmZ0oyYlZ2NEwyQ2M2X0JfYWhMbVUwcE95S1Y2UHRMaWZGeVNBY0hrbmJSSTVr",
       "sourceType": "자동 추출 초안",
-      "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
+      "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
       "publishedAt": "2026-09-01 08:47",
-      "lastVerifiedAt": "2026-09-01 14:36",
+      "lastVerifiedAt": "2026-09-01 16:14",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
       "headlineTitle": "Everton agree deal for Jack Grealish return on season-long loan - The Athletic - The New York Times",
       "sourceLinks": [
         {
-          "sourceName": "Premier League transfer monitor",
+          "sourceName": "David Ornstein 검색 모니터",
           "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZVlDaUVuVXdhLS1VYkZSSm1lYnd0cWt5U0RfX2VORW9kVVdFR1BxOHg1SThTOTdtanFrQUNhOGJ3Wi1FU295OVEtUmtFV3BYRllKT1ViNzBsMGgwR0F0N1VidUtzeFFyc1hmZ0oyYlZ2NEwyQ2M2X0JfYWhMbVUwcE95S1Y2UHRMaWZGeVNBY0hrbmJSSTVr?oc=5",
-          "sourceTier": "low",
+          "sourceTier": "medium",
           "headlineTitle": "Everton agree deal for Jack Grealish return on season-long loan - The Athletic - The New York Times",
           "publishedAt": "2026-09-01 08:47"
         }
       ],
       "sourceCount": 1,
       "articleImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "reviewSourceCheckedAt": "2026-09-01 15:29",
+      "reviewSourceCheckedAt": "2026-09-01 16:14",
       "reviewSourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZVlDaUVuVXdhLS1VYkZSSm1lYnd0cWt5U0RfX2VORW9kVVdFR1BxOHg1SThTOTdtanFrQUNhOGJ3Wi1FU295OVEtUmtFV3BYRllKT1ViNzBsMGgwR0F0N1VidUtzeFFyc1hmZ0oyYlZ2NEwyQ2M2X0JfYWhMbVUwcE95S1Y2UHRMaWZGeVNBY0hrbmJSSTVr"
     },
     {
@@ -3862,7 +3859,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
       "publishedAt": "2026-09-01 08:01",
-      "lastVerifiedAt": "2026-09-01 15:29",
+      "lastVerifiedAt": "2026-09-01 16:14",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -3878,7 +3875,7 @@
       ],
       "sourceCount": 1,
       "articleImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "reviewSourceCheckedAt": "2026-09-01 15:29",
+      "reviewSourceCheckedAt": "2026-09-01 16:14",
       "reviewSourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPY0hBdGpNdjdfT3ZnX3Z6MTVQWUk4N2oydTliWjFFbWVINTJxZ2YzTlFSNTdHcFFLeVFnWW9pejJyc1RvZEQwNVlHUzFDS25kYlM3Zjc2MHltZmtWQ2tOZUFZUVpQN3RFOE1OS1VhdFcyUzRSel9nR3d0ZnpENmljMEw4Nkh5ZThjT1RLVFpHMTBGMVJyeHFLUTdfOUN0N0kwNUx0cDNkWGd2Z9IBrwFBVV95cUxPSnlaZlJ5NVpVNE9fY3hOa3FRVnNkN2l3NXBsWTRXQUZ2ZjFsUHA3QkRWbkRyX1drMHY1WWd3NVBteXhRS2xqaFVrbmRNSGRJdUs1MlR2Z2N5TFRlcF9yNFFsOENhZS1rQW4yeFROSXZRUjZrTm4tZFdhN1cyWG5nWU5KNGE0YnNTTmxwcEFUUUJGazkxQnI4aGhFVHEyNGw1VVkyaXFyUDFrWXJBcDZF"
     },
     {
@@ -3896,7 +3893,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
       "publishedAt": "2026-09-01 07:47",
-      "lastVerifiedAt": "2026-09-01 15:29",
+      "lastVerifiedAt": "2026-09-01 16:14",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -3912,7 +3909,7 @@
       ],
       "sourceCount": 1,
       "articleImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "reviewSourceCheckedAt": "2026-09-01 15:29",
+      "reviewSourceCheckedAt": "2026-09-01 16:14",
       "reviewSourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQ1VvcUtzZ2RzME00OGtjYXRiT3BKaGlFWnJhZG13T3hZUGlfejI0TFY1RGQ1YlFIZVowdHk2TnNGMkdJMF9Wb3ZmXzBLQjIwS3hKUllNOURZMzF2ZDNqTlp1UjJWWEhfTzd0S0lLZ2xmdzBhb1ZCaVpZaGxWazhUeDE0OGM4by1PRlhHazVCajZOQ3ZWXzJVVkZUbGs5SHc"
     },
     {
@@ -3961,7 +3958,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
       "publishedAt": "2026-09-01 07:34",
-      "lastVerifiedAt": "2026-09-01 15:29",
+      "lastVerifiedAt": "2026-09-01 16:14",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -3976,7 +3973,7 @@
         }
       ],
       "sourceCount": 1,
-      "reviewSourceCheckedAt": "2026-09-01 15:29"
+      "reviewSourceCheckedAt": "2026-09-01 16:14"
     },
     {
       "id": "draft:https://news.google.com/rss/articles/CBMikAFBVV95cUxNMVBfbjVTZnlBcWQ2S0tGdkxKX0hVNXhsYUllQlp6S3BTaDVtTktNczlvdlRoLTNHU1lVRDBTNU9XaTZLbVhHamNTTGRhWWhNNGp5S2dfX0V4Nmdkc1AxX1F6UGhGQnpQR3c3dGFySkw1VHNMMUNMSFJKNVp5OGhjNkR5S2dqbFQ5NWR0c0lzZnE?oc=5",
@@ -3989,11 +3986,11 @@
       "sourceKey": "ben-jacobs-monitor",
       "sourceTier": "medium",
       "sourceName": "Ben Jacobs monitor",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMVBfbjVTZnlBcWQ2S0tGdkxKX0hVNXhsYUllQlp6S3BTaDVtTktNczlvdlRoLTNHU1lVRDBTNU9XaTZLbVhHamNTTGRhWWhNNGp5S2dfX0V4Nmdkc1AxX1F6UGhGQnpQR3c3dGFySkw1VHNMMUNMSFJKNVp5OGhjNkR5S2dqbFQ5NWR0c0lzZnE",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMVBfbjVTZnlBcWQ2S0tGdkxKX0hVNXhsYUllQlp6S3BTaDVtTktNczlvdlRoLTNHU1lVRDBTNU9XaTZLbVhHamNTTGRhWWhNNGp5S2dfX0V4Nmdkc1AxX1F6UGhGQnpQR3c3dGFySkw1VHNMMUNMSFJKNVp5OGhjNkR5S2dqbFQ5NWR0c0lzZnE?oc=5",
       "sourceType": "자동 추출 초안",
-      "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
+      "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
       "publishedAt": "2026-09-01 07:04",
-      "lastVerifiedAt": "2026-09-01 14:22",
+      "lastVerifiedAt": "2026-09-01 16:14",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -4007,10 +4004,7 @@
           "publishedAt": "2026-09-01 07:04"
         }
       ],
-      "sourceCount": 1,
-      "articleImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "reviewSourceCheckedAt": "2026-09-01 14:22",
-      "reviewSourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMVBfbjVTZnlBcWQ2S0tGdkxKX0hVNXhsYUllQlp6S3BTaDVtTktNczlvdlRoLTNHU1lVRDBTNU9XaTZLbVhHamNTTGRhWWhNNGp5S2dfX0V4Nmdkc1AxX1F6UGhGQnpQR3c3dGFySkw1VHNMMUNMSFJKNVp5OGhjNkR5S2dqbFQ5NWR0c0lzZnE"
+      "sourceCount": 1
     },
     {
       "id": "draft:https://news.google.com/rss/articles/CBMigwFBVV95cUxPSGM1R2ZVb05tbGYyOE1CNE94Ni1PNHNBUUN2bDdnWHAxRmR1VTViNXlsMlFacEZVUHE3b0ZHbnNidUlHTlllVjVYbmw0Ry05OThlZFdWT1Q1TENxSENtc1VRUnUzVWJVaDlaT0pZYjR1dU9KQ1ZqUzNvZ2twVzhmd01tUQ?oc=5",
@@ -4023,11 +4017,11 @@
       "sourceKey": "romano-monitor",
       "sourceTier": "medium",
       "sourceName": "Fabrizio Romano 검색 모니터",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSGM1R2ZVb05tbGYyOE1CNE94Ni1PNHNBUUN2bDdnWHAxRmR1VTViNXlsMlFacEZVUHE3b0ZHbnNidUlHTlllVjVYbmw0Ry05OThlZFdWT1Q1TENxSENtc1VRUnUzVWJVaDlaT0pZYjR1dU9KQ1ZqUzNvZ2twVzhmd01tUQ",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSGM1R2ZVb05tbGYyOE1CNE94Ni1PNHNBUUN2bDdnWHAxRmR1VTViNXlsMlFacEZVUHE3b0ZHbnNidUlHTlllVjVYbmw0Ry05OThlZFdWT1Q1TENxSENtc1VRUnUzVWJVaDlaT0pZYjR1dU9KQ1ZqUzNvZ2twVzhmd01tUQ?oc=5",
       "sourceType": "자동 추출 초안",
-      "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
+      "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
       "publishedAt": "2026-08-31 23:05",
-      "lastVerifiedAt": "2026-09-01 15:29",
+      "lastVerifiedAt": "2026-09-01 16:14",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -4041,10 +4035,7 @@
           "publishedAt": "2026-08-31 23:05"
         }
       ],
-      "sourceCount": 1,
-      "articleImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "reviewSourceCheckedAt": "2026-09-01 15:29",
-      "reviewSourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSGM1R2ZVb05tbGYyOE1CNE94Ni1PNHNBUUN2bDdnWHAxRmR1VTViNXlsMlFacEZVUHE3b0ZHbnNidUlHTlllVjVYbmw0Ry05OThlZFdWT1Q1TENxSENtc1VRUnUzVWJVaDlaT0pZYjR1dU9KQ1ZqUzNvZ2twVzhmd01tUQ"
+      "sourceCount": 1
     },
     {
       "id": "draft:https://football-italia.net/beto-gnonto-undergoing-fiorentina-medical-test/",
@@ -4622,7 +4613,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
       "publishedAt": "2026-09-01 15:03",
-      "lastVerifiedAt": "2026-09-01 15:29",
+      "lastVerifiedAt": "2026-09-01 16:14",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -4638,8 +4629,42 @@
       ],
       "sourceCount": 1,
       "articleImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "reviewSourceCheckedAt": "2026-09-01 15:29",
+      "reviewSourceCheckedAt": "2026-09-01 16:14",
       "reviewSourceUrl": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPTm9obmlxYThhY3JaTU5wVEl0Z3dqN05mTzdNM0VtX1paSFZHazJKU0twU1NWTVUxeXdPV2lGem9TMnNiUHBFZEw2YllFVm9CdWhXdUFBTlJRU01kNnJKQXlFMnF6VE5FbncwUEI0SjlNdFBTX25GbDdjUjJRZ2NuMVdUT0FXRUM4WEVvaUNYcF9HUnBXY2tkODlZNFlEVzl6cFFrVDc0OTdWM2d3aWRXcFFRY0dSNnZDcHdSd1R1NTBBdlVwZlFlWVVaQzg0bzVrMklfQlpBWjlVSmlZYVIyQTlCUXhPbGJTWWNVNU9EV2JDZ2VxVzhFckRzdUt0cHM2Q1Zfdg"
+    },
+    {
+      "id": "draft:https://news.google.com/rss/articles/CBMiowFBVV95cUxNbGhJbEdVT3ZKZXdqdjdrTTdRNEVZOHB2bkUzTnFMajZIc2FxdEdUZkM5UUZ5MUY2T1NQc09nUzE2S0IyazNyMnVVYXpueUpUZEhJXzY2Um9WQnhRQ21kYlBaeU1SNm1hYzhSb3FZYTU3M3VRS3VsV2stZkVCNVg5aDMxR25SQVV3YzZTaG5hRTcxN3VreWtyUzN5R3lLUklabHNZ?oc=5",
+      "player": "Pape Matar",
+      "fromTeam": "Tottenham",
+      "toTeam": "미상",
+      "league": "미분류",
+      "status": "확인 필요",
+      "fee": "미정",
+      "sourceKey": "tottenham-transfer-news-monitor",
+      "sourceTier": "low",
+      "sourceName": "Tottenham transfer news monitor",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbGhJbEdVT3ZKZXdqdjdrTTdRNEVZOHB2bkUzTnFMajZIc2FxdEdUZkM5UUZ5MUY2T1NQc09nUzE2S0IyazNyMnVVYXpueUpUZEhJXzY2Um9WQnhRQ21kYlBaeU1SNm1hYzhSb3FZYTU3M3VRS3VsV2stZkVCNVg5aDMxR25SQVV3YzZTaG5hRTcxN3VreWtyUzN5R3lLUklabHNZ",
+      "sourceType": "자동 추출 초안",
+      "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
+      "publishedAt": "2026-09-01 14:52",
+      "lastVerifiedAt": "2026-09-01 16:14",
+      "extractionConfidence": "low",
+      "extractionPattern": "fallback-unparsed-transfer-headline",
+      "needsVerification": true,
+      "headlineTitle": "Tottenham’s Pape Matar Sarr completes Juventus transfer - The New York Times",
+      "sourceLinks": [
+        {
+          "sourceName": "Tottenham transfer news monitor",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbGhJbEdVT3ZKZXdqdjdrTTdRNEVZOHB2bkUzTnFMajZIc2FxdEdUZkM5UUZ5MUY2T1NQc09nUzE2S0IyazNyMnVVYXpueUpUZEhJXzY2Um9WQnhRQ21kYlBaeU1SNm1hYzhSb3FZYTU3M3VRS3VsV2stZkVCNVg5aDMxR25SQVV3YzZTaG5hRTcxN3VreWtyUzN5R3lLUklabHNZ?oc=5",
+          "sourceTier": "low",
+          "headlineTitle": "Tottenham’s Pape Matar Sarr completes Juventus transfer - The New York Times",
+          "publishedAt": "2026-09-01 14:52"
+        }
+      ],
+      "sourceCount": 1,
+      "articleImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "reviewSourceCheckedAt": "2026-09-01 16:14",
+      "reviewSourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbGhJbEdVT3ZKZXdqdjdrTTdRNEVZOHB2bkUzTnFMajZIc2FxdEdUZkM5UUZ5MUY2T1NQc09nUzE2S0IyazNyMnVVYXpueUpUZEhJXzY2Um9WQnhRQ21kYlBaeU1SNm1hYzhSb3FZYTU3M3VRS3VsV2stZkVCNVg5aDMxR25SQVV3YzZTaG5hRTcxN3VreWtyUzN5R3lLUklabHNZ"
     },
     {
       "id": "draft:https://www.caughtoffside.com/2026/09/01/journalist-confirms-last-minute-attempt-from-arsenal-to-hijack-e75m-transfer/",
@@ -4690,7 +4715,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
       "publishedAt": "2026-09-01 12:59",
-      "lastVerifiedAt": "2026-09-01 15:29",
+      "lastVerifiedAt": "2026-09-01 16:14",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -4706,7 +4731,7 @@
       ],
       "sourceCount": 1,
       "articleImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "reviewSourceCheckedAt": "2026-09-01 15:29",
+      "reviewSourceCheckedAt": "2026-09-01 16:14",
       "reviewSourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTzIydUVoS2lVTmdUTnlkME5NSzVydlllMkpvZFNmUlVIU3RDVWkzNnd1ZjJVX1dvc2tFNVVQMlljMW9SUkZUbFpMTFdId1lXMEdkM0VndHRoNnFTbzFsQ0h3bUZGMDQ5R3FMdFpGQzMyd3V3MjFQRHBfOGNIQUw2cjVqakJrVEdBcGllQWRvZ0N1SUtoQkdoVVJfSQ"
     },
     {
@@ -4820,7 +4845,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
       "publishedAt": "2026-09-01 10:31",
-      "lastVerifiedAt": "2026-09-01 15:29",
+      "lastVerifiedAt": "2026-09-01 16:14",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -4836,7 +4861,7 @@
       ],
       "sourceCount": 1,
       "articleImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "reviewSourceCheckedAt": "2026-09-01 15:29",
+      "reviewSourceCheckedAt": "2026-09-01 16:14",
       "reviewSourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85MFdsQjYwQko1WkJrXzVUa1hzcHNLelE4LTFHV2h2N1VOMFRlNTdwZWRONzd6c1pZdVZnX1lzeGlibkJOQlBxZlhzOUxNQ2JzSlVyeW10TzVuZjBxNHNlNi1YTGVHUVExS3c"
     },
     {
@@ -4908,40 +4933,6 @@
       "reviewSourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUkZhYXhLUFFRaGlEbVFZbXZCdUhQLU00QWdKZEtGU2hsWjlZdXZzZHBtM0MyTl9WQmJyQThZOWctWUxUS1dRaDFoTmdHQmZCYkx6R3ZReGJyVUN3V2tnbmFjYjhPcmoxUGJoazA2UGhDSHdyMFVna0pIaWtSSmNKd2gzOWREQlBlN2RzTkVFenJwemJiOHBVVEMzeVhjQ2ktT2fSAacBQVVfeXFMTkN6NlRFamhNMDU4bWh2UUpGS1duVk1nVEJhNFNfU2VzeERkV2dUajlUQ3RxSmVBRWw0R09hZ1IxbWhWOTJJY3dNeFgxRUpTd1lnQXNuNEdOdmp5d09OWTRLVlU3alpUaG5rMkRjSm55eHhGVVhScUJyLWwwQlFDdWIybHdTcGhBTk5Jd0xfclVuSXlqWWcyZHVHeHJoNng3OU9wR29POTg"
     },
     {
-      "id": "draft:https://news.google.com/rss/articles/CBMiogFBVV95cUxOUkZhYXhLUFFRaGlEbVFZbXZCdUhQLU00QWdKZEtGU2hsWjlZdXZzZHBtM0MyTl9WQmJyQThZOWctWUxUS1dRaDFoTmdHQmZCYkx6R3ZReGJyVUN3V2tnbmFjYjhPcmoxUGJoazA2UGhDSHdyMFVna0pIaWtSSmNKd2gzOWREQlBlN2RzTkVFenJwemJiOHBVVEMzeVhjQ2ktT2fSAacBQVVfeXFMTkN6NlRFamhNMDU4bWh2UUpGS1duVk1nVEJhNFNfU2VzeERkV2dUajlUQ3RxSmVBRWw0R09hZ1IxbWhWOTJJY3dNeFgxRUpTd1lnQXNuNEdOdmp5d09OWTRLVlU3alpUaG5rMkRjSm55eHhGVVhScUJyLWwwQlFDdWIybHdTcGhBTk5Jd0xfclVuSXlqWWcyZHVHeHJoNng3OU9wR29POTg?oc=5",
-      "player": "Julián Álvarez",
-      "fromTeam": "Atlético Madrid",
-      "toTeam": "미상",
-      "league": "미분류",
-      "status": "확인 필요",
-      "fee": "미정",
-      "sourceKey": "global-transfer-monitor",
-      "sourceTier": "low",
-      "sourceName": "Global transfer news monitor",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUkZhYXhLUFFRaGlEbVFZbXZCdUhQLU00QWdKZEtGU2hsWjlZdXZzZHBtM0MyTl9WQmJyQThZOWctWUxUS1dRaDFoTmdHQmZCYkx6R3ZReGJyVUN3V2tnbmFjYjhPcmoxUGJoazA2UGhDSHdyMFVna0pIaWtSSmNKd2gzOWREQlBlN2RzTkVFenJwemJiOHBVVEMzeVhjQ2ktT2fSAacBQVVfeXFMTkN6NlRFamhNMDU4bWh2UUpGS1duVk1nVEJhNFNfU2VzeERkV2dUajlUQ3RxSmVBRWw0R09hZ1IxbWhWOTJJY3dNeFgxRUpTd1lnQXNuNEdOdmp5d09OWTRLVlU3alpUaG5rMkRjSm55eHhGVVhScUJyLWwwQlFDdWIybHdTcGhBTk5Jd0xfclVuSXlqWWcyZHVHeHJoNng3OU9wR29POTg",
-      "sourceType": "자동 추출 초안",
-      "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
-      "publishedAt": "2026-09-01 08:59",
-      "lastVerifiedAt": "2026-09-01 15:29",
-      "extractionConfidence": "low",
-      "extractionPattern": "fallback-unparsed-transfer-headline",
-      "needsVerification": true,
-      "headlineTitle": "Arsenal's Julian Alvarez Plan B emerges in transfer deadline day rush - Daily Mirror",
-      "sourceLinks": [
-        {
-          "sourceName": "Global transfer news monitor",
-          "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUkZhYXhLUFFRaGlEbVFZbXZCdUhQLU00QWdKZEtGU2hsWjlZdXZzZHBtM0MyTl9WQmJyQThZOWctWUxUS1dRaDFoTmdHQmZCYkx6R3ZReGJyVUN3V2tnbmFjYjhPcmoxUGJoazA2UGhDSHdyMFVna0pIaWtSSmNKd2gzOWREQlBlN2RzTkVFenJwemJiOHBVVEMzeVhjQ2ktT2fSAacBQVVfeXFMTkN6NlRFamhNMDU4bWh2UUpGS1duVk1nVEJhNFNfU2VzeERkV2dUajlUQ3RxSmVBRWw0R09hZ1IxbWhWOTJJY3dNeFgxRUpTd1lnQXNuNEdOdmp5d09OWTRLVlU3alpUaG5rMkRjSm55eHhGVVhScUJyLWwwQlFDdWIybHdTcGhBTk5Jd0xfclVuSXlqWWcyZHVHeHJoNng3OU9wR29POTg?oc=5",
-          "sourceTier": "low",
-          "headlineTitle": "Arsenal's Julian Alvarez Plan B emerges in transfer deadline day rush - Daily Mirror",
-          "publishedAt": "2026-09-01 08:59"
-        }
-      ],
-      "sourceCount": 1,
-      "articleImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "reviewSourceCheckedAt": "2026-09-01 15:29",
-      "reviewSourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUkZhYXhLUFFRaGlEbVFZbXZCdUhQLU00QWdKZEtGU2hsWjlZdXZzZHBtM0MyTl9WQmJyQThZOWctWUxUS1dRaDFoTmdHQmZCYkx6R3ZReGJyVUN3V2tnbmFjYjhPcmoxUGJoazA2UGhDSHdyMFVna0pIaWtSSmNKd2gzOWREQlBlN2RzTkVFenJwemJiOHBVVEMzeVhjQ2ktT2fSAacBQVVfeXFMTkN6NlRFamhNMDU4bWh2UUpGS1duVk1nVEJhNFNfU2VzeERkV2dUajlUQ3RxSmVBRWw0R09hZ1IxbWhWOTJJY3dNeFgxRUpTd1lnQXNuNEdOdmp5d09OWTRLVlU3alpUaG5rMkRjSm55eHhGVVhScUJyLWwwQlFDdWIybHdTcGhBTk5Jd0xfclVuSXlqWWcyZHVHeHJoNng3OU9wR29POTg"
-    },
-    {
       "id": "draft:https://news.google.com/rss/articles/CBMimwFBVV95cUxPaUlsZ2MyRmUtUDhnckxQQ2dIbXNBNWZubjVPNmh6Wi1WMGFmU0p4Q0FPTjBETFowNWdLNVhRMU9mMUJ2TFJYQjhEVkpkaEVTWXRsTGxTV1BPODNiRDVtQ1V4LW1vVWdQc0txUGVkX1NFLVJtd2xLNXViX1ZjMXdOcUtsQ1hIRTVVYVdzUHVDdnp6WlJmUGplVXVldw?oc=5",
       "player": "Crystal Palace",
       "fromTeam": "Honest Ahanor",
@@ -4956,7 +4947,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
       "publishedAt": "2026-09-01 08:57",
-      "lastVerifiedAt": "2026-09-01 14:06",
+      "lastVerifiedAt": "2026-09-01 16:14",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -4972,7 +4963,7 @@
       ],
       "sourceCount": 1,
       "articleImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "reviewSourceCheckedAt": "2026-09-01 14:06",
+      "reviewSourceCheckedAt": "2026-09-01 16:14",
       "reviewSourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaUlsZ2MyRmUtUDhnckxQQ2dIbXNBNWZubjVPNmh6Wi1WMGFmU0p4Q0FPTjBETFowNWdLNVhRMU9mMUJ2TFJYQjhEVkpkaEVTWXRsTGxTV1BPODNiRDVtQ1V4LW1vVWdQc0txUGVkX1NFLVJtd2xLNXViX1ZjMXdOcUtsQ1hIRTVVYVdzUHVDdnp6WlJmUGplVXVldw"
     },
     {
@@ -5024,7 +5015,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
       "publishedAt": "2026-09-01 08:51",
-      "lastVerifiedAt": "2026-09-01 15:29",
+      "lastVerifiedAt": "2026-09-01 16:14",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -5040,7 +5031,7 @@
       ],
       "sourceCount": 1,
       "articleImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "reviewSourceCheckedAt": "2026-09-01 15:29",
+      "reviewSourceCheckedAt": "2026-09-01 16:14",
       "reviewSourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcVpjRFpTQWhZb3hEaXdMZzRGZGRqdy1jNXdlNV9HaGE5b2MzOUktVGRiZzFpNWxwV05wam95WVZ3RElrY3I2YlpYdU1MYTlhTFRSYmJLWE84amVWNTdiMHdFdEtGSTFobnI4LXVBTGxYTHF1WktmTE15R2FvRmhWdWZESnZQSnp1dzdIUU4xUGdVd2Nna3FrZHBtWWFpMHdKLUE"
     },
     {
@@ -5089,7 +5080,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
       "publishedAt": "2026-08-31 21:29",
-      "lastVerifiedAt": "2026-09-01 15:29",
+      "lastVerifiedAt": "2026-09-01 16:14",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
