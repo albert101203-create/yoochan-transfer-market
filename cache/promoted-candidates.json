@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-01T17:34:34.782Z",
-  "basedOnGeneratedAt": "2026-09-01T17:34:34.779Z",
+  "generatedAt": "2026-09-01T17:44:20.781Z",
+  "basedOnGeneratedAt": "2026-09-01T17:44:20.778Z",
   "itemCount": 30,
   "items": [
     {
@@ -471,6 +471,37 @@
       "sourceCount": 18
     },
     {
+      "id": "draft:https://football-italia.net/official-cagliari-sign-sugawara-southampton/",
+      "player": "Official",
+      "fromTeam": "Southampton with €5.5m option to buy",
+      "toTeam": "Cagliari",
+      "league": "미분류",
+      "status": "완료",
+      "fee": "€5.5M",
+      "sourceKey": "football-italia",
+      "sourceTier": "medium",
+      "sourceName": "Football Italia",
+      "sourceUrl": "https://football-italia.net/official-cagliari-sign-sugawara-southampton/",
+      "sourceType": "자동 추출 초안",
+      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
+      "publishedAt": "2026-09-01 17:42",
+      "lastVerifiedAt": "2026-09-01 17:44",
+      "extractionConfidence": "high",
+      "extractionPattern": "player-club-signs-from",
+      "needsVerification": false,
+      "headlineTitle": "Official: Cagliari sign Sugawara from Southampton with €5.5m option to buy",
+      "sourceLinks": [
+        {
+          "sourceName": "Football Italia",
+          "sourceUrl": "https://football-italia.net/official-cagliari-sign-sugawara-southampton/",
+          "sourceTier": "medium",
+          "headlineTitle": "Official: Cagliari sign Sugawara from Southampton with €5.5m option to buy",
+          "publishedAt": "2026-09-01 17:42"
+        }
+      ],
+      "sourceCount": 1
+    },
+    {
       "id": "draft:https://football-italia.net/official-atalanta-sign-rowe-from-bologna-e40m/",
       "player": "Official",
       "fromTeam": "Bologna in total €40m package agreement",
@@ -485,7 +516,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-09-01 17:23",
-      "lastVerifiedAt": "2026-09-01 17:34",
+      "lastVerifiedAt": "2026-09-01 17:44",
       "extractionConfidence": "high",
       "extractionPattern": "player-club-signs-from",
       "needsVerification": false,
@@ -516,7 +547,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-09-01 17:12",
-      "lastVerifiedAt": "2026-09-01 17:34",
+      "lastVerifiedAt": "2026-09-01 17:44",
       "extractionConfidence": "high",
       "extractionPattern": "player-club-signs-from",
       "needsVerification": false,
@@ -547,7 +578,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-09-01 14:01",
-      "lastVerifiedAt": "2026-09-01 17:34",
+      "lastVerifiedAt": "2026-09-01 17:44",
       "extractionConfidence": "high",
       "extractionPattern": "club-signs-player-from",
       "needsVerification": false,
@@ -1112,36 +1143,6 @@
           "sourceTier": "medium",
           "headlineTitle": "Newcastle transfer news: Club agree deal to sign defender Amar Dedic from Benfica",
           "publishedAt": "2026-08-16 08:48"
-        }
-      ],
-      "sourceCount": 1
-    },
-    {
-      "id": "draft:https://www.skysports.com/football/news/11820/13573232/ferran-torres-psg-sign-world-cup-final-hero-from-barcelona-for-42-7m",
-      "player": "Ferran Torres",
-      "fromTeam": "Barcelona",
-      "toTeam": "PSG",
-      "league": "미분류",
-      "status": "완료",
-      "fee": "£42.7M",
-      "sourceKey": "sky-sports",
-      "sourceTier": "medium",
-      "sourceName": "Sky Sports",
-      "sourceUrl": "https://www.skysports.com/football/news/11820/13573232/ferran-torres-psg-sign-world-cup-final-hero-from-barcelona-for-42-7m",
-      "sourceType": "자동 추출 초안",
-      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
-      "publishedAt": "2026-08-15 09:32",
-      "lastVerifiedAt": "2026-08-16 05:03",
-      "extractionConfidence": "high",
-      "extractionPattern": "player-club-signs-from",
-      "headlineTitle": "Ferran Torres: PSG sign World Cup final hero from Barcelona for &#163;42.7m",
-      "sourceLinks": [
-        {
-          "sourceName": "Sky Sports",
-          "sourceUrl": "https://www.skysports.com/football/news/11820/13573232/ferran-torres-psg-sign-world-cup-final-hero-from-barcelona-for-42-7m",
-          "sourceTier": "medium",
-          "headlineTitle": "Ferran Torres: PSG sign World Cup final hero from Barcelona for &#163;42.7m",
-          "publishedAt": "2026-08-15 09:32"
         }
       ],
       "sourceCount": 1
