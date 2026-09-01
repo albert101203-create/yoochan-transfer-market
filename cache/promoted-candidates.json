@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-01T18:03:51.749Z",
-  "basedOnGeneratedAt": "2026-09-01T18:03:51.747Z",
+  "generatedAt": "2026-09-01T18:22:34.865Z",
+  "basedOnGeneratedAt": "2026-09-01T18:22:34.863Z",
   "itemCount": 30,
   "items": [
     {
@@ -345,7 +345,7 @@
           "sourceName": "James Pearce monitor",
           "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUUNmMFlrcjdoYlBBYWJvN0otZXc2Nm8wNTQ1aHM1bjB1WVZRaV8tLUZLOElaMy03VWI2eW1KSjBFRzBiNVFzOXN5OFB3WEo1RXNiSXExWjlTV21CdHVIcmpmYzJYOVYzSHhheVdubHlKRkdLU3JoSXVMd1pEMmdsb1pVWmFFQnBHb1JmYnE1TVBzaDNpWl9UdDZ3?oc=5",
           "sourceTier": "medium",
-          "headlineTitle": "Inside Liverpool’s Bradley Barcola signing: High-level talks, heart set on Anfield and FIFA-inspired number - The Athletic - nytimes.com",
+          "headlineTitle": "Inside Liverpool’s Bradley Barcola signing: High-level talks, heart set on Anfield and FIFA-inspired number - The Athletic - The New York Times",
           "publishedAt": "2026-09-01 08:51"
         },
         {
@@ -471,6 +471,37 @@
       "sourceCount": 18
     },
     {
+      "id": "draft:https://football-italia.net/official-lazio-sign-gudmundsson-fiorentina/",
+      "player": "Official",
+      "fromTeam": "Fiorentina in €13m package agreement",
+      "toTeam": "Lazio",
+      "league": "미분류",
+      "status": "완료",
+      "fee": "€13M",
+      "sourceKey": "football-italia",
+      "sourceTier": "medium",
+      "sourceName": "Football Italia",
+      "sourceUrl": "https://football-italia.net/official-lazio-sign-gudmundsson-fiorentina/",
+      "sourceType": "자동 추출 초안",
+      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
+      "publishedAt": "2026-09-01 18:16",
+      "lastVerifiedAt": "2026-09-01 18:22",
+      "extractionConfidence": "high",
+      "extractionPattern": "player-club-signs-from",
+      "needsVerification": false,
+      "headlineTitle": "Official: Lazio sign Gudmundsson from Fiorentina in €13m package agreement",
+      "sourceLinks": [
+        {
+          "sourceName": "Football Italia",
+          "sourceUrl": "https://football-italia.net/official-lazio-sign-gudmundsson-fiorentina/",
+          "sourceTier": "medium",
+          "headlineTitle": "Official: Lazio sign Gudmundsson from Fiorentina in €13m package agreement",
+          "publishedAt": "2026-09-01 18:16"
+        }
+      ],
+      "sourceCount": 1
+    },
+    {
       "id": "draft:https://football-italia.net/official-cagliari-sign-sugawara-southampton/",
       "player": "Official",
       "fromTeam": "Southampton with €5.5m option to buy",
@@ -485,7 +516,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-09-01 17:42",
-      "lastVerifiedAt": "2026-09-01 18:03",
+      "lastVerifiedAt": "2026-09-01 18:22",
       "extractionConfidence": "high",
       "extractionPattern": "player-club-signs-from",
       "needsVerification": false,
@@ -516,7 +547,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-09-01 17:23",
-      "lastVerifiedAt": "2026-09-01 18:03",
+      "lastVerifiedAt": "2026-09-01 18:22",
       "extractionConfidence": "high",
       "extractionPattern": "player-club-signs-from",
       "needsVerification": false,
@@ -547,7 +578,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-09-01 17:12",
-      "lastVerifiedAt": "2026-09-01 18:03",
+      "lastVerifiedAt": "2026-09-01 18:22",
       "extractionConfidence": "high",
       "extractionPattern": "player-club-signs-from",
       "needsVerification": false,
@@ -578,7 +609,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-09-01 14:01",
-      "lastVerifiedAt": "2026-09-01 18:03",
+      "lastVerifiedAt": "2026-09-01 18:22",
       "extractionConfidence": "high",
       "extractionPattern": "club-signs-player-from",
       "needsVerification": false,
@@ -1113,36 +1144,6 @@
           "sourceTier": "medium",
           "headlineTitle": "Leeds sign Elvedi from Borussia Monchengladbach",
           "publishedAt": "2026-08-19 20:10"
-        }
-      ],
-      "sourceCount": 1
-    },
-    {
-      "id": "draft:https://www.skysports.com/football/news/11095/13573640/newcastle-transfer-news-club-agree-deal-to-sign-defender-amar-dedic-from-benfica",
-      "player": "Amar Dedic",
-      "fromTeam": "Benfica",
-      "toTeam": "Newcastle",
-      "league": "미분류",
-      "status": "완료",
-      "fee": "미정",
-      "sourceKey": "sky-sports",
-      "sourceTier": "medium",
-      "sourceName": "Sky Sports",
-      "sourceUrl": "https://www.skysports.com/football/news/11095/13573640/newcastle-transfer-news-club-agree-deal-to-sign-defender-amar-dedic-from-benfica",
-      "sourceType": "자동 추출 초안",
-      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
-      "publishedAt": "2026-08-16 08:48",
-      "lastVerifiedAt": "2026-08-17 03:15",
-      "extractionConfidence": "high",
-      "extractionPattern": "player-club-signs-from",
-      "headlineTitle": "Newcastle transfer news: Club agree deal to sign defender Amar Dedic from Benfica",
-      "sourceLinks": [
-        {
-          "sourceName": "Sky Sports",
-          "sourceUrl": "https://www.skysports.com/football/news/11095/13573640/newcastle-transfer-news-club-agree-deal-to-sign-defender-amar-dedic-from-benfica",
-          "sourceTier": "medium",
-          "headlineTitle": "Newcastle transfer news: Club agree deal to sign defender Amar Dedic from Benfica",
-          "publishedAt": "2026-08-16 08:48"
         }
       ],
       "sourceCount": 1
