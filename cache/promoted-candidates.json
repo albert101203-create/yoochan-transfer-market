@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-01T11:46:55.322Z",
-  "basedOnGeneratedAt": "2026-09-01T11:46:55.319Z",
+  "generatedAt": "2026-09-01T11:56:09.405Z",
+  "basedOnGeneratedAt": "2026-09-01T11:56:09.403Z",
   "itemCount": 30,
   "items": [
     {
@@ -28,7 +28,7 @@
           "sourceName": "Tottenham official-site monitor",
           "sourceUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPREN6LWg2UE01YkN5TWk1ZW8zYVpOSWc3d1V2b3dQanlsTlJqX1VmS19oRGxhVzZEVjRJRWR4cUZHdUJ4b05sTWVSZHhZeGtYN3dqWlE1UkM4T1V5SEhiMDFEWnN3d0lQNU85WkF3Y1paWlhMR2t5WWwyLVZXbjJoMFN6VVE?oc=5",
           "sourceTier": "high",
-          "headlineTitle": "Sávio joins from Manchester City - Tottenham Hotspur",
+          "headlineTitle": "Sávio joins from Manchester City - tottenhamhotspur.com",
           "publishedAt": "2026-08-25 09:00"
         },
         {
@@ -485,7 +485,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-09-01 11:22",
-      "lastVerifiedAt": "2026-09-01 11:46",
+      "lastVerifiedAt": "2026-09-01 11:56",
       "extractionConfidence": "high",
       "extractionPattern": "club-signs-player-from",
       "needsVerification": false,
@@ -1129,7 +1129,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-08-31 19:12",
-      "lastVerifiedAt": "2026-09-01 11:46",
+      "lastVerifiedAt": "2026-09-01 11:56",
       "extractionConfidence": "medium",
       "extractionPattern": "club-agree-deal-for-player",
       "needsVerification": false,
