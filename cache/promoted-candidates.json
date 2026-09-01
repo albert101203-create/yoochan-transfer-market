@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-01T16:14:04.549Z",
-  "basedOnGeneratedAt": "2026-09-01T16:14:04.547Z",
+  "generatedAt": "2026-09-01T16:42:48.530Z",
+  "basedOnGeneratedAt": "2026-09-01T16:42:48.517Z",
   "itemCount": 30,
   "items": [
     {
@@ -485,7 +485,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-09-01 14:01",
-      "lastVerifiedAt": "2026-09-01 16:14",
+      "lastVerifiedAt": "2026-09-01 16:42",
       "extractionConfidence": "high",
       "extractionPattern": "club-signs-player-from",
       "needsVerification": false,
@@ -497,37 +497,6 @@
           "sourceTier": "medium",
           "headlineTitle": "Newcastle sign Fernandez-Pardo from Lille for £51m",
           "publishedAt": "2026-09-01 14:01"
-        }
-      ],
-      "sourceCount": 1
-    },
-    {
-      "id": "draft:https://football-italia.net/chelsea-confirm-ahanor-transfer-joining-2027/",
-      "player": "Honest Ahanor",
-      "fromTeam": "Atalanta: &#8216;Joining in 2027&#8217",
-      "toTeam": "Official &#8211; Chelsea",
-      "league": "미분류",
-      "status": "완료",
-      "fee": "미정",
-      "sourceKey": "football-italia",
-      "sourceTier": "medium",
-      "sourceName": "Football Italia",
-      "sourceUrl": "https://football-italia.net/chelsea-confirm-ahanor-transfer-joining-2027/",
-      "sourceType": "자동 추출 초안",
-      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
-      "publishedAt": "2026-09-01 11:22",
-      "lastVerifiedAt": "2026-09-01 16:14",
-      "extractionConfidence": "high",
-      "extractionPattern": "club-signs-player-from",
-      "needsVerification": false,
-      "headlineTitle": "Official &#8211; Chelsea sign Ahanor from Atalanta: &#8216;Joining in 2027&#8217;",
-      "sourceLinks": [
-        {
-          "sourceName": "Football Italia",
-          "sourceUrl": "https://football-italia.net/chelsea-confirm-ahanor-transfer-joining-2027/",
-          "sourceTier": "medium",
-          "headlineTitle": "Official &#8211; Chelsea sign Ahanor from Atalanta: &#8216;Joining in 2027&#8217;",
-          "publishedAt": "2026-09-01 11:22"
         }
       ],
       "sourceCount": 1
@@ -1141,6 +1110,37 @@
           "sourceTier": "medium",
           "headlineTitle": "Mika Baur: Celtic sign Germany U21 midfielder from Paderborn on initial four-year deal",
           "publishedAt": "2026-08-13 15:05"
+        }
+      ],
+      "sourceCount": 1
+    },
+    {
+      "id": "draft:https://www.bbc.co.uk/sport/football/articles/c80453nj9gno?at_medium=RSS&at_campaign=rss",
+      "player": "Iliman Ndiaye",
+      "fromTeam": "Everton",
+      "toTeam": "Manchester City",
+      "league": "프리미어리그",
+      "status": "완료",
+      "fee": "£65M",
+      "sourceKey": "bbc-sport",
+      "sourceTier": "medium",
+      "sourceName": "BBC Sport",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c80453nj9gno?at_medium=RSS&at_campaign=rss",
+      "sourceType": "자동 추출 초안",
+      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
+      "publishedAt": "2026-08-31 19:12",
+      "lastVerifiedAt": "2026-09-01 15:01",
+      "extractionConfidence": "medium",
+      "extractionPattern": "club-agree-deal-for-player",
+      "needsVerification": false,
+      "headlineTitle": "Man City agree £65m deal for Everton's Ndiaye ",
+      "sourceLinks": [
+        {
+          "sourceName": "BBC Sport",
+          "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c80453nj9gno?at_medium=RSS&at_campaign=rss",
+          "sourceTier": "medium",
+          "headlineTitle": "Man City agree £65m deal for Everton's Ndiaye ",
+          "publishedAt": "2026-08-31 19:12"
         }
       ],
       "sourceCount": 1
