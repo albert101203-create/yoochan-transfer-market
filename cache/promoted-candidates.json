@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-01T18:48:56.823Z",
-  "basedOnGeneratedAt": "2026-09-01T18:48:56.821Z",
+  "generatedAt": "2026-09-01T18:58:09.725Z",
+  "basedOnGeneratedAt": "2026-09-01T18:58:09.723Z",
   "itemCount": 30,
   "items": [
     {
@@ -471,6 +471,37 @@
       "sourceCount": 18
     },
     {
+      "id": "draft:https://football-italia.net/official-fiorentina-pedro-goncalves-gnonto/",
+      "player": "Official",
+      "fromTeam": "Sporting and Leeds United",
+      "toTeam": "Fiorentina",
+      "league": "미분류",
+      "status": "완료",
+      "fee": "미정",
+      "sourceKey": "football-italia",
+      "sourceTier": "medium",
+      "sourceName": "Football Italia",
+      "sourceUrl": "https://football-italia.net/official-fiorentina-pedro-goncalves-gnonto/",
+      "sourceType": "자동 추출 초안",
+      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
+      "publishedAt": "2026-09-01 18:57",
+      "lastVerifiedAt": "2026-09-01 18:58",
+      "extractionConfidence": "high",
+      "extractionPattern": "player-club-signs-from",
+      "needsVerification": false,
+      "headlineTitle": "Official: Fiorentina sign Pedro Goncalves and Gnonto from Sporting and Leeds United",
+      "sourceLinks": [
+        {
+          "sourceName": "Football Italia",
+          "sourceUrl": "https://football-italia.net/official-fiorentina-pedro-goncalves-gnonto/",
+          "sourceTier": "medium",
+          "headlineTitle": "Official: Fiorentina sign Pedro Goncalves and Gnonto from Sporting and Leeds United",
+          "publishedAt": "2026-09-01 18:57"
+        }
+      ],
+      "sourceCount": 1
+    },
+    {
       "id": "draft:https://football-italia.net/official-lazio-sign-gudmundsson-fiorentina/",
       "player": "Official",
       "fromTeam": "Fiorentina in €13m package agreement",
@@ -485,7 +516,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-09-01 18:16",
-      "lastVerifiedAt": "2026-09-01 18:48",
+      "lastVerifiedAt": "2026-09-01 18:58",
       "extractionConfidence": "high",
       "extractionPattern": "player-club-signs-from",
       "needsVerification": false,
@@ -516,7 +547,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-09-01 17:42",
-      "lastVerifiedAt": "2026-09-01 18:48",
+      "lastVerifiedAt": "2026-09-01 18:58",
       "extractionConfidence": "high",
       "extractionPattern": "player-club-signs-from",
       "needsVerification": false,
@@ -547,7 +578,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-09-01 17:23",
-      "lastVerifiedAt": "2026-09-01 18:48",
+      "lastVerifiedAt": "2026-09-01 18:58",
       "extractionConfidence": "high",
       "extractionPattern": "player-club-signs-from",
       "needsVerification": false,
@@ -578,7 +609,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-09-01 17:12",
-      "lastVerifiedAt": "2026-09-01 18:48",
+      "lastVerifiedAt": "2026-09-01 18:58",
       "extractionConfidence": "high",
       "extractionPattern": "player-club-signs-from",
       "needsVerification": false,
@@ -609,7 +640,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-09-01 14:01",
-      "lastVerifiedAt": "2026-09-01 18:48",
+      "lastVerifiedAt": "2026-09-01 18:58",
       "extractionConfidence": "high",
       "extractionPattern": "club-signs-player-from",
       "needsVerification": false,
@@ -1117,36 +1148,6 @@
         }
       ],
       "sourceCount": 2
-    },
-    {
-      "id": "draft:https://www.bbc.co.uk/sport/football/articles/ckgd5732mexo?at_medium=RSS&at_campaign=rss",
-      "player": "Nico Elvedi",
-      "fromTeam": "Borussia Monchengladbach",
-      "toTeam": "Leeds",
-      "league": "미분류",
-      "status": "완료",
-      "fee": "£8.5M",
-      "sourceKey": "bbc-sport",
-      "sourceTier": "medium",
-      "sourceName": "BBC Sport",
-      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/ckgd5732mexo?at_medium=RSS&at_campaign=rss",
-      "sourceType": "자동 추출 초안",
-      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
-      "publishedAt": "2026-08-19 20:10",
-      "lastVerifiedAt": "2026-08-20 01:27",
-      "extractionConfidence": "high",
-      "extractionPattern": "club-signs-player-from",
-      "headlineTitle": "Leeds sign Elvedi from Borussia Monchengladbach",
-      "sourceLinks": [
-        {
-          "sourceName": "BBC Sport",
-          "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/ckgd5732mexo?at_medium=RSS&at_campaign=rss",
-          "sourceTier": "medium",
-          "headlineTitle": "Leeds sign Elvedi from Borussia Monchengladbach",
-          "publishedAt": "2026-08-19 20:10"
-        }
-      ],
-      "sourceCount": 1
     }
   ],
   "rules": {
