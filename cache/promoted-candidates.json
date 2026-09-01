@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-01T21:48:02.432Z",
-  "basedOnGeneratedAt": "2026-09-01T21:48:02.429Z",
+  "generatedAt": "2026-09-01T21:56:50.149Z",
+  "basedOnGeneratedAt": "2026-09-01T21:56:50.147Z",
   "itemCount": 30,
   "items": [
     {
@@ -492,6 +492,13 @@
       "headlineTitle": "Man City sign Ndiaye from Everton for £65m",
       "sourceLinks": [
         {
+          "sourceName": "Global transfer news monitor",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wWDNZcjJ6cEI4NG5UTFdfN3RfZnEyOHpSSHRaOTZ1Z1gyZ0VYMkExeU0waEYta1Z3eF8tWGNFTFl3RHVNQ3ZzcmE4aFhVaG81VHg2S2RRNy1oUXpnQWExQ1F2bVl5c3l0ZHc?oc=5",
+          "sourceTier": "low",
+          "headlineTitle": "Iliman Ndiaye: Manchester City sign winger from Everton for £65m - BBC",
+          "publishedAt": "2026-09-01 20:02"
+        },
+        {
           "sourceName": "BBC Sport",
           "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c3wj1qw5x04o?at_medium=RSS&at_campaign=rss",
           "sourceTier": "medium",
@@ -506,7 +513,7 @@
           "publishedAt": "2026-08-31 19:12"
         }
       ],
-      "sourceCount": 2
+      "sourceCount": 3
     },
     {
       "id": "draft:https://football-italia.net/official-como-sign-robert-sanchez-from-chelsea/",
@@ -523,7 +530,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-09-01 19:57",
-      "lastVerifiedAt": "2026-09-01 21:48",
+      "lastVerifiedAt": "2026-09-01 21:56",
       "extractionConfidence": "high",
       "extractionPattern": "player-club-signs-from",
       "needsVerification": false,
@@ -554,7 +561,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-09-01 18:57",
-      "lastVerifiedAt": "2026-09-01 21:48",
+      "lastVerifiedAt": "2026-09-01 21:56",
       "extractionConfidence": "high",
       "extractionPattern": "player-club-signs-from",
       "needsVerification": false,
@@ -585,7 +592,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-09-01 18:16",
-      "lastVerifiedAt": "2026-09-01 21:48",
+      "lastVerifiedAt": "2026-09-01 21:56",
       "extractionConfidence": "high",
       "extractionPattern": "player-club-signs-from",
       "needsVerification": false,
@@ -616,7 +623,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-09-01 17:42",
-      "lastVerifiedAt": "2026-09-01 21:48",
+      "lastVerifiedAt": "2026-09-01 21:56",
       "extractionConfidence": "high",
       "extractionPattern": "player-club-signs-from",
       "needsVerification": false,
@@ -647,7 +654,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-09-01 17:23",
-      "lastVerifiedAt": "2026-09-01 21:48",
+      "lastVerifiedAt": "2026-09-01 21:56",
       "extractionConfidence": "high",
       "extractionPattern": "player-club-signs-from",
       "needsVerification": false,
@@ -678,7 +685,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-09-01 14:01",
-      "lastVerifiedAt": "2026-09-01 21:48",
+      "lastVerifiedAt": "2026-09-01 21:56",
       "extractionConfidence": "high",
       "extractionPattern": "club-signs-player-from",
       "needsVerification": false,
