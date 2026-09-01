@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-01T06:26:52.266Z",
-  "basedOnGeneratedAt": "2026-09-01T06:26:52.264Z",
+  "generatedAt": "2026-09-01T06:43:47.758Z",
+  "basedOnGeneratedAt": "2026-09-01T06:43:47.756Z",
   "itemCount": 30,
   "items": [
     {
@@ -345,7 +345,7 @@
           "sourceName": "Sky Sports Tottenham monitor",
           "sourceUrl": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPZ21RVU9DN1g0dzhNWnVLQmtScjkyVUx0VDhBbzBsV2VJb2JTdU5OT05yRTJ2SFkxSUxJWEtzVmotTVd6WTRjdFUwakJ5NjlwaDg4aDhCX043cFNjdXpyREcwMlJaTkZEUnk0RUxaS2hnMXpIbV9taG0ycllWdG9kckt0VGhoMzNVWldrNW5zYVNORm1GSVl3ZVZzZXY5Y1FDQkgtdDl3clQtNENhck9Lcno2cVJfVGFPdC1BSHUtN2RsUjJOQWJjU1dIOXd6cV9JQmhkZnp3QjdiUnJvdHVmT2NRWnZxWXlRdXdseEpScjRyTndweVRWNUVpQ01nQQ?oc=5",
           "sourceTier": "medium",
-          "headlineTitle": "Bradley Barcola to Liverpool: France forward who has moved from PSG is quick, strong, versatile, intelligent - skysports.com",
+          "headlineTitle": "Bradley Barcola to Liverpool: France forward who has moved from PSG is quick, strong, versatile, intelligent - Sky Sports",
           "publishedAt": "2026-09-01 04:24"
         },
         {
@@ -359,14 +359,14 @@
           "sourceName": "Liverpool official-site monitor",
           "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObkZ6bXV2ZWtxeE9HRWRxZUx2WEptbk0xQmFkWWVERlhZSzkxTHlvOG9FZkNHUmVsWDBWaGlRR3ZqVGNyamd1WU5HRVpHS1JUZXVqQ3lFaDQ2anBRaTdoNEprdURrbEJNRzNkNFNlWk8teXJsbTFUdjBPYmo0eGxNdlkyMFhmdWt6QnNz0gGTAUFVX3lxTE1HbWdpb0FEbHdtSFZSUF9VeEZuOEFuUlpBelNYeXdZMFRtc3hUMGp2akMtYVZiNDhGWHludXdPQTRJTlhGS0kwRE43UUxVWC1FNUxDMVV0VktWTUNfeVJqWlpnVXJSN1gzNlNSOE9WMzM4ODdRU2VKcDdzbkJCWkpWNXhmQUFJd2duWFVBT1ZqSzBCNA?oc=5",
           "sourceTier": "high",
-          "headlineTitle": "Liverpool sign Bradley Barcola from Paris Saint-Germain - liverpoolfc.com",
+          "headlineTitle": "Liverpool sign Bradley Barcola from Paris Saint-Germain - Liverpool FC",
           "publishedAt": "2026-08-31 13:11"
         },
         {
           "sourceName": "Paul Joyce monitor",
           "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdHdLZjQ2NkYyRnJTajUtOWlrbngxY0tmdkI3eGpfaUxVUWtuWEN0YWtkeXVoS2ZOZU5vTmw1ZVBwQ1RlQmdUcElyVXdFalpJUGFfRThBeDVaZ2hOZFZ4aHhKanVJYjY4SlllLVk5V0g3SU52WFZ6cGZUYXFpY0RnblgzMzVzUFdScUVVSkRacElOUGdVbjlz?oc=5",
           "sourceTier": "medium",
-          "headlineTitle": "Liverpool complete £123m deal for PSG’s Bradley Barcola - The Times",
+          "headlineTitle": "Liverpool complete £123m deal for PSG’s Bradley Barcola - thetimes.com",
           "publishedAt": "2026-08-31 13:01"
         },
         {
@@ -1098,7 +1098,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-08-31 19:12",
-      "lastVerifiedAt": "2026-09-01 06:26",
+      "lastVerifiedAt": "2026-09-01 06:43",
       "extractionConfidence": "medium",
       "extractionPattern": "club-agree-deal-for-player",
       "needsVerification": false,
