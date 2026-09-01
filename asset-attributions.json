@@ -1180,5 +1180,17 @@
     "sourcePage": "https://en.wikipedia.org/wiki/Tottenham_Hotspur_F.C.",
     "sourceImage": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Tottenham_Hotspur.svg/330px-Tottenham_Hotspur.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
+  },
+  "./assets/players/hugo-larsson-7d51ad9a.jpg": {
+    "name": "Hugo Larsson",
+    "sourcePage": "https://en.wikipedia.org/wiki/Hugo_Larsson_(footballer)",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Hugo_Larsson_%282023%29.jpg/330px-Hugo_Larsson_%282023%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
+  },
+  "./assets/players/ethan-nwaneri-901256f1.png": {
+    "name": "Ethan Nwaneri",
+    "sourcePage": "https://en.wikipedia.org/wiki/Ethan_Nwaneri",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Ethan_Nwaneri.png/330px-Ethan_Nwaneri.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
   }
 }

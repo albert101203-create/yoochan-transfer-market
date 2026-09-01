@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-01T07:50:34.391Z",
-  "basedOnGeneratedAt": "2026-09-01T07:50:34.388Z",
+  "generatedAt": "2026-09-01T07:59:01.424Z",
+  "basedOnGeneratedAt": "2026-09-01T07:59:01.422Z",
   "itemCount": 30,
   "items": [
     {
@@ -1098,7 +1098,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-08-31 19:12",
-      "lastVerifiedAt": "2026-09-01 07:50",
+      "lastVerifiedAt": "2026-09-01 07:59",
       "extractionConfidence": "medium",
       "extractionPattern": "club-agree-deal-for-player",
       "needsVerification": false,
