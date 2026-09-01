@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-01T02:59:40.797Z",
-  "basedOnGeneratedAt": "2026-09-01T02:59:40.794Z",
+  "generatedAt": "2026-09-01T03:16:46.725Z",
+  "basedOnGeneratedAt": "2026-09-01T03:16:46.723Z",
   "itemCount": 30,
   "items": [
     {
@@ -349,13 +349,6 @@
           "publishedAt": "2026-09-01 01:22"
         },
         {
-          "sourceName": "James Pearce monitor",
-          "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUUNmMFlrcjdoYlBBYWJvN0otZXc2Nm8wNTQ1aHM1bjB1WVZRaV8tLUZLOElaMy03VWI2eW1KSjBFRzBiNVFzOXN5OFB3WEo1RXNiSXExWjlTV21CdHVIcmpmYzJYOVYzSHhheVdubHlKRkdLU3JoSXVMd1pEMmdsb1pVWmFFQnBHb1JmYnE1TVBzaDNpWl9UdDZ3?oc=5",
-          "sourceTier": "medium",
-          "headlineTitle": "Inside Liverpool’s Bradley Barcola signing: High-level talks, heart set on Anfield and FIFA-inspired number - The New York Times",
-          "publishedAt": "2026-08-31 19:09"
-        },
-        {
           "sourceName": "Premier League transfer monitor",
           "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObkZ6bXV2ZWtxeE9HRWRxZUx2WEptbk0xQmFkWWVERlhZSzkxTHlvOG9FZkNHUmVsWDBWaGlRR3ZqVGNyamd1WU5HRVpHS1JUZXVqQ3lFaDQ2anBRaTdoNEprdURrbEJNRzNkNFNlWk8teXJsbTFUdjBPYmo0eGxNdlkyMFhmdWt6QnNz0gGTAUFVX3lxTE1HbWdpb0FEbHdtSFZSUF9VeEZuOEFuUlpBelNYeXdZMFRtc3hUMGp2akMtYVZiNDhGWHludXdPQTRJTlhGS0kwRE43UUxVWC1FNUxDMVV0VktWTUNfeVJqWlpnVXJSN1gzNlNSOE9WMzM4ODdRU2VKcDdzbkJCWkpWNXhmQUFJd2duWFVBT1ZqSzBCNA?oc=5",
           "sourceTier": "low",
@@ -380,8 +373,15 @@
           "sourceName": "Premier League transfer monitor",
           "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPS1BfX0VaRmw3MkxYWlR0a3pZa2FWODFTYWJqNHBZajh6eHRoSFlwVjItc1RXY0ZlZzVzMk1sQlBjWHdHUS02aDVYbkNXcDFxc2tLMWsza054cUlYTXpVRTBLR3VxNGRrRV9Sd3VZTUlHeHJLVFRPVTNlc0RLUVpFWW1EVnB0MzktY0RTTXJYZlRPZU01ZFhxbzVKMmlEYTltcDJlWDJlWnJrTlZUblNmTlVhbzl5Qjg?oc=5",
           "sourceTier": "low",
-          "headlineTitle": "Bradley Barcola joins Liverpool in £123m move from Paris Saint-Germain - espn.com",
+          "headlineTitle": "Bradley Barcola joins Liverpool in £123m move from Paris Saint-Germain - ESPN",
           "publishedAt": "2026-08-31 13:00"
+        },
+        {
+          "sourceName": "James Pearce monitor",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUUNmMFlrcjdoYlBBYWJvN0otZXc2Nm8wNTQ1aHM1bjB1WVZRaV8tLUZLOElaMy03VWI2eW1KSjBFRzBiNVFzOXN5OFB3WEo1RXNiSXExWjlTV21CdHVIcmpmYzJYOVYzSHhheVdubHlKRkdLU3JoSXVMd1pEMmdsb1pVWmFFQnBHb1JmYnE1TVBzaDNpWl9UdDZ3?oc=5",
+          "sourceTier": "medium",
+          "headlineTitle": "Inside Liverpool’s Bradley Barcola signing: High-level talks, heart set on Anfield and FIFA-inspired number - The New York Times",
+          "publishedAt": "2026-08-31 19:09"
         },
         {
           "sourceName": "David Ornstein 검색 모니터",
@@ -1098,7 +1098,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-08-31 19:12",
-      "lastVerifiedAt": "2026-09-01 02:59",
+      "lastVerifiedAt": "2026-09-01 03:16",
       "extractionConfidence": "medium",
       "extractionPattern": "club-agree-deal-for-player",
       "needsVerification": false,
