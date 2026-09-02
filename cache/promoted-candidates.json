@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-02T12:43:18.098Z",
-  "basedOnGeneratedAt": "2026-09-02T12:43:18.094Z",
+  "generatedAt": "2026-09-02T12:56:18.236Z",
+  "basedOnGeneratedAt": "2026-09-02T12:56:18.232Z",
   "itemCount": 30,
   "items": [
     {
@@ -485,7 +485,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-09-02 09:49",
-      "lastVerifiedAt": "2026-09-02 12:43",
+      "lastVerifiedAt": "2026-09-02 12:56",
       "extractionConfidence": "high",
       "extractionPattern": "club-signs-player-from",
       "needsVerification": false,
@@ -516,7 +516,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-09-01 22:00",
-      "lastVerifiedAt": "2026-09-02 12:43",
+      "lastVerifiedAt": "2026-09-02 12:56",
       "extractionConfidence": "high",
       "extractionPattern": "player-club-signs-from",
       "needsVerification": false,
@@ -528,16 +528,9 @@
           "sourceTier": "medium",
           "headlineTitle": "Iliman Ndiaye transfer news: Man City sign £65m winger from Everton as Jack Grealish joins Toffees on loan - Sky Sports",
           "publishedAt": "2026-09-01 22:00"
-        },
-        {
-          "sourceName": "Sky Sports",
-          "sourceUrl": "https://www.skysports.com/football/news/11671/13579669/iliman-ndiaye-transfer-news-man-city-sign-65m-winger-from-everton-as-jack-grealish-joins-toffees-on-loan",
-          "sourceTier": "medium",
-          "headlineTitle": "Iliman Ndiaye transfer news: Man City sign &#163;65m winger from Everton as Jack Grealish joins Toffees on loan",
-          "publishedAt": "2026-09-01 21:49"
         }
       ],
-      "sourceCount": 2
+      "sourceCount": 1
     },
     {
       "id": "draft:https://www.bbc.co.uk/sport/football/articles/c3wj1qw5x04o?at_medium=RSS&at_campaign=rss",
@@ -606,7 +599,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-09-01 19:57",
-      "lastVerifiedAt": "2026-09-02 12:43",
+      "lastVerifiedAt": "2026-09-02 12:56",
       "extractionConfidence": "high",
       "extractionPattern": "player-club-signs-from",
       "needsVerification": false,
