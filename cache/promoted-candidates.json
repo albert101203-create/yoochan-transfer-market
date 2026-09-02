@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-02T09:51:29.401Z",
-  "basedOnGeneratedAt": "2026-09-02T09:51:29.398Z",
+  "generatedAt": "2026-09-02T09:59:59.371Z",
+  "basedOnGeneratedAt": "2026-09-02T09:59:59.367Z",
   "itemCount": 30,
   "items": [
     {
@@ -28,7 +28,7 @@
           "sourceName": "Tottenham official-site monitor",
           "sourceUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPREN6LWg2UE01YkN5TWk1ZW8zYVpOSWc3d1V2b3dQanlsTlJqX1VmS19oRGxhVzZEVjRJRWR4cUZHdUJ4b05sTWVSZHhZeGtYN3dqWlE1UkM4T1V5SEhiMDFEWnN3d0lQNU85WkF3Y1paWlhMR2t5WWwyLVZXbjJoMFN6VVE?oc=5",
           "sourceTier": "high",
-          "headlineTitle": "Sávio joins from Manchester City - Tottenham Hotspur",
+          "headlineTitle": "Sávio joins from Manchester City - tottenhamhotspur.com",
           "publishedAt": "2026-08-25 09:00"
         },
         {
@@ -128,7 +128,7 @@
           "sourceName": "Tottenham official-site monitor",
           "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQWdxQkw3R0JUVHNxNk5jV09ndzhwckxsWjQxZVY4VE16OVQwbFFiYlhXUV9nQUxiZkpMVzdOWEZwYURzMVhkbnJvSGdBemQ0M2ZxNi02bFJCbktBZGNvYTlQaVJLa3c4bGZUQlZQdHRHa1JOS053RFBQbjg2bXJWaA?oc=5",
           "sourceTier": "high",
-          "headlineTitle": "Lankshear on the move to Boro - Tottenham Hotspur",
+          "headlineTitle": "Lankshear on the move to Boro - tottenhamhotspur.com",
           "publishedAt": "2026-07-22 07:00"
         }
       ],
@@ -159,7 +159,7 @@
           "sourceName": "Tottenham official-site monitor",
           "sourceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZEVvRXd4cnU1NDBUTWk3ZHc1cGdyV0JPdnFyM3lmZUZ3aTNnSWlIa1JqWUFaY2dSSTNsclVVSVZWTmYwUmQ0cERLWS0xVnNabTltckIxRnZXbFlQNXhEUWJ1dzFtWXBmc3dWZjFRWTJUWWFXV0FZOFNub2loQ0hkOGFwa2YxamxOTWcya2oydWkzclE?oc=5",
           "sourceTier": "high",
-          "headlineTitle": "Welcome, Alice! Sombath joins from Lyon - Tottenham Hotspur",
+          "headlineTitle": "Welcome, Alice! Sombath joins from Lyon - tottenhamhotspur.com",
           "publishedAt": "2026-07-21 07:00"
         }
       ],
@@ -252,7 +252,7 @@
           "sourceName": "Tottenham official-site monitor",
           "sourceUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9teTJVZW1PaXllbEYwQlpNa3l0M253SDV2ejlpcktVWndiXzZhZjR3cjZmVVpYTXNMeGVhLWlSNkozbDN6cHRjZ1Z2bF82VnJweEEwMlZnMkVMNjhSVFJtRU9VWC1McGhnbHo5ZmFSX2RJVC1CYzFn?oc=5",
           "sourceTier": "high",
-          "headlineTitle": "Welcome, Mateus! Fernandes signs - Tottenham Hotspur",
+          "headlineTitle": "Welcome, Mateus! Fernandes signs - tottenhamhotspur.com",
           "publishedAt": "2026-07-02 07:00"
         }
       ],
@@ -283,7 +283,7 @@
           "sourceName": "Tottenham official-site monitor",
           "sourceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRGJYWDhHXy1PNW5SNklwSFllaDRoU21KSWRGWnhYTTJQR0hvSFgxVm1RM2Z5bUpsVlotYUlSc1ZQZDhoYlg1cmprbnE3dS1sU3hDcG1DYU5qOGpwY09qRmd4R1ROMWFDT3kybVVvYjZmSThqbU96SS1QT3YybXN5QUg2SHdreDFJVXlWZmlB?oc=5",
           "sourceTier": "high",
-          "headlineTitle": "Panengstuen signs for Spurs - Tottenham Hotspur",
+          "headlineTitle": "Panengstuen signs for Spurs - tottenhamhotspur.com",
           "publishedAt": "2026-06-30 07:00"
         }
       ],
@@ -471,6 +471,37 @@
       "sourceCount": 18
     },
     {
+      "id": "draft:https://www.bbc.co.uk/sport/football/articles/cdx5e590qqeo?at_medium=RSS&at_campaign=rss",
+      "player": "Femi Azeez",
+      "fromTeam": "Millwall",
+      "toTeam": "Brighton",
+      "league": "프리미어리그",
+      "status": "완료",
+      "fee": "£15M",
+      "sourceKey": "bbc-sport",
+      "sourceTier": "medium",
+      "sourceName": "BBC Sport",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cdx5e590qqeo?at_medium=RSS&at_campaign=rss",
+      "sourceType": "자동 추출 초안",
+      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
+      "publishedAt": "2026-09-02 09:49",
+      "lastVerifiedAt": "2026-09-02 09:59",
+      "extractionConfidence": "high",
+      "extractionPattern": "club-signs-player-from",
+      "needsVerification": false,
+      "headlineTitle": "Brighton sign winger Azeez from Millwall",
+      "sourceLinks": [
+        {
+          "sourceName": "BBC Sport",
+          "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cdx5e590qqeo?at_medium=RSS&at_campaign=rss",
+          "sourceTier": "medium",
+          "headlineTitle": "Brighton sign winger Azeez from Millwall",
+          "publishedAt": "2026-09-02 09:49"
+        }
+      ],
+      "sourceCount": 1
+    },
+    {
       "id": "draft:https://news.google.com/rss/articles/CBMi8wFBVV95cUxNY3ljM2lNd1B5NTJtT2pYUUt2amJFd25zRmFOZUptcVhDS1dTYmU1OXRSSWNrRDdGaTlyOXBuUy01c1RsM1o5RE9oZ1hsLXZOZlluQXBRUWtTYmdXckdONFVESW1DN3pzUklmVUNuSWhkaTZFc1JtVC1FeHlFYjM1Zl9lNTlLc1hNWVI4alZWemNMWDRxYzFHUlNlTTNhLUc1Z1M0dG5VQjIyNC1FVkJrRWhnOWZXR29aSC1ZSW1TN005R1kwN3BLTFNQQU4yZkpROVowR25xRHF4RGZaZ3ZpbWw5ZW1scnNCbWpPWWZhejBZeVk?oc=5",
       "player": "Iliman Ndiaye transfer",
       "fromTeam": "Everton as Jack Grealish joins Toffees",
@@ -485,17 +516,17 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-09-01 22:00",
-      "lastVerifiedAt": "2026-09-02 09:51",
+      "lastVerifiedAt": "2026-09-02 09:59",
       "extractionConfidence": "high",
       "extractionPattern": "player-club-signs-from",
       "needsVerification": false,
-      "headlineTitle": "Iliman Ndiaye transfer news: Man City sign £65m winger from Everton as Jack Grealish joins Toffees on loan - skysports.com",
+      "headlineTitle": "Iliman Ndiaye transfer news: Man City sign £65m winger from Everton as Jack Grealish joins Toffees on loan - Sky Sports",
       "sourceLinks": [
         {
           "sourceName": "Sky Sports Tottenham monitor",
           "sourceUrl": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNY3ljM2lNd1B5NTJtT2pYUUt2amJFd25zRmFOZUptcVhDS1dTYmU1OXRSSWNrRDdGaTlyOXBuUy01c1RsM1o5RE9oZ1hsLXZOZlluQXBRUWtTYmdXckdONFVESW1DN3pzUklmVUNuSWhkaTZFc1JtVC1FeHlFYjM1Zl9lNTlLc1hNWVI4alZWemNMWDRxYzFHUlNlTTNhLUc1Z1M0dG5VQjIyNC1FVkJrRWhnOWZXR29aSC1ZSW1TN005R1kwN3BLTFNQQU4yZkpROVowR25xRHF4RGZaZ3ZpbWw5ZW1scnNCbWpPWWZhejBZeVk?oc=5",
           "sourceTier": "medium",
-          "headlineTitle": "Iliman Ndiaye transfer news: Man City sign £65m winger from Everton as Jack Grealish joins Toffees on loan - skysports.com",
+          "headlineTitle": "Iliman Ndiaye transfer news: Man City sign £65m winger from Everton as Jack Grealish joins Toffees on loan - Sky Sports",
           "publishedAt": "2026-09-01 22:00"
         },
         {
@@ -575,7 +606,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-09-01 19:57",
-      "lastVerifiedAt": "2026-09-02 09:51",
+      "lastVerifiedAt": "2026-09-02 09:59",
       "extractionConfidence": "high",
       "extractionPattern": "player-club-signs-from",
       "needsVerification": false,
@@ -606,7 +637,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-09-01 18:57",
-      "lastVerifiedAt": "2026-09-02 09:51",
+      "lastVerifiedAt": "2026-09-02 09:59",
       "extractionConfidence": "high",
       "extractionPattern": "player-club-signs-from",
       "needsVerification": false,
@@ -618,37 +649,6 @@
           "sourceTier": "medium",
           "headlineTitle": "Official: Fiorentina sign Pedro Goncalves and Gnonto from Sporting and Leeds United",
           "publishedAt": "2026-09-01 18:57"
-        }
-      ],
-      "sourceCount": 1
-    },
-    {
-      "id": "draft:https://football-italia.net/official-lazio-sign-gudmundsson-fiorentina/",
-      "player": "Official",
-      "fromTeam": "Fiorentina in €13m package agreement",
-      "toTeam": "Lazio",
-      "league": "미분류",
-      "status": "완료",
-      "fee": "€13M",
-      "sourceKey": "football-italia",
-      "sourceTier": "medium",
-      "sourceName": "Football Italia",
-      "sourceUrl": "https://football-italia.net/official-lazio-sign-gudmundsson-fiorentina/",
-      "sourceType": "자동 추출 초안",
-      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
-      "publishedAt": "2026-09-01 18:16",
-      "lastVerifiedAt": "2026-09-02 09:51",
-      "extractionConfidence": "high",
-      "extractionPattern": "player-club-signs-from",
-      "needsVerification": false,
-      "headlineTitle": "Official: Lazio sign Gudmundsson from Fiorentina in €13m package agreement",
-      "sourceLinks": [
-        {
-          "sourceName": "Football Italia",
-          "sourceUrl": "https://football-italia.net/official-lazio-sign-gudmundsson-fiorentina/",
-          "sourceTier": "medium",
-          "headlineTitle": "Official: Lazio sign Gudmundsson from Fiorentina in €13m package agreement",
-          "publishedAt": "2026-09-01 18:16"
         }
       ],
       "sourceCount": 1
