@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-02T14:00:17.219Z",
-  "basedOnGeneratedAt": "2026-09-02T14:00:17.215Z",
+  "generatedAt": "2026-09-02T14:22:04.785Z",
+  "basedOnGeneratedAt": "2026-09-02T14:22:04.782Z",
   "itemCount": 30,
   "items": [
     {
@@ -485,7 +485,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-09-02 09:49",
-      "lastVerifiedAt": "2026-09-02 14:00",
+      "lastVerifiedAt": "2026-09-02 14:22",
       "extractionConfidence": "high",
       "extractionPattern": "club-signs-player-from",
       "needsVerification": false,
@@ -497,6 +497,37 @@
           "sourceTier": "medium",
           "headlineTitle": "Brighton sign winger Azeez from Millwall",
           "publishedAt": "2026-09-02 09:49"
+        }
+      ],
+      "sourceCount": 1
+    },
+    {
+      "id": "draft:https://www.skysports.com/football/news/11671/13579669/iliman-ndiaye-transfer-news-man-city-sign-65m-winger-from-everton-as-jack-grealish-joins-toffees-on-loan",
+      "player": "Iliman Ndiaye transfer",
+      "fromTeam": "Everton as Jack Grealish joins Toffees",
+      "toTeam": "Manchester City",
+      "league": "프리미어리그",
+      "status": "완료",
+      "fee": "£65M",
+      "sourceKey": "sky-sports",
+      "sourceTier": "medium",
+      "sourceName": "Sky Sports",
+      "sourceUrl": "https://www.skysports.com/football/news/11671/13579669/iliman-ndiaye-transfer-news-man-city-sign-65m-winger-from-everton-as-jack-grealish-joins-toffees-on-loan",
+      "sourceType": "자동 추출 초안",
+      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
+      "publishedAt": "2026-09-01 21:49",
+      "lastVerifiedAt": "2026-09-02 14:22",
+      "extractionConfidence": "high",
+      "extractionPattern": "player-club-signs-from",
+      "needsVerification": false,
+      "headlineTitle": "Iliman Ndiaye transfer news: Man City sign &#163;65m winger from Everton as Jack Grealish joins Toffees on loan",
+      "sourceLinks": [
+        {
+          "sourceName": "Sky Sports",
+          "sourceUrl": "https://www.skysports.com/football/news/11671/13579669/iliman-ndiaye-transfer-news-man-city-sign-65m-winger-from-everton-as-jack-grealish-joins-toffees-on-loan",
+          "sourceTier": "medium",
+          "headlineTitle": "Iliman Ndiaye transfer news: Man City sign &#163;65m winger from Everton as Jack Grealish joins Toffees on loan",
+          "publishedAt": "2026-09-01 21:49"
         }
       ],
       "sourceCount": 1
@@ -1132,36 +1163,6 @@
           "sourceTier": "medium",
           "headlineTitle": "Ferran Torres: PSG sign World Cup final hero from Barcelona for &#163;42.7m",
           "publishedAt": "2026-08-15 09:32"
-        }
-      ],
-      "sourceCount": 1
-    },
-    {
-      "id": "draft:https://www.skysports.com/football/news/11787/13566197/mika-baur-celtic-sign-germany-u21-midfielder-from-paderborn-on-initial-four-year-deal",
-      "player": "Mika Baur",
-      "fromTeam": "Paderborn",
-      "toTeam": "Celtic",
-      "league": "스코티시 프리미어십",
-      "status": "완료",
-      "fee": "미정",
-      "sourceKey": "sky-sports",
-      "sourceTier": "medium",
-      "sourceName": "Sky Sports",
-      "sourceUrl": "https://www.skysports.com/football/news/11787/13566197/mika-baur-celtic-sign-germany-u21-midfielder-from-paderborn-on-initial-four-year-deal",
-      "sourceType": "자동 추출 초안",
-      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
-      "publishedAt": "2026-08-13 15:05",
-      "lastVerifiedAt": "2026-08-14 09:30",
-      "extractionConfidence": "high",
-      "extractionPattern": "player-club-signs-from",
-      "headlineTitle": "Mika Baur: Celtic sign Germany U21 midfielder from Paderborn on initial four-year deal",
-      "sourceLinks": [
-        {
-          "sourceName": "Sky Sports",
-          "sourceUrl": "https://www.skysports.com/football/news/11787/13566197/mika-baur-celtic-sign-germany-u21-midfielder-from-paderborn-on-initial-four-year-deal",
-          "sourceTier": "medium",
-          "headlineTitle": "Mika Baur: Celtic sign Germany U21 midfielder from Paderborn on initial four-year deal",
-          "publishedAt": "2026-08-13 15:05"
         }
       ],
       "sourceCount": 1
