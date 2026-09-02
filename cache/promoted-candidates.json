@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-02T05:57:26.317Z",
-  "basedOnGeneratedAt": "2026-09-02T05:57:26.314Z",
+  "generatedAt": "2026-09-02T06:20:08.648Z",
+  "basedOnGeneratedAt": "2026-09-02T06:20:08.645Z",
   "itemCount": 30,
   "items": [
     {
@@ -485,7 +485,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-09-01 23:13",
-      "lastVerifiedAt": "2026-09-02 05:57",
+      "lastVerifiedAt": "2026-09-02 06:20",
       "extractionConfidence": "high",
       "extractionPattern": "club-signs-player-from",
       "needsVerification": false,
@@ -516,7 +516,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-09-01 23:04",
-      "lastVerifiedAt": "2026-09-02 05:57",
+      "lastVerifiedAt": "2026-09-02 06:20",
       "extractionConfidence": "high",
       "extractionPattern": "club-signs-player-from",
       "needsVerification": false,
@@ -547,7 +547,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-09-01 22:00",
-      "lastVerifiedAt": "2026-09-02 05:57",
+      "lastVerifiedAt": "2026-09-02 06:20",
       "extractionConfidence": "high",
       "extractionPattern": "player-club-signs-from",
       "needsVerification": false,
@@ -637,7 +637,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-09-01 19:57",
-      "lastVerifiedAt": "2026-09-02 05:57",
+      "lastVerifiedAt": "2026-09-02 06:20",
       "extractionConfidence": "high",
       "extractionPattern": "player-club-signs-from",
       "needsVerification": false,
@@ -668,7 +668,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-09-01 18:57",
-      "lastVerifiedAt": "2026-09-02 05:57",
+      "lastVerifiedAt": "2026-09-02 06:20",
       "extractionConfidence": "high",
       "extractionPattern": "player-club-signs-from",
       "needsVerification": false,
@@ -699,7 +699,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-09-01 18:16",
-      "lastVerifiedAt": "2026-09-02 05:57",
+      "lastVerifiedAt": "2026-09-02 06:20",
       "extractionConfidence": "high",
       "extractionPattern": "player-club-signs-from",
       "needsVerification": false,
@@ -730,7 +730,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-09-01 17:42",
-      "lastVerifiedAt": "2026-09-02 05:57",
+      "lastVerifiedAt": "2026-09-02 06:20",
       "extractionConfidence": "high",
       "extractionPattern": "player-club-signs-from",
       "needsVerification": false,
@@ -742,37 +742,6 @@
           "sourceTier": "medium",
           "headlineTitle": "Official: Cagliari sign Sugawara from Southampton with €5.5m option to buy",
           "publishedAt": "2026-09-01 17:42"
-        }
-      ],
-      "sourceCount": 1
-    },
-    {
-      "id": "draft:https://www.bbc.co.uk/sport/football/articles/c5ylv97mn58o?at_medium=RSS&at_campaign=rss",
-      "player": "Matias Fernandez-Pardo",
-      "fromTeam": "Lille for £51m",
-      "toTeam": "Newcastle",
-      "league": "미분류",
-      "status": "완료",
-      "fee": "£51M",
-      "sourceKey": "bbc-sport",
-      "sourceTier": "medium",
-      "sourceName": "BBC Sport",
-      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c5ylv97mn58o?at_medium=RSS&at_campaign=rss",
-      "sourceType": "자동 추출 초안",
-      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
-      "publishedAt": "2026-09-01 14:01",
-      "lastVerifiedAt": "2026-09-02 05:57",
-      "extractionConfidence": "high",
-      "extractionPattern": "club-signs-player-from",
-      "needsVerification": false,
-      "headlineTitle": "Newcastle sign Fernandez-Pardo from Lille for £51m",
-      "sourceLinks": [
-        {
-          "sourceName": "BBC Sport",
-          "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c5ylv97mn58o?at_medium=RSS&at_campaign=rss",
-          "sourceTier": "medium",
-          "headlineTitle": "Newcastle sign Fernandez-Pardo from Lille for £51m",
-          "publishedAt": "2026-09-01 14:01"
         }
       ],
       "sourceCount": 1
@@ -1160,6 +1129,44 @@
           "sourceTier": "medium",
           "headlineTitle": "Liam Delap joins Nottingham Forest in club-record &#163;50m deal as Chelsea make profit on striker",
           "publishedAt": "2026-08-27 18:00"
+        }
+      ],
+      "sourceCount": 2
+    },
+    {
+      "id": "draft:https://www.bbc.co.uk/sport/football/articles/cew9lqzx9jeo?at_medium=RSS&at_campaign=rss",
+      "player": "Ethan Pinnock",
+      "fromTeam": "Brentford",
+      "toTeam": "Coventry City",
+      "league": "미분류",
+      "status": "완료",
+      "fee": "£6M",
+      "sourceKey": "bbc-sport",
+      "sourceTier": "medium",
+      "sourceName": "BBC Sport",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cew9lqzx9jeo?at_medium=RSS&at_campaign=rss",
+      "sourceType": "자동 추출 초안",
+      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
+      "publishedAt": "2026-08-27 00:00",
+      "lastVerifiedAt": "2026-08-27 00:17",
+      "extractionConfidence": "high",
+      "extractionPattern": "club-signs-player-from",
+      "needsVerification": false,
+      "headlineTitle": "Coventry sign defender Pinnock from Brentford",
+      "sourceLinks": [
+        {
+          "sourceName": "BBC Sport",
+          "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cew9lqzx9jeo?at_medium=RSS&at_campaign=rss",
+          "sourceTier": "medium",
+          "headlineTitle": "Coventry sign defender Pinnock from Brentford",
+          "publishedAt": "2026-08-27 00:00"
+        },
+        {
+          "sourceName": "David Ornstein 검색 모니터",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVVNCYzVXVzN0RXR0ZDJsNWtDcDVqejRDMTJiVENVZkFTdEJBLWJSdnBGbVJqQ0VXN3Zkd1RnVlY4bFVZSmxFTEM3TEc3aHgwdGJ1TmE2TWkwME5ud1lFOExWZThOa3dZYkdsc0pBdjNKMGZ1NGF2TFpKZm1PTUd5OGVVQUlZZnRZbFF3?oc=5",
+          "sourceTier": "medium",
+          "headlineTitle": "Ethan Pinnock to Coventry City: £6m agreement reached — Ornstein - SPORF",
+          "publishedAt": "2026-08-25 00:20"
         }
       ],
       "sourceCount": 2
