@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-02T00:39:41.499Z",
-  "basedOnFetchedAt": "2026-09-02T00:39:40.750Z",
+  "generatedAt": "2026-09-02T00:52:29.603Z",
+  "basedOnFetchedAt": "2026-09-02T00:52:27.900Z",
   "itemCount": 74,
-  "reviewItemCount": 158,
+  "reviewItemCount": 162,
   "archiveLimit": 400,
   "drafts": [
     {
@@ -497,7 +497,7 @@
           "sourceName": "Global transfer news monitor",
           "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE82a1lKR2ozV3Fyb1B2dGEzTWRiWmVnR3VkUEhZLWJ1NmtnSS1jTHRnZmVqZm93ZS1vWnNTc3BVYUdsOTd0blVCWkxOWXlsbG1FS0pfZzluRGFQaHRXc3FDTmhaOEdORzQ?oc=5",
           "sourceTier": "low",
-          "headlineTitle": "Iliman Ndiaye: Manchester City sign winger from Everton for £65m - BBC",
+          "headlineTitle": "Iliman Ndiaye: Manchester City sign winger from Everton for £65m - bbc.com",
           "publishedAt": "2026-09-01 20:02"
         },
         {
@@ -2768,32 +2768,32 @@
   ],
   "reviewItems": [
     {
-      "id": "draft:https://news.google.com/rss/articles/CBMiakFVX3lxTE9LeFQzc010bDJWaUQxMDAxcUJZMFVIMWZJcU5xempZeTZyNDRCQWFSTXo3ekZwLVdleFJUbXJTckFsZXhtTWhqRER4cG1tRENzVkhtOFdvWDNMem1Ud05DaDJSZ01EUUpMQ0E?oc=5",
-      "player": "Ait-Nouri",
-      "fromTeam": "Manchester City",
-      "toTeam": "Man Utd fail in attempt",
+      "id": "draft:https://news.google.com/rss/articles/CBMikAFBVV95cUxPNm5DT2RBamJqLUgybGMwMTFYUEY5aTdRMVUyZDBScE5oVHNCMlh6Y3QxZzhCSjJEQ1pVWEppbGhsQjJNTFFBSHdoREQtY1QzVTEybVMwejZPVkhwMFhweFd2MlAxcV9XeENCVjNUSUx1UlFsUFlkaGE4M1JoVjc5TmFSTUZfenNxSnlhUko3bXI?oc=5",
+      "player": "Manu Kone",
+      "fromTeam": "AS Roma",
+      "toTeam": "Chelsea make contact",
       "league": "미분류",
       "status": "확인 필요",
       "fee": "미정",
-      "sourceKey": "global-transfer-monitor",
-      "sourceTier": "low",
-      "sourceName": "Global transfer news monitor",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9LeFQzc010bDJWaUQxMDAxcUJZMFVIMWZJcU5xempZeTZyNDRCQWFSTXo3ekZwLVdleFJUbXJTckFsZXhtTWhqRER4cG1tRENzVkhtOFdvWDNMem1Ud05DaDJSZ01EUUpMQ0E?oc=5",
+      "sourceKey": "santi-aouna-monitor",
+      "sourceTier": "medium",
+      "sourceName": "Santi Aouna monitor",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNm5DT2RBamJqLUgybGMwMTFYUEY5aTdRMVUyZDBScE5oVHNCMlh6Y3QxZzhCSjJEQ1pVWEppbGhsQjJNTFFBSHdoREQtY1QzVTEybVMwejZPVkhwMFhweFd2MlAxcV9XeENCVjNUSUx1UlFsUFlkaGE4M1JoVjc5TmFSTUZfenNxSnlhUko3bXI?oc=5",
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다. 이미지 또는 구단 정보 확인이 필요해 검수 대기로 이동했습니다.",
-      "publishedAt": "2026-09-01 15:36",
-      "lastVerifiedAt": "2026-09-02 00:39",
+      "publishedAt": "2026-09-01 12:11",
+      "lastVerifiedAt": "2026-09-02 00:52",
       "extractionConfidence": "medium",
       "extractionPattern": "club-talks-to-sign-player",
       "needsVerification": true,
-      "headlineTitle": "Man Utd fail in attempt to sign Ait-Nouri from Man City - BBC",
+      "headlineTitle": "Chelsea make contact to sign Manu Kone from AS Roma - football-talk.co.uk",
       "sourceLinks": [
         {
-          "sourceName": "Global transfer news monitor",
-          "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9LeFQzc010bDJWaUQxMDAxcUJZMFVIMWZJcU5xempZeTZyNDRCQWFSTXo3ekZwLVdleFJUbXJTckFsZXhtTWhqRER4cG1tRENzVkhtOFdvWDNMem1Ud05DaDJSZ01EUUpMQ0E?oc=5",
-          "sourceTier": "low",
-          "headlineTitle": "Man Utd fail in attempt to sign Ait-Nouri from Man City - BBC",
-          "publishedAt": "2026-09-01 15:36"
+          "sourceName": "Santi Aouna monitor",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNm5DT2RBamJqLUgybGMwMTFYUEY5aTdRMVUyZDBScE5oVHNCMlh6Y3QxZzhCSjJEQ1pVWEppbGhsQjJNTFFBSHdoREQtY1QzVTEybVMwejZPVkhwMFhweFd2MlAxcV9XeENCVjNUSUx1UlFsUFlkaGE4M1JoVjc5TmFSTUZfenNxSnlhUko3bXI?oc=5",
+          "sourceTier": "medium",
+          "headlineTitle": "Chelsea make contact to sign Manu Kone from AS Roma - football-talk.co.uk",
+          "publishedAt": "2026-09-01 12:11"
         }
       ],
       "sourceCount": 1
@@ -2813,7 +2813,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다. 이미지 또는 구단 정보 확인이 필요해 검수 대기로 이동했습니다.",
       "publishedAt": "2026-09-01 21:04",
-      "lastVerifiedAt": "2026-09-02 00:39",
+      "lastVerifiedAt": "2026-09-02 00:52",
       "extractionConfidence": "medium",
       "extractionPattern": "club-talks-to-sign-player",
       "needsVerification": true,
@@ -2844,7 +2844,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다. 이미지 또는 구단 정보 확인이 필요해 검수 대기로 이동했습니다.",
       "publishedAt": "2026-09-01 20:00",
-      "lastVerifiedAt": "2026-09-02 00:39",
+      "lastVerifiedAt": "2026-09-02 00:52",
       "extractionConfidence": "high",
       "extractionPattern": "club-signs-player-from",
       "needsVerification": true,
@@ -2875,7 +2875,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다. 이미지 또는 구단 정보 확인이 필요해 검수 대기로 이동했습니다.",
       "publishedAt": "2026-09-01 21:25",
-      "lastVerifiedAt": "2026-09-02 00:39",
+      "lastVerifiedAt": "2026-09-02 00:52",
       "extractionConfidence": "high",
       "extractionPattern": "club-signs-player-from",
       "needsVerification": true,
@@ -2887,6 +2887,37 @@
           "sourceTier": "low",
           "headlineTitle": "Tottenham sign Mykhailo Mudryk, Tosin Adarabioyo in double deal from Chelsea - ESPN",
           "publishedAt": "2026-09-01 21:25"
+        }
+      ],
+      "sourceCount": 1
+    },
+    {
+      "id": "draft:https://news.google.com/rss/articles/CBMisgFBVV95cUxNZnlVSXQxR3kzUmlldGxmSVV3T1pucUNIV28tNlZ3akZfeFJkYjl5YVJZeXd0RXUwa0NTbjVSWV91Zm91RTZlTXRxb1RzUHg4M3MyLWRTWVJTSmVxaTl1NG0xSW1kcHNBZG0zZHh6SXhSU3E4ZEtZaENHa3VGTGhBbDF0U0FBaDFOMU0yekhqc2N0TVRPVUhtU2s2WUJOdUJuNGkxVkZhX3BKRGpjMHkxOEt3?oc=5",
+      "player": "record-breaking",
+      "fromTeam": "Chelsea",
+      "toTeam": "Manchester City",
+      "league": "프리미어리그",
+      "status": "확인 필요",
+      "fee": "미정",
+      "sourceKey": "premier-league-transfer-monitor",
+      "sourceTier": "low",
+      "sourceName": "Premier League transfer monitor",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZnlVSXQxR3kzUmlldGxmSVV3T1pucUNIV28tNlZ3akZfeFJkYjl5YVJZeXd0RXUwa0NTbjVSWV91Zm91RTZlTXRxb1RzUHg4M3MyLWRTWVJTSmVxaTl1NG0xSW1kcHNBZG0zZHh6SXhSU3E4ZEtZaENHa3VGTGhBbDF0U0FBaDFOMU0yekhqc2N0TVRPVUhtU2s2WUJOdUJuNGkxVkZhX3BKRGpjMHkxOEt3?oc=5",
+      "sourceType": "자동 추출 초안",
+      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다. 이미지 또는 구단 정보 확인이 필요해 검수 대기로 이동했습니다.",
+      "publishedAt": "2026-09-01 22:41",
+      "lastVerifiedAt": "2026-09-02 00:52",
+      "extractionConfidence": "high",
+      "extractionPattern": "club-signs-player-from",
+      "needsVerification": true,
+      "headlineTitle": "Man City sign Enzo Fernández in record-breaking deal from Chelsea - Transfermarkt",
+      "sourceLinks": [
+        {
+          "sourceName": "Premier League transfer monitor",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZnlVSXQxR3kzUmlldGxmSVV3T1pucUNIV28tNlZ3akZfeFJkYjl5YVJZeXd0RXUwa0NTbjVSWV91Zm91RTZlTXRxb1RzUHg4M3MyLWRTWVJTSmVxaTl1NG0xSW1kcHNBZG0zZHh6SXhSU3E4ZEtZaENHa3VGTGhBbDF0U0FBaDFOMU0yekhqc2N0TVRPVUhtU2s2WUJOdUJuNGkxVkZhX3BKRGpjMHkxOEt3?oc=5",
+          "sourceTier": "low",
+          "headlineTitle": "Man City sign Enzo Fernández in record-breaking deal from Chelsea - Transfermarkt",
+          "publishedAt": "2026-09-01 22:41"
         }
       ],
       "sourceCount": 1
@@ -2906,7 +2937,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다. 이미지 또는 구단 정보 확인이 필요해 검수 대기로 이동했습니다.",
       "publishedAt": "2026-09-01 14:01",
-      "lastVerifiedAt": "2026-09-02 00:39",
+      "lastVerifiedAt": "2026-09-02 00:52",
       "extractionConfidence": "high",
       "extractionPattern": "club-signs-player-from",
       "needsVerification": true,
@@ -2937,7 +2968,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다. 이미지 또는 구단 정보 확인이 필요해 검수 대기로 이동했습니다.",
       "publishedAt": "2026-09-01 17:42",
-      "lastVerifiedAt": "2026-09-02 00:39",
+      "lastVerifiedAt": "2026-09-02 00:52",
       "extractionConfidence": "high",
       "extractionPattern": "player-club-signs-from",
       "needsVerification": true,
@@ -2968,7 +2999,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다. 이미지 또는 구단 정보 확인이 필요해 검수 대기로 이동했습니다.",
       "publishedAt": "2026-09-01 18:16",
-      "lastVerifiedAt": "2026-09-02 00:39",
+      "lastVerifiedAt": "2026-09-02 00:52",
       "extractionConfidence": "high",
       "extractionPattern": "player-club-signs-from",
       "needsVerification": true,
@@ -2999,7 +3030,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다. 이미지 또는 구단 정보 확인이 필요해 검수 대기로 이동했습니다.",
       "publishedAt": "2026-09-01 18:57",
-      "lastVerifiedAt": "2026-09-02 00:39",
+      "lastVerifiedAt": "2026-09-02 00:52",
       "extractionConfidence": "high",
       "extractionPattern": "player-club-signs-from",
       "needsVerification": true,
@@ -3030,7 +3061,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다. 이미지 또는 구단 정보 확인이 필요해 검수 대기로 이동했습니다.",
       "publishedAt": "2026-09-01 19:57",
-      "lastVerifiedAt": "2026-09-02 00:39",
+      "lastVerifiedAt": "2026-09-02 00:52",
       "extractionConfidence": "high",
       "extractionPattern": "player-club-signs-from",
       "needsVerification": true,
@@ -3061,7 +3092,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다. 이미지 또는 구단 정보 확인이 필요해 검수 대기로 이동했습니다.",
       "publishedAt": "2026-09-01 22:00",
-      "lastVerifiedAt": "2026-09-02 00:39",
+      "lastVerifiedAt": "2026-09-02 00:52",
       "extractionConfidence": "high",
       "extractionPattern": "player-club-signs-from",
       "needsVerification": true,
@@ -3099,7 +3130,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다. 이미지 또는 구단 정보 확인이 필요해 검수 대기로 이동했습니다.",
       "publishedAt": "2026-09-01 23:04",
-      "lastVerifiedAt": "2026-09-02 00:39",
+      "lastVerifiedAt": "2026-09-02 00:52",
       "extractionConfidence": "high",
       "extractionPattern": "club-signs-player-from",
       "needsVerification": true,
@@ -3130,7 +3161,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다. 이미지 또는 구단 정보 확인이 필요해 검수 대기로 이동했습니다.",
       "publishedAt": "2026-09-01 23:13",
-      "lastVerifiedAt": "2026-09-02 00:39",
+      "lastVerifiedAt": "2026-09-02 00:52",
       "extractionConfidence": "high",
       "extractionPattern": "club-signs-player-from",
       "needsVerification": true,
@@ -3295,7 +3326,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
       "publishedAt": "2026-09-01 19:50",
-      "lastVerifiedAt": "2026-09-02 00:39",
+      "lastVerifiedAt": "2026-09-02 00:52",
       "extractionConfidence": "medium",
       "extractionPattern": "club-signs-player",
       "needsVerification": false,
@@ -3326,7 +3357,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
       "publishedAt": "2026-09-01 17:56",
-      "lastVerifiedAt": "2026-09-02 00:39",
+      "lastVerifiedAt": "2026-09-02 00:52",
       "extractionConfidence": "medium",
       "extractionPattern": "club-signs-player",
       "needsVerification": false,
@@ -3341,7 +3372,7 @@
         }
       ],
       "sourceCount": 1,
-      "reviewSourceCheckedAt": "2026-09-02 00:39"
+      "reviewSourceCheckedAt": "2026-09-02 00:52"
     },
     {
       "id": "draft:https://www.bbc.co.uk/sport/football/articles/c305m3jqy89o?at_medium=RSS&at_campaign=rss",
@@ -3358,7 +3389,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
       "publishedAt": "2026-09-01 16:23",
-      "lastVerifiedAt": "2026-09-02 00:39",
+      "lastVerifiedAt": "2026-09-02 00:52",
       "extractionConfidence": "medium",
       "extractionPattern": "club-signs-player",
       "needsVerification": false,
@@ -3570,7 +3601,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
       "publishedAt": "2026-09-01 20:15",
-      "lastVerifiedAt": "2026-09-02 00:39",
+      "lastVerifiedAt": "2026-09-02 00:52",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -3586,7 +3617,7 @@
       ],
       "sourceCount": 1,
       "articleImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "reviewSourceCheckedAt": "2026-09-02 00:39",
+      "reviewSourceCheckedAt": "2026-09-02 00:52",
       "reviewSourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOY0tLalV0YjRibC01X204X1R2RWMtU2F3VG5fem5OT0tsbUVjalZFNmpCanJMXzhwbkFFMTV2bWJ5UzFsLTkwWndUaDZnZ3l5Qks3Vk01bm42TTNzak5zV3Z1NjdhMDJ5dFVTQ0xvMzRLdTVvMHpEVHdaUmNFZmJxQmZQM0lJSVYxWm8tM252eTNSbGhoaGc"
     },
     {
@@ -3604,7 +3635,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
       "publishedAt": "2026-09-01 18:12",
-      "lastVerifiedAt": "2026-09-02 00:39",
+      "lastVerifiedAt": "2026-09-02 00:52",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -3620,7 +3651,7 @@
       ],
       "sourceCount": 1,
       "articleImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "reviewSourceCheckedAt": "2026-09-02 00:39",
+      "reviewSourceCheckedAt": "2026-09-02 00:52",
       "reviewSourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQjhzakRqd2pUQmJ4MUljZ1JjWXVsNUZZc1JfdFBQbVltbDB6eEdSaHUyMjZFcDU1WTJ6ZjNBaVpnOUVScXNIM2x4alhtNEFiMVZUazE0U3NEcG9nZmpfZ2NGY2hCek1hbDIxTkNmWVNrb1dLWjNVTks3LXdFblE5ZF9PYVV3VHJvZGtFQVdISTA"
     },
     {
@@ -3754,38 +3785,6 @@
       "reviewSourceUrl": "https://www.bbc.co.uk/sport/football/articles/cje8x575v51o"
     },
     {
-      "id": "draft:https://news.google.com/rss/articles/CBMikAFBVV95cUxPNm5DT2RBamJqLUgybGMwMTFYUEY5aTdRMVUyZDBScE5oVHNCMlh6Y3QxZzhCSjJEQ1pVWEppbGhsQjJNTFFBSHdoREQtY1QzVTEybVMwejZPVkhwMFhweFd2MlAxcV9XeENCVjNUSUx1UlFsUFlkaGE4M1JoVjc5TmFSTUZfenNxSnlhUko3bXI?oc=5",
-      "player": "Manu Kone",
-      "fromTeam": "AS Roma",
-      "toTeam": "Chelsea make contact",
-      "league": "미분류",
-      "status": "확인 필요",
-      "fee": "미정",
-      "sourceKey": "santi-aouna-monitor",
-      "sourceTier": "medium",
-      "sourceName": "Santi Aouna monitor",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNm5DT2RBamJqLUgybGMwMTFYUEY5aTdRMVUyZDBScE5oVHNCMlh6Y3QxZzhCSjJEQ1pVWEppbGhsQjJNTFFBSHdoREQtY1QzVTEybVMwejZPVkhwMFhweFd2MlAxcV9XeENCVjNUSUx1UlFsUFlkaGE4M1JoVjc5TmFSTUZfenNxSnlhUko3bXI?oc=5",
-      "sourceType": "자동 추출 초안",
-      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다. 이미지 또는 구단 정보 확인이 필요해 검수 대기로 이동했습니다.",
-      "publishedAt": "2026-09-01 12:11",
-      "lastVerifiedAt": "2026-09-01 23:58",
-      "extractionConfidence": "medium",
-      "extractionPattern": "club-talks-to-sign-player",
-      "needsVerification": true,
-      "headlineTitle": "Chelsea make contact to sign Manu Kone from AS Roma - football-talk.co.uk",
-      "sourceLinks": [
-        {
-          "sourceName": "Santi Aouna monitor",
-          "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNm5DT2RBamJqLUgybGMwMTFYUEY5aTdRMVUyZDBScE5oVHNCMlh6Y3QxZzhCSjJEQ1pVWEppbGhsQjJNTFFBSHdoREQtY1QzVTEybVMwejZPVkhwMFhweFd2MlAxcV9XeENCVjNUSUx1UlFsUFlkaGE4M1JoVjc5TmFSTUZfenNxSnlhUko3bXI?oc=5",
-          "sourceTier": "medium",
-          "headlineTitle": "Chelsea make contact to sign Manu Kone from AS Roma - football-talk.co.uk",
-          "publishedAt": "2026-09-01 12:11"
-        }
-      ],
-      "sourceCount": 1,
-      "reviewSourceCheckedAt": "2026-09-02 00:21"
-    },
-    {
       "id": "draft:https://news.google.com/rss/articles/CBMijAFBVV95cUxNemFpTmxCM05HQndhR1RzSWZQekdsVXljMVdQM1E4bE4wRExpcnZMVGVwSVpuT3B3dENuLW9jWVpvbWs2c1YyYTJkQ2FGMGdPRERWcWhUTmFBdndRbldNVU8zdXRTci1XZWRhd0hwSmNmZFZCZTREYllrT0tIcHNEV3k1SGdjaEFLTXRTbQ?oc=5",
       "player": "Malick Fofana",
       "fromTeam": "Lyon",
@@ -3897,7 +3896,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
       "publishedAt": "2026-09-01 23:48",
-      "lastVerifiedAt": "2026-09-02 00:39",
+      "lastVerifiedAt": "2026-09-02 00:52",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -3913,7 +3912,7 @@
       ],
       "sourceCount": 1,
       "articleImageUrl": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/aec0/live/fd14b290-e25e-11ef-a819-277e390a7a08.jpg",
-      "reviewSourceCheckedAt": "2026-09-02 00:39",
+      "reviewSourceCheckedAt": "2026-09-02 00:52",
       "reviewSourceUrl": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo"
     },
     {
@@ -3931,7 +3930,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
       "publishedAt": "2026-09-01 23:46",
-      "lastVerifiedAt": "2026-09-02 00:39",
+      "lastVerifiedAt": "2026-09-02 00:52",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -3947,7 +3946,7 @@
       ],
       "sourceCount": 1,
       "articleImageUrl": "https://i.guim.co.uk/img/media/af38f5ab0e4bcb35a6f13af3ea290d44e582d963/749_0_3745_2996/master/3745.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=34f0b70049a5acbc893154202d28ddfe",
-      "reviewSourceCheckedAt": "2026-09-02 00:39",
+      "reviewSourceCheckedAt": "2026-09-02 00:52",
       "reviewSourceUrl": "https://www.theguardian.com/football/2026/sep/02/everton-in-late-scramble-to-complete-balogun-transfer-after-flurry-of-sales"
     },
     {
@@ -3965,7 +3964,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
       "publishedAt": "2026-09-01 23:41",
-      "lastVerifiedAt": "2026-09-02 00:39",
+      "lastVerifiedAt": "2026-09-02 00:52",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -3981,7 +3980,7 @@
       ],
       "sourceCount": 1,
       "articleImageUrl": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/81d6/live/655f9bd0-a65d-11f1-90c0-d91d8bc7338d.jpg",
-      "reviewSourceCheckedAt": "2026-09-02 00:39",
+      "reviewSourceCheckedAt": "2026-09-02 00:52",
       "reviewSourceUrl": "https://www.bbc.co.uk/sport/football/articles/c780e6q84l4o"
     },
     {
@@ -3999,7 +3998,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
       "publishedAt": "2026-09-01 23:34",
-      "lastVerifiedAt": "2026-09-02 00:39",
+      "lastVerifiedAt": "2026-09-02 00:52",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -4015,7 +4014,7 @@
       ],
       "sourceCount": 1,
       "articleImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "reviewSourceCheckedAt": "2026-09-02 00:39",
+      "reviewSourceCheckedAt": "2026-09-02 00:52",
       "reviewSourceUrl": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPX3dvRFZFZ1EzQ09oRFE4U01nMFh1cjVzcVhWMU4zOXBxZkFqNkg0VGhzT1JBSW0zMmd0NmRlN0tPS1UwaXVxbkpSa0FHcUFScUdHdEZLR0V2VnR6azRaQ3ZWdFNGLXpBMXRpTEZTNmx1QUFYOUtVempwcF8yNnFMQ0w5NFpoaEJVR1l4dkNHVDRLVmRvYVdVNm1GRTZDb20xa09IT2Nwb2R2Sk9Od2RUM2FCVk11czFXOGdrM2lRVllxYnBqeGhQa1dwZkNxb3M1UVVxMFlxQmMxN2VEVUJyU3htT2FxNUU4YlBXTENscFd6VUZtZUQ2M1BZSVk4SW9sODdTc1RzcUQ3QlZMVENETXZvcTI"
     },
     {
@@ -4033,7 +4032,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
       "publishedAt": "2026-09-01 23:12",
-      "lastVerifiedAt": "2026-09-02 00:39",
+      "lastVerifiedAt": "2026-09-02 00:52",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -4049,7 +4048,7 @@
       ],
       "sourceCount": 1,
       "articleImageUrl": "https://i.guim.co.uk/img/media/68cabe3ca5bad54d44d600ba2d26fc8eb5806a6f/1481_305_3217_2576/master/3217.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=45b567f435e60e94d1103d21fd77415a",
-      "reviewSourceCheckedAt": "2026-09-02 00:39",
+      "reviewSourceCheckedAt": "2026-09-02 00:52",
       "reviewSourceUrl": "https://www.theguardian.com/football/2026/sep/02/fernandez-completes-record-equalling-125m-move-from-chelsea-to-manchester-city"
     },
     {
@@ -4067,7 +4066,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
       "publishedAt": "2026-09-01 23:03",
-      "lastVerifiedAt": "2026-09-02 00:39",
+      "lastVerifiedAt": "2026-09-02 00:52",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -4083,7 +4082,7 @@
       ],
       "sourceCount": 1,
       "articleImageUrl": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/765f/live/5b5b17c0-a65a-11f1-b109-879e35c24276.png",
-      "reviewSourceCheckedAt": "2026-09-02 00:39",
+      "reviewSourceCheckedAt": "2026-09-02 00:52",
       "reviewSourceUrl": "https://www.bbc.co.uk/sport/football/articles/c62ek3n67e7o"
     },
     {
@@ -4101,7 +4100,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
       "publishedAt": "2026-09-01 22:15",
-      "lastVerifiedAt": "2026-09-02 00:39",
+      "lastVerifiedAt": "2026-09-02 00:52",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -4200,7 +4199,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
       "publishedAt": "2026-09-01 21:30",
-      "lastVerifiedAt": "2026-09-02 00:39",
+      "lastVerifiedAt": "2026-09-02 00:52",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -4265,7 +4264,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
       "publishedAt": "2026-09-01 21:06",
-      "lastVerifiedAt": "2026-09-02 00:39",
+      "lastVerifiedAt": "2026-09-02 00:52",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -4281,7 +4280,7 @@
       ],
       "sourceCount": 1,
       "articleImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "reviewSourceCheckedAt": "2026-09-02 00:39",
+      "reviewSourceCheckedAt": "2026-09-02 00:52",
       "reviewSourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOd2I3SkYxUmUzRVBuYWMxWGdVQVhFZTJ2ZExpSFhSYXVqNlZEc3FNVFZ4MEp1ZjkxZTRMdlpCM2NMb01xUUhYUXcyRW1SSVBVYlFIdHlpWnVRelF5VXlLZm1kVk1QQU5FV2pDaEFzbzByaHlwZFJtd3JNaVZ3MEF5TEJRcw"
     },
     {
@@ -4460,7 +4459,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
       "publishedAt": "2026-09-01 18:32",
-      "lastVerifiedAt": "2026-09-02 00:39",
+      "lastVerifiedAt": "2026-09-02 00:52",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -4475,7 +4474,7 @@
         }
       ],
       "sourceCount": 1,
-      "reviewSourceCheckedAt": "2026-09-02 00:39"
+      "reviewSourceCheckedAt": "2026-09-02 00:52"
     },
     {
       "id": "draft:https://news.google.com/rss/articles/CBMigwFBVV95cUxNOW9OOHBuSl8yRGNpXzl6MFlYRlM2NlA3Nm1MNDZmc3dRSmdwanFwSTU3elRFRVJybWVkdGl6ZlhhVFhIMElYYkwxWWV2TUQ5LXhibjk1d21ZcWkyZmdIRXpaUTd0VmxyYnpYMTZObDJlY0VGNko4Z3pZRFhSZEM1c3p5dw?oc=5",
@@ -4526,7 +4525,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
       "publishedAt": "2026-09-01 18:18",
-      "lastVerifiedAt": "2026-09-01 20:15",
+      "lastVerifiedAt": "2026-09-02 00:52",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -4537,12 +4536,46 @@
           "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQ1VvcUtzZ2RzME00OGtjYXRiT3BKaGlFWnJhZG13T3hZUGlfejI0TFY1RGQ1YlFIZVowdHk2TnNGMkdJMF9Wb3ZmXzBLQjIwS3hKUllNOURZMzF2ZDNqTlp1UjJWWEhfTzd0S0lLZ2xmdzBhb1ZCaVpZaGxWazhUeDE0OGM4by1PRlhHazVCajZOQ3ZWXzJVVkZUbGs5SHc?oc=5",
           "sourceTier": "medium",
           "headlineTitle": "Arsenal’s Ethan Nwaneri completes Borussia Dortmund loan move - The New York Times",
-          "publishedAt": "2026-09-01 07:47"
+          "publishedAt": "2026-09-01 18:18"
         }
       ],
       "sourceCount": 1,
       "articleImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "reviewSourceCheckedAt": "2026-09-01 20:15",
+      "reviewSourceCheckedAt": "2026-09-02 00:52",
+      "reviewSourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQ1VvcUtzZ2RzME00OGtjYXRiT3BKaGlFWnJhZG13T3hZUGlfejI0TFY1RGQ1YlFIZVowdHk2TnNGMkdJMF9Wb3ZmXzBLQjIwS3hKUllNOURZMzF2ZDNqTlp1UjJWWEhfTzd0S0lLZ2xmdzBhb1ZCaVpZaGxWazhUeDE0OGM4by1PRlhHazVCajZOQ3ZWXzJVVkZUbGs5SHc"
+    },
+    {
+      "id": "draft:https://news.google.com/rss/articles/CBMinwFBVV95cUxQQ1VvcUtzZ2RzME00OGtjYXRiT3BKaGlFWnJhZG13T3hZUGlfejI0TFY1RGQ1YlFIZVowdHk2TnNGMkdJMF9Wb3ZmXzBLQjIwS3hKUllNOURZMzF2ZDNqTlp1UjJWWEhfTzd0S0lLZ2xmdzBhb1ZCaVpZaGxWazhUeDE0OGM4by1PRlhHazVCajZOQ3ZWXzJVVkZUbGs5SHc?oc=5",
+      "player": "Ethan Nwaneri",
+      "fromTeam": "Arsenal",
+      "toTeam": "미상",
+      "league": "미분류",
+      "status": "확인 필요",
+      "fee": "미정",
+      "sourceKey": "ornstein-monitor",
+      "sourceTier": "medium",
+      "sourceName": "David Ornstein 검색 모니터",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQ1VvcUtzZ2RzME00OGtjYXRiT3BKaGlFWnJhZG13T3hZUGlfejI0TFY1RGQ1YlFIZVowdHk2TnNGMkdJMF9Wb3ZmXzBLQjIwS3hKUllNOURZMzF2ZDNqTlp1UjJWWEhfTzd0S0lLZ2xmdzBhb1ZCaVpZaGxWazhUeDE0OGM4by1PRlhHazVCajZOQ3ZWXzJVVkZUbGs5SHc",
+      "sourceType": "자동 추출 초안",
+      "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
+      "publishedAt": "2026-09-01 18:18",
+      "lastVerifiedAt": "2026-09-02 00:52",
+      "extractionConfidence": "low",
+      "extractionPattern": "fallback-unparsed-transfer-headline",
+      "needsVerification": true,
+      "headlineTitle": "Arsenal’s Ethan Nwaneri completes Borussia Dortmund loan move - The New York Times",
+      "sourceLinks": [
+        {
+          "sourceName": "David Ornstein 검색 모니터",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQ1VvcUtzZ2RzME00OGtjYXRiT3BKaGlFWnJhZG13T3hZUGlfejI0TFY1RGQ1YlFIZVowdHk2TnNGMkdJMF9Wb3ZmXzBLQjIwS3hKUllNOURZMzF2ZDNqTlp1UjJWWEhfTzd0S0lLZ2xmdzBhb1ZCaVpZaGxWazhUeDE0OGM4by1PRlhHazVCajZOQ3ZWXzJVVkZUbGs5SHc?oc=5",
+          "sourceTier": "medium",
+          "headlineTitle": "Arsenal’s Ethan Nwaneri completes Borussia Dortmund loan move - The New York Times",
+          "publishedAt": "2026-09-01 18:18"
+        }
+      ],
+      "sourceCount": 1,
+      "articleImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "reviewSourceCheckedAt": "2026-09-02 00:52",
       "reviewSourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQ1VvcUtzZ2RzME00OGtjYXRiT3BKaGlFWnJhZG13T3hZUGlfejI0TFY1RGQ1YlFIZVowdHk2TnNGMkdJMF9Wb3ZmXzBLQjIwS3hKUllNOURZMzF2ZDNqTlp1UjJWWEhfTzd0S0lLZ2xmdzBhb1ZCaVpZaGxWazhUeDE0OGM4by1PRlhHazVCajZOQ3ZWXzJVVkZUbGs5SHc"
     },
     {
@@ -4560,7 +4593,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
       "publishedAt": "2026-09-01 17:58",
-      "lastVerifiedAt": "2026-09-02 00:39",
+      "lastVerifiedAt": "2026-09-02 00:52",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -4576,7 +4609,7 @@
       ],
       "sourceCount": 1,
       "articleImageUrl": "https://i.guim.co.uk/img/media/7b6fd73c5331588cad62408a4b73fc551209ddc1/436_84_2368_1894/master/2368.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=423e7eb21f9800b73ea9a71b53d93542",
-      "reviewSourceCheckedAt": "2026-09-02 00:39",
+      "reviewSourceCheckedAt": "2026-09-02 00:52",
       "reviewSourceUrl": "https://www.theguardian.com/football/2026/sep/01/aston-villa-sign-mbaye-and-harwood-bellis-as-newcastle-get-fernandez-pardo"
     },
     {
@@ -5232,37 +5265,6 @@
           "sourceTier": "medium",
           "headlineTitle": "Kevin Danso set to join Sunderland as loan deal agreed - thehardtackle.com",
           "publishedAt": "2026-09-01 08:01"
-        }
-      ],
-      "sourceCount": 1
-    },
-    {
-      "id": "draft:https://news.google.com/rss/articles/CBMinwFBVV95cUxQQ1VvcUtzZ2RzME00OGtjYXRiT3BKaGlFWnJhZG13T3hZUGlfejI0TFY1RGQ1YlFIZVowdHk2TnNGMkdJMF9Wb3ZmXzBLQjIwS3hKUllNOURZMzF2ZDNqTlp1UjJWWEhfTzd0S0lLZ2xmdzBhb1ZCaVpZaGxWazhUeDE0OGM4by1PRlhHazVCajZOQ3ZWXzJVVkZUbGs5SHc?oc=5",
-      "player": "Ethan Nwaneri",
-      "fromTeam": "Arsenal",
-      "toTeam": "미상",
-      "league": "미분류",
-      "status": "확인 필요",
-      "fee": "미정",
-      "sourceKey": "ornstein-monitor",
-      "sourceTier": "medium",
-      "sourceName": "David Ornstein 검색 모니터",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQ1VvcUtzZ2RzME00OGtjYXRiT3BKaGlFWnJhZG13T3hZUGlfejI0TFY1RGQ1YlFIZVowdHk2TnNGMkdJMF9Wb3ZmXzBLQjIwS3hKUllNOURZMzF2ZDNqTlp1UjJWWEhfTzd0S0lLZ2xmdzBhb1ZCaVpZaGxWazhUeDE0OGM4by1PRlhHazVCajZOQ3ZWXzJVVkZUbGs5SHc?oc=5",
-      "sourceType": "자동 추출 초안",
-      "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
-      "publishedAt": "2026-09-01 07:47",
-      "lastVerifiedAt": "2026-09-01 20:40",
-      "extractionConfidence": "low",
-      "extractionPattern": "fallback-unparsed-transfer-headline",
-      "needsVerification": true,
-      "headlineTitle": "Arsenal’s Ethan Nwaneri set for Borussia Dortmund medical ahead of loan deal - The New York Times",
-      "sourceLinks": [
-        {
-          "sourceName": "David Ornstein 검색 모니터",
-          "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQ1VvcUtzZ2RzME00OGtjYXRiT3BKaGlFWnJhZG13T3hZUGlfejI0TFY1RGQ1YlFIZVowdHk2TnNGMkdJMF9Wb3ZmXzBLQjIwS3hKUllNOURZMzF2ZDNqTlp1UjJWWEhfTzd0S0lLZ2xmdzBhb1ZCaVpZaGxWazhUeDE0OGM4by1PRlhHazVCajZOQ3ZWXzJVVkZUbGs5SHc?oc=5",
-          "sourceTier": "medium",
-          "headlineTitle": "Arsenal’s Ethan Nwaneri set for Borussia Dortmund medical ahead of loan deal - The New York Times",
-          "publishedAt": "2026-09-01 07:47"
         }
       ],
       "sourceCount": 1
@@ -5984,6 +5986,37 @@
       "sourceCount": 1
     },
     {
+      "id": "draft:https://news.google.com/rss/articles/CBMiakFVX3lxTE9LeFQzc010bDJWaUQxMDAxcUJZMFVIMWZJcU5xempZeTZyNDRCQWFSTXo3ekZwLVdleFJUbXJTckFsZXhtTWhqRER4cG1tRENzVkhtOFdvWDNMem1Ud05DaDJSZ01EUUpMQ0E?oc=5",
+      "player": "Ait-Nouri",
+      "fromTeam": "Manchester City",
+      "toTeam": "Man Utd fail in attempt",
+      "league": "미분류",
+      "status": "확인 필요",
+      "fee": "미정",
+      "sourceKey": "global-transfer-monitor",
+      "sourceTier": "low",
+      "sourceName": "Global transfer news monitor",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9LeFQzc010bDJWaUQxMDAxcUJZMFVIMWZJcU5xempZeTZyNDRCQWFSTXo3ekZwLVdleFJUbXJTckFsZXhtTWhqRER4cG1tRENzVkhtOFdvWDNMem1Ud05DaDJSZ01EUUpMQ0E?oc=5",
+      "sourceType": "자동 추출 초안",
+      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다. 이미지 또는 구단 정보 확인이 필요해 검수 대기로 이동했습니다.",
+      "publishedAt": "2026-09-01 15:36",
+      "lastVerifiedAt": "2026-09-02 00:39",
+      "extractionConfidence": "medium",
+      "extractionPattern": "club-talks-to-sign-player",
+      "needsVerification": true,
+      "headlineTitle": "Man Utd fail in attempt to sign Ait-Nouri from Man City - BBC",
+      "sourceLinks": [
+        {
+          "sourceName": "Global transfer news monitor",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9LeFQzc010bDJWaUQxMDAxcUJZMFVIMWZJcU5xempZeTZyNDRCQWFSTXo3ekZwLVdleFJUbXJTckFsZXhtTWhqRER4cG1tRENzVkhtOFdvWDNMem1Ud05DaDJSZ01EUUpMQ0E?oc=5",
+          "sourceTier": "low",
+          "headlineTitle": "Man Utd fail in attempt to sign Ait-Nouri from Man City - BBC",
+          "publishedAt": "2026-09-01 15:36"
+        }
+      ],
+      "sourceCount": 1
+    },
+    {
       "id": "draft:https://news.google.com/rss/articles/CBMioAFBVV95cUxPb1BsSzhPck5nT1p1ejFsRmJsWGxZcWNQNy1aMjZPN1NkTzhxMi1xNENQN21EaksyRng2QkFDaWJLQWRheWt0TndfZjVpTWNSYnJFd3hTbkxIRlJ4c1dlYVlfamxPQ1BGb1dNeGZvcTJLbWR0UFctVEZuczZybnlyMzM0S0VXUHUzUEhFXzdCX2pvcjNNY3FNSGNDS1E5ekNq0gGmAUFVX3lxTFBQbFdlSFdkSUZrWlp4VFlkRFZsN0FSd0l3QW9fZlZzVFlaZ0ZsNXlZUHQzQUdlaVVXUHZpeG5qZUhkV0o5SGFoTl96bGRkcHcxZzliVHYxQURlQU1tcVhHazl5TVRZYzVJLVJpdkNteUpNVDFqLW9seVloZ2xPNHFmMUlBZHlLYXRRaFhwQnYydFFVdG5IN1NqYXFEbDY2SkFGUi1yZUE?oc=5",
       "player": "after accusation",
       "fromTeam": "rival player and hijack another hour",
@@ -6029,7 +6062,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
       "publishedAt": "2026-09-02 00:09",
-      "lastVerifiedAt": "2026-09-02 00:39",
+      "lastVerifiedAt": "2026-09-02 00:52",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -6045,8 +6078,42 @@
       ],
       "sourceCount": 1,
       "articleImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "reviewSourceCheckedAt": "2026-09-02 00:39",
+      "reviewSourceCheckedAt": "2026-09-02 00:52",
       "reviewSourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQzY1Qk5fU252NjVsbkdNSUR4LTk4dDNDRzlFV0JLZzNCcDY0bVk5WWdIYXJBRXBISFlqalZzNDlNLVNlaWxEcTk2MzkzcTZfcDRnYWRBYmRyNDh2elZuM1FRZk9SeklzRXdjVHRRU0VQeXpVeDRxQWp3SzU3eWRLS0NkYjRFYnBQU3gyNXAyVko4Q1RVajNwcFNFd194WFpaOFZLXzZqOUg2NWxJamtnQmlqNDRfLW92TmxoWGlhdlR4bk0"
+    },
+    {
+      "id": "draft:https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pNGNWNUhITnkyYjh2b0VRVlNBMFZkRE5TZmZwNk1tTTdic1M5QkZBdV9leGFQNzZ4d29pRUZOWHZneTFLNTRYQ3ctUDFlUHZ1ekE?oc=5",
+      "player": "David Ornstein",
+      "fromTeam": "Balogun",
+      "toTeam": "미상",
+      "league": "미분류",
+      "status": "확인 필요",
+      "fee": "미정",
+      "sourceKey": "instagram-indirect-monitor",
+      "sourceTier": "low",
+      "sourceName": "Instagram 간접 검색 모니터",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pNGNWNUhITnkyYjh2b0VRVlNBMFZkRE5TZmZwNk1tTTdic1M5QkZBdV9leGFQNzZ4d29pRUZOWHZneTFLNTRYQ3ctUDFlUHZ1ekE",
+      "sourceType": "자동 추출 초안",
+      "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
+      "publishedAt": "2026-09-01 23:35",
+      "lastVerifiedAt": "2026-09-02 00:52",
+      "extractionConfidence": "low",
+      "extractionPattern": "fallback-unparsed-transfer-headline",
+      "needsVerification": true,
+      "headlineTitle": "FOLARIN BALOGUN’S MOVE TO EVERTON IS OFF ❌ After an earlier issue with his medical, Balogun’s move from Monaco to Everton was renegotiated, but the USMNT striker eventually walked away from the deal, reports The Athletic’s David Ornstein. - instagram.com",
+      "sourceLinks": [
+        {
+          "sourceName": "Instagram 간접 검색 모니터",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pNGNWNUhITnkyYjh2b0VRVlNBMFZkRE5TZmZwNk1tTTdic1M5QkZBdV9leGFQNzZ4d29pRUZOWHZneTFLNTRYQ3ctUDFlUHZ1ekE?oc=5",
+          "sourceTier": "low",
+          "headlineTitle": "FOLARIN BALOGUN’S MOVE TO EVERTON IS OFF ❌ After an earlier issue with his medical, Balogun’s move from Monaco to Everton was renegotiated, but the USMNT striker eventually walked away from the deal, reports The Athletic’s David Ornstein. - instagram.com",
+          "publishedAt": "2026-09-01 23:35"
+        }
+      ],
+      "sourceCount": 1,
+      "articleImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "reviewSourceCheckedAt": "2026-09-02 00:52",
+      "reviewSourceUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pNGNWNUhITnkyYjh2b0VRVlNBMFZkRE5TZmZwNk1tTTdic1M5QkZBdV9leGFQNzZ4d29pRUZOWHZneTFLNTRYQ3ctUDFlUHZ1ekE"
     },
     {
       "id": "draft:https://news.google.com/rss/articles/CBMikAFBVV95cUxNaXVaeUIzZTdRRzk4a3lEdVJVVzNPUVFiaWN2WE5DOERMX0VudTlpMk1aSWRvamYweVNTWnhxV1RUUmJod2FqeFFsQ19ydV9Fei10ZGlMaVdZakQxNy1QdXp1aUZoNjl6eC14TzhFVjdMUWpHV3V3SG55cDJFUmxqdGZHbDB5aUdlWGdEYzdOTy0?oc=5",
@@ -6131,7 +6198,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
       "publishedAt": "2026-09-01 21:45",
-      "lastVerifiedAt": "2026-09-01 23:23",
+      "lastVerifiedAt": "2026-09-02 00:52",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -6147,7 +6214,7 @@
       ],
       "sourceCount": 1,
       "articleImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "reviewSourceCheckedAt": "2026-09-01 23:23",
+      "reviewSourceCheckedAt": "2026-09-02 00:52",
       "reviewSourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZnBJUVhpQ1NmcnFkNjY3MVhkWmJXcHJNZ1UtOU5MWUVFandOVkdvSnp0UURwYVhTQVd4b3ZPR1V6bVRlX1k3cHh3RWYxM3MybmUxYVRSMC1TLTdWcUdQNldyRDRFS01PcEh5RHZncjhTV1hWM3lmeno4ck1OQ2tXajQ2Q3pwNTFZcjl1REF1YVh5V0k4aDRGQU9qS0l1MUlQV3UwbGxjYk0tT3NPY3hKd0VqU0JXc2Y3dUl4end2THB0TXBBX05DLUFiRER6YUFwUE52YXVfZGgyY0lWa0E"
     },
     {
@@ -6165,7 +6232,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
       "publishedAt": "2026-09-01 21:32",
-      "lastVerifiedAt": "2026-09-02 00:39",
+      "lastVerifiedAt": "2026-09-02 00:52",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -6181,7 +6248,7 @@
       ],
       "sourceCount": 1,
       "articleImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "reviewSourceCheckedAt": "2026-09-02 00:39",
+      "reviewSourceCheckedAt": "2026-09-02 00:52",
       "reviewSourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORW1Vb0NUdnpwZU5YaUx0SGx3eU1rZDgzaEJ2WHp0bUo0U3BVbkJmU2ZvOXE5WGJJTkd5Y0lSVmMxQ1E1NnBuRHBZUXNLY0lQems0Vm1Ud3ZaM015Vi1DTnhjM3Z3MXExaTRRTTFhOXdvX2xqLTBhRU4yLW9oX0FBNDFNZ1hfTzRLNVY1WGNYcXQzTVd4cFlGdXpYNTY2bDlCVUQtcU9pdml5eExRWVQ2b2NMa3J1SFg5bWI4QkRfbkg0dDU5dXk4WlJR"
     },
     {
@@ -6258,40 +6325,6 @@
       "articleImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "reviewSourceCheckedAt": "2026-09-01 22:21",
       "reviewSourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ONllVQ2RLYzlIWEh1T3FPb0U5dVpydDBBcFl2SDIzeGRkV3dNT2oyWmlzc3YxVUNQRFlIX05hZF9nLXZYd1c2MjJ3VlBkaERENnNZWlk1bjl2QnZZVkNfNTExWTFsR1BuQVE"
-    },
-    {
-      "id": "draft:https://news.google.com/rss/articles/CBMiowFBVV95cUxQNF9GQ29kaXFEbktKSDVXVkROa3F5cmNQVVFQalFZMHZhakRCWVU2Y3hkY1VtalZTUDNkWHBab3RQWEtxUFU2ZnpRTHJlYllSWmpRZFVaZmVpeG5DRnhvaWRPdWFFblJ5V3lDZGJoZkVmZ2FXa3Zra2FYREx2VXFSbVNLeVVTcTd6aFlvVHR6Rmh3VzRCOGg5SjgtVjlJd3VCYU1F?oc=5",
-      "player": "Louis Page",
-      "fromTeam": "소속팀 확인 중",
-      "toTeam": "미상",
-      "league": "미분류",
-      "status": "확인 필요",
-      "fee": "미정",
-      "sourceKey": "global-transfer-monitor",
-      "sourceTier": "low",
-      "sourceName": "Global transfer news monitor",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNF9GQ29kaXFEbktKSDVXVkROa3F5cmNQVVFQalFZMHZhakRCWVU2Y3hkY1VtalZTUDNkWHBab3RQWEtxUFU2ZnpRTHJlYllSWmpRZFVaZmVpeG5DRnhvaWRPdWFFblJ5V3lDZGJoZkVmZ2FXa3Zra2FYREx2VXFSbVNLeVVTcTd6aFlvVHR6Rmh3VzRCOGg5SjgtVjlJd3VCYU1F",
-      "sourceType": "자동 추출 초안",
-      "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
-      "publishedAt": "2026-09-01 20:58",
-      "lastVerifiedAt": "2026-09-02 00:39",
-      "extractionConfidence": "low",
-      "extractionPattern": "fallback-unparsed-transfer-headline",
-      "needsVerification": true,
-      "headlineTitle": "Louis Page to Man Utd transfer twist as Leicester make key decision - standard.co.uk",
-      "sourceLinks": [
-        {
-          "sourceName": "Global transfer news monitor",
-          "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNF9GQ29kaXFEbktKSDVXVkROa3F5cmNQVVFQalFZMHZhakRCWVU2Y3hkY1VtalZTUDNkWHBab3RQWEtxUFU2ZnpRTHJlYllSWmpRZFVaZmVpeG5DRnhvaWRPdWFFblJ5V3lDZGJoZkVmZ2FXa3Zra2FYREx2VXFSbVNLeVVTcTd6aFlvVHR6Rmh3VzRCOGg5SjgtVjlJd3VCYU1F?oc=5",
-          "sourceTier": "low",
-          "headlineTitle": "Louis Page to Man Utd transfer twist as Leicester make key decision - standard.co.uk",
-          "publishedAt": "2026-09-01 20:58"
-        }
-      ],
-      "sourceCount": 1,
-      "articleImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "reviewSourceCheckedAt": "2026-09-02 00:39",
-      "reviewSourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNF9GQ29kaXFEbktKSDVXVkROa3F5cmNQVVFQalFZMHZhakRCWVU2Y3hkY1VtalZTUDNkWHBab3RQWEtxUFU2ZnpRTHJlYllSWmpRZFVaZmVpeG5DRnhvaWRPdWFFblJ5V3lDZGJoZkVmZ2FXa3Zra2FYREx2VXFSbVNLeVVTcTd6aFlvVHR6Rmh3VzRCOGg5SjgtVjlJd3VCYU1F"
     },
     {
       "id": "draft:https://news.google.com/rss/articles/CBMiowFBVV95cUxQNF9GQ29kaXFEbktKSDVXVkROa3F5cmNQVVFQalFZMHZhakRCWVU2Y3hkY1VtalZTUDNkWHBab3RQWEtxUFU2ZnpRTHJlYllSWmpRZFVaZmVpeG5DRnhvaWRPdWFFblJ5V3lDZGJoZkVmZ2FXa3Zra2FYREx2VXFSbVNLeVVTcTd6aFlvVHR6Rmh3VzRCOGg5SjgtVjlJd3VCYU1F?oc=5",
@@ -6478,7 +6511,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
       "publishedAt": "2026-09-01 19:17",
-      "lastVerifiedAt": "2026-09-02 00:39",
+      "lastVerifiedAt": "2026-09-02 00:52",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -6494,7 +6527,7 @@
       ],
       "sourceCount": 1,
       "articleImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "reviewSourceCheckedAt": "2026-09-02 00:39",
+      "reviewSourceCheckedAt": "2026-09-02 00:52",
       "reviewSourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUTlWNnZLU2R4c1NxSjRFVk82c0lBSGV3SjFLc2lNRWFIOFBCckdueUFxbDVIUGx5SzhfcXd1dXBhZVJodzh2Q3RaVzNycHliLXZoekxtYXo3ZEFGVF9Sd1IwbnZta200N1JhU0gzcHA2SGM4dnpoZ2xqa19YeUFJTjlQMTEzT243U2hodlhBaGZIbEw1VldROUpBQQ"
     },
     {
@@ -6546,23 +6579,57 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
       "publishedAt": "2026-09-01 18:01",
-      "lastVerifiedAt": "2026-09-02 00:39",
+      "lastVerifiedAt": "2026-09-02 00:52",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
-      "headlineTitle": "Lucca Brughmans joins Liverpool in deal worth up to £30m - BBC",
+      "headlineTitle": "Lucca Brughmans joins Liverpool in deal worth up to £30m - bbc.com",
       "sourceLinks": [
         {
           "sourceName": "Global transfer news monitor",
           "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9IRFd3eHRoUTl1WjFMcm1wdTdETlZhMkRpRFh6MFp5X29vMENsWUZLMXZ3NkEtOVNPRWdvVXhFN1hKaVE1WFJJTWVBYVZjaUgtU25SeTVxU25XWGNxakdKUExHVkFYcW8?oc=5",
           "sourceTier": "low",
-          "headlineTitle": "Lucca Brughmans joins Liverpool in deal worth up to £30m - BBC",
+          "headlineTitle": "Lucca Brughmans joins Liverpool in deal worth up to £30m - bbc.com",
           "publishedAt": "2026-09-01 18:01"
         }
       ],
       "sourceCount": 1,
       "articleImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "reviewSourceCheckedAt": "2026-09-02 00:39",
+      "reviewSourceCheckedAt": "2026-09-02 00:52",
+      "reviewSourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9IRFd3eHRoUTl1WjFMcm1wdTdETlZhMkRpRFh6MFp5X29vMENsWUZLMXZ3NkEtOVNPRWdvVXhFN1hKaVE1WFJJTWVBYVZjaUgtU25SeTVxU25XWGNxakdKUExHVkFYcW8"
+    },
+    {
+      "id": "draft:https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9IRFd3eHRoUTl1WjFMcm1wdTdETlZhMkRpRFh6MFp5X29vMENsWUZLMXZ3NkEtOVNPRWdvVXhFN1hKaVE1WFJJTWVBYVZjaUgtU25SeTVxU25XWGNxakdKUExHVkFYcW8?oc=5",
+      "player": "Lucca Brughmans",
+      "fromTeam": "소속팀 확인 중",
+      "toTeam": "미상",
+      "league": "미분류",
+      "status": "확인 필요",
+      "fee": "£30M",
+      "sourceKey": "global-transfer-monitor",
+      "sourceTier": "low",
+      "sourceName": "Global transfer news monitor",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9IRFd3eHRoUTl1WjFMcm1wdTdETlZhMkRpRFh6MFp5X29vMENsWUZLMXZ3NkEtOVNPRWdvVXhFN1hKaVE1WFJJTWVBYVZjaUgtU25SeTVxU25XWGNxakdKUExHVkFYcW8",
+      "sourceType": "자동 추출 초안",
+      "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
+      "publishedAt": "2026-09-01 18:01",
+      "lastVerifiedAt": "2026-09-02 00:52",
+      "extractionConfidence": "low",
+      "extractionPattern": "fallback-unparsed-transfer-headline",
+      "needsVerification": true,
+      "headlineTitle": "Lucca Brughmans joins Liverpool in deal worth up to £30m - bbc.com",
+      "sourceLinks": [
+        {
+          "sourceName": "Global transfer news monitor",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9IRFd3eHRoUTl1WjFMcm1wdTdETlZhMkRpRFh6MFp5X29vMENsWUZLMXZ3NkEtOVNPRWdvVXhFN1hKaVE1WFJJTWVBYVZjaUgtU25SeTVxU25XWGNxakdKUExHVkFYcW8?oc=5",
+          "sourceTier": "low",
+          "headlineTitle": "Lucca Brughmans joins Liverpool in deal worth up to £30m - bbc.com",
+          "publishedAt": "2026-09-01 18:01"
+        }
+      ],
+      "sourceCount": 1,
+      "articleImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "reviewSourceCheckedAt": "2026-09-02 00:52",
       "reviewSourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9IRFd3eHRoUTl1WjFMcm1wdTdETlZhMkRpRFh6MFp5X29vMENsWUZLMXZ3NkEtOVNPRWdvVXhFN1hKaVE1WFJJTWVBYVZjaUgtU25SeTVxU25XWGNxakdKUExHVkFYcW8"
     },
     {
@@ -6580,23 +6647,57 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
       "publishedAt": "2026-09-01 16:23",
-      "lastVerifiedAt": "2026-09-02 00:39",
+      "lastVerifiedAt": "2026-09-02 00:52",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
-      "headlineTitle": "Harvey Elliott to Valencia: Liverpool midfielder joins on season-long loan - BBC",
+      "headlineTitle": "Harvey Elliott to Valencia: Liverpool midfielder joins on season-long loan - bbc.com",
       "sourceLinks": [
         {
           "sourceName": "Premier League transfer monitor",
           "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HZ1lhMHducHhPVzNHN19PMDJZRUJmVlNLNGdyQjhPVS1qTjhYZWljQ1B5RFpKTDBWY3Mxa21qYVJMMkNNQ240eWkzcGJOVlYzb0FYOGc2cW9WOGhxX2tWend1eUlUazg?oc=5",
           "sourceTier": "low",
-          "headlineTitle": "Harvey Elliott to Valencia: Liverpool midfielder joins on season-long loan - BBC",
+          "headlineTitle": "Harvey Elliott to Valencia: Liverpool midfielder joins on season-long loan - bbc.com",
           "publishedAt": "2026-09-01 16:23"
         }
       ],
       "sourceCount": 1,
       "articleImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "reviewSourceCheckedAt": "2026-09-02 00:39",
+      "reviewSourceCheckedAt": "2026-09-02 00:52",
+      "reviewSourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HZ1lhMHducHhPVzNHN19PMDJZRUJmVlNLNGdyQjhPVS1qTjhYZWljQ1B5RFpKTDBWY3Mxa21qYVJMMkNNQ240eWkzcGJOVlYzb0FYOGc2cW9WOGhxX2tWend1eUlUazg"
+    },
+    {
+      "id": "draft:https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HZ1lhMHducHhPVzNHN19PMDJZRUJmVlNLNGdyQjhPVS1qTjhYZWljQ1B5RFpKTDBWY3Mxa21qYVJMMkNNQ240eWkzcGJOVlYzb0FYOGc2cW9WOGhxX2tWend1eUlUazg?oc=5",
+      "player": "Harvey Elliott",
+      "fromTeam": "Liverpool",
+      "toTeam": "미상",
+      "league": "미분류",
+      "status": "확인 필요",
+      "fee": "미정",
+      "sourceKey": "premier-league-transfer-monitor",
+      "sourceTier": "low",
+      "sourceName": "Premier League transfer monitor",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HZ1lhMHducHhPVzNHN19PMDJZRUJmVlNLNGdyQjhPVS1qTjhYZWljQ1B5RFpKTDBWY3Mxa21qYVJMMkNNQ240eWkzcGJOVlYzb0FYOGc2cW9WOGhxX2tWend1eUlUazg",
+      "sourceType": "자동 추출 초안",
+      "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
+      "publishedAt": "2026-09-01 16:23",
+      "lastVerifiedAt": "2026-09-02 00:52",
+      "extractionConfidence": "low",
+      "extractionPattern": "fallback-unparsed-transfer-headline",
+      "needsVerification": true,
+      "headlineTitle": "Harvey Elliott to Valencia: Liverpool midfielder joins on season-long loan - bbc.com",
+      "sourceLinks": [
+        {
+          "sourceName": "Premier League transfer monitor",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HZ1lhMHducHhPVzNHN19PMDJZRUJmVlNLNGdyQjhPVS1qTjhYZWljQ1B5RFpKTDBWY3Mxa21qYVJMMkNNQ240eWkzcGJOVlYzb0FYOGc2cW9WOGhxX2tWend1eUlUazg?oc=5",
+          "sourceTier": "low",
+          "headlineTitle": "Harvey Elliott to Valencia: Liverpool midfielder joins on season-long loan - bbc.com",
+          "publishedAt": "2026-09-01 16:23"
+        }
+      ],
+      "sourceCount": 1,
+      "articleImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+      "reviewSourceCheckedAt": "2026-09-02 00:52",
       "reviewSourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HZ1lhMHducHhPVzNHN19PMDJZRUJmVlNLNGdyQjhPVS1qTjhYZWljQ1B5RFpKTDBWY3Mxa21qYVJMMkNNQ240eWkzcGJOVlYzb0FYOGc2cW9WOGhxX2tWend1eUlUazg"
     },
     {
@@ -6644,11 +6745,11 @@
       "sourceKey": "tottenham-transfer-news-monitor",
       "sourceTier": "low",
       "sourceName": "Tottenham transfer news monitor",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbGhJbEdVT3ZKZXdqdjdrTTdRNEVZOHB2bkUzTnFMajZIc2FxdEdUZkM5UUZ5MUY2T1NQc09nUzE2S0IyazNyMnVVYXpueUpUZEhJXzY2Um9WQnhRQ21kYlBaeU1SNm1hYzhSb3FZYTU3M3VRS3VsV2stZkVCNVg5aDMxR25SQVV3YzZTaG5hRTcxN3VreWtyUzN5R3lLUklabHNZ",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbGhJbEdVT3ZKZXdqdjdrTTdRNEVZOHB2bkUzTnFMajZIc2FxdEdUZkM5UUZ5MUY2T1NQc09nUzE2S0IyazNyMnVVYXpueUpUZEhJXzY2Um9WQnhRQ21kYlBaeU1SNm1hYzhSb3FZYTU3M3VRS3VsV2stZkVCNVg5aDMxR25SQVV3YzZTaG5hRTcxN3VreWtyUzN5R3lLUklabHNZ?oc=5",
       "sourceType": "자동 추출 초안",
-      "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다. ?? ??? ?? ???? ????? ?? ?? ??? ?????.",
+      "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
       "publishedAt": "2026-09-01 15:52",
-      "lastVerifiedAt": "2026-09-02 00:39",
+      "lastVerifiedAt": "2026-09-02 00:52",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
@@ -6662,10 +6763,7 @@
           "publishedAt": "2026-09-01 15:52"
         }
       ],
-      "sourceCount": 1,
-      "articleImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "reviewSourceCheckedAt": "2026-09-02 00:39",
-      "reviewSourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbGhJbEdVT3ZKZXdqdjdrTTdRNEVZOHB2bkUzTnFMajZIc2FxdEdUZkM5UUZ5MUY2T1NQc09nUzE2S0IyazNyMnVVYXpueUpUZEhJXzY2Um9WQnhRQ21kYlBaeU1SNm1hYzhSb3FZYTU3M3VRS3VsV2stZkVCNVg5aDMxR25SQVV3YzZTaG5hRTcxN3VreWtyUzN5R3lLUklabHNZ"
+      "sourceCount": 1
     },
     {
       "id": "draft:https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wQUtEbV84ZlEzX2s3MFJfMl9heVpFYVZxX1JnQmJZcDJJZ1c3VTRqMzZDR0RUVUlySGRyX19QUlpZLTZQYzlxSGQ0QzRaaVo5RVJONEpPUnF5WWJKWlpLN3VINmlWTGM?oc=5",
@@ -6700,6 +6798,37 @@
       "articleImageUrl": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
       "reviewSourceCheckedAt": "2026-09-01 23:58",
       "reviewSourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wQUtEbV84ZlEzX2s3MFJfMl9heVpFYVZxX1JnQmJZcDJJZ1c3VTRqMzZDR0RUVUlySGRyX19QUlpZLTZQYzlxSGQ0QzRaaVo5RVJONEpPUnF5WWJKWlpLN3VINmlWTGM"
+    },
+    {
+      "id": "draft:https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5zWlVJYTBCZFhNX2xMQ19Dc3pOMnhud1JGZmxvNHB5VmIzSVpNU2lZcEJwaWFDSy1QX3FSUE1ITHJzQVRqeWUxWEI2RHpYWENHbF92U0NUNS13OVB6TnpkMW4tbnUweWc?oc=5",
+      "player": "Man City's Ait-Nouri",
+      "fromTeam": "Manchester City",
+      "toTeam": "미상",
+      "league": "미분류",
+      "status": "확인 필요",
+      "fee": "미정",
+      "sourceKey": "premier-league-transfer-monitor",
+      "sourceTier": "low",
+      "sourceName": "Premier League transfer monitor",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5zWlVJYTBCZFhNX2xMQ19Dc3pOMnhud1JGZmxvNHB5VmIzSVpNU2lZcEJwaWFDSy1QX3FSUE1ITHJzQVRqeWUxWEI2RHpYWENHbF92U0NUNS13OVB6TnpkMW4tbnUweWc?oc=5",
+      "sourceType": "자동 추출 초안",
+      "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
+      "publishedAt": "2026-09-01 15:36",
+      "lastVerifiedAt": "2026-09-02 00:52",
+      "extractionConfidence": "low",
+      "extractionPattern": "fallback-unparsed-transfer-headline",
+      "needsVerification": true,
+      "headlineTitle": "Man Utd fail in 11th-hour attempt to sign Man City's Ait-Nouri on loan - bbc.com",
+      "sourceLinks": [
+        {
+          "sourceName": "Premier League transfer monitor",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5zWlVJYTBCZFhNX2xMQ19Dc3pOMnhud1JGZmxvNHB5VmIzSVpNU2lZcEJwaWFDSy1QX3FSUE1ITHJzQVRqeWUxWEI2RHpYWENHbF92U0NUNS13OVB6TnpkMW4tbnUweWc?oc=5",
+          "sourceTier": "low",
+          "headlineTitle": "Man Utd fail in 11th-hour attempt to sign Man City's Ait-Nouri on loan - bbc.com",
+          "publishedAt": "2026-09-01 15:36"
+        }
+      ],
+      "sourceCount": 1
     },
     {
       "id": "draft:https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5zWlVJYTBCZFhNX2xMQ19Dc3pOMnhud1JGZmxvNHB5VmIzSVpNU2lZcEJwaWFDSy1QX3FSUE1ITHJzQVRqeWUxWEI2RHpYWENHbF92U0NUNS13OVB6TnpkMW4tbnUweWc?oc=5",
@@ -6815,7 +6944,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
       "publishedAt": "2026-09-01 13:34",
-      "lastVerifiedAt": "2026-09-02 00:39",
+      "lastVerifiedAt": "2026-09-02 00:52",
       "extractionConfidence": "low",
       "extractionPattern": "fallback-unparsed-transfer-headline",
       "needsVerification": true,
