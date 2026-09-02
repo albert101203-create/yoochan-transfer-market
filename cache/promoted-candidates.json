@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-02T01:27:24.562Z",
-  "basedOnGeneratedAt": "2026-09-02T01:27:24.559Z",
+  "generatedAt": "2026-09-02T01:44:15.953Z",
+  "basedOnGeneratedAt": "2026-09-02T01:44:15.949Z",
   "itemCount": 30,
   "items": [
     {
@@ -485,7 +485,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-09-01 23:13",
-      "lastVerifiedAt": "2026-09-02 01:27",
+      "lastVerifiedAt": "2026-09-02 01:44",
       "extractionConfidence": "high",
       "extractionPattern": "club-signs-player-from",
       "needsVerification": false,
@@ -497,16 +497,9 @@
           "sourceTier": "medium",
           "headlineTitle": "Brighton sign midfielder Chema Andres from Stuttgart",
           "publishedAt": "2026-09-01 23:13"
-        },
-        {
-          "sourceName": "Global transfer news monitor",
-          "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5RN05ickxaa0lZSVZaZVZjX01PZTVpemMtTFlJZVpYOFAzMVBzNmZkWERPQ0pJdnRydUlmcEhOX0ZQTHBmNW15QUNfSnFUczYyaHVIaVd1Ni0wQlU5Wnd0ckJyUERMVGc?oc=5",
-          "sourceTier": "low",
-          "headlineTitle": "Brighton sign midfielder Chema Andres from Stuttgart - BBC",
-          "publishedAt": "2026-09-01 13:53"
         }
       ],
-      "sourceCount": 2
+      "sourceCount": 1
     },
     {
       "id": "draft:https://www.bbc.co.uk/sport/football/articles/cje8x575v51o?at_medium=RSS&at_campaign=rss",
@@ -523,7 +516,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-09-01 23:04",
-      "lastVerifiedAt": "2026-09-02 01:27",
+      "lastVerifiedAt": "2026-09-02 01:44",
       "extractionConfidence": "high",
       "extractionPattern": "club-signs-player-from",
       "needsVerification": false,
@@ -554,7 +547,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-09-01 22:00",
-      "lastVerifiedAt": "2026-09-02 01:27",
+      "lastVerifiedAt": "2026-09-02 01:44",
       "extractionConfidence": "high",
       "extractionPattern": "player-club-signs-from",
       "needsVerification": false,
@@ -644,7 +637,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-09-01 19:57",
-      "lastVerifiedAt": "2026-09-02 01:27",
+      "lastVerifiedAt": "2026-09-02 01:44",
       "extractionConfidence": "high",
       "extractionPattern": "player-club-signs-from",
       "needsVerification": false,
@@ -675,7 +668,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-09-01 18:57",
-      "lastVerifiedAt": "2026-09-02 01:27",
+      "lastVerifiedAt": "2026-09-02 01:44",
       "extractionConfidence": "high",
       "extractionPattern": "player-club-signs-from",
       "needsVerification": false,
@@ -706,7 +699,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-09-01 18:16",
-      "lastVerifiedAt": "2026-09-02 01:27",
+      "lastVerifiedAt": "2026-09-02 01:44",
       "extractionConfidence": "high",
       "extractionPattern": "player-club-signs-from",
       "needsVerification": false,
@@ -737,7 +730,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-09-01 17:42",
-      "lastVerifiedAt": "2026-09-02 01:27",
+      "lastVerifiedAt": "2026-09-02 01:44",
       "extractionConfidence": "high",
       "extractionPattern": "player-club-signs-from",
       "needsVerification": false,
@@ -768,7 +761,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-09-01 14:01",
-      "lastVerifiedAt": "2026-09-02 01:27",
+      "lastVerifiedAt": "2026-09-02 01:44",
       "extractionConfidence": "high",
       "extractionPattern": "club-signs-player-from",
       "needsVerification": false,
