@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-02T19:48:44.799Z",
-  "basedOnGeneratedAt": "2026-09-02T19:48:44.795Z",
+  "generatedAt": "2026-09-02T19:57:04.094Z",
+  "basedOnGeneratedAt": "2026-09-02T19:57:04.091Z",
   "itemCount": 30,
   "items": [
     {
@@ -471,6 +471,37 @@
       "sourceCount": 18
     },
     {
+      "id": "draft:https://www.bbc.co.uk/sport/football/articles/c780weq4146o?at_medium=RSS&at_campaign=rss",
+      "player": "Rebeca Bernal",
+      "fromTeam": "Washington Spirit",
+      "toTeam": "Manchester United",
+      "league": "프리미어리그",
+      "status": "완료",
+      "fee": "미정",
+      "sourceKey": "bbc-sport",
+      "sourceTier": "medium",
+      "sourceName": "BBC Sport",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c780weq4146o?at_medium=RSS&at_campaign=rss",
+      "sourceType": "자동 추출 초안",
+      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
+      "publishedAt": "2026-09-02 19:47",
+      "lastVerifiedAt": "2026-09-02 19:57",
+      "extractionConfidence": "high",
+      "extractionPattern": "club-signs-player-from",
+      "needsVerification": false,
+      "headlineTitle": "Man Utd sign Bernal from Washington Spirit",
+      "sourceLinks": [
+        {
+          "sourceName": "BBC Sport",
+          "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c780weq4146o?at_medium=RSS&at_campaign=rss",
+          "sourceTier": "medium",
+          "headlineTitle": "Man Utd sign Bernal from Washington Spirit",
+          "publishedAt": "2026-09-02 19:47"
+        }
+      ],
+      "sourceCount": 1
+    },
+    {
       "id": "draft:https://www.bbc.co.uk/sport/football/articles/cdx5e590qqeo?at_medium=RSS&at_campaign=rss",
       "player": "Femi Azeez",
       "fromTeam": "Millwall",
@@ -485,7 +516,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-09-02 09:49",
-      "lastVerifiedAt": "2026-09-02 19:48",
+      "lastVerifiedAt": "2026-09-02 19:57",
       "extractionConfidence": "high",
       "extractionPattern": "club-signs-player-from",
       "needsVerification": false,
@@ -516,7 +547,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-09-01 22:00",
-      "lastVerifiedAt": "2026-09-02 19:48",
+      "lastVerifiedAt": "2026-09-02 19:57",
       "extractionConfidence": "high",
       "extractionPattern": "player-club-signs-from",
       "needsVerification": false,
@@ -1140,36 +1171,6 @@
           "sourceTier": "medium",
           "headlineTitle": "Newcastle transfer news: Club agree deal to sign defender Amar Dedic from Benfica",
           "publishedAt": "2026-08-16 08:48"
-        }
-      ],
-      "sourceCount": 1
-    },
-    {
-      "id": "draft:https://www.skysports.com/football/news/11820/13573232/ferran-torres-psg-sign-world-cup-final-hero-from-barcelona-for-42-7m",
-      "player": "Ferran Torres",
-      "fromTeam": "Barcelona",
-      "toTeam": "PSG",
-      "league": "미분류",
-      "status": "완료",
-      "fee": "£42.7M",
-      "sourceKey": "sky-sports",
-      "sourceTier": "medium",
-      "sourceName": "Sky Sports",
-      "sourceUrl": "https://www.skysports.com/football/news/11820/13573232/ferran-torres-psg-sign-world-cup-final-hero-from-barcelona-for-42-7m",
-      "sourceType": "자동 추출 초안",
-      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
-      "publishedAt": "2026-08-15 09:32",
-      "lastVerifiedAt": "2026-08-16 05:03",
-      "extractionConfidence": "high",
-      "extractionPattern": "player-club-signs-from",
-      "headlineTitle": "Ferran Torres: PSG sign World Cup final hero from Barcelona for &#163;42.7m",
-      "sourceLinks": [
-        {
-          "sourceName": "Sky Sports",
-          "sourceUrl": "https://www.skysports.com/football/news/11820/13573232/ferran-torres-psg-sign-world-cup-final-hero-from-barcelona-for-42-7m",
-          "sourceTier": "medium",
-          "headlineTitle": "Ferran Torres: PSG sign World Cup final hero from Barcelona for &#163;42.7m",
-          "publishedAt": "2026-08-15 09:32"
         }
       ],
       "sourceCount": 1
