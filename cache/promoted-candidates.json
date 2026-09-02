@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-02T11:20:53.067Z",
-  "basedOnGeneratedAt": "2026-09-02T11:20:53.064Z",
+  "generatedAt": "2026-09-02T11:33:04.695Z",
+  "basedOnGeneratedAt": "2026-09-02T11:33:04.692Z",
   "itemCount": 30,
   "items": [
     {
@@ -485,7 +485,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-09-02 09:49",
-      "lastVerifiedAt": "2026-09-02 11:20",
+      "lastVerifiedAt": "2026-09-02 11:33",
       "extractionConfidence": "high",
       "extractionPattern": "club-signs-player-from",
       "needsVerification": false,
@@ -516,7 +516,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-09-01 22:00",
-      "lastVerifiedAt": "2026-09-02 11:20",
+      "lastVerifiedAt": "2026-09-02 11:33",
       "extractionConfidence": "high",
       "extractionPattern": "player-club-signs-from",
       "needsVerification": false,
@@ -606,7 +606,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-09-01 19:57",
-      "lastVerifiedAt": "2026-09-02 11:20",
+      "lastVerifiedAt": "2026-09-02 11:33",
       "extractionConfidence": "high",
       "extractionPattern": "player-club-signs-from",
       "needsVerification": false,
@@ -618,37 +618,6 @@
           "sourceTier": "medium",
           "headlineTitle": "Official: Como sign Robert Sanchez from Chelsea on deadline day",
           "publishedAt": "2026-09-01 19:57"
-        }
-      ],
-      "sourceCount": 1
-    },
-    {
-      "id": "draft:https://football-italia.net/official-fiorentina-pedro-goncalves-gnonto/",
-      "player": "Official",
-      "fromTeam": "Sporting and Leeds United",
-      "toTeam": "Fiorentina",
-      "league": "미분류",
-      "status": "완료",
-      "fee": "미정",
-      "sourceKey": "football-italia",
-      "sourceTier": "medium",
-      "sourceName": "Football Italia",
-      "sourceUrl": "https://football-italia.net/official-fiorentina-pedro-goncalves-gnonto/",
-      "sourceType": "자동 추출 초안",
-      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
-      "publishedAt": "2026-09-01 18:57",
-      "lastVerifiedAt": "2026-09-02 11:20",
-      "extractionConfidence": "high",
-      "extractionPattern": "player-club-signs-from",
-      "needsVerification": false,
-      "headlineTitle": "Official: Fiorentina sign Pedro Goncalves and Gnonto from Sporting and Leeds United",
-      "sourceLinks": [
-        {
-          "sourceName": "Football Italia",
-          "sourceUrl": "https://football-italia.net/official-fiorentina-pedro-goncalves-gnonto/",
-          "sourceTier": "medium",
-          "headlineTitle": "Official: Fiorentina sign Pedro Goncalves and Gnonto from Sporting and Leeds United",
-          "publishedAt": "2026-09-01 18:57"
         }
       ],
       "sourceCount": 1
@@ -1172,6 +1141,36 @@
           "sourceTier": "medium",
           "headlineTitle": "Leeds sign Elvedi from Borussia Monchengladbach",
           "publishedAt": "2026-08-19 20:10"
+        }
+      ],
+      "sourceCount": 1
+    },
+    {
+      "id": "draft:https://www.skysports.com/football/news/11095/13573640/newcastle-transfer-news-club-agree-deal-to-sign-defender-amar-dedic-from-benfica",
+      "player": "Amar Dedic",
+      "fromTeam": "Benfica",
+      "toTeam": "Newcastle",
+      "league": "미분류",
+      "status": "완료",
+      "fee": "미정",
+      "sourceKey": "sky-sports",
+      "sourceTier": "medium",
+      "sourceName": "Sky Sports",
+      "sourceUrl": "https://www.skysports.com/football/news/11095/13573640/newcastle-transfer-news-club-agree-deal-to-sign-defender-amar-dedic-from-benfica",
+      "sourceType": "자동 추출 초안",
+      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
+      "publishedAt": "2026-08-16 08:48",
+      "lastVerifiedAt": "2026-08-17 03:15",
+      "extractionConfidence": "high",
+      "extractionPattern": "player-club-signs-from",
+      "headlineTitle": "Newcastle transfer news: Club agree deal to sign defender Amar Dedic from Benfica",
+      "sourceLinks": [
+        {
+          "sourceName": "Sky Sports",
+          "sourceUrl": "https://www.skysports.com/football/news/11095/13573640/newcastle-transfer-news-club-agree-deal-to-sign-defender-amar-dedic-from-benfica",
+          "sourceTier": "medium",
+          "headlineTitle": "Newcastle transfer news: Club agree deal to sign defender Amar Dedic from Benfica",
+          "publishedAt": "2026-08-16 08:48"
         }
       ],
       "sourceCount": 1
