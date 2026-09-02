@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-02T20:39:29.025Z",
-  "basedOnGeneratedAt": "2026-09-02T20:39:29.022Z",
+  "generatedAt": "2026-09-02T20:50:16.082Z",
+  "basedOnGeneratedAt": "2026-09-02T20:50:16.079Z",
   "itemCount": 30,
   "items": [
     {
@@ -485,7 +485,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-09-02 19:47",
-      "lastVerifiedAt": "2026-09-02 20:39",
+      "lastVerifiedAt": "2026-09-02 20:50",
       "extractionConfidence": "high",
       "extractionPattern": "club-signs-player-from",
       "needsVerification": false,
@@ -516,7 +516,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-09-02 09:49",
-      "lastVerifiedAt": "2026-09-02 20:39",
+      "lastVerifiedAt": "2026-09-02 20:50",
       "extractionConfidence": "high",
       "extractionPattern": "club-signs-player-from",
       "needsVerification": false,
@@ -547,7 +547,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-09-01 22:00",
-      "lastVerifiedAt": "2026-09-02 20:39",
+      "lastVerifiedAt": "2026-09-02 20:50",
       "extractionConfidence": "high",
       "extractionPattern": "player-club-signs-from",
       "needsVerification": false,
