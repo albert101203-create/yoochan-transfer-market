@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-02T13:09:25.174Z",
-  "basedOnGeneratedAt": "2026-09-02T13:09:25.170Z",
+  "generatedAt": "2026-09-02T13:25:35.843Z",
+  "basedOnGeneratedAt": "2026-09-02T13:25:35.839Z",
   "itemCount": 30,
   "items": [
     {
@@ -485,7 +485,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-09-02 09:49",
-      "lastVerifiedAt": "2026-09-02 13:09",
+      "lastVerifiedAt": "2026-09-02 13:25",
       "extractionConfidence": "high",
       "extractionPattern": "club-signs-player-from",
       "needsVerification": false,
@@ -552,37 +552,6 @@
         }
       ],
       "sourceCount": 4
-    },
-    {
-      "id": "draft:https://football-italia.net/official-como-sign-robert-sanchez-from-chelsea/",
-      "player": "Official",
-      "fromTeam": "Chelsea",
-      "toTeam": "Como",
-      "league": "미분류",
-      "status": "완료",
-      "fee": "미정",
-      "sourceKey": "football-italia",
-      "sourceTier": "medium",
-      "sourceName": "Football Italia",
-      "sourceUrl": "https://football-italia.net/official-como-sign-robert-sanchez-from-chelsea/",
-      "sourceType": "자동 추출 초안",
-      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
-      "publishedAt": "2026-09-01 19:57",
-      "lastVerifiedAt": "2026-09-02 13:09",
-      "extractionConfidence": "high",
-      "extractionPattern": "player-club-signs-from",
-      "needsVerification": false,
-      "headlineTitle": "Official: Como sign Robert Sanchez from Chelsea on deadline day",
-      "sourceLinks": [
-        {
-          "sourceName": "Football Italia",
-          "sourceUrl": "https://football-italia.net/official-como-sign-robert-sanchez-from-chelsea/",
-          "sourceTier": "medium",
-          "headlineTitle": "Official: Como sign Robert Sanchez from Chelsea on deadline day",
-          "publishedAt": "2026-09-01 19:57"
-        }
-      ],
-      "sourceCount": 1
     },
     {
       "id": "draft:49720080",
@@ -1163,6 +1132,36 @@
           "sourceTier": "medium",
           "headlineTitle": "Ferran Torres: PSG sign World Cup final hero from Barcelona for &#163;42.7m",
           "publishedAt": "2026-08-15 09:32"
+        }
+      ],
+      "sourceCount": 1
+    },
+    {
+      "id": "draft:https://www.skysports.com/football/news/11787/13566197/mika-baur-celtic-sign-germany-u21-midfielder-from-paderborn-on-initial-four-year-deal",
+      "player": "Mika Baur",
+      "fromTeam": "Paderborn",
+      "toTeam": "Celtic",
+      "league": "스코티시 프리미어십",
+      "status": "완료",
+      "fee": "미정",
+      "sourceKey": "sky-sports",
+      "sourceTier": "medium",
+      "sourceName": "Sky Sports",
+      "sourceUrl": "https://www.skysports.com/football/news/11787/13566197/mika-baur-celtic-sign-germany-u21-midfielder-from-paderborn-on-initial-four-year-deal",
+      "sourceType": "자동 추출 초안",
+      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
+      "publishedAt": "2026-08-13 15:05",
+      "lastVerifiedAt": "2026-08-14 09:30",
+      "extractionConfidence": "high",
+      "extractionPattern": "player-club-signs-from",
+      "headlineTitle": "Mika Baur: Celtic sign Germany U21 midfielder from Paderborn on initial four-year deal",
+      "sourceLinks": [
+        {
+          "sourceName": "Sky Sports",
+          "sourceUrl": "https://www.skysports.com/football/news/11787/13566197/mika-baur-celtic-sign-germany-u21-midfielder-from-paderborn-on-initial-four-year-deal",
+          "sourceTier": "medium",
+          "headlineTitle": "Mika Baur: Celtic sign Germany U21 midfielder from Paderborn on initial four-year deal",
+          "publishedAt": "2026-08-13 15:05"
         }
       ],
       "sourceCount": 1
