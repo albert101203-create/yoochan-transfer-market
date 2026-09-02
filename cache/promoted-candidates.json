@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-02T07:54:26.182Z",
-  "basedOnGeneratedAt": "2026-09-02T07:54:26.178Z",
+  "generatedAt": "2026-09-02T08:06:05.745Z",
+  "basedOnGeneratedAt": "2026-09-02T08:06:05.741Z",
   "itemCount": 30,
   "items": [
     {
@@ -485,7 +485,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-09-01 23:13",
-      "lastVerifiedAt": "2026-09-02 07:54",
+      "lastVerifiedAt": "2026-09-02 08:06",
       "extractionConfidence": "high",
       "extractionPattern": "club-signs-player-from",
       "needsVerification": false,
@@ -497,37 +497,6 @@
           "sourceTier": "medium",
           "headlineTitle": "Brighton sign midfielder Chema Andres from Stuttgart",
           "publishedAt": "2026-09-01 23:13"
-        }
-      ],
-      "sourceCount": 1
-    },
-    {
-      "id": "draft:https://www.bbc.co.uk/sport/football/articles/cje8x575v51o?at_medium=RSS&at_campaign=rss",
-      "player": "Tim Iroegbunam",
-      "fromTeam": "Everton",
-      "toTeam": "Hull",
-      "league": "EFL 챔피언십",
-      "status": "완료",
-      "fee": "£22M",
-      "sourceKey": "bbc-sport",
-      "sourceTier": "medium",
-      "sourceName": "BBC Sport",
-      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cje8x575v51o?at_medium=RSS&at_campaign=rss",
-      "sourceType": "자동 추출 초안",
-      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
-      "publishedAt": "2026-09-01 23:04",
-      "lastVerifiedAt": "2026-09-02 07:54",
-      "extractionConfidence": "high",
-      "extractionPattern": "club-signs-player-from",
-      "needsVerification": false,
-      "headlineTitle": "Hull sign six players including £22m Iroegbunam from Everton",
-      "sourceLinks": [
-        {
-          "sourceName": "BBC Sport",
-          "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cje8x575v51o?at_medium=RSS&at_campaign=rss",
-          "sourceTier": "medium",
-          "headlineTitle": "Hull sign six players including £22m Iroegbunam from Everton",
-          "publishedAt": "2026-09-01 23:04"
         }
       ],
       "sourceCount": 1
@@ -547,7 +516,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-09-01 22:00",
-      "lastVerifiedAt": "2026-09-02 07:54",
+      "lastVerifiedAt": "2026-09-02 08:06",
       "extractionConfidence": "high",
       "extractionPattern": "player-club-signs-from",
       "needsVerification": false,
@@ -637,7 +606,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-09-01 19:57",
-      "lastVerifiedAt": "2026-09-02 07:54",
+      "lastVerifiedAt": "2026-09-02 08:06",
       "extractionConfidence": "high",
       "extractionPattern": "player-club-signs-from",
       "needsVerification": false,
@@ -668,7 +637,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-09-01 18:57",
-      "lastVerifiedAt": "2026-09-02 07:54",
+      "lastVerifiedAt": "2026-09-02 08:06",
       "extractionConfidence": "high",
       "extractionPattern": "player-club-signs-from",
       "needsVerification": false,
@@ -699,7 +668,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-09-01 18:16",
-      "lastVerifiedAt": "2026-09-02 07:54",
+      "lastVerifiedAt": "2026-09-02 08:06",
       "extractionConfidence": "high",
       "extractionPattern": "player-club-signs-from",
       "needsVerification": false,
@@ -1170,6 +1139,43 @@
         }
       ],
       "sourceCount": 1
+    },
+    {
+      "id": "draft:https://www.skysports.com/football/news/11670/13574724/ezri-konsa-transfer-news-arsenal-agree-deal-with-aston-villa-to-sign-england-defender",
+      "player": "Ezri Konsa",
+      "fromTeam": "Aston Villa",
+      "toTeam": "Arsenal",
+      "league": "프리미어리그",
+      "status": "완료",
+      "fee": "미정",
+      "sourceKey": "sky-sports",
+      "sourceTier": "medium",
+      "sourceName": "Sky Sports",
+      "sourceUrl": "https://www.skysports.com/football/news/11670/13574724/ezri-konsa-transfer-news-arsenal-agree-deal-with-aston-villa-to-sign-england-defender",
+      "sourceType": "자동 추출 초안",
+      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
+      "publishedAt": "2026-08-19 22:50",
+      "lastVerifiedAt": "2026-08-20 01:27",
+      "extractionConfidence": "high",
+      "extractionPattern": "player-colon-agree-deal",
+      "headlineTitle": "Ezri Konsa transfer news: Arsenal agree deal with Aston Villa to sign England defender",
+      "sourceLinks": [
+        {
+          "sourceName": "Sky Sports",
+          "sourceUrl": "https://www.skysports.com/football/news/11670/13574724/ezri-konsa-transfer-news-arsenal-agree-deal-with-aston-villa-to-sign-england-defender",
+          "sourceTier": "medium",
+          "headlineTitle": "Ezri Konsa transfer news: Arsenal agree deal with Aston Villa to sign England defender",
+          "publishedAt": "2026-08-19 22:50"
+        },
+        {
+          "sourceName": "The Guardian Football",
+          "sourceUrl": "https://www.theguardian.com/football/2026/aug/19/aston-villa-al-hilal-ollie-watkins",
+          "sourceTier": "medium",
+          "headlineTitle": "Arsenal agree £51m deal to sign Ezri Konsa from Aston Villa",
+          "publishedAt": "2026-08-20 00:16"
+        }
+      ],
+      "sourceCount": 2
     }
   ],
   "rules": {
