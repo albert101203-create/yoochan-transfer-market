@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-03T16:45:28.171Z",
-  "basedOnGeneratedAt": "2026-09-03T16:45:28.168Z",
+  "generatedAt": "2026-09-03T16:48:15.884Z",
+  "basedOnGeneratedAt": "2026-09-03T16:48:15.881Z",
   "itemCount": 30,
   "items": [
     {
@@ -40,37 +40,6 @@
         }
       ],
       "sourceCount": 2
-    },
-    {
-      "id": "draft:https://news.google.com/rss/articles/CBMif0FVX3lxTE4wd2taVmdHQU9CZjRSelNXUWNDMjBJR1A5cFJRTDUySTFBZzdGVWxxdlV1a1NrbEVCUjFVOUdqY3F2bFZYeTdyZHVCb1d2aGlWcU9PcDNacTdPQzRNZFVkRGs0eEhVYk53U3FjMlhPOWtNN0lmYjktcTdfMF9GWU0?oc=5",
-      "player": "Phillips",
-      "fromTeam": "Tottenham",
-      "toTeam": "Middlesbrough",
-      "league": "미분류",
-      "status": "완료",
-      "fee": "미정",
-      "sourceKey": "official-tottenham-monitor",
-      "sourceTier": "high",
-      "sourceName": "Tottenham official-site monitor",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wd2taVmdHQU9CZjRSelNXUWNDMjBJR1A5cFJRTDUySTFBZzdGVWxxdlV1a1NrbEVCUjFVOUdqY3F2bFZYeTdyZHVCb1d2aGlWcU9PcDNacTdPQzRNZFVkRGs0eEhVYk53U3FjMlhPOWtNN0lmYjktcTdfMF9GWU0?oc=5",
-      "sourceType": "자동 추출 초안",
-      "sourceReason": "토트넘 공식 발표에서 직접 추출한 완료 카드입니다.",
-      "publishedAt": "2026-08-15 20:29",
-      "lastVerifiedAt": "2026-08-24 23:21",
-      "extractionConfidence": "high",
-      "extractionPattern": "joins-headline-shape",
-      "needsVerification": false,
-      "headlineTitle": "Phillips joins Middlesbrough - Tottenham Hotspur",
-      "sourceLinks": [
-        {
-          "sourceName": "Tottenham official-site monitor",
-          "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wd2taVmdHQU9CZjRSelNXUWNDMjBJR1A5cFJRTDUySTFBZzdGVWxxdlV1a1NrbEVCUjFVOUdqY3F2bFZYeTdyZHVCb1d2aGlWcU9PcDNacTdPQzRNZFVkRGs0eEhVYk53U3FjMlhPOWtNN0lmYjktcTdfMF9GWU0?oc=5",
-          "sourceTier": "high",
-          "headlineTitle": "Phillips joins Middlesbrough - Tottenham Hotspur",
-          "publishedAt": "2026-08-15 07:00"
-        }
-      ],
-      "sourceCount": 1
     },
     {
       "id": "draft:https://news.google.com/rss/articles/CBMigwFBVV95cUxPN0h1ZERzTXJPLWJfdEpBVWFtcU1ERXdQc1ZwdGFOR0dXU2prWUVUWno2eWM2UTJjaS0wb2JFb0I1ekFjajJIbG1ybmRVS0RmRzdhdHB5X011dmVzdW9MX2RzbXUtRG1hckRvc3MzY3loaGJZR1VZQlJLWkdXQnhyX0Rfbw?oc=5",
@@ -179,8 +148,8 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5meG5NOHkzOGN4b3NPaU94YzZYcjM0N0E2SXpmSzU1R05reXkwVEloUmtSVFRHamtONXRremtGSUJ6T3RRSExleHhUcFdvSmZCbDAtNGwyb1hYdzg4a0lYam5oTFF4R0JHa1FWNFlpRmhLQnpZV0tUWTE5VQ?oc=5",
       "sourceType": "자동 추출 초안",
       "sourceReason": "토트넘 공식 발표에서 직접 추출한 완료 카드입니다.",
-      "publishedAt": "2026-07-08 16:00",
-      "lastVerifiedAt": "2026-08-31 23:29",
+      "publishedAt": "2026-07-08 07:00",
+      "lastVerifiedAt": "2026-09-03 16:48",
       "extractionConfidence": "high",
       "extractionPattern": "joins-headline-shape",
       "needsVerification": false,
@@ -333,7 +302,7 @@
       "sourceName": "Liverpool official-site monitor",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObkZ6bXV2ZWtxeE9HRWRxZUx2WEptbk0xQmFkWWVERlhZSzkxTHlvOG9FZkNHUmVsWDBWaGlRR3ZqVGNyamd1WU5HRVpHS1JUZXVqQ3lFaDQ2anBRaTdoNEprdURrbEJNRzNkNFNlWk8teXJsbTFUdjBPYmo0eGxNdlkyMFhmdWt6QnNz0gGTAUFVX3lxTE1HbWdpb0FEbHdtSFZSUF9VeEZuOEFuUlpBelNYeXdZMFRtc3hUMGp2akMtYVZiNDhGWHludXdPQTRJTlhGS0kwRE43UUxVWC1FNUxDMVV0VktWTUNfeVJqWlpnVXJSN1gzNlNSOE9WMzM4ODdRU2VKcDdzbkJCWkpWNXhmQUFJd2duWFVBT1ZqSzBCNA?oc=5",
       "sourceType": "자동 추출 초안",
-      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
+      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다. 이미지 또는 구단 정보 확인이 필요해 검수 대기로 이동했습니다.",
       "publishedAt": "2026-08-31 22:11",
       "lastVerifiedAt": "2026-08-31 23:29",
       "extractionConfidence": "medium",
@@ -492,7 +461,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-09-02 19:47",
-      "lastVerifiedAt": "2026-09-03 16:45",
+      "lastVerifiedAt": "2026-09-03 16:48",
       "extractionConfidence": "high",
       "extractionPattern": "official-headline-shape",
       "needsVerification": false,
@@ -523,7 +492,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-09-02 09:49",
-      "lastVerifiedAt": "2026-09-03 16:45",
+      "lastVerifiedAt": "2026-09-03 16:48",
       "extractionConfidence": "high",
       "extractionPattern": "official-headline-shape",
       "needsVerification": false,
@@ -538,58 +507,6 @@
         }
       ],
       "sourceCount": 1
-    },
-    {
-      "id": "draft:https://www.bbc.co.uk/sport/football/articles/c3wj1qw5x04o?at_medium=RSS&at_campaign=rss",
-      "player": "Ndiaye",
-      "fromTeam": "Everton",
-      "toTeam": "Manchester City",
-      "league": "프리미어리그",
-      "status": "완료",
-      "fee": "£65M",
-      "sourceKey": "bbc-sport",
-      "sourceTier": "medium",
-      "sourceName": "BBC Sport",
-      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c3wj1qw5x04o?at_medium=RSS&at_campaign=rss",
-      "sourceType": "자동 추출 초안",
-      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
-      "publishedAt": "2026-09-01 20:26",
-      "lastVerifiedAt": "2026-09-01 20:27",
-      "extractionConfidence": "high",
-      "extractionPattern": "official-headline-shape",
-      "needsVerification": false,
-      "headlineTitle": "Man City sign Ndiaye from Everton for £65m",
-      "sourceLinks": [
-        {
-          "sourceName": "Global transfer news monitor",
-          "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE82a1lKR2ozV3Fyb1B2dGEzTWRiWmVnR3VkUEhZLWJ1NmtnSS1jTHRnZmVqZm93ZS1vWnNTc3BVYUdsOTd0blVCWkxOWXlsbG1FS0pfZzluRGFQaHRXc3FDTmhaOEdORzQ?oc=5",
-          "sourceTier": "low",
-          "headlineTitle": "Iliman Ndiaye: Manchester City sign winger from Everton for £65m - BBC",
-          "publishedAt": "2026-09-01 20:02"
-        },
-        {
-          "sourceName": "Global transfer news monitor",
-          "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wWDNZcjJ6cEI4NG5UTFdfN3RfZnEyOHpSSHRaOTZ1Z1gyZ0VYMkExeU0waEYta1Z3eF8tWGNFTFl3RHVNQ3ZzcmE4aFhVaG81VHg2S2RRNy1oUXpnQWExQ1F2bVl5c3l0ZHc?oc=5",
-          "sourceTier": "low",
-          "headlineTitle": "Iliman Ndiaye: Manchester City sign winger from Everton for £65m - BBC",
-          "publishedAt": "2026-09-01 20:02"
-        },
-        {
-          "sourceName": "BBC Sport",
-          "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c3wj1qw5x04o?at_medium=RSS&at_campaign=rss",
-          "sourceTier": "medium",
-          "headlineTitle": "Man City sign Ndiaye from Everton for £65m",
-          "publishedAt": "2026-09-01 20:26"
-        },
-        {
-          "sourceName": "BBC Sport",
-          "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c80453nj9gno?at_medium=RSS&at_campaign=rss",
-          "sourceTier": "medium",
-          "headlineTitle": "Man City agree £65m deal for Everton's Ndiaye ",
-          "publishedAt": "2026-08-31 19:12"
-        }
-      ],
-      "sourceCount": 4
     },
     {
       "id": "draft:49720080",
@@ -718,7 +635,7 @@
       "sourceName": "ESPN FC",
       "sourceUrl": "https://www.espn.com/soccer/story/_/id/49750228/chelsea-sign-goalkeeper-emiliano-martinez-aston-villa",
       "sourceType": "자동 추출 초안",
-      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
+      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다. 이미지 또는 구단 정보 확인이 필요해 검수 대기로 이동했습니다.",
       "publishedAt": "2026-08-30 18:10",
       "lastVerifiedAt": "2026-08-30 23:45",
       "extractionConfidence": "high",
@@ -794,7 +711,7 @@
       "sourceName": "BBC Sport",
       "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/crk3dr5pnyjo?at_medium=RSS&at_campaign=rss",
       "sourceType": "자동 추출 초안",
-      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
+      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다. 이미지 또는 구단 정보 확인이 필요해 검수 대기로 이동했습니다.",
       "publishedAt": "2026-08-28 21:00",
       "lastVerifiedAt": "2026-08-28 21:08",
       "extractionConfidence": "high",
@@ -825,7 +742,7 @@
       "sourceName": "BBC Sport",
       "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c9dw17pgv7lo?at_medium=RSS&at_campaign=rss",
       "sourceType": "자동 추출 초안",
-      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
+      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다. 이미지 또는 구단 정보 확인이 필요해 검수 대기로 이동했습니다.",
       "publishedAt": "2026-08-27 20:00",
       "lastVerifiedAt": "2026-08-27 22:35",
       "extractionConfidence": "high",
@@ -877,44 +794,6 @@
           "sourceTier": "medium",
           "headlineTitle": "Liam Delap joins Nottingham Forest in club-record &#163;50m deal as Chelsea make profit on striker",
           "publishedAt": "2026-08-27 18:00"
-        }
-      ],
-      "sourceCount": 2
-    },
-    {
-      "id": "draft:https://www.bbc.co.uk/sport/football/articles/cew9lqzx9jeo?at_medium=RSS&at_campaign=rss",
-      "player": "Pinnock",
-      "fromTeam": "Brentford",
-      "toTeam": "Coventry City",
-      "league": "미분류",
-      "status": "완료",
-      "fee": "£6M",
-      "sourceKey": "bbc-sport",
-      "sourceTier": "medium",
-      "sourceName": "BBC Sport",
-      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cew9lqzx9jeo?at_medium=RSS&at_campaign=rss",
-      "sourceType": "자동 추출 초안",
-      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
-      "publishedAt": "2026-08-27 00:00",
-      "lastVerifiedAt": "2026-08-27 00:17",
-      "extractionConfidence": "high",
-      "extractionPattern": "official-headline-shape",
-      "needsVerification": false,
-      "headlineTitle": "Coventry sign defender Pinnock from Brentford",
-      "sourceLinks": [
-        {
-          "sourceName": "BBC Sport",
-          "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cew9lqzx9jeo?at_medium=RSS&at_campaign=rss",
-          "sourceTier": "medium",
-          "headlineTitle": "Coventry sign defender Pinnock from Brentford",
-          "publishedAt": "2026-08-27 00:00"
-        },
-        {
-          "sourceName": "David Ornstein 검색 모니터",
-          "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVVNCYzVXVzN0RXR0ZDJsNWtDcDVqejRDMTJiVENVZkFTdEJBLWJSdnBGbVJqQ0VXN3Zkd1RnVlY4bFVZSmxFTEM3TEc3aHgwdGJ1TmE2TWkwME5ud1lFOExWZThOa3dZYkdsc0pBdjNKMGZ1NGF2TFpKZm1PTUd5OGVVQUlZZnRZbFF3?oc=5",
-          "sourceTier": "medium",
-          "headlineTitle": "Ethan Pinnock to Coventry City: £6m agreement reached — Ornstein - SPORF",
-          "publishedAt": "2026-08-25 00:20"
         }
       ],
       "sourceCount": 2
@@ -986,36 +865,6 @@
         }
       ],
       "sourceCount": 2
-    },
-    {
-      "id": "draft:https://www.bbc.co.uk/sport/football/articles/ckgd5732mexo?at_medium=RSS&at_campaign=rss",
-      "player": "Elvedi",
-      "fromTeam": "Borussia Monchengladbach",
-      "toTeam": "Leeds",
-      "league": "미분류",
-      "status": "완료",
-      "fee": "£8.5M",
-      "sourceKey": "bbc-sport",
-      "sourceTier": "medium",
-      "sourceName": "BBC Sport",
-      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/ckgd5732mexo?at_medium=RSS&at_campaign=rss",
-      "sourceType": "자동 추출 초안",
-      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
-      "publishedAt": "2026-08-19 20:10",
-      "lastVerifiedAt": "2026-08-20 01:27",
-      "extractionConfidence": "high",
-      "extractionPattern": "official-headline-shape",
-      "headlineTitle": "Leeds sign Elvedi from Borussia Monchengladbach",
-      "sourceLinks": [
-        {
-          "sourceName": "BBC Sport",
-          "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/ckgd5732mexo?at_medium=RSS&at_campaign=rss",
-          "sourceTier": "medium",
-          "headlineTitle": "Leeds sign Elvedi from Borussia Monchengladbach",
-          "publishedAt": "2026-08-19 20:10"
-        }
-      ],
-      "sourceCount": 1
     },
     {
       "id": "draft:https://www.bbc.co.uk/sport/football/articles/c7v4z3yglzro?at_medium=RSS&at_campaign=rss",
@@ -1151,6 +1000,170 @@
         }
       ],
       "sourceCount": 1
+    },
+    {
+      "id": "draft:49630831",
+      "player": "Rodri",
+      "fromTeam": "Manchester City",
+      "toTeam": "Barcelona",
+      "league": "미분류",
+      "status": "완료",
+      "fee": "€76.5M",
+      "sourceKey": "espn-fc",
+      "sourceTier": "medium",
+      "sourceName": "ESPN FC",
+      "sourceUrl": "https://www.espn.com/soccer/story/_/id/49630831/barcelona-manchester-city-agree-765m-deal-rodri-transfer-sources",
+      "sourceType": "자동 추출 초안",
+      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
+      "publishedAt": "2026-08-17 04:57",
+      "lastVerifiedAt": "2026-08-17 19:52",
+      "extractionConfidence": "medium",
+      "extractionPattern": "sources-clubs-agree-player-deal",
+      "headlineTitle": "Sources: Barça, City agree €76.5m Rodri deal",
+      "sourceLinks": [
+        {
+          "sourceName": "ESPN FC",
+          "sourceUrl": "https://www.espn.com/soccer/story/_/id/49630831/barcelona-manchester-city-agree-765m-deal-rodri-transfer-sources",
+          "sourceTier": "medium",
+          "headlineTitle": "Sources: Barça, City agree €76.5m Rodri deal",
+          "publishedAt": "2026-08-17 04:57"
+        },
+        {
+          "sourceName": "The Guardian Football",
+          "sourceUrl": "https://www.theguardian.com/football/2026/aug/18/barcelona-snatch-rodri-from-madrid-and-make-him-new-busquets",
+          "sourceTier": "medium",
+          "headlineTitle": "Barcelona steal Rodri away from Real Madrid and plan to make him new Busquets",
+          "publishedAt": "2026-08-18 19:49"
+        }
+      ],
+      "sourceCount": 2
+    },
+    {
+      "id": "draft:https://news.google.com/rss/articles/CBMibkFVX3lxTE54R3NEZnV3NzY2Qlk2QTNKNmFQQjJmdV90VGZidzhQR1lfeTJhaDBfMllxVW9pcTk5TzhuRnJRZ3d3ZFZhdlhxRk1aR1MxcWZFX21BRFdvcmw5M1Q2eW04WXMwWTNvc1dhWmhYUmNR?oc=5",
+      "player": "Jhon Lucumí",
+      "fromTeam": "Bologna",
+      "toTeam": "Juventus",
+      "league": "미분류",
+      "status": "완료",
+      "fee": "€20M",
+      "sourceKey": "romano-monitor",
+      "sourceTier": "medium",
+      "sourceName": "Fabrizio Romano 검색 모니터",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE54R3NEZnV3NzY2Qlk2QTNKNmFQQjJmdV90VGZidzhQR1lfeTJhaDBfMllxVW9pcTk5TzhuRnJRZ3d3ZFZhdlhxRk1aR1MxcWZFX21BRFdvcmw5M1Q2eW04WXMwWTNvc1dhWmhYUmNR?oc=5",
+      "sourceType": "자동 추출 초안",
+      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
+      "publishedAt": "2026-08-15 13:00",
+      "lastVerifiedAt": "2026-08-16 10:54",
+      "extractionConfidence": "medium",
+      "extractionPattern": "player-seals-move",
+      "headlineTitle": "Colombian Jhon Lucumi Seals €20 Million Move to Juventus After Four Seasons at Bologna - ColombiaOne.com",
+      "sourceLinks": [
+        {
+          "sourceName": "Fabrizio Romano 검색 모니터",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE54R3NEZnV3NzY2Qlk2QTNKNmFQQjJmdV90VGZidzhQR1lfeTJhaDBfMllxVW9pcTk5TzhuRnJRZ3d3ZFZhdlhxRk1aR1MxcWZFX21BRFdvcmw5M1Q2eW04WXMwWTNvc1dhWmhYUmNR?oc=5",
+          "sourceTier": "medium",
+          "headlineTitle": "Colombian Jhon Lucumi Seals €20 Million Move to Juventus After Four Seasons at Bologna - ColombiaOne.com",
+          "publishedAt": "2026-08-15 13:00"
+        },
+        {
+          "sourceName": "Fabrizio Romano 검색 모니터",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBvYkZmNktxUVBjS3gyVklkMzNMYy1WZG51bmdjOG9ycThWOHlpSW4teHNzdjVsNDFaOXdLZGVQRmZ0Vm9IZGxUT0ZVQW1obVJDNnprdVhzOXA4aFU4amdsMHp3cUV2SVdjZzU2Y2Zn?oc=5",
+          "sourceTier": "medium",
+          "headlineTitle": "Colombian Jhon Lucum Seals €20 Million Move to Juventus After Four Seasons at Bologna - ColombiaOne.com",
+          "publishedAt": "2026-08-13 21:55"
+        }
+      ],
+      "sourceCount": 2
+    },
+    {
+      "id": "draft:https://news.google.com/rss/articles/CBMinAFBVV95cUxQdW8wVldvTWtXMUl4MnhtMmZUS19hQlZWbEdiMWFDWk1CcW5YdVNNcHhsS1VlNjV4dHNHcVllRzI4SWJJR0pGV1FsaGdwZ1NJSlM2em54VTJhbHNWZUdMTW1RUnJBYUhMVWVCR0FRMXdUTXZLUGpnUlBDUGg0YmJwLTB0dG9uRkF2Sm9WMVhMTmlHSzJhSWJJd0FFejA?oc=5",
+      "player": "Exequiel Palacios",
+      "fromTeam": "Bayer Leverkusen",
+      "toTeam": "Ipswich Town",
+      "league": "미분류",
+      "status": "루머",
+      "fee": "미정",
+      "sourceKey": "romano-monitor",
+      "sourceTier": "medium",
+      "sourceName": "Fabrizio Romano 검색 모니터",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdW8wVldvTWtXMUl4MnhtMmZUS19hQlZWbEdiMWFDWk1CcW5YdVNNcHhsS1VlNjV4dHNHcVllRzI4SWJJR0pGV1FsaGdwZ1NJSlM2em54VTJhbHNWZUdMTW1RUnJBYUhMVWVCR0FRMXdUTXZLUGpnUlBDUGg0YmJwLTB0dG9uRkF2Sm9WMVhMTmlHSzJhSWJJd0FFejA?oc=5",
+      "sourceType": "자동 추출 초안",
+      "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
+      "publishedAt": "2026-08-26 20:52",
+      "lastVerifiedAt": "2026-08-27 00:17",
+      "extractionConfidence": "high",
+      "extractionPattern": "palacios-ipswich-agreement",
+      "needsVerification": false,
+      "headlineTitle": "Exequiel Palacios to Ipswich Town: medical booked after deal agreed — Romano - SPORF",
+      "sourceLinks": [
+        {
+          "sourceName": "Fabrizio Romano 검색 모니터",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdW8wVldvTWtXMUl4MnhtMmZUS19hQlZWbEdiMWFDWk1CcW5YdVNNcHhsS1VlNjV4dHNHcVllRzI4SWJJR0pGV1FsaGdwZ1NJSlM2em54VTJhbHNWZUdMTW1RUnJBYUhMVWVCR0FRMXdUTXZLUGpnUlBDUGg0YmJwLTB0dG9uRkF2Sm9WMVhMTmlHSzJhSWJJd0FFejA?oc=5",
+          "sourceTier": "medium",
+          "headlineTitle": "Exequiel Palacios to Ipswich Town: medical booked after deal agreed — Romano - SPORF",
+          "publishedAt": "2026-08-26 20:52"
+        },
+        {
+          "sourceName": "Instagram 간접 검색 모니터",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9nbDNGX2ctVEtYbUk4RFY1NC1aeEg5Z3E3N2Nac0hBR2xZME52OUtvRzdZNkJlTE0xaTVKd2lMQzlsU0pXZ1NKZTJ5cGNzRFE1d3c?oc=5",
+          "sourceTier": "low",
+          "headlineTitle": "DEAL DONE✅ Ipswich Town have signed 27 year old Exequiel Palacios from Bayer Leverkusen for €30M including bonuses. The Argentine midfielder has signed a 4 year contract with the newly promoted Premier League Side.. The FIRST EVER World Cup - instagram.com",
+          "publishedAt": "2026-08-26 05:55"
+        }
+      ],
+      "sourceCount": 2
+    },
+    {
+      "id": "draft:https://www.bbc.co.uk/sport/football/articles/cx2zlnpnk4zo?at_medium=RSS&at_campaign=rss",
+      "player": "Nico Gonzalez",
+      "fromTeam": "Manchester City",
+      "toTeam": "Newcastle",
+      "league": "미분류",
+      "status": "루머",
+      "fee": "£52M",
+      "sourceKey": "bbc-sport",
+      "sourceTier": "medium",
+      "sourceName": "BBC Sport",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cx2zlnpnk4zo?at_medium=RSS&at_campaign=rss",
+      "sourceType": "자동 추출 초안",
+      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
+      "publishedAt": "2026-08-26 16:59",
+      "lastVerifiedAt": "2026-08-27 00:17",
+      "extractionConfidence": "high",
+      "extractionPattern": "espn-nico-gonzalez-newcastle",
+      "needsVerification": false,
+      "headlineTitle": "Newcastle agree £52m deal for Man City's Gonzalez",
+      "sourceLinks": [
+        {
+          "sourceName": "BBC Sport",
+          "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cx2zlnpnk4zo?at_medium=RSS&at_campaign=rss",
+          "sourceTier": "medium",
+          "headlineTitle": "Newcastle agree £52m deal for Man City's Gonzalez",
+          "publishedAt": "2026-08-26 16:59"
+        },
+        {
+          "sourceName": "ESPN FC",
+          "sourceUrl": "https://www.espn.com/soccer/story/_/id/49723011/man-city-nico-gonzalez-newcastle-united-transfer",
+          "sourceTier": "medium",
+          "headlineTitle": "Sources: City's González to join N'castle for £52m",
+          "publishedAt": "2026-08-26 01:13"
+        },
+        {
+          "sourceName": "David Ornstein 검색 모니터",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOY3F5REhzQUI4VTJxOW9leExjRmRWTm5UWDNNTFVramJHY05JUlpIMURkSW4za3BjTDFiX0dwMDh4Yi1vZTM1RVA2UTNSSTFjZnNiZkdZYUtkWDhNZ0FoY3c3aHlWcFJZZDVHQXBJd0R3bnFidHVsdVBncGY1a0N6TmJ0U0JodVNJVmd5NW92NkRSaktK?oc=5",
+          "sourceTier": "medium",
+          "headlineTitle": "Newcastle agree deal for Manchester City’s Nico Gonzalez - The Athletic - The New York Times",
+          "publishedAt": "2026-08-26 00:56"
+        },
+        {
+          "sourceName": "David Ornstein 검색 모니터",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQN3E3QzVIal93R3RMUW4zbldTbWc5aGZicVZUbVhnb0ZzcEJ4Mm95MVJZTVhFdzR4V0w0clcwWUFfV1Bxek00QjV6UXZJYjJmbHZlNHF0SE1ObDdmblY0YXZGN19WdkR1YW5yLXB5azczQ241b1B5OUlfVEs4R0lNbmxPM01abFBmYW8wQlpld05VbEF5YUNUVGJB?oc=5",
+          "sourceTier": "medium",
+          "headlineTitle": "Newcastle in talks to sign Nico Gonzalez from Manchester City - The Athletic - The New York Times",
+          "publishedAt": "2026-08-19 09:27"
+        }
+      ],
+      "sourceCount": 4
     }
   ],
   "rules": {
