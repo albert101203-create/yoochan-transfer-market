@@ -270,7 +270,65 @@ const PLAYER_DISPLAY_ALIASES = {
   Gozo: "Zavier Gozo",
   David: "Promise David",
   Parrott: "Troy Parrott",
+  Azeez: "Femi Azeez",
+  Bernal: "Rebeca Bernal",
+  Gudmundsson: "Albert Gudmundsson",
+  "Robert Sanchez": "Robert Sánchez",
+  Martínez: "Emiliano Martínez",
+  Martinez: "Emiliano Martínez",
+  "Mykhaylo Mudryk": "Mykhailo Mudryk",
+  Phillips: "Ashley Phillips",
+  Dragusin: "Radu Dragusin",
+  "Barcola - Liverpool FC": "Bradley Barcola",
+  Ndiaye: "Iliman Ndiaye",
+  Elliott: "Harvey Elliott",
+  Gakpo: "Cody Gakpo",
+  Pinnock: "Ethan Pinnock",
+  Elvedi: "Nico Elvedi",
+  Sugawara: "Yukinari Sugawara",
+  "Fernandez-Pardo": "Matias Fernandez-Pardo",
+  Diouf: "El Hadji Malick Diouf",
+  "Pape Matar": "Pape Matar Sarr",
 };
+
+const TEAM_DISPLAY_ALIASES = {
+  Villa: "Aston Villa",
+  "Paris Saint": "PSG",
+  "Paris Saint-Germain": "PSG",
+  "FC Barcelona": "Barcelona",
+  Dortmund: "Borussia Dortmund",
+  Spurs: "Tottenham",
+  "Man City": "Manchester City",
+  "Man Utd": "Manchester United",
+  Al: "Al Hilal",
+};
+
+function normalizeAssetLookup(value = "") {
+  return String(value)
+    .normalize("NFKD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, " ")
+    .trim();
+}
+
+function findMappedAsset(collection, label) {
+  if (!label) return "";
+  if (collection[label]?.src) return collection[label].src;
+
+  const target = normalizeAssetLookup(label);
+  if (!target) return "";
+  const targetTokens = new Set(target.split(/\s+/));
+  const candidates = Object.entries(collection).filter(([name, entry]) => {
+    if (!entry?.src) return false;
+    const tokens = normalizeAssetLookup(name).split(/\s+/);
+    return tokens.some((token) => token.length >= 4 && targetTokens.has(token));
+  });
+
+  // A short feed label such as "Phillips" is safe only when it maps to one
+  // stored profile. Never guess between multiple people/clubs.
+  return candidates.length === 1 ? candidates[0][1].src : "";
+}
 
 const PLAYER_DISPLAY_CURRENT_TEAMS = {
   "Harry Kane": "바이에른 뮌헨",
@@ -282,14 +340,16 @@ const PLAYER_DISPLAY_CURRENT_TEAMS = {
 function enrichTransfer(item) {
   const rawPlayer = item.player || "미상 선수";
   const player = PLAYER_DISPLAY_ALIASES[rawPlayer] || rawPlayer;
-  const unknownFromTeam = !item.fromTeam || ["미상", "소속팀 확인 중"].includes(item.fromTeam);
+  const rawFromTeam = TEAM_DISPLAY_ALIASES[item.fromTeam] || item.fromTeam;
+  const rawToTeam = TEAM_DISPLAY_ALIASES[item.toTeam] || item.toTeam;
+  const unknownFromTeam = !rawFromTeam || ["미상", "소속팀 확인 중"].includes(rawFromTeam);
   const fromTeam = unknownFromTeam
     ? PLAYER_DISPLAY_CURRENT_TEAMS[player] || item.fromTeam || "미상"
-    : item.fromTeam;
-  const toTeam = item.toTeam || "미상";
-  const playerAsset = assetMap.players[player]?.src;
-  const fromClubAsset = assetMap.clubs[fromTeam]?.src;
-  const toClubAsset = assetMap.clubs[toTeam]?.src;
+    : rawFromTeam;
+  const toTeam = rawToTeam || "미상";
+  const playerAsset = findMappedAsset(assetMap.players, player);
+  const fromClubAsset = findMappedAsset(assetMap.clubs, fromTeam);
+  const toClubAsset = findMappedAsset(assetMap.clubs, toTeam);
 
   return {
     ...item,

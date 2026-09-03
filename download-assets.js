@@ -233,6 +233,11 @@ function collectRecords() {
     if (normalize(record.toTeam)) clubs.add(normalize(record.toTeam));
   });
 
+  // Never search/download a club logo under a name that is also a player.
+  // This protects the asset map from malformed cards such as
+  // "Lamine Camara" being treated as a club.
+  for (const player of players) clubs.delete(player);
+
   return { players: [...players], clubs: [...clubs] };
 }
 

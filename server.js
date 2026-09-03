@@ -174,6 +174,15 @@ const TEAM_ALIASES = {
   Forest: "Nottingham Forest",
   Swans: "Swansea City",
   Coventry: "Coventry City",
+  Villa: "Aston Villa",
+  "Paris Saint": "PSG",
+  "Paris Saint-Germain": "PSG",
+  "FC Barcelona": "Barcelona",
+  Dortmund: "Borussia Dortmund",
+  "Man City": "Manchester City",
+  "Man Utd": "Manchester United",
+  Spurs: "Tottenham",
+  Al: "Al Hilal",
 };
 
 const PLAYER_ALIASES = {
@@ -186,6 +195,24 @@ const PLAYER_ALIASES = {
   "Julian Alvarez": "Julián Álvarez",
   "Harvey Elliot": "Harvey Elliott",
   "Mykhaylo Mudryk": "Mykhailo Mudryk",
+  Azeez: "Femi Azeez",
+  Bernal: "Rebeca Bernal",
+  Gudmundsson: "Albert Gudmundsson",
+  "Robert Sanchez": "Robert Sánchez",
+  Martínez: "Emiliano Martínez",
+  Martinez: "Emiliano Martínez",
+  Phillips: "Ashley Phillips",
+  Dragusin: "Radu Dragusin",
+  "Barcola - Liverpool FC": "Bradley Barcola",
+  Ndiaye: "Iliman Ndiaye",
+  Elliott: "Harvey Elliott",
+  Gakpo: "Cody Gakpo",
+  Pinnock: "Ethan Pinnock",
+  Elvedi: "Nico Elvedi",
+  Sugawara: "Yukinari Sugawara",
+  "Fernandez-Pardo": "Matias Fernandez-Pardo",
+  Diouf: "El Hadji Malick Diouf",
+  "Pape Matar": "Pape Matar Sarr",
 };
 
 const PLAYER_CURRENT_TEAMS = {
@@ -785,7 +812,7 @@ function shouldSkipDraftTitle(title = "") {
   return (
     GENERIC_DRAFT_SKIP_PATTERNS.some((pattern) => pattern.test(title)) ||
     /^Amorim[\u2019']s Milan live up to billing/i.test(title) ||
-    /contract interview|transfer grades|podcast:|live stream online|presidency bid|chief .* rules out|^Just in: Chelsea contact agents|^Sheffield Wednesday set to re-sign Manchester City midfielder|replacement|transfer window trends|to sign Inter extension|deal collapses|move off|abandoning move|appear off|deal unlikely|^Sources: Spurs agree deal for Mudryk, Tosin|^Every done deal on transfer deadline day|^Loan stars:|^The Scout[\u2019\x27]s FPL|^Chelsea secure deal for Parma midfielder|^Chelsea contact agents to explore opportunity/i.test(title)
+    /contract interview|transfer grades|podcast:|live stream online|presidency bid|chief .* rules out|^Just in: Chelsea contact agents|^Sheffield Wednesday set to re-sign Manchester City midfielder|replacement|alternative|transfer window trends|to sign Inter extension|deal collapses|move off|abandoning move|appear off|deal unlikely|to stay at|transfer rumour:|fun interview|rated one out of 10|^Sources: Spurs agree deal for Mudryk, Tosin|^Every done deal on transfer deadline day|^Loan stars:|^The Scout[\u2019\x27]s FPL|^Chelsea secure deal for Parma midfielder|^Chelsea contact agents to explore opportunity/i.test(title)
   );
 }
 
@@ -1343,6 +1370,24 @@ const DRAFT_PLAYER_ALIASES = {
   "Julian Alvarez": "Julián Álvarez",
   "Harvey Elliot": "Harvey Elliott",
   "Mykhaylo Mudryk": "Mykhailo Mudryk",
+  Azeez: "Femi Azeez",
+  Bernal: "Rebeca Bernal",
+  Gudmundsson: "Albert Gudmundsson",
+  "Robert Sanchez": "Robert Sánchez",
+  Martínez: "Emiliano Martínez",
+  Martinez: "Emiliano Martínez",
+  Phillips: "Ashley Phillips",
+  Dragusin: "Radu Dragusin",
+  "Barcola - Liverpool FC": "Bradley Barcola",
+  Ndiaye: "Iliman Ndiaye",
+  Elliott: "Harvey Elliott",
+  Gakpo: "Cody Gakpo",
+  Pinnock: "Ethan Pinnock",
+  Elvedi: "Nico Elvedi",
+  Sugawara: "Yukinari Sugawara",
+  "Fernandez-Pardo": "Matias Fernandez-Pardo",
+  Diouf: "El Hadji Malick Diouf",
+  "Pape Matar": "Pape Matar Sarr",
 };
 
 const DRAFT_CURRENT_TEAMS = {
@@ -2169,6 +2214,12 @@ function normalizeDraftRecord(draft) {
     Coventry: "Coventry City",
   }[normalized.toTeam] || normalized.toTeam;
 
+  // Apply the same club aliases to old cached records as to fresh headlines.
+  // This prevents e.g. Villa/Paris Saint/Dortmund from missing their local
+  // logo simply because the feed used a short name.
+  normalized.fromTeam = normalizeTeamName(normalized.fromTeam);
+  normalized.toTeam = normalizeTeamName(normalized.toTeam);
+
   normalized.fromTeam = String(normalized.fromTeam || "").replace(/[’']+$/u, "").trim();
   normalized.toTeam = String(normalized.toTeam || "").replace(/[’']+$/u, "").trim();
 
@@ -2207,6 +2258,26 @@ function normalizeDraftRecord(draft) {
   // shapes before deciding whether the card is safe to show.
   const repaired = repairHeadlineTransferShape(normalized, title);
   if (repaired) Object.assign(normalized, repaired);
+
+  const teamFieldRepairs = {
+    "Fulham pushing to": "Fulham",
+    "Tottenham in talks to": "Tottenham",
+    "Manchester City FC": "Manchester City",
+    "FC Barcelona": "Barcelona",
+    "Al Qadsiah": "Al Qadsiah",
+  };
+  normalized.fromTeam = teamFieldRepairs[normalized.fromTeam] || normalized.fromTeam;
+  normalized.toTeam = teamFieldRepairs[normalized.toTeam] || normalized.toTeam;
+
+  if (/Matias Fernandez-Pardo move to Newcastle United/i.test(title)) {
+    normalized.player = "Matias Fernandez-Pardo";
+    normalized.fromTeam = "Lille";
+    normalized.toTeam = "Newcastle United";
+  } else if (/Everton agree deal for Jack Grealish return/i.test(title)) {
+    normalized.player = "Jack Grealish";
+    normalized.fromTeam = "Manchester City";
+    normalized.toTeam = "Everton";
+  }
 
   if (!isPlausibleDraft(normalized)) return null;
 
@@ -2342,6 +2413,48 @@ function repairHeadlineTransferShape(item, rawTitle = "") {
   if (/Premier League transfer news: Hull agree .*Tim Iroegbunam/i.test(title)) {
     return setMove("Tim Iroegbunam", "Everton", "Hull", "hull-iroegbunam-fee");
   }
+  if (/Fulham pushing to sign Hugo Larsson from Eintracht Frankfurt/i.test(title)) {
+    return setMove("Hugo Larsson", "Eintracht Frankfurt", "Fulham", "fulham-larsson-interest");
+  }
+  if (/Tottenham in talks to sign winger Mudryk on loan/i.test(title)) {
+    return setMove("Mykhailo Mudryk", "Chelsea", "Tottenham", "tottenham-mudryk-loan");
+  }
+  if (/Rangers buy Portland['’]s Kelsy/i.test(title)) {
+    return setMove("Kevin Kelsy", "Portland", "Rangers", "rangers-kelsy-signing");
+  }
+  if (/Pape Matar Sarr completes Juventus transfer|Pape Matar Sarr joins Juventus from Spurs/i.test(title)) {
+    return setMove("Pape Matar Sarr", "Tottenham", "Juventus", "juventus-sarr-loan");
+  }
+  if (/Barcelona completes transfer deadline day deal for Gabriel Jesus/i.test(title)) {
+    return setMove("Gabriel Jesus", "Arsenal", "Barcelona", "barcelona-jesus-official");
+  }
+  if (/Harvey Elliott to Valencia.*Liverpool midfielder joins/i.test(title)) {
+    return setMove("Harvey Elliott", "Liverpool", "Valencia", "valencia-elliott-loan");
+  }
+  if (/Leeds United close in on deal for Man City['’]s James Trafford/i.test(title)) {
+    return setMove("James Trafford", "Manchester City", "Leeds", "leeds-trafford-deal");
+  }
+  if (/Manchester United['’]s Jack Moorhouse agrees Dundee loan/i.test(title)) {
+    return setMove("Jack Moorhouse", "Manchester United", "Dundee", "dundee-moorhouse-loan");
+  }
+  if (/Pedro Gonçalves to Fiorentina/i.test(title)) {
+    return setMove("Pedro Gonçalves", "Sporting", "Fiorentina", "fiorentina-pedro-goncalves-loan");
+  }
+  if (/Leeds working to finalise signing of Frankfurt['’]s Jean-Matteo Bahoya/i.test(title)) {
+    return setMove("Jean-Matteo Bahoya", "Eintracht Frankfurt", "Leeds", "leeds-bahoya-signing");
+  }
+  if (/Zach Abbott joins Southampton from Nottingham Forest/i.test(title)) {
+    return setMove("Zach Abbott", "Nottingham Forest", "Southampton", "southampton-abbott-signing");
+  }
+  if (/Aston Villa sign Mbaye and Harwood-Bellis/i.test(title)) {
+    return setMove("Taylor Harwood-Bellis", "Southampton", "Aston Villa", "aston-villa-harwood-bellis-signing");
+  }
+  if (/Chido Obi finalising loan move to .*Willem II/i.test(title)) {
+    return setMove("Chido Obi", "Manchester United", "Willem II", "willem-ii-chido-obi-loan");
+  }
+  if (/Arijon Ibrahimović set for loan with FC Augsburg/i.test(title)) {
+    return setMove("Arijon Ibrahimović", "Bayern Munich", "FC Augsburg", "augsburg-ibrahimovic-loan");
+  }
 
   match = title.match(
     /(?<player>[A-ZÀ-ÖØ-Ý][\p{L}'’.-]*(?:\s+[A-ZÀ-ÖØ-Ý][\p{L}'’.-]*){0,2})\s+joins\s+(?:for\s+)?(?<to>[A-Z0-9][\p{L}0-9 .&'’()\/-]+?)(?=\s+(?:in|on|from|as|after)\b|\s*[:\-–—]|$)/u
@@ -2429,7 +2542,7 @@ function isPlausibleDraft(item) {
   if (knownTeams.has(player)) return false;
   if (/\b[\p{L}][\p{L}'’\u2011-]*[\u2019']s\b/u.test(player)) return false;
   if (/[!?🚨🔄]/u.test(fieldText)) return false;
-  if (/[:;]|\b(?:official|double|record-breaking|on loan|representatives|deadline-day|alternative|replacement|transfer|news|target|source|sources|why|quote|star|parisian|socceroo|agents|hope|shock|league|espn|bbc|sky|farm|short|gameweek|scout|women|villa|ecuador|world|fpl)\b/i.test(player)) {
+  if (/[:;]|\b(?:official|double|record-breaking|on loan|representatives|deadline-day|alternative|replacement|transfer|news|target|source|sources|why|quote|star|parisian|socceroo|agents|hope|shock|league|espn|bbc|sky|farm|short|gameweek|scout|women|villa|ecuador|world|fpl|manchester|nld|usmnt|african|england|millwall|juventus|newcastle|collapsed|permanent|potential|proposed|reacts)\b/i.test(player)) {
     return false;
   }
   if (/\b(?:agree|agreement|deal|sign(?:s|ed|ing)?|after|striker|transfer|news|official|fail(?:s|ed)?|could|replacement|alternative|source|sources|target|with|from|and|offer)\b/i.test(fromTeam)) {
@@ -3058,9 +3171,23 @@ async function buildDraftPayload(livePayload, previousPayload = draftCache) {
     ? previousPayload.reviewItems.map(normalizeDraftRecord).filter(Boolean)
     : [];
   const seedCandidates = dedupeDrafts([...freshDrafts, ...previousDrafts, ...previousReviewItems]);
-  const candidates = await enrichReviewQueue(seedCandidates);
+  const enrichedCandidates = await enrichReviewQueue(seedCandidates);
+  // Enrichment can replace the headline and fields with values from the
+  // article page. Normalize once more so that those replacements receive the
+  // same aliases, quality gate, and team/photo checks as fresh items.
+  const candidates = dedupeDrafts(
+    enrichedCandidates.map(normalizeDraftRecord).filter(Boolean)
+  );
   const reviewItems = candidates
     .filter((item) => !isPublishableDraft(item))
+    .map((item) => ({
+      ...item,
+      // A review item must never look like a confirmed transfer on the site,
+      // even when an old cache stored status=완료 with an unknown club/photo.
+      needsVerification: true,
+      originalStatus: item.originalStatus || item.status || "업데이트",
+      status: "확인 필요",
+    }))
     .sort(compareDraftPriority)
     .slice(0, DRAFT_ARCHIVE_LIMIT);
   const drafts = candidates
