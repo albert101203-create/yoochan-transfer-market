@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-03T13:30:19.386Z",
-  "basedOnGeneratedAt": "2026-09-03T13:30:19.383Z",
+  "generatedAt": "2026-09-03T13:44:40.395Z",
+  "basedOnGeneratedAt": "2026-09-03T13:44:40.391Z",
   "itemCount": 30,
   "items": [
     {
@@ -471,37 +471,6 @@
       "sourceCount": 18
     },
     {
-      "id": "draft:https://news.google.com/rss/articles/CBMifkFVX3lxTE9LZU9SREc4NU9yZTk5RjRMN3NQeW1LNDlDQnpMWlh4cHQzN3JkVC1tLWZkVnlBcjk5RFZmdC1nZHA1ZmtDZ3dvNE9PTE5PVVBNTHh5MmNWSHU1RW5zVEthN3M2OWNCRkFDMFFRUmk3NkpaU2pGWDF5cEZhRmlsZ9IBhgFBVV95cUxQVWxlWUFzbGtpZDVDamdlbURPcFIwZnhyNUpMc1RSN2tWZXJlRzJvaDY5M1d4Xy1xdW9mMEdFNXZ1V0xDS1hibHZDZXYycXFQR2N6QWtQbXZJaFZOLWlNSjVxa2RTaXV3NjQ0bmpEaGYxVm53YTFvQlBqMERMTUZwd200eTNMdw?oc=5",
-      "player": "Barcola - Liverpool FC",
-      "fromTeam": "PSG",
-      "toTeam": "Liverpool",
-      "league": "미분류",
-      "status": "완료",
-      "fee": "£123M",
-      "sourceKey": "official-liverpool-monitor",
-      "sourceTier": "high",
-      "sourceName": "Liverpool official-site monitor",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9LZU9SREc4NU9yZTk5RjRMN3NQeW1LNDlDQnpMWlh4cHQzN3JkVC1tLWZkVnlBcjk5RFZmdC1nZHA1ZmtDZ3dvNE9PTE5PVVBNTHh5MmNWSHU1RW5zVEthN3M2OWNCRkFDMFFRUmk3NkpaU2pGWDF5cEZhRmlsZ9IBhgFBVV95cUxQVWxlWUFzbGtpZDVDamdlbURPcFIwZnhyNUpMc1RSN2tWZXJlRzJvaDY5M1d4Xy1xdW9mMEdFNXZ1V0xDS1hibHZDZXYycXFQR2N6QWtQbXZJaFZOLWlNSjVxa2RTaXV3NjQ0bmpEaGYxVm53YTFvQlBqMERMTUZwd200eTNMdw?oc=5",
-      "sourceType": "자동 추출 초안",
-      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
-      "publishedAt": "2026-08-29 09:10",
-      "lastVerifiedAt": "2026-09-03 13:30",
-      "extractionConfidence": "medium",
-      "extractionPattern": "club-agree-deal-for-player",
-      "needsVerification": false,
-      "headlineTitle": "Liverpool agree £123m deal for PSG's Barcola - Liverpool FC",
-      "sourceLinks": [
-        {
-          "sourceName": "Liverpool official-site monitor",
-          "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9LZU9SREc4NU9yZTk5RjRMN3NQeW1LNDlDQnpMWlh4cHQzN3JkVC1tLWZkVnlBcjk5RFZmdC1nZHA1ZmtDZ3dvNE9PTE5PVVBNTHh5MmNWSHU1RW5zVEthN3M2OWNCRkFDMFFRUmk3NkpaU2pGWDF5cEZhRmlsZ9IBhgFBVV95cUxQVWxlWUFzbGtpZDVDamdlbURPcFIwZnhyNUpMc1RSN2tWZXJlRzJvaDY5M1d4Xy1xdW9mMEdFNXZ1V0xDS1hibHZDZXYycXFQR2N6QWtQbXZJaFZOLWlNSjVxa2RTaXV3NjQ0bmpEaGYxVm53YTFvQlBqMERMTUZwd200eTNMdw?oc=5",
-          "sourceTier": "high",
-          "headlineTitle": "Liverpool agree £123m deal for PSG's Barcola - Liverpool FC",
-          "publishedAt": "2026-08-29 09:10"
-        }
-      ],
-      "sourceCount": 1
-    },
-    {
       "id": "draft:https://www.bbc.co.uk/sport/football/articles/c780weq4146o?at_medium=RSS&at_campaign=rss",
       "player": "Rebeca Bernal",
       "fromTeam": "Washington Spirit",
@@ -516,7 +485,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-09-02 19:47",
-      "lastVerifiedAt": "2026-09-03 13:30",
+      "lastVerifiedAt": "2026-09-03 13:44",
       "extractionConfidence": "high",
       "extractionPattern": "club-signs-player-from",
       "needsVerification": false,
@@ -547,7 +516,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-09-02 09:49",
-      "lastVerifiedAt": "2026-09-03 13:30",
+      "lastVerifiedAt": "2026-09-03 13:44",
       "extractionConfidence": "high",
       "extractionPattern": "club-signs-player-from",
       "needsVerification": false,
@@ -564,26 +533,33 @@
       "sourceCount": 1
     },
     {
-      "id": "draft:https://www.skysports.com/football/news/11671/13579669/iliman-ndiaye-transfer-news-man-city-sign-65m-winger-from-everton-as-jack-grealish-joins-toffees-on-loan",
+      "id": "draft:https://news.google.com/rss/articles/CBMi8wFBVV95cUxNY3ljM2lNd1B5NTJtT2pYUUt2amJFd25zRmFOZUptcVhDS1dTYmU1OXRSSWNrRDdGaTlyOXBuUy01c1RsM1o5RE9oZ1hsLXZOZlluQXBRUWtTYmdXckdONFVESW1DN3pzUklmVUNuSWhkaTZFc1JtVC1FeHlFYjM1Zl9lNTlLc1hNWVI4alZWemNMWDRxYzFHUlNlTTNhLUc1Z1M0dG5VQjIyNC1FVkJrRWhnOWZXR29aSC1ZSW1TN005R1kwN3BLTFNQQU4yZkpROVowR25xRHF4RGZaZ3ZpbWw5ZW1scnNCbWpPWWZhejBZeVk?oc=5",
       "player": "Iliman Ndiaye transfer",
       "fromTeam": "Everton as Jack Grealish joins Toffees",
       "toTeam": "Manchester City",
       "league": "프리미어리그",
       "status": "완료",
       "fee": "£65M",
-      "sourceKey": "sky-sports",
+      "sourceKey": "tottenham-sky-monitor",
       "sourceTier": "medium",
-      "sourceName": "Sky Sports",
-      "sourceUrl": "https://www.skysports.com/football/news/11671/13579669/iliman-ndiaye-transfer-news-man-city-sign-65m-winger-from-everton-as-jack-grealish-joins-toffees-on-loan",
+      "sourceName": "Sky Sports Tottenham monitor",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNY3ljM2lNd1B5NTJtT2pYUUt2amJFd25zRmFOZUptcVhDS1dTYmU1OXRSSWNrRDdGaTlyOXBuUy01c1RsM1o5RE9oZ1hsLXZOZlluQXBRUWtTYmdXckdONFVESW1DN3pzUklmVUNuSWhkaTZFc1JtVC1FeHlFYjM1Zl9lNTlLc1hNWVI4alZWemNMWDRxYzFHUlNlTTNhLUc1Z1M0dG5VQjIyNC1FVkJrRWhnOWZXR29aSC1ZSW1TN005R1kwN3BLTFNQQU4yZkpROVowR25xRHF4RGZaZ3ZpbWw5ZW1scnNCbWpPWWZhejBZeVk?oc=5",
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
-      "publishedAt": "2026-09-01 21:49",
-      "lastVerifiedAt": "2026-09-03 13:30",
+      "publishedAt": "2026-09-01 22:00",
+      "lastVerifiedAt": "2026-09-03 13:44",
       "extractionConfidence": "high",
       "extractionPattern": "player-club-signs-from",
       "needsVerification": false,
-      "headlineTitle": "Iliman Ndiaye transfer news: Man City sign &#163;65m winger from Everton as Jack Grealish joins Toffees on loan",
+      "headlineTitle": "Iliman Ndiaye transfer news: Man City sign £65m winger from Everton as Jack Grealish joins Toffees on loan - Sky Sports",
       "sourceLinks": [
+        {
+          "sourceName": "Sky Sports Tottenham monitor",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNY3ljM2lNd1B5NTJtT2pYUUt2amJFd25zRmFOZUptcVhDS1dTYmU1OXRSSWNrRDdGaTlyOXBuUy01c1RsM1o5RE9oZ1hsLXZOZlluQXBRUWtTYmdXckdONFVESW1DN3pzUklmVUNuSWhkaTZFc1JtVC1FeHlFYjM1Zl9lNTlLc1hNWVI4alZWemNMWDRxYzFHUlNlTTNhLUc1Z1M0dG5VQjIyNC1FVkJrRWhnOWZXR29aSC1ZSW1TN005R1kwN3BLTFNQQU4yZkpROVowR25xRHF4RGZaZ3ZpbWw5ZW1scnNCbWpPWWZhejBZeVk?oc=5",
+          "sourceTier": "medium",
+          "headlineTitle": "Iliman Ndiaye transfer news: Man City sign £65m winger from Everton as Jack Grealish joins Toffees on loan - Sky Sports",
+          "publishedAt": "2026-09-01 22:00"
+        },
         {
           "sourceName": "Sky Sports",
           "sourceUrl": "https://www.skysports.com/football/news/11671/13579669/iliman-ndiaye-transfer-news-man-city-sign-65m-winger-from-everton-as-jack-grealish-joins-toffees-on-loan",
@@ -592,7 +568,7 @@
           "publishedAt": "2026-09-01 21:49"
         }
       ],
-      "sourceCount": 1
+      "sourceCount": 2
     },
     {
       "id": "draft:https://www.bbc.co.uk/sport/football/articles/c3wj1qw5x04o?at_medium=RSS&at_campaign=rss",
@@ -1165,6 +1141,36 @@
           "sourceTier": "medium",
           "headlineTitle": "Leeds sign Elvedi from Borussia Monchengladbach",
           "publishedAt": "2026-08-19 20:10"
+        }
+      ],
+      "sourceCount": 1
+    },
+    {
+      "id": "draft:https://www.skysports.com/football/news/11095/13573640/newcastle-transfer-news-club-agree-deal-to-sign-defender-amar-dedic-from-benfica",
+      "player": "Amar Dedic",
+      "fromTeam": "Benfica",
+      "toTeam": "Newcastle",
+      "league": "미분류",
+      "status": "완료",
+      "fee": "미정",
+      "sourceKey": "sky-sports",
+      "sourceTier": "medium",
+      "sourceName": "Sky Sports",
+      "sourceUrl": "https://www.skysports.com/football/news/11095/13573640/newcastle-transfer-news-club-agree-deal-to-sign-defender-amar-dedic-from-benfica",
+      "sourceType": "자동 추출 초안",
+      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
+      "publishedAt": "2026-08-16 08:48",
+      "lastVerifiedAt": "2026-08-17 03:15",
+      "extractionConfidence": "high",
+      "extractionPattern": "player-club-signs-from",
+      "headlineTitle": "Newcastle transfer news: Club agree deal to sign defender Amar Dedic from Benfica",
+      "sourceLinks": [
+        {
+          "sourceName": "Sky Sports",
+          "sourceUrl": "https://www.skysports.com/football/news/11095/13573640/newcastle-transfer-news-club-agree-deal-to-sign-defender-amar-dedic-from-benfica",
+          "sourceTier": "medium",
+          "headlineTitle": "Newcastle transfer news: Club agree deal to sign defender Amar Dedic from Benfica",
+          "publishedAt": "2026-08-16 08:48"
         }
       ],
       "sourceCount": 1
