@@ -492,6 +492,9 @@ function renderCards() {
           ? "done"
           : "rumor";
       const sourceLinks = renderSourceLinks(item);
+      const photoNotice = item.photoNeedsVerification
+        ? `<span class="asset-notice">사진·로고 확인 중</span>`
+        : "";
       return `
         <article class="card transfer-card">
           <div class="card-top">
@@ -500,6 +503,7 @@ function renderCards() {
               <div>
                 <div class="eyebrow">${item.league}</div>
                 <h2 class="player">${item.player}</h2>
+                ${photoNotice}
               </div>
             </div>
             <span class="badge ${badgeClass}">${displayStatus}</span>

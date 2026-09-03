@@ -2305,6 +2305,106 @@ function repairHeadlineTransferShape(item, rawTitle = "") {
     return repaired;
   };
 
+  // Repair recurring multi-club headlines before the generic parser can turn
+  // a club, country, or journalist name into the player field.
+  if (/^Omari Kellyman joins RC Strasbourg/i.test(title)) {
+    return setMove("Omari Kellyman", "Chelsea", "RC Strasbourg", "strasbourg-kellyman-loan");
+  }
+  if (/^Ezri Konsa signs for Arsenal/i.test(title)) {
+    return setMove("Ezri Konsa", "Aston Villa", "Arsenal", "arsenal-konsa-signing");
+  }
+  if (/^Tijjani Reijnders joins Al Qadsiah/i.test(title)) {
+    return setMove("Tijjani Reijnders", "Manchester City", "Al Qadsiah", "al-qadsiah-reijnders-move");
+  }
+  if (/^Bruno Guimaraes joins Arsenal/i.test(title)) {
+    return setMove("Bruno Guimaraes", "Newcastle United", "Arsenal", "arsenal-bruno-guimaraes-move");
+  }
+  if (/^Christian Norgaard joins Everton/i.test(title)) {
+    return setMove("Christian Norgaard", "Arsenal", "Everton", "everton-norgaard-move");
+  }
+  if (/^Stuart Lewis joins Ipswich Town/i.test(title)) {
+    return setMove("Stuart Lewis", "Tottenham", "Ipswich Town", "ipswich-stuart-lewis-move");
+  }
+  if (/^Celtic sign keeper Johnstone .* striker Mheuka/i.test(title)) {
+    return setMove("Shumaira Mheuka", "Chelsea", "Celtic", "celtic-mheuka-loan");
+  }
+  if (/^Chelsea agree .* move for Monaco['’]s Camara/i.test(title)) {
+    return setMove("Lamine Camara", "AS Monaco", "Chelsea", "chelsea-camara-agreement");
+  }
+  if (/^Arsenal['’]s Martinelli leaves Arsenal .*Al-Hilal/i.test(title)) {
+    return setMove("Gabriel Martinelli", "Arsenal", "Al Hilal", "al-hilal-martinelli-move");
+  }
+  if (/^Rangers agree deal for Venezuela striker Kelsy/i.test(title)) {
+    return setMove("Kevin Kelsy", "Portland", "Rangers", "rangers-kelsy-signing");
+  }
+  if (/^Sunderland sign Tottenham['’]s Kevin Danso/i.test(title)) {
+    return setMove("Kevin Danso", "Tottenham", "Sunderland", "sunderland-danso-loan");
+  }
+  if (/^Man City sign Enzo Fern(?:ández|andez).*Chelsea/i.test(title)) {
+    return setMove("Enzo Fernández", "Chelsea", "Manchester City", "man-city-enzo-signing");
+  }
+  if (/^Pape Matar Sarr (?:set to join|completes).*Juventus/i.test(title)) {
+    return setMove("Pape Matar Sarr", "Tottenham", "Juventus", "juventus-sarr-loan");
+  }
+  if (/^Chelsea['’]s .* pursuit of Monaco midfielder Lamine Camara/i.test(title)) {
+    return setMove("Lamine Camara", "AS Monaco", "Chelsea", "chelsea-camara-pursuit");
+  }
+  if (/^Stevenage sign West Ham['’]s Kaelan Casey/i.test(title)) {
+    return setMove("Kaelan Casey", "West Ham United", "Stevenage", "stevenage-casey-loan");
+  }
+  if (/^Arsenal['’]s Gabriel Jesus .*Barcelona move/i.test(title)) {
+    return setMove("Gabriel Jesus", "Arsenal", "Barcelona", "barcelona-jesus-move");
+  }
+  if (/^Valencia agree .* Harvey Elliott|Harvey Elliott .* Valencia/i.test(title)) {
+    return setMove("Harvey Elliott", "Liverpool", "Valencia", "valencia-elliott-loan");
+  }
+  if (/^Fabrizio Romano and Florian Plettenberg clash .*Yan Diomande['’]s Real Madrid move/i.test(title)) {
+    return setMove("Yan Diomande", null, "Real Madrid", "real-madrid-diomande-rumour");
+  }
+  if (/^Brooke Norton-Cuffy to Hull from Genoa/i.test(title)) {
+    return setMove("Brooke Norton-Cuffy", "Genoa", "Hull", "hull-norton-cuffy-loan");
+  }
+  if (/^Sources: Manchester City reach agreement for Everton['’]s Ndiaye/i.test(title)) {
+    return setMove("Iliman Ndiaye", "Everton", "Manchester City", "man-city-ndiaye-agreement");
+  }
+  if (/^Enzo Fern(?:ández|andez) set to leave Chelsea for Man City/i.test(title)) {
+    return setMove("Enzo Fernández", "Chelsea", "Manchester City", "man-city-enzo-agreement");
+  }
+  if (/^Chelsea close to agreeing deal for Roma['’]s Kone/i.test(title)) {
+    return setMove("Manu Koné", "Roma", "Chelsea", "chelsea-manu-kone-agreement");
+  }
+  if (/^Crystal Palace hijack Sunderland['’]s .*Fofana deal/i.test(title)) {
+    return setMove("Malick Fofana", "Sunderland", "Crystal Palace", "crystal-palace-fofana-hijack");
+  }
+  if (/^Chelsea submit official bid for Lamine Camara/i.test(title)) {
+    return setMove("Lamine Camara", "AS Monaco", "Chelsea", "chelsea-camara-bid");
+  }
+  if (/^FOLARIN BALOGUN['’]S MOVE TO EVERTON IS OFF/i.test(title)) {
+    return setMove("Folarin Balogun", "Monaco", "Everton", "everton-balogun-transfer-off");
+  }
+  if (/^Arsenal['’]s Julian Alvarez Plan B emerges/i.test(title)) {
+    return setMove("Julián Álvarez", "Atlético Madrid", "Arsenal", "arsenal-julian-alvarez-rumour");
+  }
+
+  if (/^Gabriel Martinelli leaves Arsenal .*Al-Hilal/i.test(title)) {
+    return setMove("Gabriel Martinelli", "Arsenal", "Al Hilal", "al-hilal-martinelli-move");
+  }
+  if (/clash over Yan Diomande.*Real Madrid move/i.test(title)) {
+    return setMove("Yan Diomande", null, "Real Madrid", "real-madrid-diomande-rumour");
+  }
+  if (/^Celtic sign Parma.*Oliver Sorensen/i.test(title)) {
+    return setMove("Oliver Sorensen", "Parma", "Celtic", "celtic-sorensen-signing");
+  }
+  if (/^Malick Fofana to Sunderland.*agreement reached/i.test(title)) {
+    return setMove("Malick Fofana", "Lyon", "Sunderland", "sunderland-fofana-agreement");
+  }
+  if (/Chelsea close on Camara/i.test(title)) {
+    return setMove("Lamine Camara", "AS Monaco", "Chelsea", "chelsea-camara-pursuit");
+  }
+  if (/VALENCIA AGREE ON DEAL TO SIGN HARVEY ELLIOTT/i.test(title)) {
+    return setMove("Harvey Elliott", "Liverpool", "Valencia", "valencia-elliott-loan");
+  }
+
   const officialTitle = title.replace(/^Official\s*[:\-–—]\s*/i, "");
   let match = officialTitle.match(
     /^(?<to>.+?)\s+signs?\s+(?:(?:a|an)\s+)?(?<player>.+?)\s+from\s+(?<from>.+?)(?=\s+(?:in|on|with|after|for)\b|\s*[:\-–—]|$)/i
@@ -2540,6 +2640,8 @@ function isPlausibleDraft(item) {
   if (player.length > 35 || fromTeam.length > 60 || toTeam.length > 60) return false;
   if (/^[\p{Ll}]/u.test(player)) return false;
   if (knownTeams.has(player)) return false;
+  if (/^(?:Brazil|Ecuador|USMNT|Parisian|Real Madrid|David Ornstein|Why Woltemade|Shock Estevao)$/i.test(player)) return false;
+  if (/(?:['’]s\s+|\b(?:move|approach|Chelsea)\b)/i.test(player)) return false;
   if (/\b[\p{L}][\p{L}'’\u2011-]*[\u2019']s\b/u.test(player)) return false;
   if (/[!?🚨🔄]/u.test(fieldText)) return false;
   if (/[:;]|\b(?:official|double|record-breaking|on loan|representatives|deadline-day|alternative|replacement|transfer|news|target|source|sources|why|quote|star|parisian|socceroo|agents|hope|shock|league|espn|bbc|sky|farm|short|gameweek|scout|women|villa|ecuador|world|fpl|manchester|nld|usmnt|african|england|millwall|juventus|newcastle|collapsed|permanent|potential|proposed|reacts)\b/i.test(player)) {
@@ -2654,6 +2756,25 @@ function isPublishableDraft(item) {
       `${item.player} ${item.fromTeam} ${item.toTeam}`
     )
   ) return false;
+  return true;
+}
+
+function restoreTransferStatus(item) {
+  if (item.originalStatus === "완료" || item.originalStatus === "루머") return item.originalStatus;
+  if (item.status === "완료" || item.status === "루머") return item.status;
+  return /\b(?:official|sign(?:s|ed|ing)?|join(?:s|ed)?|complete(?:s|d)?|confirmed|announced)\b/i.test(
+    String(item.headlineTitle || "")
+  )
+    ? "완료"
+    : "루머";
+}
+
+function isAutoPromotableDraft(item) {
+  if (!isPlausibleDraft(item)) return false;
+  if (isUnknownTeamName(item.fromTeam) || isUnknownTeamName(item.toTeam)) return false;
+  // Confidence describes the source/parser quality, not whether the card is
+  // allowed to be displayed. When both clubs are identified, keep the card
+  // visible and show its source tier instead of burying it in review.
   return true;
 }
 
@@ -3179,7 +3300,7 @@ async function buildDraftPayload(livePayload, previousPayload = draftCache) {
     enrichedCandidates.map(normalizeDraftRecord).filter(Boolean)
   );
   const reviewItems = candidates
-    .filter((item) => !isPublishableDraft(item))
+    .filter((item) => !isPublishableDraft(item) && !isAutoPromotableDraft(item))
     .map((item) => ({
       ...item,
       // A review item must never look like a confirmed transfer on the site,
@@ -3191,7 +3312,12 @@ async function buildDraftPayload(livePayload, previousPayload = draftCache) {
     .sort(compareDraftPriority)
     .slice(0, DRAFT_ARCHIVE_LIMIT);
   const drafts = candidates
-    .filter(isPublishableDraft)
+    .filter((item) => isPublishableDraft(item) || isAutoPromotableDraft(item))
+    .map((item) => ({
+      ...item,
+      needsVerification: false,
+      status: restoreTransferStatus(item),
+    }))
     .sort(compareDraftPriority)
     .slice(0, DRAFT_ARCHIVE_LIMIT);
 

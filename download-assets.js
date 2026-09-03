@@ -7,6 +7,7 @@ const ASSET_MAP_FILE = path.join(BASE_DIR, "asset-map.json");
 const ATTRIBUTIONS_FILE = path.join(BASE_DIR, "asset-attributions.json");
 const PLAYER_DIR = path.join(BASE_DIR, "assets", "players");
 const CLUB_DIR = path.join(BASE_DIR, "assets", "clubs");
+const INVALID_CLUB_LABELS = new Set(["City", "Savinho", "Xabi Alonso", "Ven", "Balogun", "Martinelli", "choose"]);
 
 const SEEDED_ASSETS = {
   players: {
@@ -109,6 +110,8 @@ const SEEDED_ASSETS = {
       "https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Brighton_and_Hove_Albion_FC_crest.svg/330px-Brighton_and_Hove_Albion_FC_crest.svg.png",
     "Al Hilal":
       "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Al_Hilal_SFC_Logo.svg/330px-Al_Hilal_SFC_Logo.svg.png",
+    Dundee:
+      "https://commons.wikimedia.org/wiki/Special:FilePath/Logo%20Dundee%20FC%20-%202025.svg",
     "Aston Villa":
       "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Aston_Villa_FC_new_crest.svg/330px-Aston_Villa_FC_new_crest.svg.png",
     "Manchester City":
@@ -237,6 +240,7 @@ function collectRecords() {
   // This protects the asset map from malformed cards such as
   // "Lamine Camara" being treated as a club.
   for (const player of players) clubs.delete(player);
+  for (const invalid of INVALID_CLUB_LABELS) clubs.delete(invalid);
 
   return { players: [...players], clubs: [...clubs] };
 }
@@ -377,8 +381,7 @@ function removeClubNamesFromPlayerAssets(assetMap, attributions) {
     if (src) delete attributions[src];
   }
 
-  const invalidClubNames = new Set(["City", "Savinho", "Xabi Alonso", "Ven"]);
-  for (const name of invalidClubNames) {
+  for (const name of INVALID_CLUB_LABELS) {
     const src = assetMap.clubs[name]?.src;
     delete assetMap.clubs[name];
     if (src) delete attributions[src];

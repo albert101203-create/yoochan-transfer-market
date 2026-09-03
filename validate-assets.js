@@ -113,13 +113,21 @@ for (const draft of [...drafts]) {
     const problem = checkAsset(kind, name);
     if (problem) cardProblems.push({ ...problem, card: label });
   }
-  if (cardProblems.length) {
+  const hasUnknownEntity = cardProblems.some((problem) => problem.reason === "unknown-entity");
+  if (cardProblems.length && hasUnknownEntity) {
     const index = drafts.indexOf(draft);
     if (index >= 0) drafts.splice(index, 1);
+    draft.originalStatus = draft.originalStatus || draft.status || "루머";
     draft.needsVerification = true;
     draft.status = "확인 필요";
     draft.sourceReason = `${draft.sourceReason || "자동 수집 카드"} 이미지 또는 구단 정보 확인이 필요해 검수 대기로 이동했습니다.`;
     reviewItems.unshift(draft);
+    repairedCount += 1;
+  } else if (cardProblems.length) {
+    // A missing photo/logo must not downgrade a valid transfer into the
+    // review queue. Keep the card visible and let the UI show a neutral
+    // fallback until the next asset refresh finds a real image.
+    draft.photoNeedsVerification = true;
     repairedCount += 1;
   }
 }
