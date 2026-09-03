@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-03T07:22:13.497Z",
-  "basedOnGeneratedAt": "2026-09-03T07:22:13.493Z",
+  "generatedAt": "2026-09-03T07:33:55.042Z",
+  "basedOnGeneratedAt": "2026-09-03T07:33:55.039Z",
   "itemCount": 30,
   "items": [
     {
@@ -485,7 +485,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-09-02 19:47",
-      "lastVerifiedAt": "2026-09-03 07:22",
+      "lastVerifiedAt": "2026-09-03 07:33",
       "extractionConfidence": "high",
       "extractionPattern": "club-signs-player-from",
       "needsVerification": false,
@@ -516,7 +516,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-09-02 09:49",
-      "lastVerifiedAt": "2026-09-03 07:22",
+      "lastVerifiedAt": "2026-09-03 07:33",
       "extractionConfidence": "high",
       "extractionPattern": "club-signs-player-from",
       "needsVerification": false,
@@ -533,26 +533,33 @@
       "sourceCount": 1
     },
     {
-      "id": "draft:https://www.skysports.com/football/news/11671/13579669/iliman-ndiaye-transfer-news-man-city-sign-65m-winger-from-everton-as-jack-grealish-joins-toffees-on-loan",
+      "id": "draft:https://news.google.com/rss/articles/CBMi8wFBVV95cUxNY3ljM2lNd1B5NTJtT2pYUUt2amJFd25zRmFOZUptcVhDS1dTYmU1OXRSSWNrRDdGaTlyOXBuUy01c1RsM1o5RE9oZ1hsLXZOZlluQXBRUWtTYmdXckdONFVESW1DN3pzUklmVUNuSWhkaTZFc1JtVC1FeHlFYjM1Zl9lNTlLc1hNWVI4alZWemNMWDRxYzFHUlNlTTNhLUc1Z1M0dG5VQjIyNC1FVkJrRWhnOWZXR29aSC1ZSW1TN005R1kwN3BLTFNQQU4yZkpROVowR25xRHF4RGZaZ3ZpbWw5ZW1scnNCbWpPWWZhejBZeVk?oc=5",
       "player": "Iliman Ndiaye transfer",
       "fromTeam": "Everton as Jack Grealish joins Toffees",
       "toTeam": "Manchester City",
       "league": "프리미어리그",
       "status": "완료",
       "fee": "£65M",
-      "sourceKey": "sky-sports",
+      "sourceKey": "tottenham-sky-monitor",
       "sourceTier": "medium",
-      "sourceName": "Sky Sports",
-      "sourceUrl": "https://www.skysports.com/football/news/11671/13579669/iliman-ndiaye-transfer-news-man-city-sign-65m-winger-from-everton-as-jack-grealish-joins-toffees-on-loan",
+      "sourceName": "Sky Sports Tottenham monitor",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNY3ljM2lNd1B5NTJtT2pYUUt2amJFd25zRmFOZUptcVhDS1dTYmU1OXRSSWNrRDdGaTlyOXBuUy01c1RsM1o5RE9oZ1hsLXZOZlluQXBRUWtTYmdXckdONFVESW1DN3pzUklmVUNuSWhkaTZFc1JtVC1FeHlFYjM1Zl9lNTlLc1hNWVI4alZWemNMWDRxYzFHUlNlTTNhLUc1Z1M0dG5VQjIyNC1FVkJrRWhnOWZXR29aSC1ZSW1TN005R1kwN3BLTFNQQU4yZkpROVowR25xRHF4RGZaZ3ZpbWw5ZW1scnNCbWpPWWZhejBZeVk?oc=5",
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
-      "publishedAt": "2026-09-01 21:49",
-      "lastVerifiedAt": "2026-09-03 07:22",
+      "publishedAt": "2026-09-01 22:00",
+      "lastVerifiedAt": "2026-09-03 07:33",
       "extractionConfidence": "high",
       "extractionPattern": "player-club-signs-from",
       "needsVerification": false,
-      "headlineTitle": "Iliman Ndiaye transfer news: Man City sign &#163;65m winger from Everton as Jack Grealish joins Toffees on loan",
+      "headlineTitle": "Iliman Ndiaye transfer news: Man City sign £65m winger from Everton as Jack Grealish joins Toffees on loan - skysports.com",
       "sourceLinks": [
+        {
+          "sourceName": "Sky Sports Tottenham monitor",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNY3ljM2lNd1B5NTJtT2pYUUt2amJFd25zRmFOZUptcVhDS1dTYmU1OXRSSWNrRDdGaTlyOXBuUy01c1RsM1o5RE9oZ1hsLXZOZlluQXBRUWtTYmdXckdONFVESW1DN3pzUklmVUNuSWhkaTZFc1JtVC1FeHlFYjM1Zl9lNTlLc1hNWVI4alZWemNMWDRxYzFHUlNlTTNhLUc1Z1M0dG5VQjIyNC1FVkJrRWhnOWZXR29aSC1ZSW1TN005R1kwN3BLTFNQQU4yZkpROVowR25xRHF4RGZaZ3ZpbWw5ZW1scnNCbWpPWWZhejBZeVk?oc=5",
+          "sourceTier": "medium",
+          "headlineTitle": "Iliman Ndiaye transfer news: Man City sign £65m winger from Everton as Jack Grealish joins Toffees on loan - skysports.com",
+          "publishedAt": "2026-09-01 22:00"
+        },
         {
           "sourceName": "Sky Sports",
           "sourceUrl": "https://www.skysports.com/football/news/11671/13579669/iliman-ndiaye-transfer-news-man-city-sign-65m-winger-from-everton-as-jack-grealish-joins-toffees-on-loan",
@@ -561,7 +568,7 @@
           "publishedAt": "2026-09-01 21:49"
         }
       ],
-      "sourceCount": 1
+      "sourceCount": 2
     },
     {
       "id": "draft:https://www.bbc.co.uk/sport/football/articles/c3wj1qw5x04o?at_medium=RSS&at_campaign=rss",

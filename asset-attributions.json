@@ -1318,5 +1318,11 @@
     "sourcePage": "https://r2.thesportsdb.com/images/media/player/thumb/d6a8by1772141525.jpg",
     "sourceImage": "https://r2.thesportsdb.com/images/media/player/thumb/d6a8by1772141525.jpg",
     "note": "Seeded from TheSportsDB player artwork; verify the image license before redistribution."
+  },
+  "./assets/players/as-roma-76daa8f7.webp": {
+    "name": "AS Roma",
+    "sourcePage": "https://en.wikipedia.org/wiki/AS_Roma",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/AS_Roma_logo_%282017%29.svg/330px-AS_Roma_logo_%282017%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
   }
 }
