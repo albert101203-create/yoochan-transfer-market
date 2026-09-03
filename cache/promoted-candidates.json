@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-03T15:18:18.563Z",
-  "basedOnGeneratedAt": "2026-09-03T15:18:18.559Z",
+  "generatedAt": "2026-09-03T15:32:55.540Z",
+  "basedOnGeneratedAt": "2026-09-03T15:32:55.536Z",
   "itemCount": 30,
   "items": [
     {
@@ -342,18 +342,18 @@
       "headlineTitle": "Liverpool sign Bradley Barcola from Paris Saint-Germain - Liverpool FC",
       "sourceLinks": [
         {
-          "sourceName": "Florian Plettenberg monitor",
-          "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9zdTVzMGhMTjZLZnBHZ2JFc2FCazdMbHJURVhFSXRfNG1acGpoRjJQQldJbzlTNjQ4dGEyMVVGRzAxc3B4a1dpX2xzTmlQVW9zWEZnU3F5bFQ3MEx5R3UycmR0Si1tY2pxM29WNWcwR05aSUFueHQ2Y3dsRTBJdw?oc=5",
-          "sourceTier": "medium",
-          "headlineTitle": "Bradley Barcola to Liverpool: €140m transfer agreed - SPORF",
-          "publishedAt": "2026-08-27 09:13"
-        },
-        {
           "sourceName": "David Ornstein Bluesky",
           "sourceUrl": "https://bsky.app/profile/david-ornstein.bsky.social/post/3mu2e62lb322j",
           "sourceTier": "medium",
           "headlineTitle": "🚨 BREAKING: Liverpool reach agreement in principle on terms of deal to sign Bradley Barcola from Paris Saint-Germain. Still details to finalise between #LFC & #PSG but moving fast after breakthrough overnight on package ~£120m, ~£100m fixed @theathleticfc.bsky.social www.nytimes.com/athletic/753...",
           "publishedAt": "2026-08-27 07:46"
+        },
+        {
+          "sourceName": "Florian Plettenberg monitor",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9zdTVzMGhMTjZLZnBHZ2JFc2FCazdMbHJURVhFSXRfNG1acGpoRjJQQldJbzlTNjQ4dGEyMVVGRzAxc3B4a1dpX2xzTmlQVW9zWEZnU3F5bFQ3MEx5R3UycmR0Si1tY2pxM29WNWcwR05aSUFueHQ2Y3dsRTBJdw?oc=5",
+          "sourceTier": "medium",
+          "headlineTitle": "Bradley Barcola to Liverpool: €140m transfer agreed - SPORF",
+          "publishedAt": "2026-08-27 09:13"
         },
         {
           "sourceName": "David Ornstein 검색 모니터",
@@ -492,7 +492,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-09-02 19:47",
-      "lastVerifiedAt": "2026-09-03 15:18",
+      "lastVerifiedAt": "2026-09-03 15:32",
       "extractionConfidence": "high",
       "extractionPattern": "club-signs-player-from",
       "needsVerification": false,
@@ -523,7 +523,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-09-02 09:49",
-      "lastVerifiedAt": "2026-09-03 15:18",
+      "lastVerifiedAt": "2026-09-03 15:32",
       "extractionConfidence": "high",
       "extractionPattern": "club-signs-player-from",
       "needsVerification": false,
@@ -554,7 +554,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-09-01 21:49",
-      "lastVerifiedAt": "2026-09-03 15:18",
+      "lastVerifiedAt": "2026-09-03 15:32",
       "extractionConfidence": "high",
       "extractionPattern": "player-club-signs-from",
       "needsVerification": false,

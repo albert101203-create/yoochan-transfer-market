@@ -1337,10 +1337,16 @@
     "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Stuart_Lewis.jpg/330px-Stuart_Lewis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
   },
-  "./assets/players/folarin-balogun-45595e47.jpg": {
-    "name": "Folarin Balogun",
-    "sourcePage": "https://en.wikipedia.org/wiki/Folarin_Balogun",
-    "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Folarin_Balogun_Australia_v_USA_19_June_2026-64.jpg/330px-Folarin_Balogun_Australia_v_USA_19_June_2026-64.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+  "./assets/players/kaelan-casey-4cba2b64.jpg": {
+    "name": "Kaelan Casey",
+    "sourcePage": "https://en.wikipedia.org/wiki/Kaelan_Casey",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Kaelan_Casey_06042026_%288%29.jpg/330px-Kaelan_Casey_06042026_%288%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
+  },
+  "./assets/clubs/ismaila-sarr-6ff44475.jpg": {
+    "name": "Ismaila Sarr",
+    "sourcePage": "https://en.wikipedia.org/wiki/Isma%C3%AFla_Sarr",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Ismaila_Sarr_France_v_Senegal_16_June_2026-425_%28cropped%29.jpg/330px-Ismaila_Sarr_France_v_Senegal_16_June_2026-425_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
   }
 }
