@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-03T17:25:29.632Z",
-  "basedOnGeneratedAt": "2026-09-03T17:25:29.629Z",
+  "generatedAt": "2026-09-03T17:38:13.095Z",
+  "basedOnGeneratedAt": "2026-09-03T17:38:13.093Z",
   "itemCount": 30,
   "items": [
     {
@@ -461,7 +461,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-09-02 19:47",
-      "lastVerifiedAt": "2026-09-03 17:25",
+      "lastVerifiedAt": "2026-09-03 17:38",
       "extractionConfidence": "high",
       "extractionPattern": "official-headline-shape",
       "needsVerification": false,
@@ -492,7 +492,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-09-02 09:49",
-      "lastVerifiedAt": "2026-09-03 17:25",
+      "lastVerifiedAt": "2026-09-03 17:38",
       "extractionConfidence": "high",
       "extractionPattern": "official-headline-shape",
       "needsVerification": false,
@@ -599,17 +599,17 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
       "publishedAt": "2026-08-31 07:00",
-      "lastVerifiedAt": "2026-09-03 15:45",
+      "lastVerifiedAt": "2026-09-03 17:38",
       "extractionConfidence": "high",
       "extractionPattern": "west-brom-collyer-signing",
       "needsVerification": false,
-      "headlineTitle": "Manchester United’s Toby Collyer completes West Brom move for initial £3m - The Athletic - nytimes.com",
+      "headlineTitle": "Manchester United’s Toby Collyer completes West Brom move for initial £3m - The Athletic - The New York Times",
       "sourceLinks": [
         {
           "sourceName": "Laurie Whitwell monitor",
           "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUDFueXNzQzFOZTBtQ3J1SlI0c2dGTzRpcGZHc1dCYlhYSnBQX2JwRm92bi0zZV8tNHl3c25XMnI3UTl6eHFyd09hXzQzclYzbERFZXgya2tGcDJKOGlFZTNCdnBROXB5RVFwQkFKalJHNWxxQXlmXzlyVUU0c1RNMWNGU3JtWHBKXzR2TG5FNkJNekFUaFBXUg?oc=5",
           "sourceTier": "medium",
-          "headlineTitle": "Manchester United’s Toby Collyer completes West Brom move for initial £3m - The Athletic - nytimes.com",
+          "headlineTitle": "Manchester United’s Toby Collyer completes West Brom move for initial £3m - The Athletic - The New York Times",
           "publishedAt": "2026-08-31 07:00"
         },
         {
@@ -742,7 +742,7 @@
       "sourceName": "BBC Sport",
       "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c9dw17pgv7lo?at_medium=RSS&at_campaign=rss",
       "sourceType": "자동 추출 초안",
-      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다. 이미지 또는 구단 정보 확인이 필요해 검수 대기로 이동했습니다. 이미지 또는 구단 정보 확인이 필요해 검수 대기로 이동했습니다. 이미지 또는 구단 정보 확인이 필요해 검수 대기로 이동했습니다. 이미지 또는 구단 정보 확인이 필요해 검수 대기로 이동했습니다. 이미지 또는 구단 정보 확인이 필요해 검수 대기로 이동했습니다.",
+      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다. 이미지 또는 구단 정보 확인이 필요해 검수 대기로 이동했습니다. 이미지 또는 구단 정보 확인이 필요해 검수 대기로 이동했습니다. 이미지 또는 구단 정보 확인이 필요해 검수 대기로 이동했습니다. 이미지 또는 구단 정보 확인이 필요해 검수 대기로 이동했습니다. 이미지 또는 구단 정보 확인이 필요해 검수 대기로 이동했습니다. 이미지 또는 구단 정보 확인이 필요해 검수 대기로 이동했습니다.",
       "publishedAt": "2026-08-27 20:00",
       "lastVerifiedAt": "2026-08-27 22:35",
       "extractionConfidence": "high",
