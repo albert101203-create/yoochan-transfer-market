@@ -1360,5 +1360,23 @@
     "sourcePage": "https://en.wikipedia.org/wiki/FC_Augsburg",
     "sourceImage": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/FC_Augsburg_logo.svg/330px-FC_Augsburg_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
+  },
+  "./assets/players/tijjani-reijnders-79d01e23.jpg": {
+    "name": "Tijjani Reijnders",
+    "sourcePage": "https://en.wikipedia.org/wiki/Tijjani_Reijnders",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Manchester_City_2025_06_26_Juventus_%28cropped_to_Reijniders%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
+  },
+  "./assets/players/bruno-guimaraes-25857534.jpg": {
+    "name": "Bruno Guimaraes",
+    "sourcePage": "https://en.wikipedia.org/wiki/Bruno_Guimar%C3%A3es",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Bruno_Guimaraes_Brazil_V_Morocco_13_June_2026-78_%28cropped%29.jpg/330px-Bruno_Guimaraes_Brazil_V_Morocco_13_June_2026-78_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
+  },
+  "./assets/players/christian-norgaard-84a93d7e.jpg": {
+    "name": "Christian Norgaard",
+    "sourcePage": "https://en.wikipedia.org/wiki/Christian_N%C3%B8rgaard",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Christian_N%C3%B8rgaard%2C_Brentford_F.C._footballer%2C_May_2022.jpg/330px-Christian_N%C3%B8rgaard%2C_Brentford_F.C._footballer%2C_May_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
   }
 }
