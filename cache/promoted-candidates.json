@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-03T17:43:43.942Z",
-  "basedOnGeneratedAt": "2026-09-03T17:43:43.940Z",
+  "generatedAt": "2026-09-03T17:49:35.129Z",
+  "basedOnGeneratedAt": "2026-09-03T17:49:35.127Z",
   "itemCount": 30,
   "items": [
     {
@@ -346,18 +346,25 @@
       "headlineTitle": "Liverpool sign Bradley Barcola from Paris Saint-Germain - Liverpool FC",
       "sourceLinks": [
         {
-          "sourceName": "Florian Plettenberg monitor",
-          "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9zdTVzMGhMTjZLZnBHZ2JFc2FCazdMbHJURVhFSXRfNG1acGpoRjJQQldJbzlTNjQ4dGEyMVVGRzAxc3B4a1dpX2xzTmlQVW9zWEZnU3F5bFQ3MEx5R3UycmR0Si1tY2pxM29WNWcwR05aSUFueHQ2Y3dsRTBJdw?oc=5",
-          "sourceTier": "medium",
-          "headlineTitle": "Bradley Barcola to Liverpool: €140m transfer agreed - sporf.com",
-          "publishedAt": "2026-08-27 09:13"
-        },
-        {
           "sourceName": "Liverpool official-site monitor",
           "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObkZ6bXV2ZWtxeE9HRWRxZUx2WEptbk0xQmFkWWVERlhZSzkxTHlvOG9FZkNHUmVsWDBWaGlRR3ZqVGNyamd1WU5HRVpHS1JUZXVqQ3lFaDQ2anBRaTdoNEprdURrbEJNRzNkNFNlWk8teXJsbTFUdjBPYmo0eGxNdlkyMFhmdWt6QnNz0gGTAUFVX3lxTE1HbWdpb0FEbHdtSFZSUF9VeEZuOEFuUlpBelNYeXdZMFRtc3hUMGp2akMtYVZiNDhGWHludXdPQTRJTlhGS0kwRE43UUxVWC1FNUxDMVV0VktWTUNfeVJqWlpnVXJSN1gzNlNSOE9WMzM4ODdRU2VKcDdzbkJCWkpWNXhmQUFJd2duWFVBT1ZqSzBCNA?oc=5",
           "sourceTier": "high",
           "headlineTitle": "Liverpool sign Bradley Barcola from Paris Saint-Germain - Liverpool FC",
           "publishedAt": "2026-08-31 13:11"
+        },
+        {
+          "sourceName": "Paul Joyce monitor",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdHdLZjQ2NkYyRnJTajUtOWlrbngxY0tmdkI3eGpfaUxVUWtuWEN0YWtkeXVoS2ZOZU5vTmw1ZVBwQ1RlQmdUcElyVXdFalpJUGFfRThBeDVaZ2hOZFZ4aHhKanVJYjY4SlllLVk5V0g3SU52WFZ6cGZUYXFpY0RnblgzMzVzUFdScUVVSkRacElOUGdVbjlz?oc=5",
+          "sourceTier": "medium",
+          "headlineTitle": "Liverpool complete £123m deal for PSG’s Bradley Barcola - The Times",
+          "publishedAt": "2026-08-31 13:01"
+        },
+        {
+          "sourceName": "Florian Plettenberg monitor",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9zdTVzMGhMTjZLZnBHZ2JFc2FCazdMbHJURVhFSXRfNG1acGpoRjJQQldJbzlTNjQ4dGEyMVVGRzAxc3B4a1dpX2xzTmlQVW9zWEZnU3F5bFQ3MEx5R3UycmR0Si1tY2pxM29WNWcwR05aSUFueHQ2Y3dsRTBJdw?oc=5",
+          "sourceTier": "medium",
+          "headlineTitle": "Bradley Barcola to Liverpool: €140m transfer agreed - sporf.com",
+          "publishedAt": "2026-08-27 09:13"
         },
         {
           "sourceName": "Sky Sports Tottenham monitor",
@@ -400,13 +407,6 @@
           "sourceTier": "medium",
           "headlineTitle": "Bradley Barcola to Liverpool: France forward who has moved from PSG is quick, strong, versatile, intelligent",
           "publishedAt": "2026-08-31 13:00"
-        },
-        {
-          "sourceName": "Paul Joyce monitor",
-          "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdHdLZjQ2NkYyRnJTajUtOWlrbngxY0tmdkI3eGpfaUxVUWtuWEN0YWtkeXVoS2ZOZU5vTmw1ZVBwQ1RlQmdUcElyVXdFalpJUGFfRThBeDVaZ2hOZFZ4aHhKanVJYjY4SlllLVk5V0g3SU52WFZ6cGZUYXFpY0RnblgzMzVzUFdScUVVSkRacElOUGdVbjlz?oc=5",
-          "sourceTier": "medium",
-          "headlineTitle": "Liverpool complete £123m deal for PSG’s Bradley Barcola - The Times",
-          "publishedAt": "2026-08-31 13:01"
         },
         {
           "sourceName": "Premier League transfer monitor",
@@ -496,7 +496,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-09-02 19:47",
-      "lastVerifiedAt": "2026-09-03 17:43",
+      "lastVerifiedAt": "2026-09-03 17:49",
       "extractionConfidence": "high",
       "extractionPattern": "official-headline-shape",
       "needsVerification": false,
@@ -527,7 +527,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-09-02 09:49",
-      "lastVerifiedAt": "2026-09-03 17:43",
+      "lastVerifiedAt": "2026-09-03 17:49",
       "extractionConfidence": "high",
       "extractionPattern": "official-headline-shape",
       "needsVerification": false,
@@ -573,7 +573,8 @@
         }
       ],
       "sourceCount": 1,
-      "originalStatus": "확인 필요"
+      "originalStatus": "확인 필요",
+      "photoNeedsVerification": true
     },
     {
       "id": "draft:https://football-italia.net/official-como-sign-robert-sanchez-from-chelsea/",
@@ -606,7 +607,8 @@
       ],
       "sourceCount": 1,
       "originalStatus": "확인 필요",
-      "reviewSourceCheckedAt": "2026-09-03 17:43"
+      "reviewSourceCheckedAt": "2026-09-03 17:43",
+      "photoNeedsVerification": true
     },
     {
       "id": "draft:https://football-italia.net/official-lazio-sign-gudmundsson-fiorentina/",
@@ -638,7 +640,8 @@
         }
       ],
       "sourceCount": 1,
-      "originalStatus": "확인 필요"
+      "originalStatus": "확인 필요",
+      "photoNeedsVerification": true
     },
     {
       "id": "draft:https://football-italia.net/official-atalanta-sign-rowe-from-bologna-e40m/",
@@ -670,7 +673,8 @@
         }
       ],
       "sourceCount": 1,
-      "originalStatus": "확인 필요"
+      "originalStatus": "확인 필요",
+      "photoNeedsVerification": true
     },
     {
       "id": "draft:https://www.bbc.co.uk/sport/football/articles/c5ylv97mn58o?at_medium=RSS&at_campaign=rss",
@@ -740,7 +744,8 @@
       "articleImageUrl": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/96ec/live/dda4ff50-a5f3-11f1-a291-b542ee92de7c.png",
       "reviewSourceCheckedAt": "2026-09-01 12:49",
       "reviewSourceUrl": "https://www.bbc.co.uk/sport/football/articles/cje8x575v51o",
-      "originalStatus": "확인 필요"
+      "originalStatus": "확인 필요",
+      "photoNeedsVerification": true
     },
     {
       "id": "draft:49720080",
@@ -849,7 +854,8 @@
       ],
       "sourceCount": 1,
       "reviewSourceCheckedAt": "2026-08-31 21:02",
-      "originalStatus": "완료"
+      "originalStatus": "완료",
+      "photoNeedsVerification": true
     },
     {
       "id": "draft:https://news.google.com/rss/articles/CBMimAFBVV95cUxOUDFueXNzQzFOZTBtQ3J1SlI0c2dGTzRpcGZHc1dCYlhYSnBQX2JwRm92bi0zZV8tNHl3c25XMnI3UTl6eHFyd09hXzQzclYzbERFZXgya2tGcDJKOGlFZTNCdnBROXB5RVFwQkFKalJHNWxxQXlmXzlyVUU0c1RNMWNGU3JtWHBKXzR2TG5FNkJNekFUaFBXUg?oc=5",
@@ -1025,7 +1031,8 @@
           "publishedAt": "2026-08-27 20:00"
         }
       ],
-      "sourceCount": 1
+      "sourceCount": 1,
+      "photoNeedsVerification": true
     },
     {
       "id": "draft:https://news.google.com/rss/articles/CBMi4wFBVV95cUxQaEQyMG15ZGlUS0NDRjFaX1czV293ODNFZVY2X2JyS280dEVJb0ZuaDE2Q2N5VWJWMWFPQ0FVZVA3WXhNOFBWYS1jdXpjMDdNRkFRVTNvUHZuQWZRbXQtd1c5TFI5RjRvSkxfckxwZ0tGMUpITFdrSVZNLVZ1N0ctTzdBX0E0a094YXJ2dFh1Smlha2Y0c1IwSjQyYVJaTng3dlR6a0xEdGx3RWlGVFZUa3hHVEhRQm5fOGVwdUxuR1Y1aHQwQzQ0SlNMUXdoTGFscjFKRVN1Z0hYMjdiUklvSUp5Yw?oc=5",

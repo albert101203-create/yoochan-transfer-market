@@ -1378,5 +1378,17 @@
     "sourcePage": "https://en.wikipedia.org/wiki/Christian_N%C3%B8rgaard",
     "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Christian_N%C3%B8rgaard%2C_Brentford_F.C._footballer%2C_May_2022.jpg/330px-Christian_N%C3%B8rgaard%2C_Brentford_F.C._footballer%2C_May_2022.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
+  },
+  "./assets/clubs/rc-strasbourg-a43408bb.webp": {
+    "name": "RC Strasbourg",
+    "sourcePage": "https://en.wikipedia.org/wiki/RC_Strasbourg_Alsace",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Racing_Club_de_Strasbourg_logo.svg/330px-Racing_Club_de_Strasbourg_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
+  },
+  "./assets/clubs/as-monaco-527e1d4c.webp": {
+    "name": "AS Monaco",
+    "sourcePage": "https://en.wikipedia.org/wiki/AS_Monaco_FC",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cf/LogoASMonacoFC2021.svg/330px-LogoASMonacoFC2021.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
   }
 }
