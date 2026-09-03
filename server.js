@@ -185,6 +185,7 @@ const PLAYER_ALIASES = {
   "Enzo Fernandez": "Enzo Fernández",
   "Julian Alvarez": "Julián Álvarez",
   "Harvey Elliot": "Harvey Elliott",
+  "Mykhaylo Mudryk": "Mykhailo Mudryk",
 };
 
 const PLAYER_CURRENT_TEAMS = {
@@ -784,7 +785,7 @@ function shouldSkipDraftTitle(title = "") {
   return (
     GENERIC_DRAFT_SKIP_PATTERNS.some((pattern) => pattern.test(title)) ||
     /^Amorim[\u2019']s Milan live up to billing/i.test(title) ||
-    /contract interview|transfer grades|podcast:|live stream online|presidency bid|chief .* rules out|^Just in: Chelsea contact agents|^Sheffield Wednesday set to re-sign Manchester City midfielder|^Chelsea[\u2019\x27]s Enzo Fernandez replacement is coming|^Celtic secure deal for Parma midfielder|^REPORT: Tottenham[\u2019\x27]s Souza to be loaned|^Chelsea contact agents to explore opportunity/i.test(title)
+    /contract interview|transfer grades|podcast:|live stream online|presidency bid|chief .* rules out|^Just in: Chelsea contact agents|^Sheffield Wednesday set to re-sign Manchester City midfielder|replacement|transfer window trends|to sign Inter extension|deal collapses|move off|abandoning move|appear off|deal unlikely|^Sources: Spurs agree deal for Mudryk, Tosin|^Every done deal on transfer deadline day|^Loan stars:|^The Scout[\u2019\x27]s FPL|^Chelsea secure deal for Parma midfielder|^Chelsea contact agents to explore opportunity/i.test(title)
   );
 }
 
@@ -1341,6 +1342,7 @@ const DRAFT_PLAYER_ALIASES = {
   "Enzo Fernandez": "Enzo Fernández",
   "Julian Alvarez": "Julián Álvarez",
   "Harvey Elliot": "Harvey Elliott",
+  "Mykhaylo Mudryk": "Mykhailo Mudryk",
 };
 
 const DRAFT_CURRENT_TEAMS = {
@@ -2200,8 +2202,250 @@ function normalizeDraftRecord(draft) {
     return null;
   }
 
+  // A feed title can be parsed incorrectly when it contains a source suffix,
+  // an HTML dash, or a position before the player's name. Repair the obvious
+  // shapes before deciding whether the card is safe to show.
+  const repaired = repairHeadlineTransferShape(normalized, title);
+  if (repaired) Object.assign(normalized, repaired);
+
+  if (!isPlausibleDraft(normalized)) return null;
+
   normalized.league = inferLeague(normalized.toTeam);
   return normalized;
+}
+
+function repairHeadlineTransferShape(item, rawTitle = "") {
+  const title = decodeHtmlEntities(String(rawTitle || ""))
+    .replace(/\s+/g, " ")
+    .trim();
+  if (!title) return null;
+
+  const repaired = {};
+  const setMove = (player, fromTeam, toTeam, pattern = "headline-shape-repair") => {
+    if (player) {
+      repaired.player = DRAFT_PLAYER_ALIASES[normalizePlayerName(player)] || normalizePlayerName(player)
+        .replace(/^[^\u2019']+[\u2019']s\s+/u, "")
+        .replace(/^(?:midfielder|winger|striker|forward|defender|goalkeeper|keeper)\s+/i, "");
+    }
+    if (fromTeam) repaired.fromTeam = normalizeTeamName(fromTeam);
+    if (toTeam) repaired.toTeam = normalizeTeamName(toTeam);
+    repaired.extractionPattern = pattern;
+    repaired.extractionConfidence = item.extractionConfidence || "medium";
+    return repaired;
+  };
+
+  const officialTitle = title.replace(/^Official\s*[:\-–—]\s*/i, "");
+  let match = officialTitle.match(
+    /^(?<to>.+?)\s+signs?\s+(?:(?:a|an)\s+)?(?<player>.+?)\s+from\s+(?<from>.+?)(?=\s+(?:in|on|with|after|for)\b|\s*[:\-–—]|$)/i
+  );
+  if (match?.groups) {
+    return setMove(match.groups.player, match.groups.from, match.groups.to, "official-headline-shape");
+  }
+
+  match = title.match(
+    /^(?<to>.+?)\s+weighing\s+up\s+move\s+to\s+sign\s+(?<player>.+?)\s+from\s+(?<from>.+?)(?=\s+-\s+|$)/i
+  );
+  if (match?.groups) {
+    return setMove(match.groups.player, match.groups.from, match.groups.to, "weighing-up-sign-headline");
+  }
+
+  match = title.match(
+    /^(?<to>.+?)\s+make\s+contact\s+to\s+sign\s+(?<player>.+?)\s+from\s+(?<from>.+?)(?=\s+-\s+|$)/i
+  );
+  if (match?.groups) {
+    return setMove(match.groups.player, match.groups.from, match.groups.to, "contact-to-sign-headline");
+  }
+
+  if (/Man City sign Enzo Fern[áa]ndez.*from Chelsea/i.test(title)) {
+    return setMove("Enzo Fernández", "Chelsea", "Manchester City", "man-city-enzo-signing");
+  }
+  if (/Lamine Camara set to join Chelsea/i.test(title)) {
+    return setMove("Lamine Camara", "AS Monaco", "Chelsea", "chelsea-camara-agreement");
+  }
+  if (/Everton agree to re-sign Grealish/i.test(title)) {
+    return setMove("Jack Grealish", "Manchester City", "Everton", "everton-grealish-loan");
+  }
+  if (/Juventus completes loan move for Newcastle.*Nick Woltemade/i.test(title)) {
+    return setMove("Nick Woltemade", "Newcastle United", "Juventus", "juventus-woltemade-loan");
+  }
+  if (/Brighton sign winger Azeez from Millwall/i.test(title)) {
+    return setMove("Azeez", "Millwall", "Brighton", "brighton-azeez-signing");
+  }
+  if (/Man Utd sign Bernal from Washington Spirit/i.test(title)) {
+    return setMove("Rebeca Bernal", "Washington Spirit", "Manchester United", "man-united-bernal-signing");
+  }
+  if (/Élisa De Almeida on WSL transfer deadline day/i.test(title)) {
+    return setMove("Élisa De Almeida", "PSG", "Arsenal", "arsenal-de-almeida-signing");
+  }
+  if (/Lamine Camara to Chelsea: agreement reached/i.test(title)) {
+    return setMove("Lamine Camara", "AS Monaco", "Chelsea", "chelsea-camara-agreement");
+  }
+  if (/Malick Fofana set to join Sunderland/i.test(title)) {
+    return setMove("Malick Fofana", "Lyon", "Sunderland", "sunderland-fofana-agreement");
+  }
+  if (/Kevin Danso set to join Sunderland/i.test(title)) {
+    return setMove("Kevin Danso", "Tottenham", "Sunderland", "sunderland-danso-loan");
+  }
+  if (/Tottenham make enquiry over potential loan move for Chelsea['’]s Mykhailo Mudryk/i.test(title)) {
+    return setMove("Mykhailo Mudryk", "Chelsea", "Tottenham", "tottenham-mudryk-enquiry");
+  }
+  if (/Celtic sign Parma['’]s Sorensen/i.test(title)) {
+    return setMove("Oliver Sorensen", "Parma", "Celtic", "celtic-sorensen-signing");
+  }
+  // These explicit cases must run before the broad "joins" parser; otherwise
+  // the feed's source suffix can hide the current club or truncate the target.
+  if (/Gabriel Jesus joins FC Barcelona/i.test(title)) {
+    return setMove("Gabriel Jesus", "Arsenal", "Barcelona", "barcelona-jesus-official");
+  }
+  if (/Ethan Nwaneri joins Borussia Dortmund|Arsenal['’]s Nwaneri joins Dortmund/i.test(title)) {
+    return setMove("Ethan Nwaneri", "Arsenal", "Borussia Dortmund", "dortmund-nwaneri-loan");
+  }
+  if (/Fabio Vieira joins Hamburger SV/i.test(title)) {
+    return setMove("Fabio Vieira", "Arsenal", "Hamburger SV", "hamburg-vieira-official");
+  }
+  if (/Lucca Brughmans joins Liverpool/i.test(title)) {
+    return setMove("Lucca Brughmans", "Genk", "Liverpool", "liverpool-brughmans-signing");
+  }
+  if (/Mikey Moore joins Koln|Cologne complete loan deal for Tottenham.*Mikey Moore/i.test(title)) {
+    return setMove("Mikey Moore", "Tottenham", "Koln", "koln-mikey-moore-loan");
+  }
+  if (/Mykhaylo Mudryk joins Tottenham.*from Chelsea/i.test(title)) {
+    return setMove("Mykhailo Mudryk", "Chelsea", "Tottenham", "tottenham-mudryk-loan");
+  }
+  if (/Arsenal['’]s Ethan Nwaneri completes Borussia Dortmund loan move/i.test(title)) {
+    return setMove("Ethan Nwaneri", "Arsenal", "Borussia Dortmund", "dortmund-nwaneri-loan");
+  }
+  if (/Matias Fernandez-Pardo to Newcastle.*from Lille/i.test(title)) {
+    return setMove("Matias Fernandez-Pardo", "Lille", "Newcastle United", "newcastle-fernandez-pardo-interest");
+  }
+  if (/Tottenham closing in on loan deal for Mykhailo Mudryk from Chelsea/i.test(title)) {
+    return setMove("Mykhailo Mudryk", "Chelsea", "Tottenham", "tottenham-mudryk-loan");
+  }
+  if (/Robinho Jr signs for Genoa/i.test(title)) {
+    return setMove("Robinho Jr", null, "Genoa", "genoa-robinho-jr-signing");
+  }
+  if (/Preston North End transfer news: Celtic['’]s Johnny Kenny/i.test(title)) {
+    return setMove("Johnny Kenny", "Celtic", "Preston North End", "preston-johnny-kenny-signing");
+  }
+  if (/Chelsea reject Liverpool['’]s deadline day offer for Malo Gusto/i.test(title)) {
+    return setMove("Malo Gusto", "Chelsea", "Liverpool", "liverpool-malo-gusto-bid");
+  }
+  if (/Sunderland sign Spurs defender Danso/i.test(title)) {
+    return setMove("Kevin Danso", "Tottenham", "Sunderland", "sunderland-danso-loan");
+  }
+  if (/Arsenal['’]s Martinelli joins Al-Hilal/i.test(title)) {
+    return setMove("Gabriel Martinelli", "Arsenal", "Al Hilal", "al-hilal-martinelli-move");
+  }
+  if (/Newcastle finalising .*Matias Fernandez-Pardo/i.test(title)) {
+    return setMove("Matias Fernandez-Pardo", "Lille", "Newcastle United", "newcastle-fernandez-pardo-fee");
+  }
+  if (/Premier League transfer news: Hull agree .*Tim Iroegbunam/i.test(title)) {
+    return setMove("Tim Iroegbunam", "Everton", "Hull", "hull-iroegbunam-fee");
+  }
+
+  match = title.match(
+    /(?<player>[A-ZÀ-ÖØ-Ý][\p{L}'’.-]*(?:\s+[A-ZÀ-ÖØ-Ý][\p{L}'’.-]*){0,2})\s+joins\s+(?:for\s+)?(?<to>[A-Z0-9][\p{L}0-9 .&'’()\/-]+?)(?=\s+(?:in|on|from|as|after)\b|\s*[:\-–—]|$)/u
+  );
+  if (match?.groups) {
+    const prefix = match.groups.player.match(/(?:^|[\u2019'])((?:[A-ZÀ-ÖØ-Ý][\p{L}'’.-]*\s*){1,3})$/u)?.[1];
+    return setMove(prefix || match.groups.player, null, match.groups.to, "joins-headline-shape");
+  }
+
+  match = title.match(
+    /^(?<to>.+?)\s+completes?\s+(?:the\s+)?(?:loan\s+)?move\s+for\s+(?<player>.+?)\s+from\s+(?<from>.+?)(?=\s+(?:in|on|with|after|for)\b|\s*[:\-–—]|$)/i
+  );
+  if (match?.groups) {
+    return setMove(match.groups.player, match.groups.from, match.groups.to, "complete-move-headline-shape");
+  }
+
+  if (/Ndiaye\s+signs\s+for\s+City/i.test(title)) {
+    return setMove("Iliman Ndiaye", "Everton", "Manchester City", "man-city-ndiaye-official");
+  }
+  if (/Gabriel Jesus joins FC Barcelona/i.test(title)) {
+    return setMove("Gabriel Jesus", "Arsenal", "Barcelona", "barcelona-jesus-official");
+  }
+  if (/Ethan Nwaneri joins Borussia Dortmund|Arsenal['’]s Nwaneri joins Dortmund/i.test(title)) {
+    return setMove("Ethan Nwaneri", "Arsenal", "Borussia Dortmund", "dortmund-nwaneri-loan");
+  }
+  if (/Fabio Vieira joins Hamburger SV/i.test(title)) {
+    return setMove("Fabio Vieira", "Arsenal", "Hamburger SV", "hamburg-vieira-official");
+  }
+  if (/Lucca Brughmans joins Liverpool/i.test(title)) {
+    return setMove("Lucca Brughmans", "Genk", "Liverpool", "liverpool-brughmans-signing");
+  }
+  if (/Mikey Moore joins Koln|Cologne complete loan deal for Tottenham.*Mikey Moore/i.test(title)) {
+    return setMove("Mikey Moore", "Tottenham", "Koln", "koln-mikey-moore-loan");
+  }
+  if (/Mykhaylo Mudryk joins Tottenham.*from Chelsea|Tottenham closing in on loan deal for Mykhaylo Mudryk/i.test(title)) {
+    return setMove("Mykhailo Mudryk", "Chelsea", "Tottenham", "tottenham-mudryk-loan");
+  }
+  if (/Ibrahim Mbaye signs for Aston Villa/i.test(title)) {
+    return setMove("Ibrahim Mbaye", "PSG", "Aston Villa", "aston-villa-mbaye-signing");
+  }
+  if (/Tim Iroegbunam.*Hull.*Everton/i.test(title)) {
+    return setMove("Tim Iroegbunam", "Everton", "Hull", "hull-iroegbunam-fee");
+  }
+  if (/Callum O['’]Hare.*Wrexham|Wrexham.*Callum O['’]Hare/i.test(title)) {
+    return setMove("Callum O'Hare", "Sheffield United", "Wrexham", "wrexham-ohare-medical");
+  }
+  return null;
+}
+
+function isPlausibleDraft(item) {
+  if (!item || !item.player) return false;
+  const player = normalizeWhitespace(item.player);
+  const fromTeam = normalizeWhitespace(item.fromTeam || "");
+  const toTeam = normalizeWhitespace(item.toTeam || "");
+  const fieldText = `${player} ${fromTeam} ${toTeam}`;
+  const knownTeams = new Set([
+    ...Object.keys(TEAM_LEAGUES),
+    ...Object.keys(TEAM_ALIASES),
+    ...Object.values(TEAM_ALIASES),
+    "Barcelona",
+    "Bayern Munich",
+    "Borussia Dortmund",
+    "Crystal Palace",
+    "Everton",
+    "Fiorentina",
+    "Genk",
+    "Hamburger SV",
+    "Inter Milan",
+    "Lille",
+    "Monaco",
+    "Newcastle United",
+    "PSG",
+    "Roma",
+    "AS Roma",
+    "AS Monaco",
+    "Rangers",
+    "Sporting",
+    "Sporting Kansas City",
+    "Sunderland",
+    "Washington Spirit",
+  ]);
+
+  if (player.length > 35 || fromTeam.length > 60 || toTeam.length > 60) return false;
+  if (/^[\p{Ll}]/u.test(player)) return false;
+  if (knownTeams.has(player)) return false;
+  if (/\b[\p{L}][\p{L}'’\u2011-]*[\u2019']s\b/u.test(player)) return false;
+  if (/[!?🚨🔄]/u.test(fieldText)) return false;
+  if (/[:;]|\b(?:official|double|record-breaking|on loan|representatives|deadline-day|alternative|replacement|transfer|news|target|source|sources|why|quote|star|parisian|socceroo|agents|hope|shock|league|espn|bbc|sky|farm|short|gameweek|scout|women|villa|ecuador|world|fpl)\b/i.test(player)) {
+    return false;
+  }
+  if (/\b(?:agree|agreement|deal|sign(?:s|ed|ing)?|after|striker|transfer|news|official|fail(?:s|ed)?|could|replacement|alternative|source|sources|target|with|from|and|offer)\b/i.test(fromTeam)) {
+    return false;
+  }
+  if (/[:;]|\b(?:agree|agreement|deal|sign(?:s|ed|ing)?|after|striker|transfer|news|official|fail(?:s|ed)?|could|replacement|alternative|source|sources|target|with|from|and|offer|move|weighing|contact|pursue|advance|closing|hijack|medical|expected)\b/i.test(toTeam)) {
+    return false;
+  }
+  if (/\b(?:and|from|to)\b/i.test(player)) return false;
+
+  const title = String(item.headlineTitle || "");
+  if (isUnknownTeamName(fromTeam) && isUnknownTeamName(toTeam) &&
+      !/\b(?:sign(?:s|ed|ing)?|join(?:s|ed)?|agree(?:d|ment)?|deal|transfer|move|loan|medical|bid|talks?|target)\b/i.test(title)) {
+    return false;
+  }
+  return true;
 }
 
 function dedupeDrafts(items) {
@@ -2232,9 +2476,12 @@ function dedupeDrafts(items) {
 
   const grouped = new Map();
   for (const item of filtered) {
-    const moveKey = isUnknownTeamName(item.fromTeam) || isUnknownTeamName(item.toTeam)
-      ? `${item.player}|${item.fromTeam}|${item.toTeam}|${normalizeWhitespace(item.headlineTitle || "")}`
-      : `${item.player}|${item.fromTeam}|${item.toTeam}`;
+    // Use the normalized move itself as the key even for review cards. The
+    // old title-based key let the same unresolved player accumulate once per
+    // feed headline, which is why the review queue kept growing with clones.
+    const moveKey = [item.player, item.fromTeam, item.toTeam]
+      .map((value) => normalizeWhitespace(value || "").toLowerCase())
+      .join("|");
     const existing = grouped.get(moveKey);
     if (!existing) {
       grouped.set(moveKey, {
@@ -2789,7 +3036,9 @@ async function enrichReviewCandidate(item) {
 }
 
 async function enrichReviewQueue(items) {
-  const queue = items.filter((item) => item && !isPublishableDraft(item)).slice(0, REVIEW_SOURCE_FETCH_LIMIT);
+  const queue = items
+    .filter((item) => item && !isPublishableDraft(item) && isPlausibleDraft(item))
+    .slice(0, REVIEW_SOURCE_FETCH_LIMIT);
   if (!queue.length) return items;
   const enriched = await Promise.all(queue.map((item) => enrichReviewCandidate(item)));
   const byId = new Map(enriched.map((item) => [item.id, item]));
