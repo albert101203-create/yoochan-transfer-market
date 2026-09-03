@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-03T16:36:24.701Z",
-  "basedOnGeneratedAt": "2026-09-03T16:36:24.697Z",
+  "generatedAt": "2026-09-03T16:45:28.171Z",
+  "basedOnGeneratedAt": "2026-09-03T16:45:28.168Z",
   "itemCount": 30,
   "items": [
     {
@@ -43,7 +43,7 @@
     },
     {
       "id": "draft:https://news.google.com/rss/articles/CBMif0FVX3lxTE4wd2taVmdHQU9CZjRSelNXUWNDMjBJR1A5cFJRTDUySTFBZzdGVWxxdlV1a1NrbEVCUjFVOUdqY3F2bFZYeTdyZHVCb1d2aGlWcU9PcDNacTdPQzRNZFVkRGs0eEhVYk53U3FjMlhPOWtNN0lmYjktcTdfMF9GWU0?oc=5",
-      "player": "Ashley Phillips",
+      "player": "Phillips",
       "fromTeam": "Tottenham",
       "toTeam": "Middlesbrough",
       "league": "미분류",
@@ -58,7 +58,7 @@
       "publishedAt": "2026-08-15 20:29",
       "lastVerifiedAt": "2026-08-24 23:21",
       "extractionConfidence": "high",
-      "extractionPattern": "tottenham-official-player-joins",
+      "extractionPattern": "joins-headline-shape",
       "needsVerification": false,
       "headlineTitle": "Phillips joins Middlesbrough - Tottenham Hotspur",
       "sourceLinks": [
@@ -167,7 +167,7 @@
     },
     {
       "id": "draft:https://news.google.com/rss/articles/CBMie0FVX3lxTE5meG5NOHkzOGN4b3NPaU94YzZYcjM0N0E2SXpmSzU1R05reXkwVEloUmtSVFRHamtONXRremtGSUJ6T3RRSExleHhUcFdvSmZCbDAtNGwyb1hYdzg4a0lYam5oTFF4R0JHa1FWNFlpRmhLQnpZV0tUWTE5VQ?oc=5",
-      "player": "Radu Dragusin",
+      "player": "Dragusin",
       "fromTeam": "Tottenham",
       "toTeam": "Fiorentina",
       "league": "미분류",
@@ -182,7 +182,7 @@
       "publishedAt": "2026-07-08 16:00",
       "lastVerifiedAt": "2026-08-31 23:29",
       "extractionConfidence": "high",
-      "extractionPattern": "tottenham-official-player-joins",
+      "extractionPattern": "joins-headline-shape",
       "needsVerification": false,
       "headlineTitle": "Dragusin joins Fiorentina - Tottenham Hotspur",
       "sourceLinks": [
@@ -323,7 +323,7 @@
     {
       "id": "draft:https://news.google.com/rss/articles/CBMiiwFBVV95cUxObkZ6bXV2ZWtxeE9HRWRxZUx2WEptbk0xQmFkWWVERlhZSzkxTHlvOG9FZkNHUmVsWDBWaGlRR3ZqVGNyamd1WU5HRVpHS1JUZXVqQ3lFaDQ2anBRaTdoNEprdURrbEJNRzNkNFNlWk8teXJsbTFUdjBPYmo0eGxNdlkyMFhmdWt6QnNz0gGTAUFVX3lxTE1HbWdpb0FEbHdtSFZSUF9VeEZuOEFuUlpBelNYeXdZMFRtc3hUMGp2akMtYVZiNDhGWHludXdPQTRJTlhGS0kwRE43UUxVWC1FNUxDMVV0VktWTUNfeVJqWlpnVXJSN1gzNlNSOE9WMzM4ODdRU2VKcDdzbkJCWkpWNXhmQUFJd2duWFVBT1ZqSzBCNA?oc=5",
       "player": "Bradley Barcola",
-      "fromTeam": "PSG",
+      "fromTeam": "Paris Saint",
       "toTeam": "Liverpool",
       "league": "미분류",
       "status": "완료",
@@ -337,7 +337,7 @@
       "publishedAt": "2026-08-31 22:11",
       "lastVerifiedAt": "2026-08-31 23:29",
       "extractionConfidence": "medium",
-      "extractionPattern": "barcola-liverpool-transfer",
+      "extractionPattern": "official-headline-shape",
       "needsVerification": false,
       "headlineTitle": "Liverpool sign Bradley Barcola from Paris Saint-Germain - Liverpool FC",
       "sourceLinks": [
@@ -479,7 +479,7 @@
     },
     {
       "id": "draft:https://www.bbc.co.uk/sport/football/articles/c780weq4146o?at_medium=RSS&at_campaign=rss",
-      "player": "Rebeca Bernal",
+      "player": "Bernal",
       "fromTeam": "Washington Spirit",
       "toTeam": "Manchester United",
       "league": "프리미어리그",
@@ -492,9 +492,9 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-09-02 19:47",
-      "lastVerifiedAt": "2026-09-03 16:36",
+      "lastVerifiedAt": "2026-09-03 16:45",
       "extractionConfidence": "high",
-      "extractionPattern": "club-signs-player-from",
+      "extractionPattern": "official-headline-shape",
       "needsVerification": false,
       "headlineTitle": "Man Utd sign Bernal from Washington Spirit",
       "sourceLinks": [
@@ -510,7 +510,7 @@
     },
     {
       "id": "draft:https://www.bbc.co.uk/sport/football/articles/cdx5e590qqeo?at_medium=RSS&at_campaign=rss",
-      "player": "Femi Azeez",
+      "player": "Azeez",
       "fromTeam": "Millwall",
       "toTeam": "Brighton",
       "league": "프리미어리그",
@@ -523,9 +523,9 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-09-02 09:49",
-      "lastVerifiedAt": "2026-09-03 16:36",
+      "lastVerifiedAt": "2026-09-03 16:45",
       "extractionConfidence": "high",
-      "extractionPattern": "club-signs-player-from",
+      "extractionPattern": "official-headline-shape",
       "needsVerification": false,
       "headlineTitle": "Brighton sign winger Azeez from Millwall",
       "sourceLinks": [
@@ -540,39 +540,8 @@
       "sourceCount": 1
     },
     {
-      "id": "draft:https://www.skysports.com/football/news/11671/13579669/iliman-ndiaye-transfer-news-man-city-sign-65m-winger-from-everton-as-jack-grealish-joins-toffees-on-loan",
-      "player": "Iliman Ndiaye transfer",
-      "fromTeam": "Everton as Jack Grealish joins Toffees",
-      "toTeam": "Manchester City",
-      "league": "프리미어리그",
-      "status": "완료",
-      "fee": "£65M",
-      "sourceKey": "sky-sports",
-      "sourceTier": "medium",
-      "sourceName": "Sky Sports",
-      "sourceUrl": "https://www.skysports.com/football/news/11671/13579669/iliman-ndiaye-transfer-news-man-city-sign-65m-winger-from-everton-as-jack-grealish-joins-toffees-on-loan",
-      "sourceType": "자동 추출 초안",
-      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
-      "publishedAt": "2026-09-01 21:49",
-      "lastVerifiedAt": "2026-09-03 16:36",
-      "extractionConfidence": "high",
-      "extractionPattern": "player-club-signs-from",
-      "needsVerification": false,
-      "headlineTitle": "Iliman Ndiaye transfer news: Man City sign &#163;65m winger from Everton as Jack Grealish joins Toffees on loan",
-      "sourceLinks": [
-        {
-          "sourceName": "Sky Sports",
-          "sourceUrl": "https://www.skysports.com/football/news/11671/13579669/iliman-ndiaye-transfer-news-man-city-sign-65m-winger-from-everton-as-jack-grealish-joins-toffees-on-loan",
-          "sourceTier": "medium",
-          "headlineTitle": "Iliman Ndiaye transfer news: Man City sign &#163;65m winger from Everton as Jack Grealish joins Toffees on loan",
-          "publishedAt": "2026-09-01 21:49"
-        }
-      ],
-      "sourceCount": 1
-    },
-    {
       "id": "draft:https://www.bbc.co.uk/sport/football/articles/c3wj1qw5x04o?at_medium=RSS&at_campaign=rss",
-      "player": "Iliman Ndiaye",
+      "player": "Ndiaye",
       "fromTeam": "Everton",
       "toTeam": "Manchester City",
       "league": "프리미어리그",
@@ -587,7 +556,7 @@
       "publishedAt": "2026-09-01 20:26",
       "lastVerifiedAt": "2026-09-01 20:27",
       "extractionConfidence": "high",
-      "extractionPattern": "club-signs-player-from",
+      "extractionPattern": "official-headline-shape",
       "needsVerification": false,
       "headlineTitle": "Man City sign Ndiaye from Everton for £65m",
       "sourceLinks": [
@@ -639,7 +608,7 @@
       "publishedAt": "2026-08-31 21:04",
       "lastVerifiedAt": "2026-08-31 23:29",
       "extractionConfidence": "high",
-      "extractionPattern": "manchester-city-allan-elias-signing",
+      "extractionPattern": "joins-headline-shape",
       "needsVerification": false,
       "headlineTitle": "Allan Elias joins Man City from Palmeiras",
       "sourceLinks": [
@@ -738,8 +707,8 @@
     },
     {
       "id": "draft:49750228",
-      "player": "Emiliano Martínez",
-      "fromTeam": "Aston Villa",
+      "player": "Martínez",
+      "fromTeam": "Villa",
       "toTeam": "Chelsea",
       "league": "프리미어리그",
       "status": "완료",
@@ -753,7 +722,7 @@
       "publishedAt": "2026-08-30 18:10",
       "lastVerifiedAt": "2026-08-30 23:45",
       "extractionConfidence": "high",
-      "extractionPattern": "chelsea-martinez-signing",
+      "extractionPattern": "official-headline-shape",
       "needsVerification": false,
       "headlineTitle": "Chelsea sign goalkeeper Martínez from Villa",
       "sourceLinks": [
@@ -813,67 +782,8 @@
       "sourceCount": 1
     },
     {
-      "id": "draft:https://news.google.com/rss/articles/CBMihwJBVV95cUxNZ3pXd1VicjNTSEM4MnlvWFFwQXBUbWh1WXdpbVFwWDRWNFVyRldQUS1wTlJOYWxENWV6ekpLbkpQeU56VW1zNXQtUWwtd1pnTjEtUlJJLWZKaDItWXdNUGZFSnBtV2xDNFIwRWhOaUNXb0ZhTkJWNHQxYzFkQVVfU3FvRkhHZllydGZMY0xLdXVUQVBRRTZkYWtVV0F3aGxkSGdHN2RzSUNUam9PamZnajdMTGFHaDB2UWZzb3BMbUNtaFpyczN4eVJjYmI0aVpndGlLV0xFRmxuS2JKSXBXMU5VUGdoQUt0TEZKeW50MmlqYWZ1dWZEcm14TnRRMjlXWWhicS1zSQ?oc=5",
-      "player": "Nicolas Jackson",
-      "fromTeam": "Chelsea",
-      "toTeam": "Aston Villa",
-      "league": "프리미어리그",
-      "status": "완료",
-      "fee": "£65M",
-      "sourceKey": "tottenham-sky-monitor",
-      "sourceTier": "medium",
-      "sourceName": "Sky Sports Tottenham monitor",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNZ3pXd1VicjNTSEM4MnlvWFFwQXBUbWh1WXdpbVFwWDRWNFVyRldQUS1wTlJOYWxENWV6ekpLbkpQeU56VW1zNXQtUWwtd1pnTjEtUlJJLWZKaDItWXdNUGZFSnBtV2xDNFIwRWhOaUNXb0ZhTkJWNHQxYzFkQVVfU3FvRkhHZllydGZMY0xLdXVUQVBRRTZkYWtVV0F3aGxkSGdHN2RzSUNUam9PamZnajdMTGFHaDB2UWZzb3BMbUNtaFpyczN4eVJjYmI0aVpndGlLV0xFRmxuS2JKSXBXMU5VUGdoQUt0TEZKeW50MmlqYWZ1dWZEcm14TnRRMjlXWWhicS1zSQ?oc=5",
-      "sourceType": "자동 추출 초안",
-      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
-      "publishedAt": "2026-08-29 18:36",
-      "lastVerifiedAt": "2026-08-30 01:31",
-      "extractionConfidence": "high",
-      "extractionPattern": "aston-villa-jackson-official",
-      "needsVerification": false,
-      "headlineTitle": "Nicolas Jackson transfer news: Aston Villa confirm club-record £65m signing as deal agreed to sign Ibrahim Mbaye from PSG - Sky Sports",
-      "sourceLinks": [
-        {
-          "sourceName": "Sky Sports Tottenham monitor",
-          "sourceUrl": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNZ3pXd1VicjNTSEM4MnlvWFFwQXBUbWh1WXdpbVFwWDRWNFVyRldQUS1wTlJOYWxENWV6ekpLbkpQeU56VW1zNXQtUWwtd1pnTjEtUlJJLWZKaDItWXdNUGZFSnBtV2xDNFIwRWhOaUNXb0ZhTkJWNHQxYzFkQVVfU3FvRkhHZllydGZMY0xLdXVUQVBRRTZkYWtVV0F3aGxkSGdHN2RzSUNUam9PamZnajdMTGFHaDB2UWZzb3BMbUNtaFpyczN4eVJjYmI0aVpndGlLV0xFRmxuS2JKSXBXMU5VUGdoQUt0TEZKeW50MmlqYWZ1dWZEcm14TnRRMjlXWWhicS1zSQ?oc=5",
-          "sourceTier": "medium",
-          "headlineTitle": "Nicolas Jackson transfer news: Aston Villa confirm club-record £65m signing as deal agreed to sign Ibrahim Mbaye from PSG - Sky Sports",
-          "publishedAt": "2026-08-29 09:36"
-        },
-        {
-          "sourceName": "Sky Sports",
-          "sourceUrl": "https://www.skysports.com/football/news/11095/13578279/nicolas-jackson-transfer-news-aston-villa-confirm-club-record-65m-signing-as-deal-agreed-to-sign-ibrahim-mbaye-from-psg",
-          "sourceTier": "medium",
-          "headlineTitle": "Nicolas Jackson transfer news: Aston Villa confirm club-record &#163;65m signing as deal agreed to sign Ibrahim Mbaye from PSG",
-          "publishedAt": "2026-08-28 18:20"
-        },
-        {
-          "sourceName": "ESPN FC",
-          "sourceUrl": "https://www.espn.com/soccer/story/_/id/49754547/aston-villa-transfer-nicolas-jackson-chelsea",
-          "sourceTier": "medium",
-          "headlineTitle": "Aston Villa sign striker Jackson from Chelsea",
-          "publishedAt": "2026-08-29 08:31"
-        },
-        {
-          "sourceName": "Santi Aouna monitor",
-          "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdVRZa0hUSU5UREd2SC0tX0tzWlVnd3V0RTc4SExuQ2QwVGk2MlFIWUlBYWVFVElNTmFYcXYyRktObXNOaXk2UDZYZHBvbjJMcDF2ai1LaG1na2NTaDBCeTB1Mm5XM3JFNWk2SGlRM2RxQ0ZzalNta1haMk1XNk9kNWw3dGx4OElXQUhPM2VoLUJ4QWs2MlBz?oc=5",
-          "sourceTier": "medium",
-          "headlineTitle": "Transfer: Chelsea weigh Aston Villa’s bid for Nicolas Jackson - Daily Post Nigeria",
-          "publishedAt": "2026-08-26 06:14"
-        },
-        {
-          "sourceName": "BBC Sport",
-          "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cge4y57ygvdo?at_medium=RSS&at_campaign=rss",
-          "sourceTier": "medium",
-          "headlineTitle": "Villa close to £65m move for Chelsea's Jackson as Watkins nears exit",
-          "publishedAt": "2026-08-27 17:48"
-        }
-      ],
-      "sourceCount": 5
-    },
-    {
       "id": "draft:https://www.bbc.co.uk/sport/football/articles/crk3dr5pnyjo?at_medium=RSS&at_campaign=rss",
-      "player": "El Hadji Malick Diouf",
+      "player": "Diouf",
       "fromTeam": "West Ham United",
       "toTeam": "Brentford",
       "league": "미분류",
@@ -888,7 +798,7 @@
       "publishedAt": "2026-08-28 21:00",
       "lastVerifiedAt": "2026-08-28 21:08",
       "extractionConfidence": "high",
-      "extractionPattern": "brentford-diouf-official",
+      "extractionPattern": "official-headline-shape",
       "needsVerification": false,
       "headlineTitle": "Brentford sign £40m defender Diouf from West Ham",
       "sourceLinks": [
@@ -904,7 +814,7 @@
     },
     {
       "id": "draft:https://www.bbc.co.uk/sport/football/articles/c9dw17pgv7lo?at_medium=RSS&at_campaign=rss",
-      "player": "Stephen Eustaquio",
+      "player": "Eustaquio",
       "fromTeam": "Porto",
       "toTeam": "Swansea City",
       "league": "미분류",
@@ -919,7 +829,7 @@
       "publishedAt": "2026-08-27 20:00",
       "lastVerifiedAt": "2026-08-27 22:35",
       "extractionConfidence": "high",
-      "extractionPattern": "swansea-eustaquio-official",
+      "extractionPattern": "official-headline-shape",
       "needsVerification": false,
       "headlineTitle": "Swans sign Canada midfielder Eustaquio from Porto",
       "sourceLinks": [
@@ -932,44 +842,6 @@
         }
       ],
       "sourceCount": 1
-    },
-    {
-      "id": "draft:49740032",
-      "player": "Issa Kaboré",
-      "fromTeam": "Manchester City",
-      "toTeam": "Wrexham",
-      "league": "미분류",
-      "status": "완료",
-      "fee": "미정",
-      "sourceKey": "espn-fc",
-      "sourceTier": "medium",
-      "sourceName": "ESPN FC",
-      "sourceUrl": "https://www.espn.com/soccer/story/_/id/49740032/wrexham-confirm-permanent-signing-issa-kabore-man-city-jacques-ekomie-angers",
-      "sourceType": "자동 추출 초안",
-      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
-      "publishedAt": "2026-08-27 19:32",
-      "lastVerifiedAt": "2026-08-27 22:35",
-      "extractionConfidence": "high",
-      "extractionPattern": "wrexham-kabore-official",
-      "needsVerification": false,
-      "headlineTitle": "Wrexham sign Kaboré from City; Ekomie from Angers",
-      "sourceLinks": [
-        {
-          "sourceName": "ESPN FC",
-          "sourceUrl": "https://www.espn.com/soccer/story/_/id/49740032/wrexham-confirm-permanent-signing-issa-kabore-man-city-jacques-ekomie-angers",
-          "sourceTier": "medium",
-          "headlineTitle": "Wrexham sign Kaboré from City; Ekomie from Angers",
-          "publishedAt": "2026-08-27 19:32"
-        },
-        {
-          "sourceName": "BBC Sport",
-          "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cn5dr0vyd3ro?at_medium=RSS&at_campaign=rss",
-          "sourceTier": "medium",
-          "headlineTitle": "Wrexham close in on Ekomie and Kabore deals",
-          "publishedAt": "2026-08-26 21:25"
-        }
-      ],
-      "sourceCount": 2
     },
     {
       "id": "draft:https://news.google.com/rss/articles/CBMi4wFBVV95cUxQaEQyMG15ZGlUS0NDRjFaX1czV293ODNFZVY2X2JyS280dEVJb0ZuaDE2Q2N5VWJWMWFPQ0FVZVA3WXhNOFBWYS1jdXpjMDdNRkFRVTNvUHZuQWZRbXQtd1c5TFI5RjRvSkxfckxwZ0tGMUpITFdrSVZNLVZ1N0ctTzdBX0E0a094YXJ2dFh1Smlha2Y0c1IwSjQyYVJaTng3dlR6a0xEdGx3RWlGVFZUa3hHVEhRQm5fOGVwdUxuR1Y1aHQwQzQ0SlNMUXdoTGFscjFKRVN1Z0hYMjdiUklvSUp5Yw?oc=5",
@@ -988,7 +860,7 @@
       "publishedAt": "2026-08-27 19:13",
       "lastVerifiedAt": "2026-08-27 22:35",
       "extractionConfidence": "high",
-      "extractionPattern": "nottingham-forest-delap-signing",
+      "extractionPattern": "joins-headline-shape",
       "needsVerification": false,
       "headlineTitle": "Liam Delap joins Nottingham Forest in club-record £50m deal as Chelsea make profit on striker - Sky Sports",
       "sourceLinks": [
@@ -1011,7 +883,7 @@
     },
     {
       "id": "draft:https://www.bbc.co.uk/sport/football/articles/cew9lqzx9jeo?at_medium=RSS&at_campaign=rss",
-      "player": "Ethan Pinnock",
+      "player": "Pinnock",
       "fromTeam": "Brentford",
       "toTeam": "Coventry City",
       "league": "미분류",
@@ -1026,7 +898,7 @@
       "publishedAt": "2026-08-27 00:00",
       "lastVerifiedAt": "2026-08-27 00:17",
       "extractionConfidence": "high",
-      "extractionPattern": "club-signs-player-from",
+      "extractionPattern": "official-headline-shape",
       "needsVerification": false,
       "headlineTitle": "Coventry sign defender Pinnock from Brentford",
       "sourceLinks": [
@@ -1064,7 +936,7 @@
       "publishedAt": "2026-08-26 20:30",
       "lastVerifiedAt": "2026-08-27 00:17",
       "extractionConfidence": "high",
-      "extractionPattern": "chelsea-disasi-palace-loan",
+      "extractionPattern": "joins-headline-shape",
       "needsVerification": false,
       "headlineTitle": "Axel Disasi joins Crystal Palace on loan from Chelsea – Ben Jacobs - SPORF",
       "sourceLinks": [
@@ -1117,7 +989,7 @@
     },
     {
       "id": "draft:https://www.bbc.co.uk/sport/football/articles/ckgd5732mexo?at_medium=RSS&at_campaign=rss",
-      "player": "Nico Elvedi",
+      "player": "Elvedi",
       "fromTeam": "Borussia Monchengladbach",
       "toTeam": "Leeds",
       "league": "미분류",
@@ -1132,7 +1004,7 @@
       "publishedAt": "2026-08-19 20:10",
       "lastVerifiedAt": "2026-08-20 01:27",
       "extractionConfidence": "high",
-      "extractionPattern": "club-signs-player-from",
+      "extractionPattern": "official-headline-shape",
       "headlineTitle": "Leeds sign Elvedi from Borussia Monchengladbach",
       "sourceLinks": [
         {
@@ -1146,31 +1018,136 @@
       "sourceCount": 1
     },
     {
-      "id": "draft:https://www.skysports.com/football/news/11095/13573640/newcastle-transfer-news-club-agree-deal-to-sign-defender-amar-dedic-from-benfica",
-      "player": "Amar Dedic",
-      "fromTeam": "Benfica",
-      "toTeam": "Newcastle",
+      "id": "draft:https://www.bbc.co.uk/sport/football/articles/c7v4z3yglzro?at_medium=RSS&at_campaign=rss",
+      "player": "Kevin Danso",
+      "fromTeam": "Tottenham",
+      "toTeam": "Sunderland",
       "league": "미분류",
       "status": "완료",
       "fee": "미정",
-      "sourceKey": "sky-sports",
+      "sourceKey": "bbc-sport",
       "sourceTier": "medium",
-      "sourceName": "Sky Sports",
-      "sourceUrl": "https://www.skysports.com/football/news/11095/13573640/newcastle-transfer-news-club-agree-deal-to-sign-defender-amar-dedic-from-benfica",
+      "sourceName": "BBC Sport",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c7v4z3yglzro?at_medium=RSS&at_campaign=rss",
       "sourceType": "자동 추출 초안",
-      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
-      "publishedAt": "2026-08-16 08:48",
-      "lastVerifiedAt": "2026-08-17 03:15",
-      "extractionConfidence": "high",
-      "extractionPattern": "player-club-signs-from",
-      "headlineTitle": "Newcastle transfer news: Club agree deal to sign defender Amar Dedic from Benfica",
+      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
+      "publishedAt": "2026-09-01 19:50",
+      "lastVerifiedAt": "2026-09-02 20:39",
+      "extractionConfidence": "medium",
+      "extractionPattern": "sunderland-danso-loan",
+      "needsVerification": false,
+      "headlineTitle": "Sunderland sign Spurs defender Danso on loan",
       "sourceLinks": [
         {
-          "sourceName": "Sky Sports",
-          "sourceUrl": "https://www.skysports.com/football/news/11095/13573640/newcastle-transfer-news-club-agree-deal-to-sign-defender-amar-dedic-from-benfica",
+          "sourceName": "BBC Sport",
+          "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c7v4z3yglzro?at_medium=RSS&at_campaign=rss",
           "sourceTier": "medium",
-          "headlineTitle": "Newcastle transfer news: Club agree deal to sign defender Amar Dedic from Benfica",
-          "publishedAt": "2026-08-16 08:48"
+          "headlineTitle": "Sunderland sign Spurs defender Danso on loan",
+          "publishedAt": "2026-09-01 19:50"
+        }
+      ],
+      "sourceCount": 1
+    },
+    {
+      "id": "draft:https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeloyZG1QX002bWlzNVBlcUtsZ1B2aURvakdRdG01X3RSMWh2eWVmRmlKc21ZUC03NU1CeE1vUWZlRS1GODUtS2hwVWJ6dl9rSS12WTV1ckNEZF9vbl9XbzN2REJNNWZtdmVGaTNWMWpESFNlNC0xdTlWQkhSaXFGeVAxQkJ2RGVYei13bFV3SFFXbm9kR2txOHlROHFpdjBwOE5oOHkyby0?oc=5",
+      "player": "Carlos Baleba",
+      "fromTeam": "Brighton",
+      "toTeam": "Manchester United",
+      "league": "프리미어리그",
+      "status": "완료",
+      "fee": "£70M",
+      "sourceKey": "rob-dawson-monitor",
+      "sourceTier": "medium",
+      "sourceName": "Rob Dawson monitor",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeloyZG1QX002bWlzNVBlcUtsZ1B2aURvakdRdG01X3RSMWh2eWVmRmlKc21ZUC03NU1CeE1vUWZlRS1GODUtS2hwVWJ6dl9rSS12WTV1ckNEZF9vbl9XbzN2REJNNWZtdmVGaTNWMWpESFNlNC0xdTlWQkhSaXFGeVAxQkJ2RGVYei13bFV3SFFXbm9kR2txOHlROHFpdjBwOE5oOHkyby0?oc=5",
+      "sourceType": "자동 추출 초안",
+      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
+      "publishedAt": "2026-08-22 05:47",
+      "lastVerifiedAt": "2026-08-24 00:24",
+      "extractionConfidence": "medium",
+      "extractionPattern": "club-agree-deal-for-player",
+      "headlineTitle": "Man United agree to £70m deal for Brighton's Carlos Baleba - sources - ESPN",
+      "sourceLinks": [
+        {
+          "sourceName": "David Ornstein Bluesky",
+          "sourceUrl": "https://bsky.app/profile/david-ornstein.bsky.social/post/3mtgebnzl722f",
+          "sourceTier": "medium",
+          "headlineTitle": "🚨 EXCLUSIVE: Manchester United closing in on deal to sign Carlos Baleba from Brighton & Hove Albion. #MUFC offer for 22yo Cameroon midfielder ~£60+5m; below #BHAFC valuation but amicable talks ongoing as all parties work to reach agreement 🚨 @theathleticfc.bsky.social www.nytimes.com/athletic/724...",
+          "publishedAt": "2026-08-19 08:55"
+        },
+        {
+          "sourceName": "Rob Dawson monitor",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeloyZG1QX002bWlzNVBlcUtsZ1B2aURvakdRdG01X3RSMWh2eWVmRmlKc21ZUC03NU1CeE1vUWZlRS1GODUtS2hwVWJ6dl9rSS12WTV1ckNEZF9vbl9XbzN2REJNNWZtdmVGaTNWMWpESFNlNC0xdTlWQkhSaXFGeVAxQkJ2RGVYei13bFV3SFFXbm9kR2txOHlROHFpdjBwOE5oOHkyby0?oc=5",
+          "sourceTier": "medium",
+          "headlineTitle": "Man United agree to £70m deal for Brighton's Carlos Baleba - sources - ESPN",
+          "publishedAt": "2026-08-22 05:47"
+        }
+      ],
+      "sourceCount": 2
+    },
+    {
+      "id": "draft:49651825",
+      "player": "Zavier Gozo",
+      "fromTeam": "Real Salt Lake",
+      "toTeam": "Crystal Palace",
+      "league": "미분류",
+      "status": "완료",
+      "fee": "미정",
+      "sourceKey": "espn-fc",
+      "sourceTier": "medium",
+      "sourceName": "ESPN FC",
+      "sourceUrl": "https://www.espn.com/soccer/story/_/id/49651825/us-youth-gozo-move-real-salt-lake-crystal-palace",
+      "sourceType": "자동 추출 초안",
+      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
+      "publishedAt": "2026-08-19 06:29",
+      "lastVerifiedAt": "2026-08-19 19:34",
+      "extractionConfidence": "medium",
+      "extractionPattern": "player-seals-move",
+      "headlineTitle": "U.S. youth Gozo, 19, seals move to Crystal Palace",
+      "sourceLinks": [
+        {
+          "sourceName": "ESPN FC",
+          "sourceUrl": "https://www.espn.com/soccer/story/_/id/49651825/us-youth-gozo-move-real-salt-lake-crystal-palace",
+          "sourceTier": "medium",
+          "headlineTitle": "U.S. youth Gozo, 19, seals move to Crystal Palace",
+          "publishedAt": "2026-08-19 06:29"
+        },
+        {
+          "sourceName": "BBC Sport",
+          "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/cpq80q88dyqo?at_medium=RSS&at_campaign=rss",
+          "sourceTier": "medium",
+          "headlineTitle": "Palace sign United States prospect Gozo",
+          "publishedAt": "2026-08-18 21:26"
+        }
+      ],
+      "sourceCount": 2
+    },
+    {
+      "id": "draft:https://www.bbc.co.uk/sport/football/articles/c30450z6pmmo?at_medium=RSS&at_campaign=rss",
+      "player": "Promise David",
+      "fromTeam": "Royale Union Saint-Gilloise",
+      "toTeam": "Brighton",
+      "league": "프리미어리그",
+      "status": "완료",
+      "fee": "£22M",
+      "sourceKey": "bbc-sport",
+      "sourceTier": "medium",
+      "sourceName": "BBC Sport",
+      "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c30450z6pmmo?at_medium=RSS&at_campaign=rss",
+      "sourceType": "자동 추출 초안",
+      "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
+      "publishedAt": "2026-08-18 20:43",
+      "lastVerifiedAt": "2026-08-19 09:59",
+      "extractionConfidence": "medium",
+      "extractionPattern": "club-signs-player",
+      "headlineTitle": "Brighton sign Canada striker David on loan",
+      "sourceLinks": [
+        {
+          "sourceName": "BBC Sport",
+          "sourceUrl": "https://www.bbc.co.uk/sport/football/articles/c30450z6pmmo?at_medium=RSS&at_campaign=rss",
+          "sourceTier": "medium",
+          "headlineTitle": "Brighton sign Canada striker David on loan",
+          "publishedAt": "2026-08-18 20:43"
         }
       ],
       "sourceCount": 1
