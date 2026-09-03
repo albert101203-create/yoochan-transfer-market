@@ -1313,17 +1313,17 @@
     "sourceImage": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Washington_Spirit_logo.svg/330px-Washington_Spirit_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
   },
-  "./assets/players/isma-la-sarr-c80b3b24.jpg": {
-    "name": "Ismaïla Sarr",
-    "sourcePage": "https://r2.thesportsdb.com/images/media/player/thumb/d6a8by1772141525.jpg",
-    "sourceImage": "https://r2.thesportsdb.com/images/media/player/thumb/d6a8by1772141525.jpg",
-    "note": "Seeded from TheSportsDB player artwork; verify the image license before redistribution."
-  },
   "./assets/clubs/feyenoord-e392045d.webp": {
     "name": "Feyenoord",
     "sourcePage": "https://en.wikipedia.org/wiki/Feyenoord",
     "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Feyenoord_logo_since_2024.svg/330px-Feyenoord_logo_since_2024.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
+  },
+  "./assets/players/isma-la-sarr-c80b3b24.jpg": {
+    "name": "Ismaïla Sarr",
+    "sourcePage": "https://r2.thesportsdb.com/images/media/player/thumb/d6a8by1772141525.jpg",
+    "sourceImage": "https://r2.thesportsdb.com/images/media/player/thumb/d6a8by1772141525.jpg",
+    "note": "Seeded from TheSportsDB player artwork; verify the image license before redistribution."
   },
   "./assets/players/folarin-balogun-45595e47.jpg": {
     "name": "Folarin Balogun",
