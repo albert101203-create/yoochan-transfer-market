@@ -1402,5 +1402,17 @@
     "sourcePage": "https://en.wikipedia.org/wiki/Borussia_Dortmund",
     "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Borussia_Dortmund_logo.svg/330px-Borussia_Dortmund_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
+  },
+  "./assets/clubs/fulham-1452da69.webp": {
+    "name": "Fulham",
+    "sourcePage": "https://en.wikipedia.org/wiki/Fulham_F.C.",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Fulham_FC_%28shield%29.svg/330px-Fulham_FC_%28shield%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
+  },
+  "./assets/clubs/preston-north-end-662b0f33.webp": {
+    "name": "Preston North End",
+    "sourcePage": "https://en.wikipedia.org/wiki/Preston_North_End_F.C.",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/en/thumb/8/82/Preston_North_End_FC.svg/330px-Preston_North_End_FC.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
   }
 }
