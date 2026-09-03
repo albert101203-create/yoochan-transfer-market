@@ -1325,16 +1325,16 @@
     "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Lamine_Camara_France_v_Senegal_16_June_2026-445.jpg/330px-Lamine_Camara_France_v_Senegal_16_June_2026-445.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
   },
-  "./assets/players/folarin-balogun-45595e47.jpg": {
-    "name": "Folarin Balogun",
-    "sourcePage": "https://en.wikipedia.org/wiki/Folarin_Balogun",
-    "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Folarin_Balogun_Australia_v_USA_19_June_2026-64.jpg/330px-Folarin_Balogun_Australia_v_USA_19_June_2026-64.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
-  },
   "./assets/players/taylor-harwood-bellis-46e419c2.jpg": {
     "name": "Taylor Harwood-Bellis",
     "sourcePage": "https://en.wikipedia.org/wiki/Taylor_Harwood-Bellis",
     "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Taylor_Harwood-Bellis_22122024_%282%29.jpg/330px-Taylor_Harwood-Bellis_22122024_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
+  },
+  "./assets/players/folarin-balogun-45595e47.jpg": {
+    "name": "Folarin Balogun",
+    "sourcePage": "https://en.wikipedia.org/wiki/Folarin_Balogun",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Folarin_Balogun_Australia_v_USA_19_June_2026-64.jpg/330px-Folarin_Balogun_Australia_v_USA_19_June_2026-64.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
   }
 }
