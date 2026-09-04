@@ -1451,16 +1451,16 @@
     "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Boca_Juniors_logo18.svg/330px-Boca_Juniors_logo18.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
   },
-  "./assets/players/lamine-camara-fc8cba2f.jpg": {
-    "name": "Lamine Camara",
-    "sourcePage": "https://en.wikipedia.org/wiki/Lamine_Camara",
-    "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Lamine_Camara_France_v_Senegal_16_June_2026-445.jpg/330px-Lamine_Camara_France_v_Senegal_16_June_2026-445.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
-  },
   "./assets/players/malo-gusto-ffcc9b02.jpg": {
     "name": "Malo Gusto",
     "sourcePage": "https://en.wikipedia.org/wiki/Malo_Gusto",
     "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Malo_Gusto_France_v_Senegal_16_June_2026-399.jpg/330px-Malo_Gusto_France_v_Senegal_16_June_2026-399.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
+  },
+  "./assets/clubs/postecoglou-2d29264f.jpg": {
+    "name": "Postecoglou",
+    "sourcePage": "https://en.wikipedia.org/wiki/Ange_Postecoglou",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Ange_Postecoglou_%28cropped%29.jpg/330px-Ange_Postecoglou_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
   }
 }
