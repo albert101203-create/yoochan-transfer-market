@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-04T15:35:50.685Z",
-  "basedOnGeneratedAt": "2026-09-04T15:35:50.683Z",
+  "generatedAt": "2026-09-04T15:46:39.403Z",
+  "basedOnGeneratedAt": "2026-09-04T15:46:39.400Z",
   "itemCount": 30,
   "items": [
     {
@@ -66,7 +66,7 @@
           "sourceName": "Tottenham official-site monitor",
           "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wd2taVmdHQU9CZjRSelNXUWNDMjBJR1A5cFJRTDUySTFBZzdGVWxxdlV1a1NrbEVCUjFVOUdqY3F2bFZYeTdyZHVCb1d2aGlWcU9PcDNacTdPQzRNZFVkRGs0eEhVYk53U3FjMlhPOWtNN0lmYjktcTdfMF9GWU0?oc=5",
           "sourceTier": "high",
-          "headlineTitle": "Phillips joins Middlesbrough - tottenhamhotspur.com",
+          "headlineTitle": "Phillips joins Middlesbrough - Tottenham Hotspur",
           "publishedAt": "2026-08-15 07:00"
         }
       ],
@@ -339,7 +339,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
       "publishedAt": "2026-09-03 14:22",
-      "lastVerifiedAt": "2026-09-04 15:35",
+      "lastVerifiedAt": "2026-09-04 15:46",
       "extractionConfidence": "medium",
       "extractionPattern": "barcola-liverpool-transfer",
       "needsVerification": false,
@@ -503,7 +503,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "실시간 헤드라인 제목 패턴에서 자동 추출한 초안입니다. 원문 확인 후 확정 반영하는 것을 권장합니다.",
       "publishedAt": "2026-09-03 21:00",
-      "lastVerifiedAt": "2026-09-04 15:35",
+      "lastVerifiedAt": "2026-09-04 15:46",
       "extractionConfidence": "high",
       "extractionPattern": "official-headline-shape",
       "needsVerification": false,
