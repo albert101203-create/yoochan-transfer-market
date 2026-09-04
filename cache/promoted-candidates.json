@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-04T20:56:15.592Z",
-  "basedOnGeneratedAt": "2026-09-04T20:56:15.589Z",
+  "generatedAt": "2026-09-04T21:08:28.004Z",
+  "basedOnGeneratedAt": "2026-09-04T21:08:28.001Z",
   "itemCount": 30,
   "items": [
     {
@@ -339,7 +339,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
       "publishedAt": "2026-09-03 14:22",
-      "lastVerifiedAt": "2026-09-04 20:56",
+      "lastVerifiedAt": "2026-09-04 21:08",
       "extractionConfidence": "medium",
       "extractionPattern": "barcola-liverpool-transfer",
       "needsVerification": false,
@@ -360,6 +360,13 @@
           "publishedAt": "2026-08-31 13:11"
         },
         {
+          "sourceName": "Sky Sports Tottenham monitor",
+          "sourceUrl": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPZ21RVU9DN1g0dzhNWnVLQmtScjkyVUx0VDhBbzBsV2VJb2JTdU5OT05yRTJ2SFkxSUxJWEtzVmotTVd6WTRjdFUwakJ5NjlwaDg4aDhCX043cFNjdXpyREcwMlJaTkZEUnk0RUxaS2hnMXpIbV9taG0ycllWdG9kckt0VGhoMzNVWldrNW5zYVNORm1GSVl3ZVZzZXY5Y1FDQkgtdDl3clQtNENhck9Lcno2cVJfVGFPdC1BSHUtN2RsUjJOQWJjU1dIOXd6cV9JQmhkZnp3QjdiUnJvdHVmT2NRWnZxWXlRdXdseEpScjRyTndweVRWNUVpQ01nQQ?oc=5",
+          "sourceTier": "medium",
+          "headlineTitle": "Bradley Barcola to Liverpool: France forward who has moved from PSG is quick, strong, versatile, intelligent - Sky Sports",
+          "publishedAt": "2026-08-31 07:00"
+        },
+        {
           "sourceName": "Paul Joyce monitor",
           "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdHdLZjQ2NkYyRnJTajUtOWlrbngxY0tmdkI3eGpfaUxVUWtuWEN0YWtkeXVoS2ZOZU5vTmw1ZVBwQ1RlQmdUcElyVXdFalpJUGFfRThBeDVaZ2hOZFZ4aHhKanVJYjY4SlllLVk5V0g3SU52WFZ6cGZUYXFpY0RnblgzMzVzUFdScUVVSkRacElOUGdVbjlz?oc=5",
           "sourceTier": "medium",
@@ -372,13 +379,6 @@
           "sourceTier": "medium",
           "headlineTitle": "Bradley Barcola to Liverpool: €140m transfer agreed - sporf.com",
           "publishedAt": "2026-08-27 09:13"
-        },
-        {
-          "sourceName": "Sky Sports Tottenham monitor",
-          "sourceUrl": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPZ21RVU9DN1g0dzhNWnVLQmtScjkyVUx0VDhBbzBsV2VJb2JTdU5OT05yRTJ2SFkxSUxJWEtzVmotTVd6WTRjdFUwakJ5NjlwaDg4aDhCX043cFNjdXpyREcwMlJaTkZEUnk0RUxaS2hnMXpIbV9taG0ycllWdG9kckt0VGhoMzNVWldrNW5zYVNORm1GSVl3ZVZzZXY5Y1FDQkgtdDl3clQtNENhck9Lcno2cVJfVGFPdC1BSHUtN2RsUjJOQWJjU1dIOXd6cV9JQmhkZnp3QjdiUnJvdHVmT2NRWnZxWXlRdXdseEpScjRyTndweVRWNUVpQ01nQQ?oc=5",
-          "sourceTier": "medium",
-          "headlineTitle": "Bradley Barcola to Liverpool: France forward who has moved from PSG is quick, strong, versatile, intelligent - Sky Sports",
-          "publishedAt": "2026-08-31 07:00"
         },
         {
           "sourceName": "Sky Sports Tottenham monitor",
@@ -911,7 +911,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "기사는 수집됐지만 제목의 자동 이적 정보 추출이 실패해 카드를 먼저 표시합니다. 원문 확인 후 선수·구단·사진 정보를 자동 보완해야 합니다. 일부 구단 정보는 원문 확인 전까지 확인 필요로 표시합니다.",
       "publishedAt": "2026-08-31 07:00",
-      "lastVerifiedAt": "2026-09-04 17:48",
+      "lastVerifiedAt": "2026-09-04 21:08",
       "extractionConfidence": "high",
       "extractionPattern": "west-brom-collyer-signing",
       "needsVerification": false,
