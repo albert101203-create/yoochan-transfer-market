@@ -1468,5 +1468,17 @@
     "sourcePage": "https://en.wikipedia.org/wiki/Hamburger_SV",
     "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Hamburger_SV_logo.svg/330px-Hamburger_SV_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
+  },
+  "./assets/clubs/parma-a0db215a.webp": {
+    "name": "Parma",
+    "sourcePage": "https://en.wikipedia.org/wiki/Parma_Calcio_1913",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Logo_Parma_Calcio_1913_%28adozione_2016%29.svg/330px-Logo_Parma_Calcio_1913_%28adozione_2016%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
+  },
+  "./assets/clubs/stevenage-4686798f.webp": {
+    "name": "Stevenage",
+    "sourcePage": "https://en.wikipedia.org/wiki/Stevenage_F.C.",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Stevenage_FC_crest.svg/330px-Stevenage_FC_crest.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
   }
 }
