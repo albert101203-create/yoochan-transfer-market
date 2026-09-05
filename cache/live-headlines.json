@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T22:30:28.771Z",
+  "fetchedAt": "2026-09-05T22:39:59.652Z",
   "itemCount": 300,
   "items": [
     {
@@ -123,16 +123,6 @@
       "status": "완료"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTUt1WVdaTEhCaEVWaHlHNFRBckgwVnpmSFJoaXVoZlNTT014VXVZMXNfWXVzWVJFR0pKQlRnVGJRd25qX1VQZjd5Qzc4eWViQzI2end6amYwekpISkFBSUxicWVudDdYNm5aM1ppV3dKNnV4LTdNUXZNZ041dzdzTkJUMk1jMEdTMHlNZnNRV09aYWVUc29nQUhKaDVvelVjRFVLOEFyb25UQzBDR3VRb2tKa25HR1VFSmJRZENRcG9mYnM0d3kwZ3QzTTVnUC1o?oc=5",
-      "title": "Transfer news LIVE: Liverpool & Man Utd eye Mane as Olise to be offered release clause? - Transfermarkt",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTUt1WVdaTEhCaEVWaHlHNFRBckgwVnpmSFJoaXVoZlNTT014VXVZMXNfWXVzWVJFR0pKQlRnVGJRd25qX1VQZjd5Qzc4eWViQzI2end6amYwekpISkFBSUxicWVudDdYNm5aM1ppV3dKNnV4LTdNUXZNZ041dzdzTkJUMk1jMEdTMHlNZnNRV09aYWVUc29nQUhKaDVvelVjRFVLOEFyb25UQzBDR3VRb2tKa25HR1VFSmJRZENRcG9mYnM0d3kwZ3QzTTVnUC1o?oc=5",
-      "publishedAt": "2026-09-05T21:39:32.000Z",
-      "summary": "Transfer news LIVE: Liverpool & Man Utd eye Mane as Olise to be offered release clause? &nbsp;&nbsp; Transfermarkt",
-      "sourceKey": "global-transfer-monitor",
-      "sourceName": "Global transfer news monitor",
-      "status": "루머"
-    },
-    {
       "id": "https://www.skysports.com/football/news/12709/13582156/tottenham-transfer-news-saudi-pro-league-most-likely-destination-for-richarlison-after-being-left-out-of-pl-squad-paper-talk",
       "title": "Tottenham transfer news: Saudi Pro League most likely destination for Richarlison after being left out of PL squad - Paper Talk",
       "url": "https://www.skysports.com/football/news/12709/13582156/tottenham-transfer-news-saudi-pro-league-most-likely-destination-for-richarlison-after-being-left-out-of-pl-squad-paper-talk",
@@ -141,6 +131,16 @@
       "sourceKey": "sky-sports",
       "sourceName": "Sky Sports",
       "status": "루머"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMikAJBVV95cUxObDVkNDB5ckpiTGwzakdId2s5ek9jcFlVazlMaTVYbUh2bmZPZU00VkhkNi1KUGhnTUVjOVRKTHh4TGkxaGJCdVBXYmt1NjhwZHZQZVkwNEZfZS1Wd0YzLS1kNUlWX3M5ZmFudjkyWHFOOU5ybm1nRTdvbEJYdlgyN3BEN21weDg3U1BvSWY3Yl9jT0U5QlpyTXU5a0tYX0ttaWhmYmpmdTRTS2RoSEVkNWNzVV9HYTdfMTZuU2hZdERDVmFUaXRkWG16bi05dlBxblRGYV8tN0lWNFVMb2syYXRzanYzMUJoOEUyMFZjaGpYcW40SzdUdEhoTzVyb210NXJjUE16bTMyc2hnTUc3cw?oc=5",
+      "title": "Cody Gakpo outshines new Liverpool signing Bradley Barcola as Elliot Anderson gives his best Rodri impression - PL hits and misses - Sky Sports",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxObDVkNDB5ckpiTGwzakdId2s5ek9jcFlVazlMaTVYbUh2bmZPZU00VkhkNi1KUGhnTUVjOVRKTHh4TGkxaGJCdVBXYmt1NjhwZHZQZVkwNEZfZS1Wd0YzLS1kNUlWX3M5ZmFudjkyWHFOOU5ybm1nRTdvbEJYdlgyN3BEN21weDg3U1BvSWY3Yl9jT0U5QlpyTXU5a0tYX0ttaWhmYmpmdTRTS2RoSEVkNWNzVV9HYTdfMTZuU2hZdERDVmFUaXRkWG16bi05dlBxblRGYV8tN0lWNFVMb2syYXRzanYzMUJoOEUyMFZjaGpYcW40SzdUdEhoTzVyb210NXJjUE16bTMyc2hnTUc3cw?oc=5",
+      "publishedAt": "2026-09-05T20:41:44.000Z",
+      "summary": "Cody Gakpo outshines new Liverpool signing Bradley Barcola as Elliot Anderson gives his best Rodri impression - PL hits and misses &nbsp;&nbsp; Sky Sports",
+      "sourceKey": "tottenham-sky-monitor",
+      "sourceName": "Sky Sports Tottenham monitor",
+      "status": "업데이트"
     },
     {
       "id": "https://www.bbc.co.uk/sport/football/articles/cdx0knz81p2o?at_medium=RSS&at_campaign=rss",
@@ -181,6 +181,16 @@
       "sourceKey": "bbc-sport",
       "sourceName": "BBC Sport",
       "status": "업데이트"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTUt1WVdaTEhCaEVWaHlHNFRBckgwVnpmSFJoaXVoZlNTT014VXVZMXNfWXVzWVJFR0pKQlRnVGJRd25qX1VQZjd5Qzc4eWViQzI2end6amYwekpISkFBSUxicWVudDdYNm5aM1ppV3dKNnV4LTdNUXZNZ041dzdzTkJUMk1jMEdTMHlNZnNRV09aYWVUc29nQUhKaDVvelVjRFVLOEFyb25UQzBDR3VRb2tKa25HR1VFSmJRZENRcG9mYnM0d3kwZ3QzTTVnUC1o?oc=5",
+      "title": "Transfer news LIVE: Liverpool & Man Utd eye Mane as Olise to be offered release clause? - Transfermarkt",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTUt1WVdaTEhCaEVWaHlHNFRBckgwVnpmSFJoaXVoZlNTT014VXVZMXNfWXVzWVJFR0pKQlRnVGJRd25qX1VQZjd5Qzc4eWViQzI2end6amYwekpISkFBSUxicWVudDdYNm5aM1ppV3dKNnV4LTdNUXZNZ041dzdzTkJUMk1jMEdTMHlNZnNRV09aYWVUc29nQUhKaDVvelVjRFVLOEFyb25UQzBDR3VRb2tKa25HR1VFSmJRZENRcG9mYnM0d3kwZ3QzTTVnUC1o?oc=5",
+      "publishedAt": "2026-09-05T19:06:53.000Z",
+      "summary": "Transfer news LIVE: Liverpool & Man Utd eye Mane as Olise to be offered release clause? &nbsp;&nbsp; Transfermarkt",
+      "sourceKey": "premier-league-transfer-monitor",
+      "sourceName": "Premier League transfer monitor",
+      "status": "루머"
     },
     {
       "id": "https://www.theguardian.com/football/2026/sep/05/mikel-arteta-xabi-alonso-chelsea-arsenal",
@@ -264,10 +274,10 @@
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQU0FCREFub1ZmeUlxTHo0YmExWTRvSHVYeTFXZUNfQjhpSjBCTGp0bkNmbXlnSUlDeHkzQnJHbnZCRlcwRWY2LUpJTktNRlNJTkUyVmJsREhMZEZkX2RQOFhCT1BLLVB3NDA5YWVWUmEwVGZZa0tPakN5eGhQNUpVNG5ndVJ1Rkh2Y1BmUklDNzF2TWdVck5UdHU1SUhDRjdMcUNLRkFMNWhZVlhBMlc5ZEdjVQ?oc=5",
-      "title": "Transfer rumors, news: Liverpool, Man United eye Mane - ESPN",
+      "title": "Transfer rumors, news: Liverpool, Man United eye Mane - espn.com",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQU0FCREFub1ZmeUlxTHo0YmExWTRvSHVYeTFXZUNfQjhpSjBCTGp0bkNmbXlnSUlDeHkzQnJHbnZCRlcwRWY2LUpJTktNRlNJTkUyVmJsREhMZEZkX2RQOFhCT1BLLVB3NDA5YWVWUmEwVGZZa0tPakN5eGhQNUpVNG5ndVJ1Rkh2Y1BmUklDNzF2TWdVck5UdHU1SUhDRjdMcUNLRkFMNWhZVlhBMlc5ZEdjVQ?oc=5",
       "publishedAt": "2026-09-05T17:49:00.000Z",
-      "summary": "Transfer rumors, news: Liverpool, Man United eye Mane &nbsp;&nbsp; ESPN",
+      "summary": "Transfer rumors, news: Liverpool, Man United eye Mane &nbsp;&nbsp; espn.com",
       "sourceKey": "romano-monitor",
       "sourceName": "Fabrizio Romano 검색 모니터",
       "status": "루머"
@@ -303,6 +313,16 @@
       "status": "업데이트"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYnNORkQ3aDBGS0NPN3ptY05XX3BUb3pHdlFfcE10N0UxSTNGR0RCWmtrUUZSaXRCcWJ2U19aclMwVlRZSU1RNDhVYVVHRnpCQ3J3SjF6cjFEOFlXRzgteXg2c0JzSE9Hd3RYcWFZeWY0SVZhVWtqdnJmRUtYUENrdlRETzVkVUxMbTNqQkNIV1ZkLWJxa1BBUmEzSW5RbFBJb2hTMnJB?oc=5",
+      "title": "Spurs ratings: New signings flop as star wastes opportunity - London Evening Standard",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYnNORkQ3aDBGS0NPN3ptY05XX3BUb3pHdlFfcE10N0UxSTNGR0RCWmtrUUZSaXRCcWJ2U19aclMwVlRZSU1RNDhVYVVHRnpCQ3J3SjF6cjFEOFlXRzgteXg2c0JzSE9Hd3RYcWFZeWY0SVZhVWtqdnJmRUtYUENrdlRETzVkVUxMbTNqQkNIV1ZkLWJxa1BBUmEzSW5RbFBJb2hTMnJB?oc=5",
+      "publishedAt": "2026-09-05T17:25:53.000Z",
+      "summary": "Spurs ratings: New signings flop as star wastes opportunity &nbsp;&nbsp; London Evening Standard",
+      "sourceKey": "tottenham-standard-monitor",
+      "sourceName": "The Standard Tottenham monitor",
+      "status": "업데이트"
+    },
+    {
       "id": "https://www.skysports.com/football/live-blog/11095/13279313/fulham-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
       "title": "Fulham transfers, latest news, rumours and gossip: Live updates, goals and highlights",
       "url": "https://www.skysports.com/football/live-blog/11095/13279313/fulham-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
@@ -321,16 +341,6 @@
       "sourceKey": "sky-sports",
       "sourceName": "Sky Sports",
       "status": "루머"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYnNORkQ3aDBGS0NPN3ptY05XX3BUb3pHdlFfcE10N0UxSTNGR0RCWmtrUUZSaXRCcWJ2U19aclMwVlRZSU1RNDhVYVVHRnpCQ3J3SjF6cjFEOFlXRzgteXg2c0JzSE9Hd3RYcWFZeWY0SVZhVWtqdnJmRUtYUENrdlRETzVkVUxMbTNqQkNIV1ZkLWJxa1BBUmEzSW5RbFBJb2hTMnJB?oc=5",
-      "title": "Spurs ratings: New signings flop as star wastes opportunity - London Evening Standard",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYnNORkQ3aDBGS0NPN3ptY05XX3BUb3pHdlFfcE10N0UxSTNGR0RCWmtrUUZSaXRCcWJ2U19aclMwVlRZSU1RNDhVYVVHRnpCQ3J3SjF6cjFEOFlXRzgteXg2c0JzSE9Hd3RYcWFZeWY0SVZhVWtqdnJmRUtYUENrdlRETzVkVUxMbTNqQkNIV1ZkLWJxa1BBUmEzSW5RbFBJb2hTMnJB?oc=5",
-      "publishedAt": "2026-09-05T17:10:56.000Z",
-      "summary": "Spurs ratings: New signings flop as star wastes opportunity &nbsp;&nbsp; London Evening Standard",
-      "sourceKey": "tottenham-standard-monitor",
-      "sourceName": "The Standard Tottenham monitor",
-      "status": "업데이트"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbjM4YjR5S0xIWGQ1ZDZQb0VPTVpiVjVWamhid2o4ZVgybkxTOW44RWZDS0xvSkpBV2FpeFF5QzJUSm5xUExqajUxMmlaemFzS3BZYzV6TUZvMUdoU2FJcW5UVmJnam5vTHMwVkNTdlFvM0pHXzlJTHg5LU5rOURMeG5TLXRkNXFhVVZ3cjdVQWJSeXE3ZDY2UUpWWUVPUWswYjBCNHF2azdSaTluc3ZtbmlSRk5TN09hWEF0NzNzNnA?oc=5",
@@ -563,16 +573,6 @@
       "status": "업데이트"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbW9ZaWpSbE9rU3JDUGRXYnU0ZVRmSTNpX3Q5Q1NrRGtWYmpJWXhkeW94dlE3dFNBekFlZTJCVVFOS1FaUG5Ka05OeTdpRWU1Z1NVbVBrMDdZWFJ3N1A5a2M5UGtPSDgtekdxOW1LZjdiUUl6VjVVRzd5VzZzMlpOSUhrempJZk1UakN2S0k5TWItODN0TzBEQUhwcDVIdkNsMU1NendEWDhCdXNrUVpHbGhzVnV2c1FWZzdNWUdPWFc?oc=5",
-      "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbW9ZaWpSbE9rU3JDUGRXYnU0ZVRmSTNpX3Q5Q1NrRGtWYmpJWXhkeW94dlE3dFNBekFlZTJCVVFOS1FaUG5Ka05OeTdpRWU1Z1NVbVBrMDdZWFJ3N1A5a2M5UGtPSDgtekdxOW1LZjdiUUl6VjVVRzd5VzZzMlpOSUhrempJZk1UakN2S0k5TWItODN0TzBEQUhwcDVIdkNsMU1NendEWDhCdXNrUVpHbGhzVnV2c1FWZzdNWUdPWFc?oc=5",
-      "publishedAt": "2026-09-05T09:10:08.000Z",
-      "summary": "Transfer Centre LIVE! Football transfer news, updates and rumours &nbsp;&nbsp; Sky Sports",
-      "sourceKey": "global-transfer-monitor",
-      "sourceName": "Global transfer news monitor",
-      "status": "루머"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaEprZGliZFRlaGozaEdjZ2tudlUwOEg2TnNXYWxrdFEwbDUtRjdndy03NV9wU0pJX29hY1E4OTJxTEZVNVhBVVZBZ2dsemh0Tjgyc2F0ZW9raEFZOXlkVVVtZkk5TkZQdk9Ddm5zWENXNmZSRUFiWW4tMXNOdGRVMFdRMVhTRFByUmtDb1pYMUZFa0duVldseXZR?oc=5",
       "title": "Romano reveals huge Liverpool transfer boost as ‘furious’ Chelsea hand Camara over - Football365",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaEprZGliZFRlaGozaEdjZ2tudlUwOEg2TnNXYWxrdFEwbDUtRjdndy03NV9wU0pJX29hY1E4OTJxTEZVNVhBVVZBZ2dsemh0Tjgyc2F0ZW9raEFZOXlkVVVtZkk5TkZQdk9Ddm5zWENXNmZSRUFiWW4tMXNOdGRVMFdRMVhTRFByUmtDb1pYMUZFa0duVldseXZR?oc=5",
@@ -614,10 +614,10 @@
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZFVpeEpZRW9VWGFoaWR4b29MR0trWmxyOVlTR3o4bk80aDkyNTVuWEhibXB2eE5FNzdFMFdtSkxIU3JkXzdyX2VxXzJleDZlZVRENFpvdWI3eUxhUXZkY3Mxb2FpdkpCZk5MQlpUdUlxT2JiUS0wdEtHUFdwcDBvWWZ6VlhpcjdiZ09VUHpMYnhLTVBSRVgwblRMWmhzeTdHbmVNcTNMd3Y5djA?oc=5",
-      "title": "Premier League transfer windfall a lifeline for ailing French clubs - Citizen Digital",
+      "title": "Premier League transfer windfall a lifeline for ailing French clubs - citizen.digital",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZFVpeEpZRW9VWGFoaWR4b29MR0trWmxyOVlTR3o4bk80aDkyNTVuWEhibXB2eE5FNzdFMFdtSkxIU3JkXzdyX2VxXzJleDZlZVRENFpvdWI3eUxhUXZkY3Mxb2FpdkpCZk5MQlpUdUlxT2JiUS0wdEtHUFdwcDBvWWZ6VlhpcjdiZ09VUHpMYnhLTVBSRVgwblRMWmhzeTdHbmVNcTNMd3Y5djA?oc=5",
       "publishedAt": "2026-09-05T06:36:37.000Z",
-      "summary": "Premier League transfer windfall a lifeline for ailing French clubs &nbsp;&nbsp; Citizen Digital",
+      "summary": "Premier League transfer windfall a lifeline for ailing French clubs &nbsp;&nbsp; citizen.digital",
       "sourceKey": "premier-league-transfer-monitor",
       "sourceName": "Premier League transfer monitor",
       "status": "업데이트"
@@ -854,10 +854,10 @@
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaWNKdGprRkNHWXJiRGJCVkhBdXRnRFczaXYzaUtVVXU1UER3cC1mSXJEeXFLcUdReXVaQmtQOWVwMTdKSzZtMWxGazVPOWRfMDBCYmd5S0NQUnFJWDNuZE8wZC16ODZBQmx4NlFqVzR3WFlwNHhSbUpNcm1OeU8yeHFuemNITGpHeWlYTlpDdDBFdXlzWE5oTkQtd1Vjc3hJN29aVk0wVm8yUm5VbXhONEoxNnNaSXByUnc?oc=5",
-      "title": "Ranked: Top 50 most expensive Premier League transfers this summer, by true cost - ESPN",
+      "title": "Ranked: Top 50 most expensive Premier League transfers this summer, by true cost - espn.com",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaWNKdGprRkNHWXJiRGJCVkhBdXRnRFczaXYzaUtVVXU1UER3cC1mSXJEeXFLcUdReXVaQmtQOWVwMTdKSzZtMWxGazVPOWRfMDBCYmd5S0NQUnFJWDNuZE8wZC16ODZBQmx4NlFqVzR3WFlwNHhSbUpNcm1OeU8yeHFuemNITGpHeWlYTlpDdDBFdXlzWE5oTkQtd1Vjc3hJN29aVk0wVm8yUm5VbXhONEoxNnNaSXByUnc?oc=5",
       "publishedAt": "2026-09-04T11:42:00.000Z",
-      "summary": "Ranked: Top 50 most expensive Premier League transfers this summer, by true cost &nbsp;&nbsp; ESPN",
+      "summary": "Ranked: Top 50 most expensive Premier League transfers this summer, by true cost &nbsp;&nbsp; espn.com",
       "sourceKey": "premier-league-transfer-monitor",
       "sourceName": "Premier League transfer monitor",
       "status": "업데이트"
@@ -944,10 +944,10 @@
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaVRSVUIzcC1tdlVQdUJjYWZVNVpIN0ZydXlfS1RFX1Zjb1k1MmV6Wnp2WTdaOTMtTVpwdlBRTjJEeE8tY25hN1BmWi1STjNpSjBVU3hBVFZiRUtncG11cGphZ3FueVVPcnN2WXdBSG5kM3N1eVhBekV0X2FKclZWTjJocVFUQmt5YjVOUEtYYmRUUzVCYWhOQXhTZkUyMTA1WEMtOVBJUzBWTkVLRTNOWnFPV0N6bWhjZ3c?oc=5",
-      "title": "Premier League 2026 summer transfers: All confirmed ins, outs for every club - ESPN",
+      "title": "Premier League 2026 summer transfers: All confirmed ins, outs for every club - espn.com",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaVRSVUIzcC1tdlVQdUJjYWZVNVpIN0ZydXlfS1RFX1Zjb1k1MmV6Wnp2WTdaOTMtTVpwdlBRTjJEeE8tY25hN1BmWi1STjNpSjBVU3hBVFZiRUtncG11cGphZ3FueVVPcnN2WXdBSG5kM3N1eVhBekV0X2FKclZWTjJocVFUQmt5YjVOUEtYYmRUUzVCYWhOQXhTZkUyMTA1WEMtOVBJUzBWTkVLRTNOWnFPV0N6bWhjZ3c?oc=5",
       "publishedAt": "2026-09-04T07:18:00.000Z",
-      "summary": "Premier League 2026 summer transfers: All confirmed ins, outs for every club &nbsp;&nbsp; ESPN",
+      "summary": "Premier League 2026 summer transfers: All confirmed ins, outs for every club &nbsp;&nbsp; espn.com",
       "sourceKey": "global-transfer-monitor",
       "sourceName": "Global transfer news monitor",
       "status": "완료"
@@ -1164,20 +1164,20 @@
     },
     {
       "id": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNWdwRXlra1ZGOG81TnVhWkFWSDlLRU9sblVZNTBxMFVYRG9CN0ZzTk9meC1qd1lNdnBKQTNGdm5LVUxkc2xVV1VXU05nTE15bDNzNzk1T0psdGREYl9qdXh2b2U2cW4wRGJ6aDdZbi1ZUTN4Tm5ucXZiUGxibkgtVTdKeFNISEprUWhwN0ZGd0QxenowS3V3TGFtYUVqU1RKSlM5aFF3?oc=5",
-      "title": "Summer transfer window: Grading big signings in men's soccer - ESPN",
+      "title": "Summer transfer window: Grading big signings in men's soccer - espn.com",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNWdwRXlra1ZGOG81TnVhWkFWSDlLRU9sblVZNTBxMFVYRG9CN0ZzTk9meC1qd1lNdnBKQTNGdm5LVUxkc2xVV1VXU05nTE15bDNzNzk1T0psdGREYl9qdXh2b2U2cW4wRGJ6aDdZbi1ZUTN4Tm5ucXZiUGxibkgtVTdKeFNISEprUWhwN0ZGd0QxenowS3V3TGFtYUVqU1RKSlM5aFF3?oc=5",
       "publishedAt": "2026-09-03T16:51:00.000Z",
-      "summary": "Summer transfer window: Grading big signings in men's soccer &nbsp;&nbsp; ESPN",
+      "summary": "Summer transfer window: Grading big signings in men's soccer &nbsp;&nbsp; espn.com",
       "sourceKey": "global-transfer-monitor",
       "sourceName": "Global transfer news monitor",
       "status": "업데이트"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQN0tqemxrNXF3dFdVaE1QYU9zekx1QmxUZmtNaFVMZDRPUGZUZWNVRWlCT2xGejluaEt4TmdLVnlJOS04MmxlNV9xZGFYRUlzZmlBem8zMHA0R2s1WHBRUkg2MFF4M19ucVRBdURwUDBIbUJkNkFiMEZac1JjVkJKNVI2UzJmQVNNV1JSUUFHSXJ4cl9UQ05admtpaDNhb3VuMXZVenlncFdvYk9zdENub09hb1JtQjlTSHpXNEp0RXJhTDg?oc=5",
-      "title": "Gabriel Martinelli leaves Arsenal for Al Hilal in £60m transfer - ESPN",
+      "title": "Gabriel Martinelli leaves Arsenal for Al Hilal in £60m transfer - espn.com",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQN0tqemxrNXF3dFdVaE1QYU9zekx1QmxUZmtNaFVMZDRPUGZUZWNVRWlCT2xGejluaEt4TmdLVnlJOS04MmxlNV9xZGFYRUlzZmlBem8zMHA0R2s1WHBRUkg2MFF4M19ucVRBdURwUDBIbUJkNkFiMEZac1JjVkJKNVI2UzJmQVNNV1JSUUFHSXJ4cl9UQ05admtpaDNhb3VuMXZVenlncFdvYk9zdENub09hb1JtQjlTSHpXNEp0RXJhTDg?oc=5",
       "publishedAt": "2026-09-03T16:35:00.000Z",
-      "summary": "Gabriel Martinelli leaves Arsenal for Al Hilal in £60m transfer &nbsp;&nbsp; ESPN",
+      "summary": "Gabriel Martinelli leaves Arsenal for Al Hilal in £60m transfer &nbsp;&nbsp; espn.com",
       "sourceKey": "premier-league-transfer-monitor",
       "sourceName": "Premier League transfer monitor",
       "status": "업데이트"
@@ -1284,10 +1284,10 @@
     },
     {
       "id": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVFQ4SzBRYjRYX01xdEQ2d3FHeFFGSTRpMXp3VFFNWGRTak1IaGNWMVlWMlF6QW9nSktBVHpSUWNxN1VRZF96UjFuV1pWRlNWYmd5cTJDb3VtVHdDYUtGU0R1UHJpY3VxTnBURmNDWTliRHJtUWFqeXA1X1pxN3NReHF2ZWJGc3FBVzZadGx3?oc=5",
-      "title": "Premier League sets new record for transfer spending - ESPN",
+      "title": "Premier League sets new record for transfer spending - espn.com",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVFQ4SzBRYjRYX01xdEQ2d3FHeFFGSTRpMXp3VFFNWGRTak1IaGNWMVlWMlF6QW9nSktBVHpSUWNxN1VRZF96UjFuV1pWRlNWYmd5cTJDb3VtVHdDYUtGU0R1UHJpY3VxTnBURmNDWTliRHJtUWFqeXA1X1pxN3NReHF2ZWJGc3FBVzZadGx3?oc=5",
       "publishedAt": "2026-09-03T14:34:00.000Z",
-      "summary": "Premier League sets new record for transfer spending &nbsp;&nbsp; ESPN",
+      "summary": "Premier League sets new record for transfer spending &nbsp;&nbsp; espn.com",
       "sourceKey": "premier-league-transfer-monitor",
       "sourceName": "Premier League transfer monitor",
       "status": "업데이트"
@@ -1424,10 +1424,10 @@
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVERNV3NhemdYVGNQVDhFQUF3UmFtc1ZDWGZ1dlotZUZhRHBpc1ZySVZSQ1l6czNNbnkyeDZDY2d0THFUOFkxVUtvaFNMV0dNOGp6dHBfd0ZZX3FUN2g5eXh6bXdXczZMVGQtSFZFWTU5Szk2cnBwby1iaHMwdjkzV0JLYUJWcVp6UmpWUVVXR2UwcHFjcmVfQlcyajVHNXNnaTE4dDNiTHM1QmZqUHdTUnBIbDJNcFhqQzZVcEY2djVrc25fM3FRTjBn?oc=5",
-      "title": "Premier League's summer transfer market is dangerously out of control - ESPN",
+      "title": "Premier League's summer transfer market is dangerously out of control - espn.com",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVERNV3NhemdYVGNQVDhFQUF3UmFtc1ZDWGZ1dlotZUZhRHBpc1ZySVZSQ1l6czNNbnkyeDZDY2d0THFUOFkxVUtvaFNMV0dNOGp6dHBfd0ZZX3FUN2g5eXh6bXdXczZMVGQtSFZFWTU5Szk2cnBwby1iaHMwdjkzV0JLYUJWcVp6UmpWUVVXR2UwcHFjcmVfQlcyajVHNXNnaTE4dDNiTHM1QmZqUHdTUnBIbDJNcFhqQzZVcEY2djVrc25fM3FRTjBn?oc=5",
       "publishedAt": "2026-09-03T08:00:00.000Z",
-      "summary": "Premier League's summer transfer market is dangerously out of control &nbsp;&nbsp; ESPN",
+      "summary": "Premier League's summer transfer market is dangerously out of control &nbsp;&nbsp; espn.com",
       "sourceKey": "premier-league-transfer-monitor",
       "sourceName": "Premier League transfer monitor",
       "status": "업데이트"
@@ -1603,11 +1603,21 @@
       "status": "루머"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbW9ZaWpSbE9rU3JDUGRXYnU0ZVRmSTNpX3Q5Q1NrRGtWYmpJWXhkeW94dlE3dFNBekFlZTJCVVFOS1FaUG5Ka05OeTdpRWU1Z1NVbVBrMDdZWFJ3N1A5a2M5UGtPSDgtekdxOW1LZjdiUUl6VjVVRzd5VzZzMlpOSUhrempJZk1UakN2S0k5TWItODN0TzBEQUhwcDVIdkNsMU1NendEWDhCdXNrUVpHbGhzVnV2c1FWZzdNWUdPWFc?oc=5",
+      "title": "Transfer Centre LIVE! Football transfer news, updates and rumours - Sky Sports",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbW9ZaWpSbE9rU3JDUGRXYnU0ZVRmSTNpX3Q5Q1NrRGtWYmpJWXhkeW94dlE3dFNBekFlZTJCVVFOS1FaUG5Ka05OeTdpRWU1Z1NVbVBrMDdZWFJ3N1A5a2M5UGtPSDgtekdxOW1LZjdiUUl6VjVVRzd5VzZzMlpOSUhrempJZk1UakN2S0k5TWItODN0TzBEQUhwcDVIdkNsMU1NendEWDhCdXNrUVpHbGhzVnV2c1FWZzdNWUdPWFc?oc=5",
+      "publishedAt": "2026-09-02T22:45:00.000Z",
+      "summary": "Transfer Centre LIVE! Football transfer news, updates and rumours &nbsp;&nbsp; Sky Sports",
+      "sourceKey": "solhekol-monitor",
+      "sourceName": "Kaveh Solhekol monitor",
+      "status": "루머"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWUpKTE9OR0tYTEJqU3VmOURGeTA0Yjhvb19lZUF5RzNzMklmWWxtNGZUQzhQaUhLbHdhWjJrSUM1S3lSQ01KNUxERmRrdERKQlAzZTJtWl9YdjFiVGw2cTc2ekpsZDdVVG11anJyVHd2anZpcmc3ZkwtUzVCT19XSnZYX0lpV1FRVlU3LUdCbFpSQVlx?oc=5",
-      "title": "Every confirmed Premier League transfer in the 2026 summer window - Squawka",
+      "title": "Every confirmed Premier League transfer in the 2026 summer window - squawka.com",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWUpKTE9OR0tYTEJqU3VmOURGeTA0Yjhvb19lZUF5RzNzMklmWWxtNGZUQzhQaUhLbHdhWjJrSUM1S3lSQ01KNUxERmRrdERKQlAzZTJtWl9YdjFiVGw2cTc2ekpsZDdVVG11anJyVHd2anZpcmc3ZkwtUzVCT19XSnZYX0lpV1FRVlU3LUdCbFpSQVlx?oc=5",
       "publishedAt": "2026-09-02T21:59:30.000Z",
-      "summary": "Every confirmed Premier League transfer in the 2026 summer window &nbsp;&nbsp; Squawka",
+      "summary": "Every confirmed Premier League transfer in the 2026 summer window &nbsp;&nbsp; squawka.com",
       "sourceKey": "premier-league-transfer-monitor",
       "sourceName": "Premier League transfer monitor",
       "status": "완료"
@@ -1761,16 +1771,6 @@
       "sourceKey": "official-chelsea-monitor",
       "sourceName": "Chelsea official-site monitor",
       "status": "완료"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeWlKd21LYkRuYmtaXzdlRU43SWVjWC1iM3g1MGNQckVzQnZqZ09VVFFMZjA0SjBZSVRXRXBUeFJGVDYwbndGWUpjRTczQkFJbjRwVE5VWExnRy1nY2czSE1tTU93aXRiSks4MVFNUU1mQ0g5bzMwVkI2bVpnN1NYM3d2R3paT0tpQ3VQeC1OcDlzZw?oc=5",
-      "title": "This was the FC Barcelona transfer market - FC Barcelona",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeWlKd21LYkRuYmtaXzdlRU43SWVjWC1iM3g1MGNQckVzQnZqZ09VVFFMZjA0SjBZSVRXRXBUeFJGVDYwbndGWUpjRTczQkFJbjRwVE5VWExnRy1nY2czSE1tTU93aXRiSks4MVFNUU1mQ0g5bzMwVkI2bVpnN1NYM3d2R3paT0tpQ3VQeC1OcDlzZw?oc=5",
-      "publishedAt": "2026-09-02T16:16:00.000Z",
-      "summary": "This was the FC Barcelona transfer market &nbsp;&nbsp; FC Barcelona",
-      "sourceKey": "official-barcelona-monitor",
-      "sourceName": "Barcelona official-site monitor",
-      "status": "업데이트"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJUnRmbDlKZngtUGR2UHZjM29SVlVqYWtKYVpMai1UVGczV05MS3k4RjlTYXN6WU1VSm5hNzBVanFDV3hQNlk1Q1pvR2Z6VXh5Y1E?oc=5",
@@ -1953,16 +1953,6 @@
       "status": "업데이트"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaGVNVGFUTFJVYTJmZVcyR0trYmFra2pZZTNoQXdVVDNCUE9veFZzY3BmYngxcU4yWHpQLTBFWl9TUVUyRjB6dWhLMlFuenlKUU1LeTAyZExXbjJ0WUdVQVE4YWpUUEJrXy1kb2NqMkNJNHlhNUFGeVE2NDNYNzRRV3hRanBUV3BwaFZndUd1MUJpODRnR2tqdFR2eHJpcTJNVFpDdFpiel9VS3FqODVnbTNCZEN3dHhTNTZlUFhR?oc=5",
-      "title": "Chelsea flop Mykhailo Mudryk speaks out after sealing dramatic Tottenham transfer move to reunite with Roberto De Zerbi in double Stamford Bridge raid - Goal.com",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaGVNVGFUTFJVYTJmZVcyR0trYmFra2pZZTNoQXdVVDNCUE9veFZzY3BmYngxcU4yWHpQLTBFWl9TUVUyRjB6dWhLMlFuenlKUU1LeTAyZExXbjJ0WUdVQVE4YWpUUEJrXy1kb2NqMkNJNHlhNUFGeVE2NDNYNzRRV3hRanBUV3BwaFZndUd1MUJpODRnR2tqdFR2eHJpcTJNVFpDdFpiel9VS3FqODVnbTNCZEN3dHhTNTZlUFhR?oc=5",
-      "publishedAt": "2026-09-02T11:48:49.000Z",
-      "summary": "Chelsea flop Mykhailo Mudryk speaks out after sealing dramatic Tottenham transfer move to reunite with Roberto De Zerbi in double Stamford Bridge raid &nbsp;&nbsp; Goal.com",
-      "sourceKey": "tottenham-transfer-news-monitor",
-      "sourceName": "Tottenham transfer news monitor",
-      "status": "업데이트"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNkpKcnBpby1pRG9Yd1VCREgxdHBOQjJ0LXZ1WkpZeXhBMVJUTWpYd1I5d2ktVmEzX1pRbmFBNWU2M2pqLTJlWjRHZi1OOFlabk9QMFhQNmY2SlpVdXQtaWctWDNaV0daUDNwYTRqdnh5RFNZNHluclBjMDdtZlFKbFNPeTBkdHhzSDN2Tk12aW9tVTFuNi1IampmZnRNaFQ0?oc=5",
       "title": "De Zerbi belief and hijack hell - Inside Tottenham's huge £469m summer transfer rebuild - Football London",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNkpKcnBpby1pRG9Yd1VCREgxdHBOQjJ0LXZ1WkpZeXhBMVJUTWpYd1I5d2ktVmEzX1pRbmFBNWU2M2pqLTJlWjRHZi1OOFlabk9QMFhQNmY2SlpVdXQtaWctWDNaV0daUDNwYTRqdnh5RFNZNHluclBjMDdtZlFKbFNPeTBkdHhzSDN2Tk12aW9tVTFuNi1IampmZnRNaFQ0?oc=5",
@@ -1970,6 +1960,16 @@
       "summary": "De Zerbi belief and hijack hell - Inside Tottenham's huge £469m summer transfer rebuild &nbsp;&nbsp; Football London",
       "sourceKey": "tottenham-football-london-monitor",
       "sourceName": "Football.London Tottenham monitor",
+      "status": "업데이트"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVkVZaWYxMTlneVJtaG83cHpXZkRhcENpbDZlbW0yQ0NHWGJjSlpwRFV4dWpQX0E0QlYyaE1uRGRvVU5CYmRkY0lQdVg1cUg2UE5YbUw2SUl6emlscmw5dGhYVXZ0X3VPU1I3Sk1rVDk1b0Zxdi1ZUXVZM05TOVhrTHFBUEZDLTdQajZMNWZLbHozNTMyRTVPWkxESjhieUliTTVCN2pscG9FLVY3WWNMY0dfWGE0NHE0UW4wQmp3?oc=5",
+      "title": "Chelsea flop Mykhailo Mudryk speaks out after sealing dramatic Tottenham transfer move to reunite with Roberto De Zerbi in double Stamford Bridge raid - Goal.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVkVZaWYxMTlneVJtaG83cHpXZkRhcENpbDZlbW0yQ0NHWGJjSlpwRFV4dWpQX0E0QlYyaE1uRGRvVU5CYmRkY0lQdVg1cUg2UE5YbUw2SUl6emlscmw5dGhYVXZ0X3VPU1I3Sk1rVDk1b0Zxdi1ZUXVZM05TOVhrTHFBUEZDLTdQajZMNWZLbHozNTMyRTVPWkxESjhieUliTTVCN2pscG9FLVY3WWNMY0dfWGE0NHE0UW4wQmp3?oc=5",
+      "publishedAt": "2026-09-02T11:39:58.000Z",
+      "summary": "Chelsea flop Mykhailo Mudryk speaks out after sealing dramatic Tottenham transfer move to reunite with Roberto De Zerbi in double Stamford Bridge raid &nbsp;&nbsp; Goal.com",
+      "sourceKey": "tottenham-transfer-news-monitor",
+      "sourceName": "Tottenham transfer news monitor",
       "status": "업데이트"
     },
     {
@@ -2011,6 +2011,16 @@
       "sourceKey": "premier-league-transfer-monitor",
       "sourceName": "Premier League transfer monitor",
       "status": "업데이트"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA0Rk9WQXhKWGVGeFRzYUJiM2trOTlVc0FjODEwTVd1SEc1dl92VmNNNC1aZ2M0b1FpeUJSN013M3B1UnZyMFhIeFVNSjJ6TUNzb2VuRkJMUkRmdkp2TEYyRUtUNTMybWs?oc=5",
+      "title": "Swansea City transfer news: Manchester City winger Jeremy Monga joins on loan - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA0Rk9WQXhKWGVGeFRzYUJiM2trOTlVc0FjODEwTVd1SEc1dl92VmNNNC1aZ2M0b1FpeUJSN013M3B1UnZyMFhIeFVNSjJ6TUNzb2VuRkJMUkRmdkp2TEYyRUtUNTMybWs?oc=5",
+      "publishedAt": "2026-09-02T09:01:18.000Z",
+      "summary": "Swansea City transfer news: Manchester City winger Jeremy Monga joins on loan &nbsp;&nbsp; BBC",
+      "sourceKey": "global-transfer-monitor",
+      "sourceName": "Global transfer news monitor",
+      "status": "완료"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNd2Q4X3VaSk1RcmtqNWE5Yy1XcXVsQWtYUmZ6SjktMHl5bV9RQ1lMQzFWSFlIMXBJLXlqWHlqbFJEaUZXMWJpd0NrVjRYYmdxZmZ4WW5FaUxnMEJCc01DWHUtNFluT2xtLVBsWW5uejNkVkNmWm05Sy1IWEZVZGFMVEVBMzltQWtRbEZZVEZxbzNmUQ?oc=5",
@@ -2224,10 +2234,10 @@
     },
     {
       "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxOM296cDJIemc4cEc4bDhRUFM4ZVpWUU0yM1lJTUY1aW5YQjFIZzN5QjhlS3B5WnVBVlJKN3pMNzFOSjZ6Vlk3MFlPN2RQUEhxTlpuQkVCWTBjbExFS2FiSFJ3aXg5TFg0a0tRODFTdWFoeGt1T05aVmtBcDRjYVNZdWRlRUs1Sm40N3ZlVW5Jc3dUMGttdUdyVGhvQm1rQQ?oc=5",
-      "title": "Every Premier League club’s transfer window ranked - telegraph.co.uk",
+      "title": "Every Premier League club’s transfer window ranked - The Telegraph",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOM296cDJIemc4cEc4bDhRUFM4ZVpWUU0yM1lJTUY1aW5YQjFIZzN5QjhlS3B5WnVBVlJKN3pMNzFOSjZ6Vlk3MFlPN2RQUEhxTlpuQkVCWTBjbExFS2FiSFJ3aXg5TFg0a0tRODFTdWFoeGt1T05aVmtBcDRjYVNZdWRlRUs1Sm40N3ZlVW5Jc3dUMGttdUdyVGhvQm1rQQ?oc=5",
       "publishedAt": "2026-09-02T05:00:00.000Z",
-      "summary": "Every Premier League club’s transfer window ranked &nbsp;&nbsp; telegraph.co.uk",
+      "summary": "Every Premier League club’s transfer window ranked &nbsp;&nbsp; The Telegraph",
       "sourceKey": "mike-mcgrath-monitor",
       "sourceName": "Mike McGrath monitor",
       "status": "업데이트"
@@ -2414,10 +2424,10 @@
     },
     {
       "id": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNSUJwUE1iWkRVZHA4ODVHbTBIbTdSdlZ5MmFMOUd5RVdGNG83UXE1SF9DeUlMZXBfai1JN1I0TEx1REpDblc4Nm9tMGlEOHp0N1luLWp0a2kxTTVqQjRTNnNQMEhIamlFQm9TTDM0Uzk3alJfdDUyejN3UC1NWGJLVEtfaDVYamN4RTlTeERQR01TdFBBTWxWbHlHZjVNSGVjaVFpMUZvYlhmanZzSWxHdnZ6ZTRGYzJPRjJBYi1jM3U3aExRNENGcVNock1ERjZRNFNodWUxQnN2QkdNam0tNXRB?oc=5",
-      "title": "Transfer deadline day recap: Everton fail with Balogun deal, Enzo signs for Man City - ESPN",
+      "title": "Transfer deadline day recap: Everton fail with Balogun deal, Enzo signs for Man City - espn.com",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNSUJwUE1iWkRVZHA4ODVHbTBIbTdSdlZ5MmFMOUd5RVdGNG83UXE1SF9DeUlMZXBfai1JN1I0TEx1REpDblc4Nm9tMGlEOHp0N1luLWp0a2kxTTVqQjRTNnNQMEhIamlFQm9TTDM0Uzk3alJfdDUyejN3UC1NWGJLVEtfaDVYamN4RTlTeERQR01TdFBBTWxWbHlHZjVNSGVjaVFpMUZvYlhmanZzSWxHdnZ6ZTRGYzJPRjJBYi1jM3U3aExRNENGcVNock1ERjZRNFNodWUxQnN2QkdNam0tNXRB?oc=5",
       "publishedAt": "2026-09-01T23:00:00.000Z",
-      "summary": "Transfer deadline day recap: Everton fail with Balogun deal, Enzo signs for Man City &nbsp;&nbsp; ESPN",
+      "summary": "Transfer deadline day recap: Everton fail with Balogun deal, Enzo signs for Man City &nbsp;&nbsp; espn.com",
       "sourceKey": "premier-league-transfer-monitor",
       "sourceName": "Premier League transfer monitor",
       "status": "완료"
@@ -2454,10 +2464,10 @@
     },
     {
       "id": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQd1lBQWl3aDhreHdxb0dSdWRXa1VjRE9QNWxnTDhwMEQ1WXVuYVctZTFkMUkyRFVva1M3d0N6MF9lSW9aWk1kcVlHQnVjTFY3UE9fbHl3aHZkMXI1b0c5VXQ1ZENLSTdZekVmU2c0VEh6YlY2eVlxYTl3VzM2X1RrSWp1N1V2N2xpVmdrS1BUZlc1SWhXQVNBU1VXSjNZWHpYSEU5MVJZS3ZPTmd1R0tCXzV5cWF5YU5pYXNUaw?oc=5",
-      "title": "Man City sign Enzo Fernández from Chelsea for joint-record fee - ESPN",
+      "title": "Man City sign Enzo Fernández from Chelsea for joint-record fee - espn.com",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQd1lBQWl3aDhreHdxb0dSdWRXa1VjRE9QNWxnTDhwMEQ1WXVuYVctZTFkMUkyRFVva1M3d0N6MF9lSW9aWk1kcVlHQnVjTFY3UE9fbHl3aHZkMXI1b0c5VXQ1ZENLSTdZekVmU2c0VEh6YlY2eVlxYTl3VzM2X1RrSWp1N1V2N2xpVmdrS1BUZlc1SWhXQVNBU1VXSjNZWHpYSEU5MVJZS3ZPTmd1R0tCXzV5cWF5YU5pYXNUaw?oc=5",
       "publishedAt": "2026-09-01T22:40:00.000Z",
-      "summary": "Man City sign Enzo Fernández from Chelsea for joint-record fee &nbsp;&nbsp; ESPN",
+      "summary": "Man City sign Enzo Fernández from Chelsea for joint-record fee &nbsp;&nbsp; espn.com",
       "sourceKey": "premier-league-transfer-monitor",
       "sourceName": "Premier League transfer monitor",
       "status": "완료"
@@ -2544,10 +2554,10 @@
     },
     {
       "id": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeWl1bVdKWE81NDNUcDZtbC1KR2RSQ0c0anFNOHhzTUk5S1RIMWpZdnJDUHBzeEZZb3plRy1TZVozTkJYeW5xN1VnVXBQV1A2alZtcTJaSTRXaDZoTGpDRzJ6U0c1MnJxd3ZZWXhhb3FNV2Q4S0N4M3ZmcTdZZk9pT0pyTGR6dXRMQXp3NGNWSk9YUkRLTjRlTDRhZExfZzRXaFFET0Jn?oc=5",
-      "title": "Tottenham sign Mykhailo Mudryk, Tosin Adarabioyo in double deal from Chelsea - ESPN",
+      "title": "Tottenham sign Mykhailo Mudryk, Tosin Adarabioyo in double deal from Chelsea - espn.com",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeWl1bVdKWE81NDNUcDZtbC1KR2RSQ0c0anFNOHhzTUk5S1RIMWpZdnJDUHBzeEZZb3plRy1TZVozTkJYeW5xN1VnVXBQV1A2alZtcTJaSTRXaDZoTGpDRzJ6U0c1MnJxd3ZZWXhhb3FNV2Q4S0N4M3ZmcTdZZk9pT0pyTGR6dXRMQXp3NGNWSk9YUkRLTjRlTDRhZExfZzRXaFFET0Jn?oc=5",
       "publishedAt": "2026-09-01T22:10:00.000Z",
-      "summary": "Tottenham sign Mykhailo Mudryk, Tosin Adarabioyo in double deal from Chelsea &nbsp;&nbsp; ESPN",
+      "summary": "Tottenham sign Mykhailo Mudryk, Tosin Adarabioyo in double deal from Chelsea &nbsp;&nbsp; espn.com",
       "sourceKey": "tottenham-transfer-news-monitor",
       "sourceName": "Tottenham transfer news monitor",
       "status": "업데이트"
@@ -2991,16 +3001,6 @@
       "sourceKey": "romano-monitor",
       "sourceName": "Fabrizio Romano 검색 모니터",
       "status": "루머"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUEVNZS1PaG5VdDdNX3hBYUlJb2QwQ3F6UjBvNGR3a2pZcVdPTWFqakR1QllabEppNjFOU1lia3JySUhGRW0tcTJzTy0ySG1BRVRvemNaanI0eWVmUUpNb2F5ZXl4M2VCMUpoNy1URW1pSDdiUk5hNUctaGFlMjBTbkY0NmtzT1dseEQ2WTYxTk1LVUllSExuX3FOQ3RsSXNzWkp5MkMza1BWWG4wWmMySmFR?oc=5",
-      "title": "Agreement with RCD Mallorca for the transfer of Guille Fernández - FC Barcelona",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUEVNZS1PaG5VdDdNX3hBYUlJb2QwQ3F6UjBvNGR3a2pZcVdPTWFqakR1QllabEppNjFOU1lia3JySUhGRW0tcTJzTy0ySG1BRVRvemNaanI0eWVmUUpNb2F5ZXl4M2VCMUpoNy1URW1pSDdiUk5hNUctaGFlMjBTbkY0NmtzT1dseEQ2WTYxTk1LVUllSExuX3FOQ3RsSXNzWkp5MkMza1BWWG4wWmMySmFR?oc=5",
-      "publishedAt": "2026-09-01T18:15:11.000Z",
-      "summary": "Agreement with RCD Mallorca for the transfer of Guille Fernández &nbsp;&nbsp; FC Barcelona",
-      "sourceKey": "official-barcelona-monitor",
-      "sourceName": "Barcelona official-site monitor",
-      "status": "업데이트"
     }
   ],
   "sourceHealth": [
@@ -3072,17 +3072,17 @@
     {
       "source": "Matteo Moretto Google News",
       "ok": true,
-      "count": 46
+      "count": 44
     },
     {
       "source": "Ben Jacobs Google News",
       "ok": true,
-      "count": 83
+      "count": 80
     },
     {
       "source": "Florian Plettenberg Google News",
       "ok": true,
-      "count": 76
+      "count": 70
     },
     {
       "source": "Kaveh Solhekol Google News",
@@ -3092,7 +3092,7 @@
     {
       "source": "Santi Aouna Google News",
       "ok": true,
-      "count": 64
+      "count": 65
     },
     {
       "source": "Tom Barclay Google News",
@@ -3112,7 +3112,7 @@
     {
       "source": "James Pearce Google News",
       "ok": true,
-      "count": 48
+      "count": 49
     },
     {
       "source": "Laurie Whitwell Google News",
@@ -3142,12 +3142,12 @@
     {
       "source": "Paul Joyce Google News",
       "ok": true,
-      "count": 45
+      "count": 46
     },
     {
       "source": "Fabrice Hawkins Google News",
       "ok": true,
-      "count": 45
+      "count": 44
     },
     {
       "source": "Miguel Delaney Google News",
@@ -3172,12 +3172,12 @@
     {
       "source": "David Ornstein Instagram mentions",
       "ok": true,
-      "count": 85
+      "count": 86
     },
     {
       "source": "Matteo Moretto Instagram mentions",
       "ok": true,
-      "count": 72
+      "count": 71
     },
     {
       "source": "Santi Aouna Instagram mentions",
@@ -3192,7 +3192,7 @@
     {
       "source": "Barcelona official-site monitor",
       "ok": true,
-      "count": 97
+      "count": 98
     },
     {
       "source": "Real Madrid official-site monitor",
@@ -3202,12 +3202,12 @@
     {
       "source": "Bayern official-site monitor",
       "ok": true,
-      "count": 53
+      "count": 46
     },
     {
       "source": "Manchester City official-site monitor",
       "ok": true,
-      "count": 55
+      "count": 56
     },
     {
       "source": "Manchester United official-site monitor",
@@ -3242,7 +3242,7 @@
     {
       "source": "Charlie Eccleshare Tottenham monitor",
       "ok": true,
-      "count": 24
+      "count": 22
     },
     {
       "source": "Jack Pitt-Brooke Tottenham monitor",
@@ -3257,7 +3257,7 @@
     {
       "source": "Football.London Tottenham monitor",
       "ok": true,
-      "count": 82
+      "count": 81
     },
     {
       "source": "The Standard Tottenham monitor",
@@ -3272,7 +3272,7 @@
     {
       "source": "Sky Sports Tottenham monitor",
       "ok": true,
-      "count": 78
+      "count": 79
     },
     {
       "source": "X API direct monitor",
