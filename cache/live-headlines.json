@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-05T01:51:44.767Z",
+  "fetchedAt": "2026-09-05T02:00:08.777Z",
   "itemCount": 300,
   "items": [
     {
@@ -743,16 +743,6 @@
       "status": "업데이트"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYUpwUkdtQ1B2VEppRFczMFVCSWZBdlIxT1RJMUhFeGRpTmc3akdJLWJld0xsekNHZWRpbEkyOHFHaEhPcl8wb0FnSWcyWFJkREJhbWQzbGpmdzJ5RkpjWklwSGM1dlJHSnhLZklvT25pdUdJUC1VOXNxY2ttUUZ5c3VQUFNYVVpNTlBSY2xvQmk0YWV0RENqUVcxNWhiN1lJMnhCTWhvc0tfX0k?oc=5",
-      "title": "Who is Andria Bartishvili? Arsenal book medical for 'new Kvaratskhelia' - standard.co.uk",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYUpwUkdtQ1B2VEppRFczMFVCSWZBdlIxT1RJMUhFeGRpTmc3akdJLWJld0xsekNHZWRpbEkyOHFHaEhPcl8wb0FnSWcyWFJkREJhbWQzbGpmdzJ5RkpjWklwSGM1dlJHSnhLZklvT25pdUdJUC1VOXNxY2ttUUZ5c3VQUFNYVVpNTlBSY2xvQmk0YWV0RENqUVcxNWhiN1lJMnhCTWhvc0tfX0k?oc=5",
-      "publishedAt": "2026-09-04T11:15:27.000Z",
-      "summary": "Who is Andria Bartishvili? Arsenal book medical for 'new Kvaratskhelia' &nbsp;&nbsp; standard.co.uk",
-      "sourceKey": "global-transfer-monitor",
-      "sourceName": "Global transfer news monitor",
-      "status": "업데이트"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMidkFVX3lxTE14Y2JlZTlfcU5RRXNWeTZjWFN5NHJwNTNiRGhaMWc5eXp4S3ROR20zX2J5QksydEJyZkRsa2FWRlhMWVcwZmdkV0doSDJXQ1VQcU1vZk14aFlta09DQ3ZvQUFrdHBWQ01GZWJGQTNZVzAxcjlQY2c?oc=5",
       "title": "Arsenal line up four transfers worth £14.5m - Football365",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE14Y2JlZTlfcU5RRXNWeTZjWFN5NHJwNTNiRGhaMWc5eXp4S3ROR20zX2J5QksydEJyZkRsa2FWRlhMWVcwZmdkV0doSDJXQ1VQcU1vZk14aFlta09DQ3ZvQUFrdHBWQ01GZWJGQTNZVzAxcjlQY2c?oc=5",
@@ -961,6 +951,16 @@
       "sourceKey": "global-transfer-monitor",
       "sourceName": "Global transfer news monitor",
       "status": "루머"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYUpwUkdtQ1B2VEppRFczMFVCSWZBdlIxT1RJMUhFeGRpTmc3akdJLWJld0xsekNHZWRpbEkyOHFHaEhPcl8wb0FnSWcyWFJkREJhbWQzbGpmdzJ5RkpjWklwSGM1dlJHSnhLZklvT25pdUdJUC1VOXNxY2ttUUZ5c3VQUFNYVVpNTlBSY2xvQmk0YWV0RENqUVcxNWhiN1lJMnhCTWhvc0tfX0k?oc=5",
+      "title": "Who is Andria Bartishvili? Arsenal book medical for 'new Kvaratskhelia' - standard.co.uk",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYUpwUkdtQ1B2VEppRFczMFVCSWZBdlIxT1RJMUhFeGRpTmc3akdJLWJld0xsekNHZWRpbEkyOHFHaEhPcl8wb0FnSWcyWFJkREJhbWQzbGpmdzJ5RkpjWklwSGM1dlJHSnhLZklvT25pdUdJUC1VOXNxY2ttUUZ5c3VQUFNYVVpNTlBSY2xvQmk0YWV0RENqUVcxNWhiN1lJMnhCTWhvc0tfX0k?oc=5",
+      "publishedAt": "2026-09-04T01:51:28.000Z",
+      "summary": "Who is Andria Bartishvili? Arsenal book medical for 'new Kvaratskhelia' &nbsp;&nbsp; standard.co.uk",
+      "sourceKey": "global-transfer-monitor",
+      "sourceName": "Global transfer news monitor",
+      "status": "업데이트"
     },
     {
       "id": "https://www.bbc.co.uk/sport/football/articles/c70l5nrrj02o?at_medium=RSS&at_campaign=rss",
@@ -1283,6 +1283,16 @@
       "status": "루머"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMzVTWkEtbWFRRW8yX0twTFNGVDhwb2tscVR2NFZQdTdGaVlVZEdXM1ozXzc2ZnhOWmNyVHFNMHljQ19lMy1HeUFTZGRTTGo3UDJiY1hjRTJMU3pPUng3b0JQWHZyVzlCaWZ0aFBNY0ViMFNBSTdsYy0xdlRaMjZ3allTMGxzdnNrSGcybzJQUUpPemdSWHp2SmxrSzdTRHNhQkk1b0hyZnZGMzR2V25RUlhwUUlacm92bHc?oc=5",
+      "title": "Laurie Whitwell provides a key transfer update on Man Utd striker Joshua Zirkzee - United In Focus",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMzVTWkEtbWFRRW8yX0twTFNGVDhwb2tscVR2NFZQdTdGaVlVZEdXM1ozXzc2ZnhOWmNyVHFNMHljQ19lMy1HeUFTZGRTTGo3UDJiY1hjRTJMU3pPUng3b0JQWHZyVzlCaWZ0aFBNY0ViMFNBSTdsYy0xdlRaMjZ3allTMGxzdnNrSGcybzJQUUpPemdSWHp2SmxrSzdTRHNhQkk1b0hyZnZGMzR2V25RUlhwUUlacm92bHc?oc=5",
+      "publishedAt": "2026-09-03T16:51:25.000Z",
+      "summary": "Laurie Whitwell provides a key transfer update on Man Utd striker Joshua Zirkzee &nbsp;&nbsp; United In Focus",
+      "sourceKey": "laurie-whitwell-monitor",
+      "sourceName": "Laurie Whitwell monitor",
+      "status": "업데이트"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOWx6eE1EWkd3N3FfY2g2eF9tLVZ4Vjl4Yy03T2hkWGh0Sjc1S3NDUE8xZkFMR29DZ0VRZkczSnFGbkhnaUFSWlpBRGRIWVpxTXpZQl93S25Ial9hZUktQjA3aUl0VDFRaGJqR3BITHVGcDcyTEoyY01qeGlQVWVSZ1NKamVxbHBvYzFiaC1EQzAtNDMzLUhNUVA2eEQ?oc=5",
       "title": "Ranking all 155 Premier League transfers in the 2026 summer window from worst to best - The Athletic - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOWx6eE1EWkd3N3FfY2g2eF9tLVZ4Vjl4Yy03T2hkWGh0Sjc1S3NDUE8xZkFMR29DZ0VRZkczSnFGbkhnaUFSWlpBRGRIWVpxTXpZQl93S25Ial9hZUktQjA3aUl0VDFRaGJqR3BITHVGcDcyTEoyY01qeGlQVWVSZ1NKamVxbHBvYzFiaC1EQzAtNDMzLUhNUVA2eEQ?oc=5",
@@ -1314,10 +1324,10 @@
     },
     {
       "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVlJkR29fZ1U1cWZ3di1YRWlYcXZKUkNvNWl2UjhmRUpnMkZwbDZ5U2JpbVNkM0I2WE42WUJzaDhWcm5MamhQVWpqYUoyWTRWM2FmS3JPX0ZGckwxSW1mR3lPeENZZzVNQ1BtVE9VY2xWaWhqbDJlQ2s4V1hKX0N1RG1uZEFfWmp1Z1gyejRXNEpNZDE1QmlTV01oczhtMGZ5ZmJjbXJ2QdIBrAFBVV95cUxPN0FVMVVYTDIxdFNYSE9NOTVFenVUSldzcTJCQ2JoSUQ0dlZsbFpWSmdDRUROc2Z6Vm1mMWlxbnhhMGVhUjJNRWx0R2E2UG1ZakZkRTJaWjVOaGcwVWRQekVURmlvODV3bEpib2JEUUI5RHdMQXVROFE0RnhkeFgxemhtUW9UYVowY0FHLV9zeVNDdElraXRSRXgyV0pWb01PYy1yLUl1RDYwUlQt?oc=5",
-      "title": "Arsenal confirm £60m Gabriel Martinelli transfer as star exits in record deal - Daily Mirror",
+      "title": "Arsenal confirm £60m Gabriel Martinelli transfer as star exits in record deal - The Mirror",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVlJkR29fZ1U1cWZ3di1YRWlYcXZKUkNvNWl2UjhmRUpnMkZwbDZ5U2JpbVNkM0I2WE42WUJzaDhWcm5MamhQVWpqYUoyWTRWM2FmS3JPX0ZGckwxSW1mR3lPeENZZzVNQ1BtVE9VY2xWaWhqbDJlQ2s4V1hKX0N1RG1uZEFfWmp1Z1gyejRXNEpNZDE1QmlTV01oczhtMGZ5ZmJjbXJ2QdIBrAFBVV95cUxPN0FVMVVYTDIxdFNYSE9NOTVFenVUSldzcTJCQ2JoSUQ0dlZsbFpWSmdDRUROc2Z6Vm1mMWlxbnhhMGVhUjJNRWx0R2E2UG1ZakZkRTJaWjVOaGcwVWRQekVURmlvODV3bEpib2JEUUI5RHdMQXVROFE0RnhkeFgxemhtUW9UYVowY0FHLV9zeVNDdElraXRSRXgyV0pWb01PYy1yLUl1RDYwUlQt?oc=5",
       "publishedAt": "2026-09-03T16:34:00.000Z",
-      "summary": "Arsenal confirm £60m Gabriel Martinelli transfer as star exits in record deal &nbsp;&nbsp; Daily Mirror",
+      "summary": "Arsenal confirm £60m Gabriel Martinelli transfer as star exits in record deal &nbsp;&nbsp; The Mirror",
       "sourceKey": "global-transfer-monitor",
       "sourceName": "Global transfer news monitor",
       "status": "업데이트"
@@ -1364,10 +1374,10 @@
     },
     {
       "id": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdW9UNklELUFabVJJa0JSc2NqR0JDSHdvSEJQRUFhU2FyZG1jLVluVXplUWRKbjVBc3hLd21RenhMdDJMdmxtQnUxWERJbXNtR3dPNzFxNjRUZ1NuNEJOZnU2NmtuY2FfQlh2UFlsS0V4TnAyQy1fUEVtUjk5cTJaLXVJTENPLVN1Tk9sMzZvZVpUVlc1QUFhMEswckvSAaIBQVVfeXFMTlFSMF9fVTVNVG5ySjlWTGttcEs0dXlZbVRyb1I4QzByWk1KWF9XMFZ2TktkLXpsNHJkUDZFZ2ExNGpwMXI5TlBJZGVPNlNneWdpNzRUQXJKbFVmMExiWW9tcWQxU0JfUGxUTlNObkNMeW5QX2FjN3hZMUhtVHhvX3Y1YWd0NEh1dWR2MW9KM2VQWVFTT3ZmSTFIREM1M3NZbWFB?oc=5",
-      "title": "Arsenal medical underway with third Gunners signing already lined up for 2027 - Daily Mirror",
+      "title": "Arsenal medical underway with third Gunners signing already lined up for 2027 - The Mirror",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdW9UNklELUFabVJJa0JSc2NqR0JDSHdvSEJQRUFhU2FyZG1jLVluVXplUWRKbjVBc3hLd21RenhMdDJMdmxtQnUxWERJbXNtR3dPNzFxNjRUZ1NuNEJOZnU2NmtuY2FfQlh2UFlsS0V4TnAyQy1fUEVtUjk5cTJaLXVJTENPLVN1Tk9sMzZvZVpUVlc1QUFhMEswckvSAaIBQVVfeXFMTlFSMF9fVTVNVG5ySjlWTGttcEs0dXlZbVRyb1I4QzByWk1KWF9XMFZ2TktkLXpsNHJkUDZFZ2ExNGpwMXI5TlBJZGVPNlNneWdpNzRUQXJKbFVmMExiWW9tcWQxU0JfUGxUTlNObkNMeW5QX2FjN3hZMUhtVHhvX3Y1YWd0NEh1dWR2MW9KM2VQWVFTT3ZmSTFIREM1M3NZbWFB?oc=5",
       "publishedAt": "2026-09-03T16:14:00.000Z",
-      "summary": "Arsenal medical underway with third Gunners signing already lined up for 2027 &nbsp;&nbsp; Daily Mirror",
+      "summary": "Arsenal medical underway with third Gunners signing already lined up for 2027 &nbsp;&nbsp; The Mirror",
       "sourceKey": "global-transfer-monitor",
       "sourceName": "Global transfer news monitor",
       "status": "업데이트"
@@ -1844,10 +1854,10 @@
     },
     {
       "id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOczFERzkySmdpWVRLdy0zcDRlN2MtakI4S3ctNEV6bHhrY2tpSWFVMW96RkQ5bXhjeVRCUjNiU25oQ3JnclQzQkZESVB0dmZ4ZDNSRWxNWU8xTkZjSl9RYldLWWlaR015WjVQOGQ4SlNUMUJWSDRFM19FWEhnTlg5YVFCdlYzci1Tb0lHdFd1YmNDcXVfR29VNEpIVTNpNTjSAaQBQVVfeXFMT2stQUlLY0dqcWp1TC1qLU40R29yNDdDWkc5cHZaNWV2ZlVTQXlIalRuTE9PTUlrcXRHTmw1MFBiRWtjcUpCUFZ0YVBIRlV2aG05VFJKaXNPbkRGbEFCMDFCTUk3bHVYSEtoNjFjVkdjTzE2dHhfRk5DMjA5eWVWNjBwN3V1M0t2VVNYZnZYaU9wQkFRUldWRkZGbXJSTHBDZzNXNVY?oc=5",
-      "title": "Arsenal news: New signing flies in for medical as £60million transfer nears completion - Daily Mirror",
+      "title": "Arsenal news: New signing flies in for medical as £60million transfer nears completion - The Mirror",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOczFERzkySmdpWVRLdy0zcDRlN2MtakI4S3ctNEV6bHhrY2tpSWFVMW96RkQ5bXhjeVRCUjNiU25oQ3JnclQzQkZESVB0dmZ4ZDNSRWxNWU8xTkZjSl9RYldLWWlaR015WjVQOGQ4SlNUMUJWSDRFM19FWEhnTlg5YVFCdlYzci1Tb0lHdFd1YmNDcXVfR29VNEpIVTNpNTjSAaQBQVVfeXFMT2stQUlLY0dqcWp1TC1qLU40R29yNDdDWkc5cHZaNWV2ZlVTQXlIalRuTE9PTUlrcXRHTmw1MFBiRWtjcUpCUFZ0YVBIRlV2aG05VFJKaXNPbkRGbEFCMDFCTUk3bHVYSEtoNjFjVkdjTzE2dHhfRk5DMjA5eWVWNjBwN3V1M0t2VVNYZnZYaU9wQkFRUldWRkZGbXJSTHBDZzNXNVY?oc=5",
       "publishedAt": "2026-09-03T03:00:00.000Z",
-      "summary": "Arsenal news: New signing flies in for medical as £60million transfer nears completion &nbsp;&nbsp; Daily Mirror",
+      "summary": "Arsenal news: New signing flies in for medical as £60million transfer nears completion &nbsp;&nbsp; The Mirror",
       "sourceKey": "global-transfer-monitor",
       "sourceName": "Global transfer news monitor",
       "status": "업데이트"
@@ -2370,6 +2380,16 @@
       "summary": "Premier League sets new record for transfer spending &nbsp;&nbsp; ESPN",
       "sourceKey": "premier-league-transfer-monitor",
       "sourceName": "Premier League transfer monitor",
+      "status": "업데이트"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObHhGTWF1X3VyMkRxWlFaUktxZjlwaVpJaDc0U1RuaGI3YzRPNTZ3M3hFSWJtYk1nUk5SU0RvRGVzeUhyWkNfVFRlbHNiRThnXzd3cGpnU2xjZjhkcU1vUHB1Ylk0UUJ0TF9zXzgxYkYtRk9yeWxtcmwxQXA1aEZNSWRsNTFXWG9XcDV0REFDWWJkeGFkcHNWU3hPZ2RiU1JUMVRrQjYxTS11ekU?oc=5",
+      "title": "Man Utd already plotting 2027 DOUBLE signing as Whitwell confirms advanced talks - TEAMtalk",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObHhGTWF1X3VyMkRxWlFaUktxZjlwaVpJaDc0U1RuaGI3YzRPNTZ3M3hFSWJtYk1nUk5SU0RvRGVzeUhyWkNfVFRlbHNiRThnXzd3cGpnU2xjZjhkcU1vUHB1Ylk0UUJ0TF9zXzgxYkYtRk9yeWxtcmwxQXA1aEZNSWRsNTFXWG9XcDV0REFDWWJkeGFkcHNWU3hPZ2RiU1JUMVRrQjYxTS11ekU?oc=5",
+      "publishedAt": "2026-09-02T10:40:31.000Z",
+      "summary": "Man Utd already plotting 2027 DOUBLE signing as Whitwell confirms advanced talks &nbsp;&nbsp; TEAMtalk",
+      "sourceKey": "laurie-whitwell-monitor",
+      "sourceName": "Laurie Whitwell monitor",
       "status": "업데이트"
     },
     {
@@ -2981,26 +3001,6 @@
       "sourceKey": "tottenham-transfer-news-monitor",
       "sourceName": "Tottenham transfer news monitor",
       "status": "업데이트"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQa0RiVHNicjZEUEFpM2x0MEs4QXp3MHBYLWRHUUgwZzluc281Y3FWZjh1SFo1dWxGWWJndTRkWGFvUnVFMTBOcE1ValE1Ni1PcXp2LTFEQ0g5amlDcDdEVXlrOWswczA2YU1JRzZ0T2I2RG13c1FLOUhLbzhrZENmenlqTnFNOGgxTDJKZHJFS3FoaXhpMWd0eWhpMlQ5d1p3ZmdJMUFVZw?oc=5",
-      "title": "Full confirmed list of 54 Tottenham ins and outs for summer transfer window with £469m bill - Football London",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQa0RiVHNicjZEUEFpM2x0MEs4QXp3MHBYLWRHUUgwZzluc281Y3FWZjh1SFo1dWxGWWJndTRkWGFvUnVFMTBOcE1ValE1Ni1PcXp2LTFEQ0g5amlDcDdEVXlrOWswczA2YU1JRzZ0T2I2RG13c1FLOUhLbzhrZENmenlqTnFNOGgxTDJKZHJFS3FoaXhpMWd0eWhpMlQ5d1p3ZmdJMUFVZw?oc=5",
-      "publishedAt": "2026-09-01T22:02:09.000Z",
-      "summary": "Full confirmed list of 54 Tottenham ins and outs for summer transfer window with £469m bill &nbsp;&nbsp; Football London",
-      "sourceKey": "tottenham-transfer-news-monitor",
-      "sourceName": "Tottenham transfer news monitor",
-      "status": "완료"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNc2trSE16U0pieVhodjByTE9HWkpZSUttbEprRU5nWXlEMTY0aS1XdGtTMkN1ZVU2TVNab0c4SjQ3SXBraWFoSmh3Z0wtZnM3OUJiZFlDQm5jYXlab2tzaHd0OXNablZZM2ExMEgtaXRKMlgyTmxYVnQzeGJPZmxDUTRKS2E5SVJnVUF6WWg3MHhWR2QxN2lVMVZ2STQ?oc=5",
-      "title": "Tosin Adarabioyo departs on permanent transfer | News | Official Site - Chelsea Football Club",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNc2trSE16U0pieVhodjByTE9HWkpZSUttbEprRU5nWXlEMTY0aS1XdGtTMkN1ZVU2TVNab0c4SjQ3SXBraWFoSmh3Z0wtZnM3OUJiZFlDQm5jYXlab2tzaHd0OXNablZZM2ExMEgtaXRKMlgyTmxYVnQzeGJPZmxDUTRKS2E5SVJnVUF6WWg3MHhWR2QxN2lVMVZ2STQ?oc=5",
-      "publishedAt": "2026-09-01T21:59:12.000Z",
-      "summary": "Tosin Adarabioyo departs on permanent transfer | News | Official Site &nbsp;&nbsp; Chelsea Football Club",
-      "sourceKey": "official-chelsea-monitor",
-      "sourceName": "Chelsea official-site monitor",
-      "status": "완료"
     }
   ],
   "sourceHealth": [
@@ -3097,7 +3097,7 @@
     {
       "source": "Tom Barclay Google News",
       "ok": true,
-      "count": 35
+      "count": 38
     },
     {
       "source": "Sami Mokbel Google News",
@@ -3112,17 +3112,17 @@
     {
       "source": "James Pearce Google News",
       "ok": true,
-      "count": 52
+      "count": 50
     },
     {
       "source": "Laurie Whitwell Google News",
       "ok": true,
-      "count": 43
+      "count": 49
     },
     {
       "source": "Simon Stone Google News",
       "ok": true,
-      "count": 41
+      "count": 39
     },
     {
       "source": "Rob Dawson Google News",
@@ -3242,12 +3242,12 @@
     {
       "source": "Charlie Eccleshare Tottenham monitor",
       "ok": true,
-      "count": 27
+      "count": 26
     },
     {
       "source": "Jack Pitt-Brooke Tottenham monitor",
       "ok": true,
-      "count": 27
+      "count": 18
     },
     {
       "source": "James Maw Tottenham monitor",
