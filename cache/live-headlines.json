@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-06T09:43:02.802Z",
+  "fetchedAt": "2026-09-06T09:51:49.546Z",
   "itemCount": 300,
   "items": [
     {
@@ -1244,10 +1244,10 @@
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZE9OOWRwZ3lJd2gtWmtzQU9Bd1FLUVBuRGJadm54NFNXT1h0SW41UTFjTllRVFJwdlZhWWFsUHQyMWpORXFVeUk0Wk1JQTgxUERyd19YU2NmRmZhcGtaWmhEVy1aalgtVWg2SUFYMThYZ3FLQjBiMFp6OHl0bXlQSFdabkl5MmRfYjM0bzBLQms3VlN2U0Y4NXRUOXdobEQxTlNjQW1rbFFtdlk?oc=5",
-      "title": "Premier League Transfer Tracker: Every deal from the summer window - theScore",
+      "title": "Premier League Transfer Tracker: Every deal from the summer window - thescore.com",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZE9OOWRwZ3lJd2gtWmtzQU9Bd1FLUVBuRGJadm54NFNXT1h0SW41UTFjTllRVFJwdlZhWWFsUHQyMWpORXFVeUk0Wk1JQTgxUERyd19YU2NmRmZhcGtaWmhEVy1aalgtVWg2SUFYMThYZ3FLQjBiMFp6OHl0bXlQSFdabkl5MmRfYjM0bzBLQms3VlN2U0Y4NXRUOXdobEQxTlNjQW1rbFFtdlk?oc=5",
       "publishedAt": "2026-09-03T18:05:51.000Z",
-      "summary": "Premier League Transfer Tracker: Every deal from the summer window &nbsp;&nbsp; theScore",
+      "summary": "Premier League Transfer Tracker: Every deal from the summer window &nbsp;&nbsp; thescore.com",
       "sourceKey": "premier-league-transfer-monitor",
       "sourceName": "Premier League transfer monitor",
       "status": "업데이트"
@@ -2943,16 +2943,6 @@
       "status": "완료"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTE85RVVTNl9uNF9KVW01c193bHR4WEd6SVRDZWtqVWtaZWQ4WExUaHU4eDdGOTFXZEgySGNnUXdUaFhLUnZtenJoSXhXZW5TSjN3RFU3ZGhMVmdvZnp6WE02My1ycUZwZS1MaVphb1M2dE4yZFYtamZQb1NoYw?oc=5",
-      "title": "Ndiaye signs for City - Manchester City FC",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE85RVVTNl9uNF9KVW01c193bHR4WEd6SVRDZWtqVWtaZWQ4WExUaHU4eDdGOTFXZEgySGNnUXdUaFhLUnZtenJoSXhXZW5TSjN3RFU3ZGhMVmdvZnp6WE02My1ycUZwZS1MaVphb1M2dE4yZFYtamZQb1NoYw?oc=5",
-      "publishedAt": "2026-09-01T20:00:00.000Z",
-      "summary": "Ndiaye signs for City &nbsp;&nbsp; Manchester City FC",
-      "sourceKey": "official-man-city-monitor",
-      "sourceName": "Manchester City official-site monitor",
-      "status": "완료"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QeEE4WlllajBOeXJFUnQ1MDRYd0c5MGo0VnVHZGV1UW40a3BqNnl0SzRwZGhkT0ZpLWZvUWxxWmlvNThnUXNqLUtReG5aUUdpR1ZuMjVJT3hVYjFiVWctRVFtM2tJLUE?oc=5",
       "title": "George Abbott: Tottenham midfielder rejoins Mansfield Town on loan - bbc.com",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QeEE4WlllajBOeXJFUnQ1MDRYd0c5MGo0VnVHZGV1UW40a3BqNnl0SzRwZGhkT0ZpLWZvUWxxWmlvNThnUXNqLUtReG5aUUdpR1ZuMjVJT3hVYjFiVWctRVFtM2tJLUE?oc=5",
@@ -3000,6 +2990,16 @@
       "summary": "Sunderland sign Tottenham’s Kevin Danso on loan with obligation to buy &nbsp;&nbsp; The New York Times",
       "sourceKey": "ornstein-monitor",
       "sourceName": "David Ornstein 검색 모니터",
+      "status": "업데이트"
+    },
+    {
+      "id": "bluesky:at://did:plc:j62szermx6ods7lp3xqyembx/app.bsky.feed.post/3mui4la5a7k2q",
+      "title": "🚨 Sunderland complete signing of Kevin Danso from Tottenham Hotspur. Package for 27yo #THFC centre-back loan at £2.5m with £22.25m obligation to buy based on #SAFC retaining Premier League place. Medical done & 4yr contract upon permanent 🚨 @theathleticfc.bsky.social www.nytimes.com/athletic/755...",
+      "url": "https://bsky.app/profile/david-ornstein.bsky.social/post/3mui4la5a7k2q",
+      "publishedAt": "2026-09-01T19:07:47.406Z",
+      "summary": "Bluesky @david-ornstein.bsky.social 공개 게시물",
+      "sourceKey": "bluesky-ornstein",
+      "sourceName": "David Ornstein Bluesky",
       "status": "업데이트"
     }
   ],
@@ -3057,7 +3057,7 @@
     {
       "source": "David Ornstein Google News",
       "ok": true,
-      "count": 87
+      "count": 86
     },
     {
       "source": "The Athletic Google News",
@@ -3072,7 +3072,7 @@
     {
       "source": "Matteo Moretto Google News",
       "ok": true,
-      "count": 45
+      "count": 43
     },
     {
       "source": "Ben Jacobs Google News",
@@ -3097,7 +3097,7 @@
     {
       "source": "Tom Barclay Google News",
       "ok": true,
-      "count": 36
+      "count": 34
     },
     {
       "source": "Sami Mokbel Google News",
@@ -3117,7 +3117,7 @@
     {
       "source": "Laurie Whitwell Google News",
       "ok": true,
-      "count": 41
+      "count": 42
     },
     {
       "source": "Simon Stone Google News",
@@ -3127,7 +3127,7 @@
     {
       "source": "Rob Dawson Google News",
       "ok": true,
-      "count": 29
+      "count": 15
     },
     {
       "source": "Mark Ogden Google News",
@@ -3207,7 +3207,7 @@
     {
       "source": "Manchester City official-site monitor",
       "ok": true,
-      "count": 59
+      "count": 58
     },
     {
       "source": "Manchester United official-site monitor",
