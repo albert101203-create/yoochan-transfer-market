@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-06T20:51:13.715Z",
+  "fetchedAt": "2026-09-06T20:59:34.425Z",
   "itemCount": 300,
   "items": [
     {
@@ -121,6 +121,26 @@
       "sourceKey": "official-tottenham-monitor",
       "sourceName": "Tottenham official-site monitor",
       "status": "업데이트"
+    },
+    {
+      "id": "https://www.bbc.co.uk/sport/football/articles/cj3dj6djrd3o?at_medium=RSS&at_campaign=rss",
+      "title": "Chelsea plot early move for Scott - Monday's gossip",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cj3dj6djrd3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-06T20:54:40.000Z",
+      "summary": "Chelsea plot early move for Bournemouth midfielder Alex Scott, Chelsea winger Pedro Neto attracts interest, and Manchester United and Newcastle United inquire about Christopher Nkunku.",
+      "sourceKey": "bbc-sport",
+      "sourceName": "BBC Sport",
+      "status": "업데이트"
+    },
+    {
+      "id": "https://www.skysports.com/football/live-blog/11669/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "title": "Liverpool transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
+      "url": "https://www.skysports.com/football/live-blog/11669/13025501/liverpool-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "publishedAt": "2026-09-06T20:45:00.000Z",
+      "summary": "Sky Sports football sitemap에서 가져온 실시간 헤드라인입니다.",
+      "sourceKey": "sky-sports",
+      "sourceName": "Sky Sports",
+      "status": "루머"
     },
     {
       "id": "https://www.bbc.co.uk/sport/football/articles/cr7dz7j10dro?at_medium=RSS&at_campaign=rss",
@@ -383,16 +403,6 @@
       "status": "완료"
     },
     {
-      "id": "https://www.caughtoffside.com/2026/09/06/tottenham-signing-comes-under-fire-after-nowhere-near-good-enough-performance/",
-      "title": "Tottenham signing comes under fire after &#8220;nowhere near good enough&#8221; performance",
-      "url": "https://www.caughtoffside.com/2026/09/06/tottenham-signing-comes-under-fire-after-nowhere-near-good-enough-performance/",
-      "publishedAt": "2026-09-06T14:00:24.000Z",
-      "summary": "Tottenham Hotspur signed Savio from Manchester City during the summer transfer window. The North London club paid around £75 million to sign the Brazilian attacker, but he was mediocre in the draw against Nottingham Forest. Tottenham picked up their first point of the season against Nottingham Forest after defeat against Brentford and Newcastle United in [&#8230;] The post Tottenham signing comes under fire after &#8220;nowhere near good enough&#8221; performance appeared first on CaughtOffside .",
-      "sourceKey": "caughtoffside",
-      "sourceName": "CaughtOffside",
-      "status": "업데이트"
-    },
-    {
       "id": "https://www.skysports.com/football/live-blog/11671/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
       "title": "Everton transfers, latest news, rumours and gossip: Live updates, goals and highlights",
       "url": "https://www.skysports.com/football/live-blog/11671/13279303/everton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
@@ -503,16 +513,6 @@
       "status": "업데이트"
     },
     {
-      "id": "https://football-italia.net/video-diogo-leite-arrives-lazio-move/",
-      "title": "Video: Diogo Leite arrives in Rome ahead of Lazio move",
-      "url": "https://football-italia.net/video-diogo-leite-arrives-lazio-move/",
-      "publishedAt": "2026-09-06T12:52:07.000Z",
-      "summary": "Portuguese defender Diogo Leite has arrived at Rome&#8217;s Fiumicino Airport on Sunday afternoon, ahead of...",
-      "sourceKey": "football-italia",
-      "sourceName": "Football Italia",
-      "status": "업데이트"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVmdnRjRDUEd4R1lLWkdTbWUxZ2FzNS1Za211UHFMUHZ5UEFKQzFVV21rTjhRWEVMOXlLYmRFUXZKbnZqX283M1JQUmdKdlhTXzd4WkpaTjZqdE5MbEF3MWh3cUdtZlhiUkFkMnVHS0E1Zkg4Zy10TFlxcnkzZFJqZlVvY2NCTkFobFJfUlJ2WTR1RzlnVndNakdER1lqZ9IBowFBVV95cUxQbzhyd0hLcWotLVNybjVtNTBnS1F2RDFlLVdJZVFHQmRrdXk3Tld6ZjZnaHBLS3FJbEY1blhpUVdOTFJZLVU0d2xHcEJDeFh3anM3NjJLdUNrVm1oMHJKc0dPTlowcDI5bWw1WWkxalUwQzRGVGMtWFlHYy1tMURoQXQxWWdxN2hsaUttTlBiTmxqZjZkS1BGejV1bk9iRnJjaUtz?oc=5",
       "title": "Antonin Kinsky reveals what he really thinks about Tottenham 'quality' after £315m transfer blitz - football.london",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVmdnRjRDUEd4R1lLWkdTbWUxZ2FzNS1Za211UHFMUHZ5UEFKQzFVV21rTjhRWEVMOXlLYmRFUXZKbnZqX283M1JQUmdKdlhTXzd4WkpaTjZqdE5MbEF3MWh3cUdtZlhiUkFkMnVHS0E1Zkg4Zy10TFlxcnkzZFJqZlVvY2NCTkFobFJfUlJ2WTR1RzlnVndNakdER1lqZ9IBowFBVV95cUxQbzhyd0hLcWotLVNybjVtNTBnS1F2RDFlLVdJZVFHQmRrdXk3Tld6ZjZnaHBLS3FJbEY1blhpUVdOTFJZLVU0d2xHcEJDeFh3anM3NjJLdUNrVm1oMHJKc0dPTlowcDI5bWw1WWkxalUwQzRGVGMtWFlHYy1tMURoQXQxWWdxN2hsaUttTlBiTmxqZjZkS1BGejV1bk9iRnJjaUtz?oc=5",
@@ -610,16 +610,6 @@
       "summary": "Cody Gakpo outshines new Liverpool signing Bradley Barcola as Elliot Anderson gives his best Rodri impression - PL hits and misses &nbsp;&nbsp; Sky Sports",
       "sourceKey": "tottenham-sky-monitor",
       "sourceName": "Sky Sports Tottenham monitor",
-      "status": "업데이트"
-    },
-    {
-      "id": "https://www.bbc.co.uk/sport/football/articles/cdx0knz81p2o?at_medium=RSS&at_campaign=rss",
-      "title": "Liverpool may make January move for Sarr - Sunday's gossip ",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cdx0knz81p2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "2026-09-05T20:24:26.000Z",
-      "summary": "Liverpool may make another move for Crystal Palace winger Ismaila Sarr in January and Tottenham's Richarlison may look for a Saudi switch.",
-      "sourceKey": "bbc-sport",
-      "sourceName": "BBC Sport",
       "status": "업데이트"
     },
     {
@@ -1464,10 +1454,10 @@
     },
     {
       "id": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNckJUdWIzRmhLZkFXMU5VRXFQV21mSkNNV28yZ25BOENaeDJabk9pa1pvTnRkSVNmdnFpSWc5UEVBMmo3alIxTmY5Ry1uTGVpOTB5U0tYZ1B0UmhVQTZwY3o2WkVsa1VCWjVGekFHMXdHcVRWNkpMWmdnNWR3VWZBNzgydWRoS3ZRcGJNNG5mY1hYNlQ1VDNNSUgzU3I5NHJRLUZySVp3d2pRUGM3emFGVnlB0gG3AUFVX3lxTE9DcmZSTEhWTnVlM0xxX1R2SnhKaExnSGpJak9GT19zdHZHVkVZMXZOVDRXVGxzdzZ5amJ3aUh6clE0dlBOTmlkQ0QzVS0yQ2k5blVMR1FRRmh0Y3luMG1hVmM5WFNMdHVXRzFZM0R6elp5QWZSV0ZGb1p3V1k5c0tpNENxX203VzhXQk9wMzkzWno3QmFQWE5jaDFEVEVrUXZmRmFuM1RydEllTEV4eGtpQm4xZ2JTQQ?oc=5",
-      "title": "Chelsea make move to sign Georginio Wijnaldum, deal ruled out - TheHardTackle.com",
+      "title": "Chelsea make move to sign Georginio Wijnaldum, deal ruled out - thehardtackle.com",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNckJUdWIzRmhLZkFXMU5VRXFQV21mSkNNV28yZ25BOENaeDJabk9pa1pvTnRkSVNmdnFpSWc5UEVBMmo3alIxTmY5Ry1uTGVpOTB5U0tYZ1B0UmhVQTZwY3o2WkVsa1VCWjVGekFHMXdHcVRWNkpMWmdnNWR3VWZBNzgydWRoS3ZRcGJNNG5mY1hYNlQ1VDNNSUgzU3I5NHJRLUZySVp3d2pRUGM3emFGVnlB0gG3AUFVX3lxTE9DcmZSTEhWTnVlM0xxX1R2SnhKaExnSGpJak9GT19zdHZHVkVZMXZOVDRXVGxzdzZ5amJ3aUh6clE0dlBOTmlkQ0QzVS0yQ2k5blVMR1FRRmh0Y3luMG1hVmM5WFNMdHVXRzFZM0R6elp5QWZSV0ZGb1p3V1k5c0tpNENxX203VzhXQk9wMzkzWno3QmFQWE5jaDFEVEVrUXZmRmFuM1RydEllTEV4eGtpQm4xZ2JTQQ?oc=5",
       "publishedAt": "2026-09-03T17:18:43.000Z",
-      "summary": "Chelsea make move to sign Georginio Wijnaldum, deal ruled out &nbsp;&nbsp; TheHardTackle.com",
+      "summary": "Chelsea make move to sign Georginio Wijnaldum, deal ruled out &nbsp;&nbsp; thehardtackle.com",
       "sourceKey": "santi-aouna-monitor",
       "sourceName": "Santi Aouna monitor",
       "status": "업데이트"
@@ -1571,6 +1561,16 @@
       "sourceKey": "tottenham-football-london-monitor",
       "sourceName": "Football.London Tottenham monitor",
       "status": "완료"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb0hLY1FKWmVHU2xDTk9ETU5fTUFjVmczRHZpVWVtbkk4V1Buc1ZweVpUVi04bmpmckVKeFA3aWQ3OHV3ZGFNTE05Tm84aGNVdE1KNTEyYTlaWHhzSmNBQ2lndm5jNnh4cTkyaTl4VjR4d3ZacDNLS0dGdlhDNWFwc1NfMG9DOUVoQVZfMVlvdldLbWFVN3NIdFZHdG83dVhIaGNnNQ?oc=5",
+      "title": "Houston Dynamo FC sign Premier League forward Lyle Foster on loan - Houston Dynamo FC",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb0hLY1FKWmVHU2xDTk9ETU5fTUFjVmczRHZpVWVtbkk4V1Buc1ZweVpUVi04bmpmckVKeFA3aWQ3OHV3ZGFNTE05Tm84aGNVdE1KNTEyYTlaWHhzSmNBQ2lndm5jNnh4cTkyaTl4VjR4d3ZacDNLS0dGdlhDNWFwc1NfMG9DOUVoQVZfMVlvdldLbWFVN3NIdFZHdG83dVhIaGNnNQ?oc=5",
+      "publishedAt": "2026-09-03T15:01:59.000Z",
+      "summary": "Houston Dynamo FC sign Premier League forward Lyle Foster on loan &nbsp;&nbsp; Houston Dynamo FC",
+      "sourceKey": "premier-league-transfer-monitor",
+      "sourceName": "Premier League transfer monitor",
+      "status": "업데이트"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVFQ4SzBRYjRYX01xdEQ2d3FHeFFGSTRpMXp3VFFNWGRTak1IaGNWMVlWMlF6QW9nSktBVHpSUWNxN1VRZF96UjFuV1pWRlNWYmd5cTJDb3VtVHdDYUtGU0R1UHJpY3VxTnBURmNDWTliRHJtUWFqeXA1X1pxN3NReHF2ZWJGc3FBVzZadGx3?oc=5",
@@ -1854,10 +1854,10 @@
     },
     {
       "id": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWGlWVzktR0JxbEhvRG1aSVVHSER4YWtYNkd4eldqbmpMNS1Fc0piUFNFNjBkaDdTcTdMMmpxNGh2QjR5RlZQVHFmSlhKMHh0U2hEYk1PUFZ2VmhpVkVDRXNhXzVqLWduSHdHSzVzMnhmZWx4TTBmb1MzNzE4X3FzWDUwN09NWkh3ZV8wMF9XRW1YbnVHLW4xWlFuSnFwUnpZQkRTU3hn0gGrAUFVX3lxTE5TWnN6SVd1VHRERG1YdVVKVmpZSWlZWUtGSTB0SVZIVXJmcjVTUThScFFSM1RzaFFlcE9LcGhHU3hkSV9nQ2FQNWttbldpVUFVQ3BTc1Z6eGdrNHhoZzdsWUdkeWZsYU1tbld4VTdMaEszSTdSaDNVOFdzX2dpaDJVYVpjMU9OTWNnZWRxbUhUVERvaDd0T0VuS1VCdzFJZkpvS29uZG9ia0FXQQ?oc=5",
-      "title": "PSG could return with January bid for Jaydee Canvot - TheHardTackle.com",
+      "title": "PSG could return with January bid for Jaydee Canvot - thehardtackle.com",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWGlWVzktR0JxbEhvRG1aSVVHSER4YWtYNkd4eldqbmpMNS1Fc0piUFNFNjBkaDdTcTdMMmpxNGh2QjR5RlZQVHFmSlhKMHh0U2hEYk1PUFZ2VmhpVkVDRXNhXzVqLWduSHdHSzVzMnhmZWx4TTBmb1MzNzE4X3FzWDUwN09NWkh3ZV8wMF9XRW1YbnVHLW4xWlFuSnFwUnpZQkRTU3hn0gGrAUFVX3lxTE5TWnN6SVd1VHRERG1YdVVKVmpZSWlZWUtGSTB0SVZIVXJmcjVTUThScFFSM1RzaFFlcE9LcGhHU3hkSV9nQ2FQNWttbldpVUFVQ3BTc1Z6eGdrNHhoZzdsWUdkeWZsYU1tbld4VTdMaEszSTdSaDNVOFdzX2dpaDJVYVpjMU9OTWNnZWRxbUhUVERvaDd0T0VuS1VCdzFJZkpvS29uZG9ia0FXQQ?oc=5",
       "publishedAt": "2026-09-02T23:00:01.000Z",
-      "summary": "PSG could return with January bid for Jaydee Canvot &nbsp;&nbsp; TheHardTackle.com",
+      "summary": "PSG could return with January bid for Jaydee Canvot &nbsp;&nbsp; thehardtackle.com",
       "sourceKey": "santi-aouna-monitor",
       "sourceName": "Santi Aouna monitor",
       "status": "루머"
@@ -3012,7 +3012,7 @@
     {
       "source": "Sky Sports sitemap",
       "ok": true,
-      "count": 21
+      "count": 22
     },
     {
       "source": "ESPN FC page",
@@ -3027,12 +3027,12 @@
     {
       "source": "CaughtOffside RSS",
       "ok": true,
-      "count": 4
+      "count": 3
     },
     {
       "source": "Football Italia RSS",
       "ok": true,
-      "count": 5
+      "count": 4
     },
     {
       "source": "Global transfer news Google News",
@@ -3047,7 +3047,7 @@
     {
       "source": "Tottenham transfer news Google News",
       "ok": true,
-      "count": 94
+      "count": 95
     },
     {
       "source": "Fabrizio Romano Google News",
@@ -3087,7 +3087,7 @@
     {
       "source": "Kaveh Solhekol Google News",
       "ok": true,
-      "count": 33
+      "count": 32
     },
     {
       "source": "Santi Aouna Google News",
@@ -3102,7 +3102,7 @@
     {
       "source": "Sami Mokbel Google News",
       "ok": true,
-      "count": 57
+      "count": 58
     },
     {
       "source": "Mike McGrath Google News",
@@ -3122,7 +3122,7 @@
     {
       "source": "Simon Stone Google News",
       "ok": true,
-      "count": 39
+      "count": 42
     },
     {
       "source": "Rob Dawson Google News",
@@ -3157,7 +3157,7 @@
     {
       "source": "Melissa Reddy Google News",
       "ok": true,
-      "count": 26
+      "count": 24
     },
     {
       "source": "Fabrizio Romano Instagram mentions",
@@ -3167,7 +3167,7 @@
     {
       "source": "Florian Plettenberg Instagram mentions",
       "ok": true,
-      "count": 1
+      "count": 2
     },
     {
       "source": "David Ornstein Instagram mentions",
@@ -3237,12 +3237,12 @@
     {
       "source": "Michael Bridge Tottenham monitor",
       "ok": true,
-      "count": 33
+      "count": 32
     },
     {
       "source": "Charlie Eccleshare Tottenham monitor",
       "ok": true,
-      "count": 22
+      "count": 24
     },
     {
       "source": "Jack Pitt-Brooke Tottenham monitor",
@@ -3252,7 +3252,7 @@
     {
       "source": "James Maw Tottenham monitor",
       "ok": true,
-      "count": 4
+      "count": 3
     },
     {
       "source": "Football.London Tottenham monitor",
@@ -3272,7 +3272,7 @@
     {
       "source": "Sky Sports Tottenham monitor",
       "ok": true,
-      "count": 79
+      "count": 78
     },
     {
       "source": "X API direct monitor",
