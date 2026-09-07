@@ -1,11 +1,11 @@
 {
-  "checkedAt": "2026-09-07T00:58:19.136Z",
+  "checkedAt": "2026-09-07T01:12:09.330Z",
   "ok": true,
   "headlineCount": 300,
   "assetResult": {
-    "downloaded": 0,
+    "downloaded": 1,
     "cached": 180,
-    "notFound": 68,
+    "notFound": 67,
     "failed": 0
   }
 }

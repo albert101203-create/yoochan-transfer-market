@@ -1486,5 +1486,11 @@
     "sourcePage": "https://en.wikipedia.org/wiki/Scottish_Premiership",
     "sourceImage": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Scottish_Premiership_logo.svg/330px-Scottish_Premiership_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
+  },
+  "./assets/players/jamie-vardy-4089872d.jpg": {
+    "name": "Jamie Vardy",
+    "sourcePage": "https://en.wikipedia.org/wiki/Jamie_Vardy",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Jamie_Vardy_2018_%28cropped%29.jpg/330px-Jamie_Vardy_2018_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
   }
 }
