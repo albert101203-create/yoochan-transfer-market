@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-08T15:35:56.069Z",
+  "fetchedAt": "2026-09-08T15:50:43.643Z",
   "itemCount": 300,
   "items": [
     {
@@ -121,6 +121,26 @@
       "sourceKey": "official-tottenham-monitor",
       "sourceName": "Tottenham official-site monitor",
       "status": "완료"
+    },
+    {
+      "id": "https://www.bbc.co.uk/sport/football/articles/c4g7jynnydlo?at_medium=RSS&at_campaign=rss",
+      "title": "How is the Ballon d'Or winner decided?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c4g7jynnydlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "2026-09-08T15:47:15.000Z",
+      "summary": "Voting for the Ballon d'Or has undergone some significant change over the years.",
+      "sourceKey": "bbc-sport",
+      "sourceName": "BBC Sport",
+      "status": "업데이트"
+    },
+    {
+      "id": "https://www.skysports.com/football/live-blog/11670/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "title": "Arsenal transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
+      "url": "https://www.skysports.com/football/live-blog/11670/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "publishedAt": "2026-09-08T15:30:00.000Z",
+      "summary": "Sky Sports football sitemap에서 가져온 실시간 헤드라인입니다.",
+      "sourceKey": "sky-sports",
+      "sourceName": "Sky Sports",
+      "status": "루머"
     },
     {
       "id": "https://football-italia.net/juventus-academy-product-new-signing-injury/",
@@ -374,10 +394,10 @@
     },
     {
       "id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWDJvRGhjUUZBeU9ablRQVFVQZ2p5Sk4xYjdhbUE3SVhMNzZQWWg3TEdhelVPc1ozUHdPSG1NRGcwc0hSSFNOdzk0X2Q5bC0yN2xETVE2TjJaYWlqaTN5bWhqeE02ekVQbVdnUmpwTWE0M2VLYlZ0NC00Zk00SjZBQ3UtdlVoeXVQN1QtTk80d2ctV3M2WTNTUjhFYw?oc=5",
-      "title": "Manchester United announce sleeve sponsorship deal with fintech SumUp - nytimes.com",
+      "title": "Manchester United announce sleeve sponsorship deal with fintech SumUp - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWDJvRGhjUUZBeU9ablRQVFVQZ2p5Sk4xYjdhbUE3SVhMNzZQWWg3TEdhelVPc1ozUHdPSG1NRGcwc0hSSFNOdzk0X2Q5bC0yN2xETVE2TjJaYWlqaTN5bWhqeE02ekVQbVdnUmpwTWE0M2VLYlZ0NC00Zk00SjZBQ3UtdlVoeXVQN1QtTk80d2ctV3M2WTNTUjhFYw?oc=5",
       "publishedAt": "2026-09-08T11:15:24.000Z",
-      "summary": "Manchester United announce sleeve sponsorship deal with fintech SumUp &nbsp;&nbsp; nytimes.com",
+      "summary": "Manchester United announce sleeve sponsorship deal with fintech SumUp &nbsp;&nbsp; The New York Times",
       "sourceKey": "laurie-whitwell-monitor",
       "sourceName": "Laurie Whitwell monitor",
       "status": "업데이트"
@@ -391,16 +411,6 @@
       "sourceKey": "caughtoffside",
       "sourceName": "CaughtOffside",
       "status": "업데이트"
-    },
-    {
-      "id": "https://www.skysports.com/football/live-blog/11670/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "title": "Arsenal transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
-      "url": "https://www.skysports.com/football/live-blog/11670/13025486/arsenal-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-      "publishedAt": "2026-09-08T10:54:00.000Z",
-      "summary": "Sky Sports football sitemap에서 가져온 실시간 헤드라인입니다.",
-      "sourceKey": "sky-sports",
-      "sourceName": "Sky Sports",
-      "status": "루머"
     },
     {
       "id": "https://www.caughtoffside.com/2026/09/08/newcastle-united-opportunity-champions-league-winner/",
@@ -464,10 +474,10 @@
     },
     {
       "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOS0dGa0loS0RHWlg0UDR2LU10d2UxdGJOUmh2T0NYa1UyUFdxRWFQR3RnVnVkT29YbHkySHBaSXhSVDUwa1otdU81aVlOVkR2MlctbUJpd182eFdRbExKVjU5d1ljMFBCQk1PVEE3blBSNERlSlVqX0VwTEx5T1V4YVpRQkUwYzg0aXowaWx5OF95TUtxMW1XNw?oc=5",
-      "title": "Liverpool announce five-year shirt sponsorship deal with Turkish Airlines - nytimes.com",
+      "title": "Liverpool announce five-year shirt sponsorship deal with Turkish Airlines - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOS0dGa0loS0RHWlg0UDR2LU10d2UxdGJOUmh2T0NYa1UyUFdxRWFQR3RnVnVkT29YbHkySHBaSXhSVDUwa1otdU81aVlOVkR2MlctbUJpd182eFdRbExKVjU5d1ljMFBCQk1PVEE3blBSNERlSlVqX0VwTEx5T1V4YVpRQkUwYzg0aXowaWx5OF95TUtxMW1XNw?oc=5",
       "publishedAt": "2026-09-08T08:30:03.000Z",
-      "summary": "Liverpool announce five-year shirt sponsorship deal with Turkish Airlines &nbsp;&nbsp; nytimes.com",
+      "summary": "Liverpool announce five-year shirt sponsorship deal with Turkish Airlines &nbsp;&nbsp; The New York Times",
       "sourceKey": "james-pearce-monitor",
       "sourceName": "James Pearce monitor",
       "status": "업데이트"
@@ -634,10 +644,10 @@
     },
     {
       "id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWHV5S3h5azlIWnRab01xcUNsSXhldE90YlhHWWwwZVl4RDlueWZQaHFwZFlhdWsyYVdvVDlZeUdPTm51SGI2SVVYa2lxMHVjaVFOZkx2eDM5em1pYmMtendqSEhKbjNIVF9QVGNaTjg3TmdtbGtGbEF5VkQ5LVRvcFFma0lncnc3TnVDdmp2TktuWXV0WGc?oc=5",
-      "title": "Angelinou Pedro signs first professional contract - Arsenal.com",
+      "title": "Angelinou Pedro signs first professional contract - arsenal.com",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWHV5S3h5azlIWnRab01xcUNsSXhldE90YlhHWWwwZVl4RDlueWZQaHFwZFlhdWsyYVdvVDlZeUdPTm51SGI2SVVYa2lxMHVjaVFOZkx2eDM5em1pYmMtendqSEhKbjNIVF9QVGNaTjg3TmdtbGtGbEF5VkQ5LVRvcFFma0lncnc3TnVDdmp2TktuWXV0WGc?oc=5",
       "publishedAt": "2026-09-07T16:21:34.000Z",
-      "summary": "Angelinou Pedro signs first professional contract &nbsp;&nbsp; Arsenal.com",
+      "summary": "Angelinou Pedro signs first professional contract &nbsp;&nbsp; arsenal.com",
       "sourceKey": "official-arsenal-monitor",
       "sourceName": "Arsenal official-site monitor",
       "status": "완료"
@@ -784,10 +794,10 @@
     },
     {
       "id": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcVNzWVpEa0VqTUxqX1lRTHZKdVI4X3BRLXdWdFFDZ21QXzlwaERrUUozamdpd0hwUmN6Z3RrUU9iTENFUXdrUW94eVoyUFRmbVMtcHM0TVlLQTZwdDFwLWJ5dUhQdjU0QS1lTjF5OE1CM0pXckJlenFqSUxwa0lMbEdvdElncFhVdUNzeEhISmVpRUZvcGZaajlGTUhpN3dVYlNrS0tia3FpTllFcG1WTWxpY1JTbVBMTC14VHZXcw?oc=5",
-      "title": "Premier League transfer flow – who do your club sign their players from? - The Athletic - nytimes.com",
+      "title": "Premier League transfer flow – who do your club sign their players from? - The Athletic - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcVNzWVpEa0VqTUxqX1lRTHZKdVI4X3BRLXdWdFFDZ21QXzlwaERrUUozamdpd0hwUmN6Z3RrUU9iTENFUXdrUW94eVoyUFRmbVMtcHM0TVlLQTZwdDFwLWJ5dUhQdjU0QS1lTjF5OE1CM0pXckJlenFqSUxwa0lMbEdvdElncFhVdUNzeEhISmVpRUZvcGZaajlGTUhpN3dVYlNrS0tia3FpTllFcG1WTWxpY1JTbVBMTC14VHZXcw?oc=5",
       "publishedAt": "2026-09-07T09:16:18.000Z",
-      "summary": "Premier League transfer flow – who do your club sign their players from? - The Athletic &nbsp;&nbsp; nytimes.com",
+      "summary": "Premier League transfer flow – who do your club sign their players from? - The Athletic &nbsp;&nbsp; The New York Times",
       "sourceKey": "premier-league-transfer-monitor",
       "sourceName": "Premier League transfer monitor",
       "status": "업데이트"
@@ -994,10 +1004,10 @@
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNd1NOZnV5MUZQTXdOZ2FhMjg5SGE2bWhKYVBSQW1pYk1SWUljSUpKSm0zWEdPNlN6ZWM5RWdSdXdTUHpIRnNzVzVIMFlkaU5BdFo5eTAyd0lubDRmcEo1ZU1wWlFVSFFtYU1XaEZia3VPb2VhX21ZaHFlSEg3aWZ1dDRjbHg3Mzdz?oc=5",
-      "title": "Jamie Vardy joins Championship Burnley on season-long deal - nytimes.com",
+      "title": "Jamie Vardy joins Championship Burnley on season-long deal - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNd1NOZnV5MUZQTXdOZ2FhMjg5SGE2bWhKYVBSQW1pYk1SWUljSUpKSm0zWEdPNlN6ZWM5RWdSdXdTUHpIRnNzVzVIMFlkaU5BdFo5eTAyd0lubDRmcEo1ZU1wWlFVSFFtYU1XaEZia3VPb2VhX21ZaHFlSEg3aWZ1dDRjbHg3Mzdz?oc=5",
       "publishedAt": "2026-09-06T13:54:07.000Z",
-      "summary": "Jamie Vardy joins Championship Burnley on season-long deal &nbsp;&nbsp; nytimes.com",
+      "summary": "Jamie Vardy joins Championship Burnley on season-long deal &nbsp;&nbsp; The New York Times",
       "sourceKey": "premier-league-transfer-monitor",
       "sourceName": "Premier League transfer monitor",
       "status": "완료"
@@ -1044,10 +1054,10 @@
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWkloVGc4bWRSTlNYd0gwVndJeGp1RFFud2o2WHNMWUxwdXpxeFI5NWhWZkdxaWE4Z090eFFYVEp1Q1VFa1ZvSWMzRHkzRmxKYnI5UnVvVzlZcElUNDRTLTVZem9QLTlVZDFRWmhuT3Y4RmdvSmVfY2MxTXd2M05IQ3Z0d3dqa2tsVUgyRHZGNDh2R3ZKUnpaaXRQOTdQWm96UTFRbU9SMHJZOW1fU3NHZDdycw?oc=5",
-      "title": "From Jack Grealish to Yan Diomande: Our 15 favourite signings of the summer window - The Athletic - nytimes.com",
+      "title": "From Jack Grealish to Yan Diomande: Our 15 favourite signings of the summer window - The Athletic - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWkloVGc4bWRSTlNYd0gwVndJeGp1RFFud2o2WHNMWUxwdXpxeFI5NWhWZkdxaWE4Z090eFFYVEp1Q1VFa1ZvSWMzRHkzRmxKYnI5UnVvVzlZcElUNDRTLTVZem9QLTlVZDFRWmhuT3Y4RmdvSmVfY2MxTXd2M05IQ3Z0d3dqa2tsVUgyRHZGNDh2R3ZKUnpaaXRQOTdQWm96UTFRbU9SMHJZOW1fU3NHZDdycw?oc=5",
       "publishedAt": "2026-09-06T12:09:37.000Z",
-      "summary": "From Jack Grealish to Yan Diomande: Our 15 favourite signings of the summer window - The Athletic &nbsp;&nbsp; nytimes.com",
+      "summary": "From Jack Grealish to Yan Diomande: Our 15 favourite signings of the summer window - The Athletic &nbsp;&nbsp; The New York Times",
       "sourceKey": "premier-league-transfer-monitor",
       "sourceName": "Premier League transfer monitor",
       "status": "업데이트"
@@ -1074,10 +1084,10 @@
     },
     {
       "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaXJyRU9MVE45ZXgwaE5keE9Ha1FudEZMSFVIX01PWTY2NlZ2cnRmLU1jaWNzeFp0QWU1U1YyU0djbWZ5Rm82ZGRQTkxDNVNLLUVfdHhkWFdXQTlyYnFiblNfRUdCQzdXamFhVXB1UWpjOHpYbDNKcl9NaE9ING9mS3c0NnpFSmcxeWZQZ2R3cndaeTkybDFJbw?oc=5",
-      "title": "Manchester City confirm Enzo Fernandez signing from Chelsea - nytimes.com",
+      "title": "Manchester City confirm Enzo Fernandez signing from Chelsea - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaXJyRU9MVE45ZXgwaE5keE9Ha1FudEZMSFVIX01PWTY2NlZ2cnRmLU1jaWNzeFp0QWU1U1YyU0djbWZ5Rm82ZGRQTkxDNVNLLUVfdHhkWFdXQTlyYnFiblNfRUdCQzdXamFhVXB1UWpjOHpYbDNKcl9NaE9ING9mS3c0NnpFSmcxeWZQZ2R3cndaeTkybDFJbw?oc=5",
       "publishedAt": "2026-09-06T07:00:00.000Z",
-      "summary": "Manchester City confirm Enzo Fernandez signing from Chelsea &nbsp;&nbsp; nytimes.com",
+      "summary": "Manchester City confirm Enzo Fernandez signing from Chelsea &nbsp;&nbsp; The New York Times",
       "sourceKey": "ornstein-monitor",
       "sourceName": "David Ornstein 검색 모니터",
       "status": "업데이트"
@@ -1104,10 +1114,10 @@
     },
     {
       "id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMTVyZGZneldxc05LaWdIaWxyel9nSGsxdnpyLUNYVVE0NHBpdFFDQnV3SVhESUxfT0JUT0c4LXU2NFhubzlkSFZ5Nm9hWmllNDRZS1N0YlZlQ0ozUlNSVGszWUNYRGpxRUlNdWNtdUYxTU5uVktBVU9GYnlnbGQzc3BJT01XWWUtdUNhTEV1MXhYYjhLcGJ1aG8tRUNSMEk?oc=5",
-      "title": "The Premier League’s £3.5bn transfer window smashed all records. Can the boom last? - The Athletic - nytimes.com",
+      "title": "The Premier League’s £3.5bn transfer window smashed all records. Can the boom last? - The Athletic - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMTVyZGZneldxc05LaWdIaWxyel9nSGsxdnpyLUNYVVE0NHBpdFFDQnV3SVhESUxfT0JUT0c4LXU2NFhubzlkSFZ5Nm9hWmllNDRZS1N0YlZlQ0ozUlNSVGszWUNYRGpxRUlNdWNtdUYxTU5uVktBVU9GYnlnbGQzc3BJT01XWWUtdUNhTEV1MXhYYjhLcGJ1aG8tRUNSMEk?oc=5",
       "publishedAt": "2026-09-05T19:32:00.000Z",
-      "summary": "The Premier League’s £3.5bn transfer window smashed all records. Can the boom last? - The Athletic &nbsp;&nbsp; nytimes.com",
+      "summary": "The Premier League’s £3.5bn transfer window smashed all records. Can the boom last? - The Athletic &nbsp;&nbsp; The New York Times",
       "sourceKey": "premier-league-transfer-monitor",
       "sourceName": "Premier League transfer monitor",
       "status": "업데이트"
@@ -1224,30 +1234,30 @@
     },
     {
       "id": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOWx6eE1EWkd3N3FfY2g2eF9tLVZ4Vjl4Yy03T2hkWGh0Sjc1S3NDUE8xZkFMR29DZ0VRZkczSnFGbkhnaUFSWlpBRGRIWVpxTXpZQl93S25Ial9hZUktQjA3aUl0VDFRaGJqR3BITHVGcDcyTEoyY01qeGlQVWVSZ1NKamVxbHBvYzFiaC1EQzAtNDMzLUhNUVA2eEQ?oc=5",
-      "title": "Ranking all 155 Premier League transfers in the 2026 summer window from worst to best - The Athletic - nytimes.com",
+      "title": "Ranking all 155 Premier League transfers in the 2026 summer window from worst to best - The Athletic - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOWx6eE1EWkd3N3FfY2g2eF9tLVZ4Vjl4Yy03T2hkWGh0Sjc1S3NDUE8xZkFMR29DZ0VRZkczSnFGbkhnaUFSWlpBRGRIWVpxTXpZQl93S25Ial9hZUktQjA3aUl0VDFRaGJqR3BITHVGcDcyTEoyY01qeGlQVWVSZ1NKamVxbHBvYzFiaC1EQzAtNDMzLUhNUVA2eEQ?oc=5",
       "publishedAt": "2026-09-05T07:00:00.000Z",
-      "summary": "Ranking all 155 Premier League transfers in the 2026 summer window from worst to best - The Athletic &nbsp;&nbsp; nytimes.com",
+      "summary": "Ranking all 155 Premier League transfers in the 2026 summer window from worst to best - The Athletic &nbsp;&nbsp; The New York Times",
       "sourceKey": "premier-league-transfer-monitor",
       "sourceName": "Premier League transfer monitor",
       "status": "업데이트"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMmMtNkNUYjZ0d0xKeGUwZi1yOUtRTkFpZXNmc1FZV1ZiLXE1bzh0Umg1bnR3Tno0bFozSk84YnhQc0RSUWw2NU1VRFVsQlNuQTZDbVB5eURIVnA5cU1odlNjTmFLVGE4V2VzQmFkUkNIbFpIYzdmeUZiWlgzczZ5bl9qVVBoRlM0YWZvZ2tpOS1MY2p0VnJQUGJZODkzNFpwS0xr?oc=5",
-      "title": "Inside the Premier League ‘transfer cartel’: Why have clubs spent £1.7bn selling players to each other? - The Athletic - nytimes.com",
+      "title": "Inside the Premier League ‘transfer cartel’: Why have clubs spent £1.7bn selling players to each other? - The Athletic - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMmMtNkNUYjZ0d0xKeGUwZi1yOUtRTkFpZXNmc1FZV1ZiLXE1bzh0Umg1bnR3Tno0bFozSk84YnhQc0RSUWw2NU1VRFVsQlNuQTZDbVB5eURIVnA5cU1odlNjTmFLVGE4V2VzQmFkUkNIbFpIYzdmeUZiWlgzczZ5bl9qVVBoRlM0YWZvZ2tpOS1MY2p0VnJQUGJZODkzNFpwS0xr?oc=5",
       "publishedAt": "2026-09-05T07:00:00.000Z",
-      "summary": "Inside the Premier League ‘transfer cartel’: Why have clubs spent £1.7bn selling players to each other? - The Athletic &nbsp;&nbsp; nytimes.com",
+      "summary": "Inside the Premier League ‘transfer cartel’: Why have clubs spent £1.7bn selling players to each other? - The Athletic &nbsp;&nbsp; The New York Times",
       "sourceKey": "premier-league-transfer-monitor",
       "sourceName": "Premier League transfer monitor",
       "status": "업데이트"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbUY1UmNUdUFPRktxb0Zqc0M2c2QzdTZjRnRUaFNScTBydWNhcVhsUXFMZDFtQm1IdEJzODlCdFZidS1yb0QxQjZ2VHBFd3k4d3ZmVElrR2RWT2JlZTFVak9GbHFGZHV4OEJOcXlwSThmMWdrS3VVNXN1SEFRQXBoQjc0RXNPVkpNcC1tUlBaM2Z6RW5zaVlJ?oc=5",
-      "title": "The Transfer DealSheet: Summers reviewed and what comes next - The Athletic - nytimes.com",
+      "title": "The Transfer DealSheet: Summers reviewed and what comes next - The Athletic - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbUY1UmNUdUFPRktxb0Zqc0M2c2QzdTZjRnRUaFNScTBydWNhcVhsUXFMZDFtQm1IdEJzODlCdFZidS1yb0QxQjZ2VHBFd3k4d3ZmVElrR2RWT2JlZTFVak9GbHFGZHV4OEJOcXlwSThmMWdrS3VVNXN1SEFRQXBoQjc0RXNPVkpNcC1tUlBaM2Z6RW5zaVlJ?oc=5",
       "publishedAt": "2026-09-05T07:00:00.000Z",
-      "summary": "The Transfer DealSheet: Summers reviewed and what comes next - The Athletic &nbsp;&nbsp; nytimes.com",
+      "summary": "The Transfer DealSheet: Summers reviewed and what comes next - The Athletic &nbsp;&nbsp; The New York Times",
       "sourceKey": "premier-league-transfer-monitor",
       "sourceName": "Premier League transfer monitor",
       "status": "업데이트"
@@ -1264,20 +1274,20 @@
     },
     {
       "id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ1NQbnNnRDRCMWJhWGNSaElKQTcwVk5yTkNHejhLTV9MZF9oRy14NlFuQjZtSlNPeHZCYXZjZHBiZ19CblFkcDh0QW9Ua0VfMkQwT2QyanNvNlBDeUE3bnBwVE9NQ0Z4dkdqem5QYXNjM1MxVGhfY1dtLUVqUkhlZ3F0a1lwZFEwZWItZTdJZnJEa1dIMkE?oc=5",
-      "title": "Inside Liverpool’s £250m transfer window: Marquee signings, youth investment but a short-term gamble - The Athletic - nytimes.com",
+      "title": "Inside Liverpool’s £250m transfer window: Marquee signings, youth investment but a short-term gamble - The Athletic - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ1NQbnNnRDRCMWJhWGNSaElKQTcwVk5yTkNHejhLTV9MZF9oRy14NlFuQjZtSlNPeHZCYXZjZHBiZ19CblFkcDh0QW9Ua0VfMkQwT2QyanNvNlBDeUE3bnBwVE9NQ0Z4dkdqem5QYXNjM1MxVGhfY1dtLUVqUkhlZ3F0a1lwZFEwZWItZTdJZnJEa1dIMkE?oc=5",
       "publishedAt": "2026-09-05T07:00:00.000Z",
-      "summary": "Inside Liverpool’s £250m transfer window: Marquee signings, youth investment but a short-term gamble - The Athletic &nbsp;&nbsp; nytimes.com",
+      "summary": "Inside Liverpool’s £250m transfer window: Marquee signings, youth investment but a short-term gamble - The Athletic &nbsp;&nbsp; The New York Times",
       "sourceKey": "james-pearce-monitor",
       "sourceName": "James Pearce monitor",
       "status": "업데이트"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQmdmeEc4Sk9iTUFXN0ktR1phV2xMY25FNzB0azRpazBXZXFEOFQyb1JFRWJacHhJdkhPRDY0R3VkNE1leUM1NHAyM3o1MGpXcGR0NG8yeUEwZU1iazM1dGVTaXN3bGgzRl82MGhMYWd1UUZvVnRhOTItMFU1ZUtSWnlCWW9QYTBaSGQ4T2NCNHVzTC1jd2o0?oc=5",
-      "title": "Man United’s transfer window: New midfield, Berrada’s call for Hall and final day frustration - The Athletic - nytimes.com",
+      "title": "Man United’s transfer window: New midfield, Berrada’s call for Hall and final day frustration - The Athletic - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQmdmeEc4Sk9iTUFXN0ktR1phV2xMY25FNzB0azRpazBXZXFEOFQyb1JFRWJacHhJdkhPRDY0R3VkNE1leUM1NHAyM3o1MGpXcGR0NG8yeUEwZU1iazM1dGVTaXN3bGgzRl82MGhMYWd1UUZvVnRhOTItMFU1ZUtSWnlCWW9QYTBaSGQ4T2NCNHVzTC1jd2o0?oc=5",
       "publishedAt": "2026-09-05T07:00:00.000Z",
-      "summary": "Man United’s transfer window: New midfield, Berrada’s call for Hall and final day frustration - The Athletic &nbsp;&nbsp; nytimes.com",
+      "summary": "Man United’s transfer window: New midfield, Berrada’s call for Hall and final day frustration - The Athletic &nbsp;&nbsp; The New York Times",
       "sourceKey": "laurie-whitwell-monitor",
       "sourceName": "Laurie Whitwell monitor",
       "status": "업데이트"
@@ -1464,10 +1474,10 @@
     },
     {
       "id": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbjBJbkdSbUxCdUhUUHlrYUZqODF1TUFjTDhhcXl6MXg1THQxY0ZPY1BuWHM0eGt1WWszcWNBNXdPczZkWmxQbXpjYkZhbFNBRmNCMUNJNE5JZGtwMFQ2dDVjc0QzMlFTZlNqWXMwTTk5UnZJTHh2U2VSUXk0QVZjUjNRN1d3MHktQTNCT0hn?oc=5",
-      "title": "Liverpool confirm €5m deal for Djylian N’Guessan - nytimes.com",
+      "title": "Liverpool confirm €5m deal for Djylian N’Guessan - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbjBJbkdSbUxCdUhUUHlrYUZqODF1TUFjTDhhcXl6MXg1THQxY0ZPY1BuWHM0eGt1WWszcWNBNXdPczZkWmxQbXpjYkZhbFNBRmNCMUNJNE5JZGtwMFQ2dDVjc0QzMlFTZlNqWXMwTTk5UnZJTHh2U2VSUXk0QVZjUjNRN1d3MHktQTNCT0hn?oc=5",
       "publishedAt": "2026-09-04T08:58:46.000Z",
-      "summary": "Liverpool confirm €5m deal for Djylian N’Guessan &nbsp;&nbsp; nytimes.com",
+      "summary": "Liverpool confirm €5m deal for Djylian N’Guessan &nbsp;&nbsp; The New York Times",
       "sourceKey": "james-pearce-monitor",
       "sourceName": "James Pearce monitor",
       "status": "업데이트"
@@ -1504,20 +1514,20 @@
     },
     {
       "id": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ29RcWhGQVkyc0w5RnZ4MC03VlRhalQ5alF4N3U0cjRTVkJNcGZfNlltT0dQM3dDdnVTdnVnN0NpM0VTUTdWV1doMU1IQ1hQSHhmVlZIcW42eTJXTlBpeFRlNnNTVTJHSlZGY1hiMU5JeVdHOS1NcTFUcmYyOF9DVGMxQXVud1ZPcWM1QXlldnc?oc=5",
-      "title": "Liverpool complete Bradley Barcola transfer from PSG for initial £106m - The Athletic - nytimes.com",
+      "title": "Liverpool complete Bradley Barcola transfer from PSG for initial £106m - The Athletic - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ29RcWhGQVkyc0w5RnZ4MC03VlRhalQ5alF4N3U0cjRTVkJNcGZfNlltT0dQM3dDdnVTdnVnN0NpM0VTUTdWV1doMU1IQ1hQSHhmVlZIcW42eTJXTlBpeFRlNnNTVTJHSlZGY1hiMU5JeVdHOS1NcTFUcmYyOF9DVGMxQXVud1ZPcWM1QXlldnc?oc=5",
       "publishedAt": "2026-09-04T07:00:00.000Z",
-      "summary": "Liverpool complete Bradley Barcola transfer from PSG for initial £106m - The Athletic &nbsp;&nbsp; nytimes.com",
+      "summary": "Liverpool complete Bradley Barcola transfer from PSG for initial £106m - The Athletic &nbsp;&nbsp; The New York Times",
       "sourceKey": "james-pearce-monitor",
       "sourceName": "James Pearce monitor",
       "status": "업데이트"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTXdoSjBCRm9HMWwwUnFudExhbUxJRDB2VTZHZ2ZkUjZ5d2RqSmRKLVpjcUZ5cHNwMTE4V2VvQzFCUzE0NUZ2d0JTbjZpQkJkYlFWWGJER3U2OTN1a2p1aUtWYkNLLTI0a0t5MjBXelRKT25IUnBybTNjN0RnN1A2V2NETURmall0VWhJ?oc=5",
-      "title": "Liverpool complete deal for Genk goalkeeper Lucca Brughmans - nytimes.com",
+      "title": "Liverpool complete deal for Genk goalkeeper Lucca Brughmans - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTXdoSjBCRm9HMWwwUnFudExhbUxJRDB2VTZHZ2ZkUjZ5d2RqSmRKLVpjcUZ5cHNwMTE4V2VvQzFCUzE0NUZ2d0JTbjZpQkJkYlFWWGJER3U2OTN1a2p1aUtWYkNLLTI0a0t5MjBXelRKT25IUnBybTNjN0RnN1A2V2NETURmall0VWhJ?oc=5",
       "publishedAt": "2026-09-04T07:00:00.000Z",
-      "summary": "Liverpool complete deal for Genk goalkeeper Lucca Brughmans &nbsp;&nbsp; nytimes.com",
+      "summary": "Liverpool complete deal for Genk goalkeeper Lucca Brughmans &nbsp;&nbsp; The New York Times",
       "sourceKey": "james-pearce-monitor",
       "sourceName": "James Pearce monitor",
       "status": "업데이트"
@@ -1653,16 +1663,6 @@
       "status": "업데이트"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMzVTWkEtbWFRRW8yX0twTFNGVDhwb2tscVR2NFZQdTdGaVlVZEdXM1ozXzc2ZnhOWmNyVHFNMHljQ19lMy1HeUFTZGRTTGo3UDJiY1hjRTJMU3pPUng3b0JQWHZyVzlCaWZ0aFBNY0ViMFNBSTdsYy0xdlRaMjZ3allTMGxzdnNrSGcybzJQUUpPemdSWHp2SmxrSzdTRHNhQkk1b0hyZnZGMzR2V25RUlhwUUlacm92bHc?oc=5",
-      "title": "Laurie Whitwell provides a key transfer update on Man Utd striker Joshua Zirkzee - United In Focus",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMzVTWkEtbWFRRW8yX0twTFNGVDhwb2tscVR2NFZQdTdGaVlVZEdXM1ozXzc2ZnhOWmNyVHFNMHljQ19lMy1HeUFTZGRTTGo3UDJiY1hjRTJMU3pPUng3b0JQWHZyVzlCaWZ0aFBNY0ViMFNBSTdsYy0xdlRaMjZ3allTMGxzdnNrSGcybzJQUUpPemdSWHp2SmxrSzdTRHNhQkk1b0hyZnZGMzR2V25RUlhwUUlacm92bHc?oc=5",
-      "publishedAt": "2026-09-03T16:51:25.000Z",
-      "summary": "Laurie Whitwell provides a key transfer update on Man Utd striker Joshua Zirkzee &nbsp;&nbsp; United In Focus",
-      "sourceKey": "laurie-whitwell-monitor",
-      "sourceName": "Laurie Whitwell monitor",
-      "status": "업데이트"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNWdwRXlra1ZGOG81TnVhWkFWSDlLRU9sblVZNTBxMFVYRG9CN0ZzTk9meC1qd1lNdnBKQTNGdm5LVUxkc2xVV1VXU05nTE15bDNzNzk1T0psdGREYl9qdXh2b2U2cW4wRGJ6aDdZbi1ZUTN4Tm5ucXZiUGxibkgtVTdKeFNISEprUWhwN0ZGd0QxenowS3V3TGFtYUVqU1RKSlM5aFF3?oc=5",
       "title": "Summer transfer window: Grading big signings in men's soccer - ESPN",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNWdwRXlra1ZGOG81TnVhWkFWSDlLRU9sblVZNTBxMFVYRG9CN0ZzTk9meC1qd1lNdnBKQTNGdm5LVUxkc2xVV1VXU05nTE15bDNzNzk1T0psdGREYl9qdXh2b2U2cW4wRGJ6aDdZbi1ZUTN4Tm5ucXZiUGxibkgtVTdKeFNISEprUWhwN0ZGd0QxenowS3V3TGFtYUVqU1RKSlM5aFF3?oc=5",
@@ -1684,10 +1684,10 @@
     },
     {
       "id": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPakttemk5Uk1IVW9QbGhYQzE0elI2UW9hZXdNaDhTdUdrcjlCUjVyaWVmUEtVUFpzXy1RdU1fVWxqcXdDTWxGVjNMNmkyeTV0Ny1YQjgwWXlHY3FROFVDU0VlYnhJNDZ6VGtBdjZBV0FZbGNvbW9PeWFOSFBvZEVfcg?oc=5",
-      "title": "Gabriel Martinelli joins Al-Hilal - Arsenal.com",
+      "title": "Gabriel Martinelli joins Al-Hilal - arsenal.com",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPakttemk5Uk1IVW9QbGhYQzE0elI2UW9hZXdNaDhTdUdrcjlCUjVyaWVmUEtVUFpzXy1RdU1fVWxqcXdDTWxGVjNMNmkyeTV0Ny1YQjgwWXlHY3FROFVDU0VlYnhJNDZ6VGtBdjZBV0FZbGNvbW9PeWFOSFBvZEVfcg?oc=5",
       "publishedAt": "2026-09-03T16:34:29.000Z",
-      "summary": "Gabriel Martinelli joins Al-Hilal &nbsp;&nbsp; Arsenal.com",
+      "summary": "Gabriel Martinelli joins Al-Hilal &nbsp;&nbsp; arsenal.com",
       "sourceKey": "official-arsenal-monitor",
       "sourceName": "Arsenal official-site monitor",
       "status": "완료"
@@ -1764,20 +1764,20 @@
     },
     {
       "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5hazk4NmVPd0NRMmprbWVFY1dhLTVqNkhXaGJGNkJaYzRqZG5fMzc5ajVpcEI2bG9GeVB2em83YUJmaXlDUE9CZVdET0ZnaFBrVVMzNy1Db3hmUTRaQWxod09qWm04dkZROGM5Tm9xa2R1N3REUzNuZDFtUQ?oc=5",
-      "title": "Transfer window 2026 analysed - Arsenal.com",
+      "title": "Transfer window 2026 analysed - arsenal.com",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5hazk4NmVPd0NRMmprbWVFY1dhLTVqNkhXaGJGNkJaYzRqZG5fMzc5ajVpcEI2bG9GeVB2em83YUJmaXlDUE9CZVdET0ZnaFBrVVMzNy1Db3hmUTRaQWxod09qWm04dkZROGM5Tm9xa2R1N3REUzNuZDFtUQ?oc=5",
       "publishedAt": "2026-09-03T12:05:54.000Z",
-      "summary": "Transfer window 2026 analysed &nbsp;&nbsp; Arsenal.com",
+      "summary": "Transfer window 2026 analysed &nbsp;&nbsp; arsenal.com",
       "sourceKey": "official-arsenal-monitor",
       "sourceName": "Arsenal official-site monitor",
       "status": "업데이트"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZzM0SXF1QWZtU3hreDNGbHpjY0dEcnlwLS1DX2tuZ3p6cEVDVTlFR1NrRkZRVFVoNFh0SXBrVzItcFJzQ2liQTZoVTluVlFHNDcydWhyVkNuTF9rbElOZmI5YjBUR0h5SjJnclk4d1dUeHdxV3R4cGdZZWh0VDFReUxGQ0lFSTBQbWNpRnU2SnFEUEVGYnhERzlDY09TZE5vWm9r?oc=5",
-      "title": "Folarin Balogun and the extraordinary chain of events that led to his transfer collapsing - The Athletic - nytimes.com",
+      "title": "Folarin Balogun and the extraordinary chain of events that led to his transfer collapsing - The Athletic - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZzM0SXF1QWZtU3hreDNGbHpjY0dEcnlwLS1DX2tuZ3p6cEVDVTlFR1NrRkZRVFVoNFh0SXBrVzItcFJzQ2liQTZoVTluVlFHNDcydWhyVkNuTF9rbElOZmI5YjBUR0h5SjJnclk4d1dUeHdxV3R4cGdZZWh0VDFReUxGQ0lFSTBQbWNpRnU2SnFEUEVGYnhERzlDY09TZE5vWm9r?oc=5",
       "publishedAt": "2026-09-03T12:05:15.000Z",
-      "summary": "Folarin Balogun and the extraordinary chain of events that led to his transfer collapsing - The Athletic &nbsp;&nbsp; nytimes.com",
+      "summary": "Folarin Balogun and the extraordinary chain of events that led to his transfer collapsing - The Athletic &nbsp;&nbsp; The New York Times",
       "sourceKey": "premier-league-transfer-monitor",
       "sourceName": "Premier League transfer monitor",
       "status": "업데이트"
@@ -1913,16 +1913,6 @@
       "status": "업데이트"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPb1lhTEtabG1JSHBtOXhLeHh5a3hhY2xpbms5VldJQjFRTHdmX2RsMTh0MmFFemI0cVNRcjA3ZWJUemxqN0RnTHYwTVEwSlZWNUZlaFQ2ZzdPM2dpLVZjT1BpWHM5WnlSQXREdEFpTEljbV82Z2NfcVdIdkVwdU5xWWRBRmJIV2lwRkNBSlp2Q3ZQVlpR0gGaAUFVX3lxTE05dmJFSXJqSGk3OXpMaXZyalc0d3RqNnVmT1c1Ti1McGJJYlFucFo5UGtYTmVqdnhpVDRVbS1pMlN2cHRPcEd6Yk1oMjR0NHBEeTI1VXhvMUtWZ2ZwNXJoQkxIZUJKaVJCTG1RcHV6TUR2bng1RkcydDZnQmxFQjRWOEw3T0JyQXR5Y20yeFEtWEIxd1ljRzBSaHc?oc=5",
-      "title": "'You don’t know everything': Fabrizio Romano and Florian Plettenberg clash over Yan Diomande’s Real Madrid move - Tribuna.com",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPb1lhTEtabG1JSHBtOXhLeHh5a3hhY2xpbms5VldJQjFRTHdmX2RsMTh0MmFFemI0cVNRcjA3ZWJUemxqN0RnTHYwTVEwSlZWNUZlaFQ2ZzdPM2dpLVZjT1BpWHM5WnlSQXREdEFpTEljbV82Z2NfcVdIdkVwdU5xWWRBRmJIV2lwRkNBSlp2Q3ZQVlpR0gGaAUFVX3lxTE05dmJFSXJqSGk3OXpMaXZyalc0d3RqNnVmT1c1Ti1McGJJYlFucFo5UGtYTmVqdnhpVDRVbS1pMlN2cHRPcEd6Yk1oMjR0NHBEeTI1VXhvMUtWZ2ZwNXJoQkxIZUJKaVJCTG1RcHV6TUR2bng1RkcydDZnQmxFQjRWOEw3T0JyQXR5Y20yeFEtWEIxd1ljRzBSaHc?oc=5",
-      "publishedAt": "2026-09-03T07:00:00.000Z",
-      "summary": "'You don’t know everything': Fabrizio Romano and Florian Plettenberg clash over Yan Diomande’s Real Madrid move &nbsp;&nbsp; Tribuna.com",
-      "sourceKey": "plettenberg-monitor",
-      "sourceName": "Florian Plettenberg monitor",
-      "status": "업데이트"
-    },
-    {
       "id": "https://www.bbc.co.uk/sport/football/articles/c87v88y0pdyo?at_medium=RSS&at_campaign=rss",
       "title": "Ranking the most game-changing transfers in Premier League history ",
       "url": "https://www.bbc.co.uk/sport/football/articles/c87v88y0pdyo?at_medium=RSS&at_campaign=rss",
@@ -1944,10 +1934,10 @@
     },
     {
       "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9pTlEyX3JpVzRNcVlpQ21mQWd3RlU1Ym1HS1RaZ1MzbHpkZ3FydUs2dnJCdHZ0M2YtZ1Z3elpXeDFseHp2Y1Y0eFloZkFmeGFBd3FDUlEtY0E1NE4wS2pjZFNxWWhjRkV4cUpMMThHVXRXV042MDNhcUZPUQ?oc=5",
-      "title": "Soccer News - Results, Fixtures, Scores, Stats, and Rumors - Page 3 - The Athletic - nytimes.com",
+      "title": "Soccer News - Results, Fixtures, Scores, Stats, and Rumors - Page 3 - The Athletic - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9pTlEyX3JpVzRNcVlpQ21mQWd3RlU1Ym1HS1RaZ1MzbHpkZ3FydUs2dnJCdHZ0M2YtZ1Z3elpXeDFseHp2Y1Y0eFloZkFmeGFBd3FDUlEtY0E1NE4wS2pjZFNxWWhjRkV4cUpMMThHVXRXV042MDNhcUZPUQ?oc=5",
       "publishedAt": "2026-09-03T03:35:45.000Z",
-      "summary": "Soccer News - Results, Fixtures, Scores, Stats, and Rumors - Page 3 - The Athletic &nbsp;&nbsp; nytimes.com",
+      "summary": "Soccer News - Results, Fixtures, Scores, Stats, and Rumors - Page 3 - The Athletic &nbsp;&nbsp; The New York Times",
       "sourceKey": "athletic-monitor",
       "sourceName": "The Athletic 검색 모니터",
       "status": "루머"
@@ -2034,10 +2024,10 @@
     },
     {
       "id": "https://news.google.com/rss/articles/CBMingFBVV95cUxNM0tEVzdIS1Bib2ljZlEyODdKaXZqOWdYSWtIZ0trQmpuM2pnWVk3dFNVUUkxYXB0UWdnb0JKY0IzN2pfUUlfLWpHbEx0Qk5yREk4eFFKcnozZV9COFM2TXlLYUtVNER3RDYtaFhvbl9sY2JDQXRFb0hqMVRDeHVZM24zY0tsSzhzLTc1ZU45Y215aE9ReXF5VThGdUJQdw?oc=5",
-      "title": "Manchester United’s Chido Obi finalising loan move to Eredivisie side Willem II - nytimes.com",
+      "title": "Manchester United’s Chido Obi finalising loan move to Eredivisie side Willem II - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNM0tEVzdIS1Bib2ljZlEyODdKaXZqOWdYSWtIZ0trQmpuM2pnWVk3dFNVUUkxYXB0UWdnb0JKY0IzN2pfUUlfLWpHbEx0Qk5yREk4eFFKcnozZV9COFM2TXlLYUtVNER3RDYtaFhvbl9sY2JDQXRFb0hqMVRDeHVZM24zY0tsSzhzLTc1ZU45Y215aE9ReXF5VThGdUJQdw?oc=5",
       "publishedAt": "2026-09-02T17:41:21.000Z",
-      "summary": "Manchester United’s Chido Obi finalising loan move to Eredivisie side Willem II &nbsp;&nbsp; nytimes.com",
+      "summary": "Manchester United’s Chido Obi finalising loan move to Eredivisie side Willem II &nbsp;&nbsp; The New York Times",
       "sourceKey": "laurie-whitwell-monitor",
       "sourceName": "Laurie Whitwell monitor",
       "status": "업데이트"
@@ -2174,22 +2164,22 @@
     },
     {
       "id": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPU2VjM2IyejV4ZkQ3QXNXY3o0MGVvbnJOTkJLVFlrbm14LWpWMXlZY1dVaEVJaHBUSURMeWtWb3Bja1RvVHE2ZW0xOXNIaW9sYVExTWVmZEtWVG9GSU1SeEFDTFN2SjdrQmpaSW5MRUpuVTdYbmgtNUVZTW0zckpiSkFuUmdXeUtvU3R2SF9ESDZKV200YlJIRG4xSDdBZ0thMUZycQ?oc=5",
-      "title": "Transfer Tracker 2026: Summer window updates, deals, talks and more from the Premier League and beyond - nytimes.com",
+      "title": "Transfer Tracker 2026: Summer window updates, deals, talks and more from the Premier League and beyond - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPU2VjM2IyejV4ZkQ3QXNXY3o0MGVvbnJOTkJLVFlrbm14LWpWMXlZY1dVaEVJaHBUSURMeWtWb3Bja1RvVHE2ZW0xOXNIaW9sYVExTWVmZEtWVG9GSU1SeEFDTFN2SjdrQmpaSW5MRUpuVTdYbmgtNUVZTW0zckpiSkFuUmdXeUtvU3R2SF9ESDZKV200YlJIRG4xSDdBZ0thMUZycQ?oc=5",
       "publishedAt": "2026-09-02T13:46:40.000Z",
-      "summary": "Transfer Tracker 2026: Summer window updates, deals, talks and more from the Premier League and beyond &nbsp;&nbsp; nytimes.com",
+      "summary": "Transfer Tracker 2026: Summer window updates, deals, talks and more from the Premier League and beyond &nbsp;&nbsp; The New York Times",
       "sourceKey": "premier-league-transfer-monitor",
       "sourceName": "Premier League transfer monitor",
       "status": "업데이트"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRVMwR2RXSWhlZ0ZyZnFHdGE1UHdGVnhrdkllY3VqSnZ0S3doa296UjI3OXh2UHUxcDhMYkRBem81M1ZGMXQ0bkhDdXk2STZfZkZ2OGZMbHM5SlljUXNVYWliNm5OVHY2Ty1CMUE4Rnp0cDEwOGM0UEo3Y3dnZXZQU09HaHBhZk5DaUVvSWdLdmRYY253WW5iWERoRHlwOGVIT2RLZzhTMUxKSmx5RlgyX2FUcXJjRWJWMnFJVEF1enlIYXR6?oc=5",
-      "title": "Tottenham’s hectic summer window: Explaining the club’s transfer and wage policy shift - The Athletic - nytimes.com",
+      "title": "Tottenham’s hectic summer window: Explaining the club’s transfer and wage policy shift - The Athletic - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRVMwR2RXSWhlZ0ZyZnFHdGE1UHdGVnhrdkllY3VqSnZ0S3doa296UjI3OXh2UHUxcDhMYkRBem81M1ZGMXQ0bkhDdXk2STZfZkZ2OGZMbHM5SlljUXNVYWliNm5OVHY2Ty1CMUE4Rnp0cDEwOGM0UEo3Y3dnZXZQU09HaHBhZk5DaUVvSWdLdmRYY253WW5iWERoRHlwOGVIT2RLZzhTMUxKSmx5RlgyX2FUcXJjRWJWMnFJVEF1enlIYXR6?oc=5",
       "publishedAt": "2026-09-02T12:50:54.000Z",
-      "summary": "Tottenham’s hectic summer window: Explaining the club’s transfer and wage policy shift - The Athletic &nbsp;&nbsp; nytimes.com",
-      "sourceKey": "tottenham-reporters-monitor",
-      "sourceName": "Tottenham reporters monitor",
+      "summary": "Tottenham’s hectic summer window: Explaining the club’s transfer and wage policy shift - The Athletic &nbsp;&nbsp; The New York Times",
+      "sourceKey": "jack-pitt-brooke-monitor",
+      "sourceName": "Jack Pitt-Brooke monitor",
       "status": "업데이트"
     },
     {
@@ -2200,16 +2190,6 @@
       "summary": "Folarin Balogun: Monaco striker's move to Everton falls through after deal scuppered Chelsea's chances of signing Lamine Camara &nbsp;&nbsp; Sky Sports",
       "sourceKey": "tottenham-sky-monitor",
       "sourceName": "Sky Sports Tottenham monitor",
-      "status": "업데이트"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWkJFVFdiOGtGSVc2aS1qbElrdVZQQ0RfeVRyVWVwb0ZUbFBDS0E4M3h1OVppal9SSEtock1Bd1JZSWg2M2w0QkZBeEF3Vy1RTWxTbW1HTVJmZW90NGlZczBRaHVOdU5lMUFEbmNhZGp2eWR3UGVRQzQ0V29VMEI2eEY4My1RLTA2TENtOUFWU0FGZUMtWFY0Q0pZLThPQjFMczBDMQ?oc=5",
-      "title": "Arsenal: Romano confirms first 2027 signing will be done ‘this week’ after ‘deal agreed’ - Football365",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWkJFVFdiOGtGSVc2aS1qbElrdVZQQ0RfeVRyVWVwb0ZUbFBDS0E4M3h1OVppal9SSEtock1Bd1JZSWg2M2w0QkZBeEF3Vy1RTWxTbW1HTVJmZW90NGlZczBRaHVOdU5lMUFEbmNhZGp2eWR3UGVRQzQ0V29VMEI2eEY4My1RLTA2TENtOUFWU0FGZUMtWFY0Q0pZLThPQjFMczBDMQ?oc=5",
-      "publishedAt": "2026-09-02T11:58:00.000Z",
-      "summary": "Arsenal: Romano confirms first 2027 signing will be done ‘this week’ after ‘deal agreed’ &nbsp;&nbsp; Football365",
-      "sourceKey": "romano-monitor",
-      "sourceName": "Fabrizio Romano 검색 모니터",
       "status": "업데이트"
     },
     {
@@ -2230,16 +2210,6 @@
       "summary": "De Zerbi belief and hijack hell - Inside Tottenham's huge £469m summer transfer rebuild &nbsp;&nbsp; Football London",
       "sourceKey": "tottenham-football-london-monitor",
       "sourceName": "Football.London Tottenham monitor",
-      "status": "업데이트"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObHhGTWF1X3VyMkRxWlFaUktxZjlwaVpJaDc0U1RuaGI3YzRPNTZ3M3hFSWJtYk1nUk5SU0RvRGVzeUhyWkNfVFRlbHNiRThnXzd3cGpnU2xjZjhkcU1vUHB1Ylk0UUJ0TF9zXzgxYkYtRk9yeWxtcmwxQXA1aEZNSWRsNTFXWG9XcDV0REFDWWJkeGFkcHNWU3hPZ2RiU1JUMVRrQjYxTS11ekU?oc=5",
-      "title": "Man Utd already plotting 2027 DOUBLE signing as Whitwell confirms advanced talks - TEAMtalk",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObHhGTWF1X3VyMkRxWlFaUktxZjlwaVpJaDc0U1RuaGI3YzRPNTZ3M3hFSWJtYk1nUk5SU0RvRGVzeUhyWkNfVFRlbHNiRThnXzd3cGpnU2xjZjhkcU1vUHB1Ylk0UUJ0TF9zXzgxYkYtRk9yeWxtcmwxQXA1aEZNSWRsNTFXWG9XcDV0REFDWWJkeGFkcHNWU3hPZ2RiU1JUMVRrQjYxTS11ekU?oc=5",
-      "publishedAt": "2026-09-02T10:40:31.000Z",
-      "summary": "Man Utd already plotting 2027 DOUBLE signing as Whitwell confirms advanced talks &nbsp;&nbsp; TEAMtalk",
-      "sourceKey": "laurie-whitwell-monitor",
-      "sourceName": "Laurie Whitwell monitor",
       "status": "업데이트"
     },
     {
@@ -2264,10 +2234,10 @@
     },
     {
       "id": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNczlkb3ZaZWlBMVRhUGR6M3psTHdyaFVRb3E2ZXFLZXJPTTA0RkhBWUotQ29PRFJEQlk4NUxsVVp4ODUzb3RkdzFDUHU2cGRXclZLNko3YzVoM0UtaDkzNkZwYndmX1F6UjJxVW9JREQyQVdZMDZGUkN3SVRGTmZGanJqczB4ZlR6NDZzdVd3?oc=5",
-      "title": "This was the FC Barcelona transfer market - fcbarcelona.com",
+      "title": "This was the FC Barcelona transfer market - FC Barcelona",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNczlkb3ZaZWlBMVRhUGR6M3psTHdyaFVRb3E2ZXFLZXJPTTA0RkhBWUotQ29PRFJEQlk4NUxsVVp4ODUzb3RkdzFDUHU2cGRXclZLNko3YzVoM0UtaDkzNkZwYndmX1F6UjJxVW9JREQyQVdZMDZGUkN3SVRGTmZGanJqczB4ZlR6NDZzdVd3?oc=5",
       "publishedAt": "2026-09-02T09:17:50.000Z",
-      "summary": "This was the FC Barcelona transfer market &nbsp;&nbsp; fcbarcelona.com",
+      "summary": "This was the FC Barcelona transfer market &nbsp;&nbsp; FC Barcelona",
       "sourceKey": "official-barcelona-monitor",
       "sourceName": "Barcelona official-site monitor",
       "status": "업데이트"
@@ -2344,10 +2314,10 @@
     },
     {
       "id": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMDhOYzlWRWZwaFlpbHgyd3M4S2VPNzVQcXpOTnYyMENXVDJYTG5lUml1NWtBR1ZMdEFtdDR5LXU1MmxFUGdDWTFacmM0aG9GdVctVnFoNzBiS1Awc0UtLTREaVg1VDJTdk1OTk1WUjR6ZUtPZDNjZnJDT19TMkVocjE4ek80WklYdmF1ajI2TmxVakoxTDFXd1dEeDZ3clYwNmVxNlVPLVJjNHF3LWtFeEJ1dUctcHRZRGlnM0hsTU55bks4azRybnZZb3ZtZHZ1Q05RMzZ4UnhaREJH0gHjAUFVX3lxTE9QaTZoMG00TThnblEtaURmUXZwNjRYWmgySU5WaFZiX29WNmd2bEk1Rm56eWpUNU5mMFVXNEM5ZmtTSTFGSU9WR0VZZVk5TlF0NHFMWmx6NTZkbExFVjFTalE2ZTlGWHZVWGU5ZkZ0bDlMSkkzMnJ5MXNSalRHenQta3J4Uk43RGVwLWctbVVUaHl1amxiNlBIaWJmWWNzYzJiM0d6bWExWVU1MDEwdUFrM2xOWDkzSGg3b3hzQzNNT3hwZlJjdnlhUzNBUzhXN3JIRGpBVl9MenFXUVVlWUE2V29V?oc=5",
-      "title": "Premier League Transfer news: Full list of player ins and outs after deadline day - sportstar.thehindu.com",
+      "title": "Premier League Transfer news: Full list of player ins and outs after deadline day - Sportstar",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMDhOYzlWRWZwaFlpbHgyd3M4S2VPNzVQcXpOTnYyMENXVDJYTG5lUml1NWtBR1ZMdEFtdDR5LXU1MmxFUGdDWTFacmM0aG9GdVctVnFoNzBiS1Awc0UtLTREaVg1VDJTdk1OTk1WUjR6ZUtPZDNjZnJDT19TMkVocjE4ek80WklYdmF1ajI2TmxVakoxTDFXd1dEeDZ3clYwNmVxNlVPLVJjNHF3LWtFeEJ1dUctcHRZRGlnM0hsTU55bks4azRybnZZb3ZtZHZ1Q05RMzZ4UnhaREJH0gHjAUFVX3lxTE9QaTZoMG00TThnblEtaURmUXZwNjRYWmgySU5WaFZiX29WNmd2bEk1Rm56eWpUNU5mMFVXNEM5ZmtTSTFGSU9WR0VZZVk5TlF0NHFMWmx6NTZkbExFVjFTalE2ZTlGWHZVWGU5ZkZ0bDlMSkkzMnJ5MXNSalRHenQta3J4Uk43RGVwLWctbVVUaHl1amxiNlBIaWJmWWNzYzJiM0d6bWExWVU1MDEwdUFrM2xOWDkzSGg3b3hzQzNNT3hwZlJjdnlhUzNBUzhXN3JIRGpBVl9MenFXUVVlWUE2V29V?oc=5",
       "publishedAt": "2026-09-02T08:15:15.000Z",
-      "summary": "Premier League Transfer news: Full list of player ins and outs after deadline day &nbsp;&nbsp; sportstar.thehindu.com",
+      "summary": "Premier League Transfer news: Full list of player ins and outs after deadline day &nbsp;&nbsp; Sportstar",
       "sourceKey": "global-transfer-monitor",
       "sourceName": "Global transfer news monitor",
       "status": "루머"
@@ -2544,10 +2514,10 @@
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMUphV0VMb1ZZREFNVUU4ZnpxeGgyOE1GSG1pblNKQzZFck42anRuQVh2d3htNGlpVm50THJyd18xMTY3TVo4azc2d0NOcTM5eS1uNjJMcmRqNmQzTUlJQzdMQVlzNWEyY0QxYmxVWjVLR25wMVVZLWljd3dwbWJ1Y3g2TjI1MFhEWktCU2hKcWV2TVdDd3pnM2NmdENtQmlyQXUwRDg2Zzc0aU0?oc=5",
-      "title": "Sunderland sign Malick Fofana in €35m deal, beating Crystal Palace to transfer - The Athletic - nytimes.com",
+      "title": "Sunderland sign Malick Fofana in €35m deal, beating Crystal Palace to transfer - The Athletic - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMUphV0VMb1ZZREFNVUU4ZnpxeGgyOE1GSG1pblNKQzZFck42anRuQVh2d3htNGlpVm50THJyd18xMTY3TVo4azc2d0NOcTM5eS1uNjJMcmRqNmQzTUlJQzdMQVlzNWEyY0QxYmxVWjVLR25wMVVZLWljd3dwbWJ1Y3g2TjI1MFhEWktCU2hKcWV2TVdDd3pnM2NmdENtQmlyQXUwRDg2Zzc0aU0?oc=5",
       "publishedAt": "2026-09-02T00:05:27.000Z",
-      "summary": "Sunderland sign Malick Fofana in €35m deal, beating Crystal Palace to transfer - The Athletic &nbsp;&nbsp; nytimes.com",
+      "summary": "Sunderland sign Malick Fofana in €35m deal, beating Crystal Palace to transfer - The Athletic &nbsp;&nbsp; The New York Times",
       "sourceKey": "ornstein-monitor",
       "sourceName": "David Ornstein 검색 모니터",
       "status": "업데이트"
@@ -2604,10 +2574,10 @@
     },
     {
       "id": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaXVaeUIzZTdRRzk4a3lEdVJVVzNPUVFiaWN2WE5DOERMX0VudTlpMk1aSWRvamYweVNTWnhxV1RUUmJod2FqeFFsQ19ydV9Fei10ZGlMaVdZakQxNy1QdXp1aUZoNjl6eC14TzhFVjdMUWpHV3V3SG55cDJFUmxqdGZHbDB5aUdlWGdEYzdOTy0?oc=5",
-      "title": "Folarin Balogun’s move to Everton off after USMNT striker decides against transfer - The Athletic - nytimes.com",
+      "title": "Folarin Balogun’s move to Everton off after USMNT striker decides against transfer - The Athletic - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaXVaeUIzZTdRRzk4a3lEdVJVVzNPUVFiaWN2WE5DOERMX0VudTlpMk1aSWRvamYweVNTWnhxV1RUUmJod2FqeFFsQ19ydV9Fei10ZGlMaVdZakQxNy1QdXp1aUZoNjl6eC14TzhFVjdMUWpHV3V3SG55cDJFUmxqdGZHbDB5aUdlWGdEYzdOTy0?oc=5",
       "publishedAt": "2026-09-01T23:23:19.000Z",
-      "summary": "Folarin Balogun’s move to Everton off after USMNT striker decides against transfer - The Athletic &nbsp;&nbsp; nytimes.com",
+      "summary": "Folarin Balogun’s move to Everton off after USMNT striker decides against transfer - The Athletic &nbsp;&nbsp; The New York Times",
       "sourceKey": "ornstein-monitor",
       "sourceName": "David Ornstein 검색 모니터",
       "status": "업데이트"
@@ -2631,16 +2601,6 @@
       "sourceKey": "premier-league-transfer-monitor",
       "sourceName": "Premier League transfer monitor",
       "status": "완료"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5adXp4ZXB1eE9rdnBHX0pNREtXbU1VV3AzelFYT1p1VFRTMFFNY2Jsb0NOczNWamY2U1N5Z0RCY1Ewc1NCOHMxcHVqVVROanNmN09lcFdWMU56NUNSN1hYcmw0TVFVekU0QjNjbHZ2VVpDWlNmYkhfMGtqbmE?oc=5",
-      "title": "City complete Enzo Fernández signing from Chelsea - Manchester City FC",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5adXp4ZXB1eE9rdnBHX0pNREtXbU1VV3AzelFYT1p1VFRTMFFNY2Jsb0NOczNWamY2U1N5Z0RCY1Ewc1NCOHMxcHVqVVROanNmN09lcFdWMU56NUNSN1hYcmw0TVFVekU0QjNjbHZ2VVpDWlNmYkhfMGtqbmE?oc=5",
-      "publishedAt": "2026-09-01T22:30:00.000Z",
-      "summary": "City complete Enzo Fernández signing from Chelsea &nbsp;&nbsp; Manchester City FC",
-      "sourceKey": "official-man-city-monitor",
-      "sourceName": "Manchester City official-site monitor",
-      "status": "업데이트"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaFFQb2NXYlB0QU12TWpLb0lqdUVySFA5VTRheVYxTDJUX3hhT1Y3XzlIY1Y3S3E0Nld2SVZBSkJZY2xuUGRJcDNtMUtVRllxUXl6WExzQ2MwZ2VYX0RMZWJSU3hzWjVDREd4el9wMG12bklsb0lIQlBMSkNObnlTOEYyY3VQOEJHdEZmcDBfanhLWThZYUJGNlZB?oc=5",
@@ -2694,20 +2654,20 @@
     },
     {
       "id": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbWRQd2doblhpUmZHTl84enZyc21YVXVaeXdNdUluVWMxSHFzcFNGWmNOR0pkd196a0hSVW50R3c2dVJVTDQ2MGNMUFlWZFN2c2ZicVAzTWR1ejN5MnIwZVZFaUU3c1U2cFNLT21CeUpSa3lEbTh3c3NfU0tNYmg1dHBfMWRUMFBhV0UwdWhlYTF4UHh6VmNIaVhn?oc=5",
-      "title": "Monaco pull out of deal to sell Lamine Camara to Chelsea - The Athletic - nytimes.com",
+      "title": "Monaco pull out of deal to sell Lamine Camara to Chelsea - The Athletic - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbWRQd2doblhpUmZHTl84enZyc21YVXVaeXdNdUluVWMxSHFzcFNGWmNOR0pkd196a0hSVW50R3c2dVJVTDQ2MGNMUFlWZFN2c2ZicVAzTWR1ejN5MnIwZVZFaUU3c1U2cFNLT21CeUpSa3lEbTh3c3NfU0tNYmg1dHBfMWRUMFBhV0UwdWhlYTF4UHh6VmNIaVhn?oc=5",
       "publishedAt": "2026-09-01T22:11:55.000Z",
-      "summary": "Monaco pull out of deal to sell Lamine Camara to Chelsea - The Athletic &nbsp;&nbsp; nytimes.com",
+      "summary": "Monaco pull out of deal to sell Lamine Camara to Chelsea - The Athletic &nbsp;&nbsp; The New York Times",
       "sourceKey": "ornstein-monitor",
       "sourceName": "David Ornstein 검색 모니터",
       "status": "업데이트"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaW9UQ1NQSlMtRFR5SmRDNWFpeVRFWXlVUWowUV82Z2tFVnlReEpQUW9QbnJxRTlsSmp4SEZGcW9PUmJrY1pmUGZiaXlDbUVzZy1fZ2JHLWEyMmVCQ1ZmSmtjOHNrZGZqdENJTU1aUXBVZjYtdUh1dnc2MFFpSThZSVFQQmVpakdXWXd0T1FvMGJxMWt5bFE?oc=5",
-      "title": "Does Tottenham signing Mykhailo Mudryk on loan make any sense? - nytimes.com",
+      "title": "Does Tottenham signing Mykhailo Mudryk on loan make any sense? - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaW9UQ1NQSlMtRFR5SmRDNWFpeVRFWXlVUWowUV82Z2tFVnlReEpQUW9QbnJxRTlsSmp4SEZGcW9PUmJrY1pmUGZiaXlDbUVzZy1fZ2JHLWEyMmVCQ1ZmSmtjOHNrZGZqdENJTU1aUXBVZjYtdUh1dnc2MFFpSThZSVFQQmVpakdXWXd0T1FvMGJxMWt5bFE?oc=5",
       "publishedAt": "2026-09-01T22:11:40.000Z",
-      "summary": "Does Tottenham signing Mykhailo Mudryk on loan make any sense? &nbsp;&nbsp; nytimes.com",
+      "summary": "Does Tottenham signing Mykhailo Mudryk on loan make any sense? &nbsp;&nbsp; The New York Times",
       "sourceKey": "tottenham-transfer-news-monitor",
       "sourceName": "Tottenham transfer news monitor",
       "status": "업데이트"
@@ -2874,10 +2834,10 @@
     },
     {
       "id": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVU56WE5NM2xvMWpLY0RzQkZhUUFpOTdEYmtMTzkyTGx3OEFaRUFPRGhucTkwU2IzSWxyWTRDY1Z0eGFSalRWRHU2dkc4WWRwZXhPS280M3NqZWhlUlJHZzZDSDJncmIzZU54ZzBXeGlGSGxiRTU1MGU1d1pjUXZjUW9wWkVadWZ0NEFGLTVfcDNlUzlq?oc=5",
-      "title": "Chelsea agree £47m Lamine Camara transfer with Monaco - The Athletic - nytimes.com",
+      "title": "Chelsea agree £47m Lamine Camara transfer with Monaco - The Athletic - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVU56WE5NM2xvMWpLY0RzQkZhUUFpOTdEYmtMTzkyTGx3OEFaRUFPRGhucTkwU2IzSWxyWTRDY1Z0eGFSalRWRHU2dkc4WWRwZXhPS280M3NqZWhlUlJHZzZDSDJncmIzZU54ZzBXeGlGSGxiRTU1MGU1d1pjUXZjUW9wWkVadWZ0NEFGLTVfcDNlUzlq?oc=5",
       "publishedAt": "2026-09-01T20:53:42.000Z",
-      "summary": "Chelsea agree £47m Lamine Camara transfer with Monaco - The Athletic &nbsp;&nbsp; nytimes.com",
+      "summary": "Chelsea agree £47m Lamine Camara transfer with Monaco - The Athletic &nbsp;&nbsp; The New York Times",
       "sourceKey": "ornstein-monitor",
       "sourceName": "David Ornstein 검색 모니터",
       "status": "업데이트"
@@ -2914,10 +2874,10 @@
     },
     {
       "id": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOY0tLalV0YjRibC01X204X1R2RWMtU2F3VG5fem5OT0tsbUVjalZFNmpCanJMXzhwbkFFMTV2bWJ5UzFsLTkwWndUaDZnZ3l5Qks3Vk01bm42TTNzak5zV3Z1NjdhMDJ5dFVTQ0xvMzRLdTVvMHpEVHdaUmNFZmJxQmZQM0lJSVYxWm8tM252eTNSbGhoaGc?oc=5",
-      "title": "Fabio Vieira joins Hamburger SV in permanent deal - Arsenal.com",
+      "title": "Fabio Vieira joins Hamburger SV in permanent deal - arsenal.com",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOY0tLalV0YjRibC01X204X1R2RWMtU2F3VG5fem5OT0tsbUVjalZFNmpCanJMXzhwbkFFMTV2bWJ5UzFsLTkwWndUaDZnZ3l5Qks3Vk01bm42TTNzak5zV3Z1NjdhMDJ5dFVTQ0xvMzRLdTVvMHpEVHdaUmNFZmJxQmZQM0lJSVYxWm8tM252eTNSbGhoaGc?oc=5",
       "publishedAt": "2026-09-01T20:15:26.000Z",
-      "summary": "Fabio Vieira joins Hamburger SV in permanent deal &nbsp;&nbsp; Arsenal.com",
+      "summary": "Fabio Vieira joins Hamburger SV in permanent deal &nbsp;&nbsp; arsenal.com",
       "sourceKey": "official-arsenal-monitor",
       "sourceName": "Arsenal official-site monitor",
       "status": "완료"
@@ -2984,10 +2944,10 @@
     },
     {
       "id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUTlWNnZLU2R4c1NxSjRFVk82c0lBSGV3SjFLc2lNRWFIOFBCckdueUFxbDVIUGx5SzhfcXd1dXBhZVJodzh2Q3RaVzNycHliLXZoekxtYXo3ZEFGVF9Sd1IwbnZta200N1JhU0gzcHA2SGM4dnpoZ2xqa19YeUFJTjlQMTEzT243U2hodlhBaGZIbEw1VldROUpBQQ?oc=5",
-      "title": "Sunderland sign Tottenham’s Kevin Danso on loan with obligation to buy - The Athletic - nytimes.com",
+      "title": "Sunderland sign Tottenham’s Kevin Danso on loan with obligation to buy - The Athletic - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUTlWNnZLU2R4c1NxSjRFVk82c0lBSGV3SjFLc2lNRWFIOFBCckdueUFxbDVIUGx5SzhfcXd1dXBhZVJodzh2Q3RaVzNycHliLXZoekxtYXo3ZEFGVF9Sd1IwbnZta200N1JhU0gzcHA2SGM4dnpoZ2xqa19YeUFJTjlQMTEzT243U2hodlhBaGZIbEw1VldROUpBQQ?oc=5",
       "publishedAt": "2026-09-01T19:17:44.000Z",
-      "summary": "Sunderland sign Tottenham’s Kevin Danso on loan with obligation to buy - The Athletic &nbsp;&nbsp; nytimes.com",
+      "summary": "Sunderland sign Tottenham’s Kevin Danso on loan with obligation to buy - The Athletic &nbsp;&nbsp; The New York Times",
       "sourceKey": "ornstein-monitor",
       "sourceName": "David Ornstein 검색 모니터",
       "status": "업데이트"
@@ -3001,13 +2961,53 @@
       "sourceKey": "bluesky-ornstein",
       "sourceName": "David Ornstein Bluesky",
       "status": "업데이트"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qR1Z4MktOSmdxMU90LWtRX3ZsZXJyN0JLRE9Tczk4X2dVUDRuclYxSzNoY3ZMZUVoS2dZWWRBLXl3cU14WklOTmdROXFmcTlHR3VNMGtHQlhhT2xhRVk3RE0xT1lrWGs?oc=5",
+      "title": "West Ham United transfer news: Morato signs on loan from Nottingham Forest - BBC",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qR1Z4MktOSmdxMU90LWtRX3ZsZXJyN0JLRE9Tczk4X2dVUDRuclYxSzNoY3ZMZUVoS2dZWWRBLXl3cU14WklOTmdROXFmcTlHR3VNMGtHQlhhT2xhRVk3RE0xT1lrWGs?oc=5",
+      "publishedAt": "2026-09-01T19:03:54.000Z",
+      "summary": "West Ham United transfer news: Morato signs on loan from Nottingham Forest &nbsp;&nbsp; BBC",
+      "sourceKey": "global-transfer-monitor",
+      "sourceName": "Global transfer news monitor",
+      "status": "완료"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9XdVFnTkN4NFNXSWZHZnlZdjByVm1yMmdEODNjSVFUZEtYRFhXMk1jd2JuYzlCbkdaTF9sczdLOVlQQmZRelQ4YzlkNGpfWGt0VlhOLXNmNFpEY0NxLU5oSHM1OUhnTFZIeF9ZcllBNlBCRnYwdmxVUDhaN3A?oc=5",
+      "title": "Robert Sanchez departs on loan | News | Official Site - Chelsea Football Club",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9XdVFnTkN4NFNXSWZHZnlZdjByVm1yMmdEODNjSVFUZEtYRFhXMk1jd2JuYzlCbkdaTF9sczdLOVlQQmZRelQ4YzlkNGpfWGt0VlhOLXNmNFpEY0NxLU5oSHM1OUhnTFZIeF9ZcllBNlBCRnYwdmxVUDhaN3A?oc=5",
+      "publishedAt": "2026-09-01T19:00:00.000Z",
+      "summary": "Robert Sanchez departs on loan | News | Official Site &nbsp;&nbsp; Chelsea Football Club",
+      "sourceKey": "official-chelsea-monitor",
+      "sourceName": "Chelsea official-site monitor",
+      "status": "완료"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWWRBSnVubF93VFlhQlc4T1l6R3A0RHNIZnMtN29aTWxqM01KWVZoZGtDd3pFMUNiaUE3UkpwUFVXTjF6bmI1NnFZLUFEVWpSeFdrUEpRNktlMHNhdFIxVF9RbHNOcnZLRUgwMTE4QXJZdFowbHVJd09oX21CMlo0N3E4b3UzQkw0MzhBeXo1bGR4SGJsTEt0LWVUV3lYejZPUmk5TFlZTnF0SG5a?oc=5",
+      "title": "Agreement with Venezia FC for the transfer of Toni Fernández - FC Barcelona",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWWRBSnVubF93VFlhQlc4T1l6R3A0RHNIZnMtN29aTWxqM01KWVZoZGtDd3pFMUNiaUE3UkpwUFVXTjF6bmI1NnFZLUFEVWpSeFdrUEpRNktlMHNhdFIxVF9RbHNOcnZLRUgwMTE4QXJZdFowbHVJd09oX21CMlo0N3E4b3UzQkw0MzhBeXo1bGR4SGJsTEt0LWVUV3lYejZPUmk5TFlZTnF0SG5a?oc=5",
+      "publishedAt": "2026-09-01T18:45:16.000Z",
+      "summary": "Agreement with Venezia FC for the transfer of Toni Fernández &nbsp;&nbsp; FC Barcelona",
+      "sourceKey": "official-barcelona-monitor",
+      "sourceName": "Barcelona official-site monitor",
+      "status": "업데이트"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVzFPQnFlWUdzMTRjZkIxb2lkcnYtMlZXMS10Z0pZMGZ1YTlDakt6VG5COGtWQWxBMFpWSzVoaHF4UEFvaVlzc2RlLVB1emIwLXNwaTdlelFwa2JOUkNTTWhzdFV1c2hJQUo5aXVUX05rWEZZYjI1NDlIQzlSYmlYeERRbDVZVnA2eno3Wkd0ZlUyNEFDc3JVVS1QRmlOLWVkNkNnYnBSVlllSjlR0gGyAUFVX3lxTE1PRVpTcEtEZnJPaUZyeHphWExObXZ3VkZzMEprWTBXY1FHNlNQVnIwSjZVWUdHclRzdTlQTml4aEpUaFIwNmdCR1ByT3p0bVBZaGkxcnBHdE9PVzZmcDVlVGZNQUZIY1djay1RZ2lVby1rTWtBU3RTNGw4NjJnckVnYV85ZldXVGppLUlrSnp3ZXZ6dkF5cXF3MEVQSmlsZGs2ZXVIUHc0YVhxYVA4UW1NdVE?oc=5",
+      "title": "Tottenham's possible XI if Mykhailo Mudryk joins and five leave in dream deadline day scenario - Football London",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVzFPQnFlWUdzMTRjZkIxb2lkcnYtMlZXMS10Z0pZMGZ1YTlDakt6VG5COGtWQWxBMFpWSzVoaHF4UEFvaVlzc2RlLVB1emIwLXNwaTdlelFwa2JOUkNTTWhzdFV1c2hJQUo5aXVUX05rWEZZYjI1NDlIQzlSYmlYeERRbDVZVnA2eno3Wkd0ZlUyNEFDc3JVVS1QRmlOLWVkNkNnYnBSVlllSjlR0gGyAUFVX3lxTE1PRVpTcEtEZnJPaUZyeHphWExObXZ3VkZzMEprWTBXY1FHNlNQVnIwSjZVWUdHclRzdTlQTml4aEpUaFIwNmdCR1ByT3p0bVBZaGkxcnBHdE9PVzZmcDVlVGZNQUZIY1djay1RZ2lVby1rTWtBU3RTNGw4NjJnckVnYV85ZldXVGppLUlrSnp3ZXZ6dkF5cXF3MEVQSmlsZGs2ZXVIUHc0YVhxYVA4UW1NdVE?oc=5",
+      "publishedAt": "2026-09-01T18:36:58.000Z",
+      "summary": "Tottenham's possible XI if Mykhailo Mudryk joins and five leave in dream deadline day scenario &nbsp;&nbsp; Football London",
+      "sourceKey": "tottenham-football-london-monitor",
+      "sourceName": "Football.London Tottenham monitor",
+      "status": "완료"
     }
   ],
   "sourceHealth": [
     {
       "source": "BBC Sport RSS",
       "ok": true,
-      "count": 17
+      "count": 18
     },
     {
       "source": "Sky Sports sitemap",
@@ -3067,7 +3067,7 @@
     {
       "source": "Gianluca Di Marzio Google News",
       "ok": true,
-      "count": 69
+      "count": 70
     },
     {
       "source": "Matteo Moretto Google News",
@@ -3077,12 +3077,12 @@
     {
       "source": "Ben Jacobs Google News",
       "ok": true,
-      "count": 83
+      "count": 82
     },
     {
       "source": "Florian Plettenberg Google News",
       "ok": true,
-      "count": 83
+      "count": 42
     },
     {
       "source": "Kaveh Solhekol Google News",
@@ -3092,7 +3092,7 @@
     {
       "source": "Santi Aouna Google News",
       "ok": true,
-      "count": 55
+      "count": 54
     },
     {
       "source": "Tom Barclay Google News",
@@ -3107,7 +3107,7 @@
     {
       "source": "Mike McGrath Google News",
       "ok": true,
-      "count": 37
+      "count": 36
     },
     {
       "source": "James Pearce Google News",
@@ -3117,7 +3117,7 @@
     {
       "source": "Laurie Whitwell Google News",
       "ok": true,
-      "count": 41
+      "count": 40
     },
     {
       "source": "Simon Stone Google News",
@@ -3132,7 +3132,7 @@
     {
       "source": "Mark Ogden Google News",
       "ok": true,
-      "count": 16
+      "count": 17
     },
     {
       "source": "David Hytner Google News",
@@ -3142,7 +3142,7 @@
     {
       "source": "Paul Joyce Google News",
       "ok": true,
-      "count": 50
+      "count": 49
     },
     {
       "source": "Fabrice Hawkins Google News",
@@ -3177,7 +3177,7 @@
     {
       "source": "Matteo Moretto Instagram mentions",
       "ok": true,
-      "count": 69
+      "count": 71
     },
     {
       "source": "Santi Aouna Instagram mentions",
@@ -3207,7 +3207,7 @@
     {
       "source": "Manchester City official-site monitor",
       "ok": true,
-      "count": 62
+      "count": 14
     },
     {
       "source": "Manchester United official-site monitor",
@@ -3232,12 +3232,12 @@
     {
       "source": "Tottenham reporters Google News",
       "ok": true,
-      "count": 43
+      "count": 39
     },
     {
       "source": "Michael Bridge Tottenham monitor",
       "ok": true,
-      "count": 31
+      "count": 11
     },
     {
       "source": "Charlie Eccleshare Tottenham monitor",
