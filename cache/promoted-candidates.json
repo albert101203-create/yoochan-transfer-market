@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-08T06:34:22.823Z",
-  "basedOnGeneratedAt": "2026-09-08T06:34:22.818Z",
+  "generatedAt": "2026-09-08T06:51:27.034Z",
+  "basedOnGeneratedAt": "2026-09-08T06:51:27.029Z",
   "itemCount": 30,
   "items": [
     {
@@ -184,7 +184,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "토트넘 공식 발표에서 직접 추출한 완료 카드입니다.",
       "publishedAt": "2026-07-08 07:00",
-      "lastVerifiedAt": "2026-09-08 06:34",
+      "lastVerifiedAt": "2026-09-08 06:51",
       "extractionConfidence": "high",
       "extractionPattern": "joins-headline-shape",
       "needsVerification": false,
@@ -357,7 +357,7 @@
           "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaDFveVkxNUpOUkZ3UV9KaUpmNzctc0hETDB4Z0JoMTRsd25xQkdBWlVaTlFkdGtvMXRtNXE4WVZ5SEp0d3B4OHNsa2hpV2UySFVyYW5BWkdvVlFpcmh6ekpTeXNVU0VWWnJPTkJkSGR2WkVpczUzVU5WaUZlYkJoRERLeWIzZm1Uem82VEM3OTQyVEVkQ1HSAZ4BQVVfeXFMTTlyMmp1M3lDb01PX3VpM3R1RzJ2OEZvSFdxNURiMXBCbVFVQ0JKaHY5SkxzVzZjbTVsX0VhaXl5NjJEOXhXS29EcTZlTGZfaHp6dENHeVZua251cEFlekhHV0xtLXMybjVGZEdyRks4VHVHNkhycnBLbVNvTzZMNWNhU1d5bkVxbjQ3blR0SDJaYVN3TzF3OGZPeXVtTkE?oc=5",
           "sourceTier": "high",
           "headlineTitle": "Watch: Behind the scenes of Bradley Barcola's Liverpool signing day - Liverpool FC",
-          "publishedAt": "2026-09-03 14:22"
+          "publishedAt": "2026-09-03 14:19"
         },
         {
           "sourceName": "Paul Joyce monitor",
@@ -892,7 +892,7 @@
         }
       ],
       "sourceCount": 1,
-      "reviewSourceCheckedAt": "2026-08-31 21:02",
+      "reviewSourceCheckedAt": "2026-09-08 06:51",
       "originalStatus": "완료",
       "photoNeedsVerification": true
     },
