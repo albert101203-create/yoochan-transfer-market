@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-08T22:00:45.034Z",
+  "fetchedAt": "2026-09-08T22:17:08.353Z",
   "itemCount": 300,
   "items": [
     {
@@ -123,6 +123,16 @@
       "status": "완료"
     },
     {
+      "id": "https://football-italia.net/report-fiorentina-grosso-terminate-contract/",
+      "title": "Report Fiorentina could sue Grosso to terminate contract",
+      "url": "https://football-italia.net/report-fiorentina-grosso-terminate-contract/",
+      "publishedAt": "2026-09-08T22:01:03.000Z",
+      "summary": "In a strange twist, Fiorentina are reportedly planning legal action after sacking coach Fabio Grosso,...",
+      "sourceKey": "football-italia",
+      "sourceName": "Football Italia",
+      "status": "루머"
+    },
+    {
       "id": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
       "title": "European football news and transfers: Barcelona, Real Madrid, PSG, Bayern Munich latest and more",
       "url": "https://www.skysports.com/football/live-blog/11095/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
@@ -167,7 +177,7 @@
       "title": "Newcastle progress as Joe Willock strikes late to see off Millwall",
       "url": "https://www.theguardian.com/football/2026/sep/08/millwall-newcastle-carabao-cup-third-round-match-report",
       "publishedAt": "2026-09-08T21:07:57.000Z",
-      "summary": "Newcastle United did just enough to progress to the next round of the Carabao Cup against a spirited Millwall team that wasn’t so much down to the bare bones, as the bones beneath the bones. Joe Willock scored the only goal of this boisterous, fun, slightly vague early-season cup tie, finishing neatly on 81 minutes. Although by the end there was a sense both sets of fans were more or less happy with the result. Millwall for the vigour of the performance. Newcastle for the result, the clean sheet and any signs of early progress in the dawning of the age of Jaissle-ball. Continue reading...",
+      "summary": "Newcastle United did just enough in south-east London to progress to the next round of the Carabao Cup. Joe Willock scored the only goal of this boisterous, fun, slightly vague cup tie against a spirited Millwall team that wasn’t so much down to the bare bones, as the bones beneath the bones. By the end there was a sense both sets of fans were more or less happy. Millwall for the vigour of the performance. Newcastle for the result, the clean sheet and any signs of early progress in the dawning of the age of Jaissle-ball. Continue reading...",
       "sourceKey": "guardian-football",
       "sourceName": "The Guardian Football",
       "status": "업데이트"
@@ -231,6 +241,16 @@
       "sourceKey": "romano-monitor",
       "sourceName": "Fabrizio Romano 검색 모니터",
       "status": "업데이트"
+    },
+    {
+      "id": "https://www.skysports.com/football/live-blog/11678/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "title": "Newcastle transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
+      "url": "https://www.skysports.com/football/live-blog/11678/13025496/newcastle-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "publishedAt": "2026-09-08T19:00:00.000Z",
+      "summary": "Sky Sports football sitemap에서 가져온 실시간 헤드라인입니다.",
+      "sourceKey": "sky-sports",
+      "sourceName": "Sky Sports",
+      "status": "루머"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMTJlYTEwZlZkc3lrd0U3ZGNneG1kZV9MM1EwRmRocGhTYXFOM1J2czJMejR6Q0FjZ0JWQkY3cG5mRWhLVTlhODJFekpKc2Q4akNuX3k2UVN1VGkwWFpDZ2hnbmpPNzA5TWh4OFFzdkxqVDhyamFoX09BTDh3QVZKbEg1LXFpSW96blV5WnZ5QVhXbHVCZ0FCVkY3cTJiQmFlMGQ4NUtqR2x2Ymtrbkx4aVA2SEdVOFBDMkZoTnNXRXcxZGd5UElBS1pnVW9HM2pqUG40?oc=5",
@@ -713,9 +733,9 @@
       "status": "업데이트"
     },
     {
-      "id": "https://www.skysports.com/football/live-blog/11679/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "id": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
       "title": "Man City transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
-      "url": "https://www.skysports.com/football/live-blog/11679/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+      "url": "https://www.skysports.com/football/live-blog/11095/13025499/man-city-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
       "publishedAt": "2026-09-07T17:30:00.000Z",
       "summary": "Sky Sports football sitemap에서 가져온 실시간 헤드라인입니다.",
       "sourceKey": "sky-sports",
@@ -2334,10 +2354,10 @@
     },
     {
       "id": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPenhKNjMtUVdOSDVZM2dWLURIY2Zzd25ZRGd1M1E4cFVEZDFVNG5MSk1ISXRFdFpTU1hKT1phN1ROemJyckhnYldXekFlaHJUVHV5ejhLdFFMS0FFNUI5TUF3dGV3RkNPVjJhRnVLM3RnT21HMG55R3R4NFhfRElBb0RwNGZldWFad09mb0E3aldGNXZQZjkzX1NHZVkwRHc?oc=5",
-      "title": "The Premier League’s obscene transfer window has broken football - The Independent",
+      "title": "The Premier League’s obscene transfer window has broken football - independent.co.uk",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPenhKNjMtUVdOSDVZM2dWLURIY2Zzd25ZRGd1M1E4cFVEZDFVNG5MSk1ISXRFdFpTU1hKT1phN1ROemJyckhnYldXekFlaHJUVHV5ejhLdFFMS0FFNUI5TUF3dGV3RkNPVjJhRnVLM3RnT21HMG55R3R4NFhfRElBb0RwNGZldWFad09mb0E3aldGNXZQZjkzX1NHZVkwRHc?oc=5",
       "publishedAt": "2026-09-02T08:38:00.000Z",
-      "summary": "The Premier League’s obscene transfer window has broken football &nbsp;&nbsp; The Independent",
+      "summary": "The Premier League’s obscene transfer window has broken football &nbsp;&nbsp; independent.co.uk",
       "sourceKey": "miguel-delaney-monitor",
       "sourceName": "Miguel Delaney monitor",
       "status": "업데이트"
@@ -2384,10 +2404,10 @@
     },
     {
       "id": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTFYwSFdoTzExVExyakpFRWg0U2J6VlBXMDBzVkE5ZDZjLUNHVThwcVRjY2s4S1lvVXRWX0lkcTNqek8wbnNqNkNWYWs3LTdTbG1SMHQ0LUFuZ0tQVnl0QzVPMVQtSGE0R093TGN2Sy1wT0RoNEhWcDRSRlFCQ2d1a2pQakR0UFB2VFVsR1BRb2JPWjdGVlFBSGRveDVFQWtQekVUWHVFQ2RfWTgzRlJzSg?oc=5",
-      "title": "Arsenal’s big transfer failure leaves Mikel Arteta with one choice - The Independent",
+      "title": "Arsenal’s big transfer failure leaves Mikel Arteta with one choice - independent.co.uk",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTFYwSFdoTzExVExyakpFRWg0U2J6VlBXMDBzVkE5ZDZjLUNHVThwcVRjY2s4S1lvVXRWX0lkcTNqek8wbnNqNkNWYWs3LTdTbG1SMHQ0LUFuZ0tQVnl0QzVPMVQtSGE0R093TGN2Sy1wT0RoNEhWcDRSRlFCQ2d1a2pQakR0UFB2VFVsR1BRb2JPWjdGVlFBSGRveDVFQWtQekVUWHVFQ2RfWTgzRlJzSg?oc=5",
       "publishedAt": "2026-09-02T07:55:00.000Z",
-      "summary": "Arsenal’s big transfer failure leaves Mikel Arteta with one choice &nbsp;&nbsp; The Independent",
+      "summary": "Arsenal’s big transfer failure leaves Mikel Arteta with one choice &nbsp;&nbsp; independent.co.uk",
       "sourceKey": "miguel-delaney-monitor",
       "sourceName": "Miguel Delaney monitor",
       "status": "업데이트"
@@ -2580,6 +2600,16 @@
       "summary": "Every Premier League transfer on deadline day as Liverpool confirms last-minute deal &nbsp;&nbsp; Yahoo Sports UK",
       "sourceKey": "premier-league-transfer-monitor",
       "sourceName": "Premier League transfer monitor",
+      "status": "업데이트"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pNGNWNUhITnkyYjh2b0VRVlNBMFZkRE5TZmZwNk1tTTdic1M5QkZBdV9leGFQNzZ4d29pRUZOWHZneTFLNTRYQ3ctUDFlUHZ1ekE?oc=5",
+      "title": "FOLARIN BALOGUN’S MOVE TO EVERTON IS OFF ❌ After an earlier issue with his medical, Balogun’s move from Monaco to Everton was renegotiated, but the USMNT striker eventually walked away from the deal, reports The Athletic’s David Ornstein. - instagram.com",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9pNGNWNUhITnkyYjh2b0VRVlNBMFZkRE5TZmZwNk1tTTdic1M5QkZBdV9leGFQNzZ4d29pRUZOWHZneTFLNTRYQ3ctUDFlUHZ1ekE?oc=5",
+      "publishedAt": "2026-09-01T23:35:55.000Z",
+      "summary": "FOLARIN BALOGUN’S MOVE TO EVERTON IS OFF ❌ After an earlier issue with his medical, Balogun’s move from Monaco to Everton was renegotiated, but the USMNT striker eventually walked away from the deal, reports The Athletic’s David Ornstein. &nbsp;&nbsp; instagram.com",
+      "sourceKey": "instagram-indirect-monitor",
+      "sourceName": "Instagram 간접 검색 모니터",
       "status": "업데이트"
     },
     {
@@ -2853,16 +2883,6 @@
       "status": "업데이트"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPT2ZuZzZxZDdXWGtUQXhoR0dMMFByWXlTMVZwREhDaTVVdkdYZ3U1aG85eHlDUmkzb204THdzZTNYd2Jjb1pyZDF5amczVmFYcEFUMnFxZ0hUcTlvT0UxcWVuY1QwQ2hiY1BhcDdycll5M1FnbzI4d0k2NUY0UElYRUV3Z1FQWTlzTTVhMmVEUnRuM2ZVRFFGMGVtTVJMUnc3TUlJ?oc=5",
-      "title": "Mykhailo Mudryk completes season-long loan switch | News | Official Site - Chelsea Football Club",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPT2ZuZzZxZDdXWGtUQXhoR0dMMFByWXlTMVZwREhDaTVVdkdYZ3U1aG85eHlDUmkzb204THdzZTNYd2Jjb1pyZDF5amczVmFYcEFUMnFxZ0hUcTlvT0UxcWVuY1QwQ2hiY1BhcDdycll5M1FnbzI4d0k2NUY0UElYRUV3Z1FQWTlzTTVhMmVEUnRuM2ZVRFFGMGVtTVJMUnc3TUlJ?oc=5",
-      "publishedAt": "2026-09-01T21:00:00.000Z",
-      "summary": "Mykhailo Mudryk completes season-long loan switch | News | Official Site &nbsp;&nbsp; Chelsea Football Club",
-      "sourceKey": "official-chelsea-monitor",
-      "sourceName": "Chelsea official-site monitor",
-      "status": "완료"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVU56WE5NM2xvMWpLY0RzQkZhUUFpOTdEYmtMTzkyTGx3OEFaRUFPRGhucTkwU2IzSWxyWTRDY1Z0eGFSalRWRHU2dkc4WWRwZXhPS280M3NqZWhlUlJHZzZDSDJncmIzZU54ZzBXeGlGSGxiRTU1MGU1d1pjUXZjUW9wWkVadWZ0NEFGLTVfcDNlUzlq?oc=5",
       "title": "Chelsea agree £47m Lamine Camara transfer with Monaco - The Athletic - The New York Times",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVU56WE5NM2xvMWpLY0RzQkZhUUFpOTdEYmtMTzkyTGx3OEFaRUFPRGhucTkwU2IzSWxyWTRDY1Z0eGFSalRWRHU2dkc4WWRwZXhPS280M3NqZWhlUlJHZzZDSDJncmIzZU54ZzBXeGlGSGxiRTU1MGU1d1pjUXZjUW9wWkVadWZ0NEFGLTVfcDNlUzlq?oc=5",
@@ -2923,6 +2943,16 @@
       "status": "완료"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4yLTVNZUdVZC01cGdfdG1IRmxDbkNVbnRPXzRqVU5JNjh5ZC1RSVdiUmZra0xlQkwxSmhyY1NpVklFbTZMZ3A0U1RDZm9qeHZhbGc?oc=5",
+      "title": "🚨 David Ornstein on Chelsea's transfer activity: \"There were some reports about Lucas Bergvall [to Chelsea], not the case at all, and loads of names that were being floated around that were just simply not the case.\" * @DavidOrnstein - instagram.com",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4yLTVNZUdVZC01cGdfdG1IRmxDbkNVbnRPXzRqVU5JNjh5ZC1RSVdiUmZra0xlQkwxSmhyY1NpVklFbTZMZ3A0U1RDZm9qeHZhbGc?oc=5",
+      "publishedAt": "2026-09-01T20:05:40.000Z",
+      "summary": "🚨 David Ornstein on Chelsea's transfer activity: \"There were some reports about Lucas Bergvall [to Chelsea], not the case at all, and loads of names that were being floated around that were just simply not the case.\" * @DavidOrnstein &nbsp;&nbsp; instagram.com",
+      "sourceKey": "instagram-indirect-monitor",
+      "sourceName": "Instagram 간접 검색 모니터",
+      "status": "업데이트"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lOGZObGNPckhJcm1TQ3lDWE9zSzlhMERCLWl1SDFlejhSYWdrVmdfSy0xenpIcXBKRjEyU3lWbWEwQzRvQXJMT0xwZkVGdFFiOFdIN2NTQ2UxSWhDNmFZOWk1ekxOQktLR1E?oc=5",
       "title": "Birmingham City transfer news: Liam Millar signs on loan from Hull City - BBC",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1lOGZObGNPckhJcm1TQ3lDWE9zSzlhMERCLWl1SDFlejhSYWdrVmdfSy0xenpIcXBKRjEyU3lWbWEwQzRvQXJMT0xwZkVGdFFiOFdIN2NTQ2UxSWhDNmFZOWk1ekxOQktLR1E?oc=5",
@@ -2971,36 +3001,6 @@
       "sourceKey": "bluesky-ornstein",
       "sourceName": "David Ornstein Bluesky",
       "status": "업데이트"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qR1Z4MktOSmdxMU90LWtRX3ZsZXJyN0JLRE9Tczk4X2dVUDRuclYxSzNoY3ZMZUVoS2dZWWRBLXl3cU14WklOTmdROXFmcTlHR3VNMGtHQlhhT2xhRVk3RE0xT1lrWGs?oc=5",
-      "title": "West Ham United transfer news: Morato signs on loan from Nottingham Forest - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qR1Z4MktOSmdxMU90LWtRX3ZsZXJyN0JLRE9Tczk4X2dVUDRuclYxSzNoY3ZMZUVoS2dZWWRBLXl3cU14WklOTmdROXFmcTlHR3VNMGtHQlhhT2xhRVk3RE0xT1lrWGs?oc=5",
-      "publishedAt": "2026-09-01T19:03:54.000Z",
-      "summary": "West Ham United transfer news: Morato signs on loan from Nottingham Forest &nbsp;&nbsp; BBC",
-      "sourceKey": "global-transfer-monitor",
-      "sourceName": "Global transfer news monitor",
-      "status": "완료"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9XdVFnTkN4NFNXSWZHZnlZdjByVm1yMmdEODNjSVFUZEtYRFhXMk1jd2JuYzlCbkdaTF9sczdLOVlQQmZRelQ4YzlkNGpfWGt0VlhOLXNmNFpEY0NxLU5oSHM1OUhnTFZIeF9ZcllBNlBCRnYwdmxVUDhaN3A?oc=5",
-      "title": "Robert Sanchez departs on loan | News | Official Site - Chelsea Football Club",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9XdVFnTkN4NFNXSWZHZnlZdjByVm1yMmdEODNjSVFUZEtYRFhXMk1jd2JuYzlCbkdaTF9sczdLOVlQQmZRelQ4YzlkNGpfWGt0VlhOLXNmNFpEY0NxLU5oSHM1OUhnTFZIeF9ZcllBNlBCRnYwdmxVUDhaN3A?oc=5",
-      "publishedAt": "2026-09-01T19:00:00.000Z",
-      "summary": "Robert Sanchez departs on loan | News | Official Site &nbsp;&nbsp; Chelsea Football Club",
-      "sourceKey": "official-chelsea-monitor",
-      "sourceName": "Chelsea official-site monitor",
-      "status": "완료"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWWRBSnVubF93VFlhQlc4T1l6R3A0RHNIZnMtN29aTWxqM01KWVZoZGtDd3pFMUNiaUE3UkpwUFVXTjF6bmI1NnFZLUFEVWpSeFdrUEpRNktlMHNhdFIxVF9RbHNOcnZLRUgwMTE4QXJZdFowbHVJd09oX21CMlo0N3E4b3UzQkw0MzhBeXo1bGR4SGJsTEt0LWVUV3lYejZPUmk5TFlZTnF0SG5a?oc=5",
-      "title": "Agreement with Venezia FC for the transfer of Toni Fernández - FC Barcelona",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWWRBSnVubF93VFlhQlc4T1l6R3A0RHNIZnMtN29aTWxqM01KWVZoZGtDd3pFMUNiaUE3UkpwUFVXTjF6bmI1NnFZLUFEVWpSeFdrUEpRNktlMHNhdFIxVF9RbHNOcnZLRUgwMTE4QXJZdFowbHVJd09oX21CMlo0N3E4b3UzQkw0MzhBeXo1bGR4SGJsTEt0LWVUV3lYejZPUmk5TFlZTnF0SG5a?oc=5",
-      "publishedAt": "2026-09-01T18:45:16.000Z",
-      "summary": "Agreement with Venezia FC for the transfer of Toni Fernández &nbsp;&nbsp; FC Barcelona",
-      "sourceKey": "official-barcelona-monitor",
-      "sourceName": "Barcelona official-site monitor",
-      "status": "업데이트"
     }
   ],
   "sourceHealth": [
@@ -3012,7 +3012,7 @@
     {
       "source": "Sky Sports sitemap",
       "ok": true,
-      "count": 21
+      "count": 22
     },
     {
       "source": "ESPN FC page",
@@ -3032,7 +3032,7 @@
     {
       "source": "Football Italia RSS",
       "ok": true,
-      "count": 0
+      "count": 1
     },
     {
       "source": "Global transfer news Google News",
@@ -3052,7 +3052,7 @@
     {
       "source": "Fabrizio Romano Google News",
       "ok": true,
-      "count": 90
+      "count": 91
     },
     {
       "source": "David Ornstein Google News",
@@ -3062,7 +3062,7 @@
     {
       "source": "The Athletic Google News",
       "ok": true,
-      "count": 14
+      "count": 15
     },
     {
       "source": "Gianluca Di Marzio Google News",
@@ -3092,7 +3092,7 @@
     {
       "source": "Santi Aouna Google News",
       "ok": true,
-      "count": 53
+      "count": 52
     },
     {
       "source": "Tom Barclay Google News",
@@ -3137,7 +3137,7 @@
     {
       "source": "David Hytner Google News",
       "ok": true,
-      "count": 30
+      "count": 28
     },
     {
       "source": "Paul Joyce Google News",
@@ -3172,7 +3172,7 @@
     {
       "source": "David Ornstein Instagram mentions",
       "ok": true,
-      "count": 83
+      "count": 84
     },
     {
       "source": "Matteo Moretto Instagram mentions",
