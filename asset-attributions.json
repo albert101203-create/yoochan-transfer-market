@@ -1534,5 +1534,23 @@
     "sourcePage": "https://en.wikipedia.org/wiki/Jake_O'Brien_(footballer)",
     "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Jake_O%27Brien_in_2024.png/330px-Jake_O%27Brien_in_2024.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
+  },
+  "./assets/players/leicester-city-1be3e97a.webp": {
+    "name": "Leicester City",
+    "sourcePage": "https://en.wikipedia.org/wiki/Leicester_City_F.C.",
+    "sourceImage": "https://thumb.wikimedia.org/wikipedia/en/thumb/2/2d/Leicester_City_crest.svg/330px-Leicester_City_crest.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
+  },
+  "./assets/players/danny-ings-3690154d.jpg": {
+    "name": "Danny Ings",
+    "sourcePage": "https://en.wikipedia.org/wiki/Danny_Ings",
+    "sourceImage": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Ings_West_Ham.jpeg/330px-Ings_West_Ham.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
+  },
+  "./assets/players/lewis-hall-139cab11.jpg": {
+    "name": "Lewis Hall",
+    "sourcePage": "https://en.wikipedia.org/wiki/Lewis_Hall_(footballer)",
+    "sourceImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Lewis_Hall_24052026_%282%29.jpg/330px-Lewis_Hall_24052026_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "note": "Downloaded from a Wikipedia/Wikimedia thumbnail; verify the image license before redistribution."
   }
 }
