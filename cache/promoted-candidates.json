@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-10T23:56:43.515Z",
-  "basedOnGeneratedAt": "2026-09-10T23:56:43.510Z",
+  "generatedAt": "2026-09-11T00:14:35.511Z",
+  "basedOnGeneratedAt": "2026-09-11T00:14:35.505Z",
   "itemCount": 30,
   "items": [
     {
@@ -184,7 +184,7 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "토트넘 공식 발표에서 직접 추출한 완료 카드입니다.",
       "publishedAt": "2026-07-08 07:00",
-      "lastVerifiedAt": "2026-09-10 23:56",
+      "lastVerifiedAt": "2026-09-11 00:14",
       "extractionConfidence": "high",
       "extractionPattern": "joins-headline-shape",
       "needsVerification": false,
