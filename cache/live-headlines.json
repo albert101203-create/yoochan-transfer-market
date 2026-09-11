@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-11T23:29:27.331Z",
+  "fetchedAt": "2026-09-11T23:39:58.125Z",
   "itemCount": 300,
   "items": [
     {
@@ -51,6 +51,16 @@
       "sourceKey": "official-tottenham-monitor",
       "sourceName": "Tottenham official-site monitor",
       "status": "업데이트"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wd2taVmdHQU9CZjRSelNXUWNDMjBJR1A5cFJRTDUySTFBZzdGVWxxdlV1a1NrbEVCUjFVOUdqY3F2bFZYeTdyZHVCb1d2aGlWcU9PcDNacTdPQzRNZFVkRGs0eEhVYk53U3FjMlhPOWtNN0lmYjktcTdfMF9GWU0?oc=5",
+      "title": "Phillips joins Middlesbrough - Tottenham Hotspur",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wd2taVmdHQU9CZjRSelNXUWNDMjBJR1A5cFJRTDUySTFBZzdGVWxxdlV1a1NrbEVCUjFVOUdqY3F2bFZYeTdyZHVCb1d2aGlWcU9PcDNacTdPQzRNZFVkRGs0eEhVYk53U3FjMlhPOWtNN0lmYjktcTdfMF9GWU0?oc=5",
+      "publishedAt": "2026-08-15T07:00:00.000Z",
+      "summary": "Phillips joins Middlesbrough &nbsp;&nbsp; Tottenham Hotspur",
+      "sourceKey": "official-tottenham-monitor",
+      "sourceName": "Tottenham official-site monitor",
+      "status": "완료"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPN0h1ZERzTXJPLWJfdEpBVWFtcU1ERXdQc1ZwdGFOR0dXU2prWUVUWno2eWM2UTJjaS0wb2JFb0I1ekFjajJIbG1ybmRVS0RmRzdhdHB5X011dmVzdW9MX2RzbXUtRG1hckRvc3MzY3loaGJZR1VZQlJLWkdXQnhyX0Rfbw?oc=5",
@@ -108,16 +118,6 @@
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5meG5NOHkzOGN4b3NPaU94YzZYcjM0N0E2SXpmSzU1R05reXkwVEloUmtSVFRHamtONXRremtGSUJ6T3RRSExleHhUcFdvSmZCbDAtNGwyb1hYdzg4a0lYam5oTFF4R0JHa1FWNFlpRmhLQnpZV0tUWTE5VQ?oc=5",
       "publishedAt": "2026-07-08T07:00:00.000Z",
       "summary": "Dragusin joins Fiorentina &nbsp;&nbsp; Tottenham Hotspur",
-      "sourceKey": "official-tottenham-monitor",
-      "sourceName": "Tottenham official-site monitor",
-      "status": "완료"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWFBxX2JaRlpRZm5XdEdia3NyYkdEY0RQME5zUC1nTlgxWXZVam5DQzNBU25KdWR3OVAtMEtQMkRmbUNPTjM2N29SNFVzZ3laYmpxTDFqZG1MTHUwWV9ybDJLX01iWU5ENC1RUGJIZ0Q3U21WdGhOc2RWdGJtOE1WSUtB?oc=5",
-      "title": "Ramsey joins Under-21s - Tottenham Hotspur",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWFBxX2JaRlpRZm5XdEdia3NyYkdEY0RQME5zUC1nTlgxWXZVam5DQzNBU25KdWR3OVAtMEtQMkRmbUNPTjM2N29SNFVzZ3laYmpxTDFqZG1MTHUwWV9ybDJLX01iWU5ENC1RUGJIZ0Q3U21WdGhOc2RWdGJtOE1WSUtB?oc=5",
-      "publishedAt": "2026-07-07T07:00:00.000Z",
-      "summary": "Ramsey joins Under-21s &nbsp;&nbsp; Tottenham Hotspur",
       "sourceKey": "official-tottenham-monitor",
       "sourceName": "Tottenham official-site monitor",
       "status": "완료"
@@ -604,10 +604,10 @@
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rakpwOThfTmVXNjFKUEZLSDljODBOVW1ET1VvMklKN3BvQUpxNU8xZlJPR2JtMm45QlhkeWFQTFZvSE8yaVhwdFVrWFI1dnUzN3hVQ1AzZFQwanBmek81R19kZ3ZXMHc?oc=5",
-      "title": "Tottenham news: Lucas Bergvall signs new deal, while there is no news on Richarlison - bbc.com",
+      "title": "Tottenham news: Lucas Bergvall signs new deal, while there is no news on Richarlison - BBC",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rakpwOThfTmVXNjFKUEZLSDljODBOVW1ET1VvMklKN3BvQUpxNU8xZlJPR2JtMm45QlhkeWFQTFZvSE8yaVhwdFVrWFI1dnUzN3hVQ1AzZFQwanBmek81R19kZ3ZXMHc?oc=5",
       "publishedAt": "2026-09-11T12:01:37.000Z",
-      "summary": "Tottenham news: Lucas Bergvall signs new deal, while there is no news on Richarlison &nbsp;&nbsp; bbc.com",
+      "summary": "Tottenham news: Lucas Bergvall signs new deal, while there is no news on Richarlison &nbsp;&nbsp; BBC",
       "sourceKey": "tottenham-transfer-news-monitor",
       "sourceName": "Tottenham transfer news monitor",
       "status": "완료"
@@ -894,10 +894,10 @@
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1hWmVoNWhlYnpDTk5jMkZMaFI3RmhxanRxVlhOUXBhdzA4VFdRWXdhVF83U0cyVUpwbEJOYy1iWTYtdkFIbGtTZUJQdVZpWVExS2Z1aE5RSDhBR2xaQmxLcm5sdi1WZEU?oc=5",
-      "title": "Richarlison: Brazil striker and Tottenham Hotspur in dispute over contract - bbc.com",
+      "title": "Richarlison: Brazil striker and Tottenham Hotspur in dispute over contract - BBC",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1hWmVoNWhlYnpDTk5jMkZMaFI3RmhxanRxVlhOUXBhdzA4VFdRWXdhVF83U0cyVUpwbEJOYy1iWTYtdkFIbGtTZUJQdVZpWVExS2Z1aE5RSDhBR2xaQmxLcm5sdi1WZEU?oc=5",
       "publishedAt": "2026-09-10T18:48:12.000Z",
-      "summary": "Richarlison: Brazil striker and Tottenham Hotspur in dispute over contract &nbsp;&nbsp; bbc.com",
+      "summary": "Richarlison: Brazil striker and Tottenham Hotspur in dispute over contract &nbsp;&nbsp; BBC",
       "sourceKey": "tottenham-transfer-news-monitor",
       "sourceName": "Tottenham transfer news monitor",
       "status": "업데이트"
@@ -934,10 +934,10 @@
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oaG1VM1g4WHJfdEtrdmhzVWhzVGt1T2JrT0Z0d3VtVGxzNFlvWDhEYXUtUGFZMHJ5QUI5SXdfSXR4aGtINUlYVVRCNGk0c2FlNk1RTmoySE5SUmtzRGFfazRlN3l4eFk?oc=5",
-      "title": "Washington Spirit sign Luvanga - but is it a record deal? - bbc.com",
+      "title": "Washington Spirit sign Luvanga - but is it a record deal? - BBC",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oaG1VM1g4WHJfdEtrdmhzVWhzVGt1T2JrT0Z0d3VtVGxzNFlvWDhEYXUtUGFZMHJ5QUI5SXdfSXR4aGtINUlYVVRCNGk0c2FlNk1RTmoySE5SUmtzRGFfazRlN3l4eFk?oc=5",
       "publishedAt": "2026-09-10T16:10:00.000Z",
-      "summary": "Washington Spirit sign Luvanga - but is it a record deal? &nbsp;&nbsp; bbc.com",
+      "summary": "Washington Spirit sign Luvanga - but is it a record deal? &nbsp;&nbsp; BBC",
       "sourceKey": "global-transfer-monitor",
       "sourceName": "Global transfer news monitor",
       "status": "업데이트"
@@ -1044,10 +1044,10 @@
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE04dElmY3NHM1B1TzdBZ2pKNXFxTnFBZ19rNDNkVkZ5MFpHX3pyWFFiZzNCZ1o0R2IyN2FvZHo0VWQxWG1vYmxaa2R2a2Zxbi1ycXpTeFhsM1FERUU5d2daZGhOeURZVUE?oc=5",
-      "title": "Arsenal close to finalising new contract for Arteta - bbc.com",
+      "title": "Arsenal close to finalising new contract for Arteta - BBC",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE04dElmY3NHM1B1TzdBZ2pKNXFxTnFBZ19rNDNkVkZ5MFpHX3pyWFFiZzNCZ1o0R2IyN2FvZHo0VWQxWG1vYmxaa2R2a2Zxbi1ycXpTeFhsM1FERUU5d2daZGhOeURZVUE?oc=5",
       "publishedAt": "2026-09-10T14:16:06.000Z",
-      "summary": "Arsenal close to finalising new contract for Arteta &nbsp;&nbsp; bbc.com",
+      "summary": "Arsenal close to finalising new contract for Arteta &nbsp;&nbsp; BBC",
       "sourceKey": "sami-mokbel-monitor",
       "sourceName": "Sami Mokbel monitor",
       "status": "업데이트"
@@ -1713,16 +1713,6 @@
       "status": "업데이트"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaXJyRU9MVE45ZXgwaE5keE9Ha1FudEZMSFVIX01PWTY2NlZ2cnRmLU1jaWNzeFp0QWU1U1YyU0djbWZ5Rm82ZGRQTkxDNVNLLUVfdHhkWFdXQTlyYnFiblNfRUdCQzdXamFhVXB1UWpjOHpYbDNKcl9NaE9ING9mS3c0NnpFSmcxeWZQZ2R3cndaeTkybDFJbw?oc=5",
-      "title": "Manchester City confirm Enzo Fernandez signing from Chelsea - The New York Times",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOaXJyRU9MVE45ZXgwaE5keE9Ha1FudEZMSFVIX01PWTY2NlZ2cnRmLU1jaWNzeFp0QWU1U1YyU0djbWZ5Rm82ZGRQTkxDNVNLLUVfdHhkWFdXQTlyYnFiblNfRUdCQzdXamFhVXB1UWpjOHpYbDNKcl9NaE9ING9mS3c0NnpFSmcxeWZQZ2R3cndaeTkybDFJbw?oc=5",
-      "publishedAt": "2026-09-06T07:00:00.000Z",
-      "summary": "Manchester City confirm Enzo Fernandez signing from Chelsea &nbsp;&nbsp; The New York Times",
-      "sourceKey": "ornstein-monitor",
-      "sourceName": "David Ornstein 검색 모니터",
-      "status": "업데이트"
-    },
-    {
       "id": "https://www.bbc.co.uk/sport/football/articles/cz7z09v9pp1o?at_medium=RSS&at_campaign=rss",
       "title": "Arsenal had more than 20 players on shortlist to capitalise on title win",
       "url": "https://www.bbc.co.uk/sport/football/articles/cz7z09v9pp1o?at_medium=RSS&at_campaign=rss",
@@ -1734,10 +1724,10 @@
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91NjQxdV9OczdzS3pxSmdZZ0NXNVdKTkdlMS1sODcwTEVFS1diYm9mLUJZd3pPd1ZpQVhlcHVzTkg4NjJoc2syYktJdWUtTTJsOGd2NF9ZSjRnUFRyeVJOd2haZFhEbUk?oc=5",
-      "title": "Arsenal transfer news: Gunners had more than 20 players on summer shortlist - bbc.com",
+      "title": "Arsenal transfer news: Gunners had more than 20 players on summer shortlist - BBC",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91NjQxdV9OczdzS3pxSmdZZ0NXNVdKTkdlMS1sODcwTEVFS1diYm9mLUJZd3pPd1ZpQVhlcHVzTkg4NjJoc2syYktJdWUtTTJsOGd2NF9ZSjRnUFRyeVJOd2haZFhEbUk?oc=5",
       "publishedAt": "2026-09-05T19:08:30.000Z",
-      "summary": "Arsenal transfer news: Gunners had more than 20 players on summer shortlist &nbsp;&nbsp; bbc.com",
+      "summary": "Arsenal transfer news: Gunners had more than 20 players on summer shortlist &nbsp;&nbsp; BBC",
       "sourceKey": "sami-mokbel-monitor",
       "sourceName": "Sami Mokbel monitor",
       "status": "루머"
@@ -1971,6 +1961,16 @@
       "sourceKey": "official-chelsea-monitor",
       "sourceName": "Chelsea official-site monitor",
       "status": "완료"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGWnhFSGxuUDRlZmZza0ItU28xbGhIRDNLaFpFU05aNHE2TFd2UGs5MndBVl9oWWZtNXd1TTZPYTBnUDE3aUVKLURBNEExaWxRYVFPckdiTFd4by0xdTNIQw?oc=5",
+      "title": "David Ornstein REVEALS Arsenal's Transfer Plans After Champions League Final Defeat 💰 Jack Hughes (MgZVqbjGl2) - Mshale",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBGWnhFSGxuUDRlZmZza0ItU28xbGhIRDNLaFpFU05aNHE2TFd2UGs5MndBVl9oWWZtNXd1TTZPYTBnUDE3aUVKLURBNEExaWxRYVFPckdiTFd4by0xdTNIQw?oc=5",
+      "publishedAt": "2026-09-04T09:50:14.000Z",
+      "summary": "David Ornstein REVEALS Arsenal's Transfer Plans After Champions League Final Defeat 💰 Jack Hughes (MgZVqbjGl2) &nbsp;&nbsp; Mshale",
+      "sourceKey": "ornstein-monitor",
+      "sourceName": "David Ornstein 검색 모니터",
+      "status": "업데이트"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbjBJbkdSbUxCdUhUUHlrYUZqODF1TUFjTDhhcXl6MXg1THQxY0ZPY1BuWHM0eGt1WWszcWNBNXdPczZkWmxQbXpjYkZhbFNBRmNCMUNJNE5JZGtwMFQ2dDVjc0QzMlFTZlNqWXMwTTk5UnZJTHh2U2VSUXk0QVZjUjNRN1d3MHktQTNCT0hn?oc=5",
@@ -2248,8 +2248,8 @@
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRVMwR2RXSWhlZ0ZyZnFHdGE1UHdGVnhrdkllY3VqSnZ0S3doa296UjI3OXh2UHUxcDhMYkRBem81M1ZGMXQ0bkhDdXk2STZfZkZ2OGZMbHM5SlljUXNVYWliNm5OVHY2Ty1CMUE4Rnp0cDEwOGM0UEo3Y3dnZXZQU09HaHBhZk5DaUVvSWdLdmRYY253WW5iWERoRHlwOGVIT2RLZzhTMUxKSmx5RlgyX2FUcXJjRWJWMnFJVEF1enlIYXR6?oc=5",
       "publishedAt": "2026-09-03T07:00:00.000Z",
       "summary": "Tottenham’s hectic summer window: Explaining the club’s transfer and wage policy shift - The Athletic &nbsp;&nbsp; The New York Times",
-      "sourceKey": "tottenham-reporters-monitor",
-      "sourceName": "Tottenham reporters monitor",
+      "sourceKey": "jack-pitt-brooke-monitor",
+      "sourceName": "Jack Pitt-Brooke monitor",
       "status": "업데이트"
     },
     {
@@ -2344,10 +2344,10 @@
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA0Rk9WQXhKWGVGeFRzYUJiM2trOTlVc0FjODEwTVd1SEc1dl92VmNNNC1aZ2M0b1FpeUJSN013M3B1UnZyMFhIeFVNSjJ6TUNzb2VuRkJMUkRmdkp2TEYyRUtUNTMybWs?oc=5",
-      "title": "Swansea City transfer news: Manchester City winger Jeremy Monga joins on loan - bbc.com",
+      "title": "Swansea City transfer news: Manchester City winger Jeremy Monga joins on loan - BBC",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA0Rk9WQXhKWGVGeFRzYUJiM2trOTlVc0FjODEwTVd1SEc1dl92VmNNNC1aZ2M0b1FpeUJSN013M3B1UnZyMFhIeFVNSjJ6TUNzb2VuRkJMUkRmdkp2TEYyRUtUNTMybWs?oc=5",
       "publishedAt": "2026-09-02T07:00:00.000Z",
-      "summary": "Swansea City transfer news: Manchester City winger Jeremy Monga joins on loan &nbsp;&nbsp; bbc.com",
+      "summary": "Swansea City transfer news: Manchester City winger Jeremy Monga joins on loan &nbsp;&nbsp; BBC",
       "sourceKey": "global-transfer-monitor",
       "sourceName": "Global transfer news monitor",
       "status": "완료"
@@ -2464,10 +2464,10 @@
     },
     {
       "id": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMDhkbVNTNUVTd1JxVXlRRkl2X0Q5OHR3VHpBanE1aXhma0hlVG9tbGVsa2xPWGRPS0QySEJOZXdsYkV3Qk9OWE9tZjg2a053dDFtQ0doMU9VcGwxSnFQdTUxQTZHV05kcWNtS3BqMDNJeXk4T00yenBYX0ZmOG1QVE9abFNWVVZjZ1BkanVUd0hrTHlQQ2xZV3FpYXZSSFRPWUNLRkpCY25RcTBOVkhDenNLc2RJeTjSAbwBQVVfeXFMT01MelRXRU9DZ1Q2Q3UzX3A2NS1MSTUtaUwyZV9TUnJqN2VaMzEwTVFXSzNMMFRNTy03LU9aTC1xU092eHdiX3M5OVVZSk1GLUNzTjU0MG80akgtelVjNVJJVmlBbzZ1WEhsdndHWjJrN0p4R2V2MHNxWHRvaHp1d0ItMkhzZEs1RTdyVmNRNjNuV0x5MmhVX1J0X3JFNHRRTWNEbkFOTnJ6bTcwc1hFUzVFQ3NJajBWbzN6dDM?oc=5",
-      "title": "Summer transfers 2026: All to know as Premier League signings break records - aljazeera.com",
+      "title": "Summer transfers 2026: All to know as Premier League signings break records - Al Jazeera",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMDhkbVNTNUVTd1JxVXlRRkl2X0Q5OHR3VHpBanE1aXhma0hlVG9tbGVsa2xPWGRPS0QySEJOZXdsYkV3Qk9OWE9tZjg2a053dDFtQ0doMU9VcGwxSnFQdTUxQTZHV05kcWNtS3BqMDNJeXk4T00yenBYX0ZmOG1QVE9abFNWVVZjZ1BkanVUd0hrTHlQQ2xZV3FpYXZSSFRPWUNLRkpCY25RcTBOVkhDenNLc2RJeTjSAbwBQVVfeXFMT01MelRXRU9DZ1Q2Q3UzX3A2NS1MSTUtaUwyZV9TUnJqN2VaMzEwTVFXSzNMMFRNTy03LU9aTC1xU092eHdiX3M5OVVZSk1GLUNzTjU0MG80akgtelVjNVJJVmlBbzZ1WEhsdndHWjJrN0p4R2V2MHNxWHRvaHp1d0ItMkhzZEs1RTdyVmNRNjNuV0x5MmhVX1J0X3JFNHRRTWNEbkFOTnJ6bTcwc1hFUzVFQ3NJajBWbzN6dDM?oc=5",
       "publishedAt": "2026-09-02T07:00:00.000Z",
-      "summary": "Summer transfers 2026: All to know as Premier League signings break records &nbsp;&nbsp; aljazeera.com",
+      "summary": "Summer transfers 2026: All to know as Premier League signings break records &nbsp;&nbsp; Al Jazeera",
       "sourceKey": "premier-league-transfer-monitor",
       "sourceName": "Premier League transfer monitor",
       "status": "업데이트"
@@ -2883,16 +2883,6 @@
       "status": "루머"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZkUxSHFnYkZUOFI0U0tmOXN2M1ZHN3FVMG9UdG56U3ZWNkZ5ZHVHV1NCQ0FWdDhScWthRGphaGd6UFc1Z0UzVU9rSk9qR3hycmV3Y1JQQzRHa19wcFNodWFZaTcxa0d0TjFVZ210VWlBdnZwWlp3SXZXNW5WMGpXeUY4RVYwdkxaSVBRMDh6M21zLXFLTzBrdmtiaDQ4ZDlzRE1fb1FfYmRqN3NuRWxIX0dxYXdGc2NldUE?oc=5",
-      "title": "Laurie Whitwell provides a key transfer update on Man Utd striker Joshua Zirkzee - United In Focus",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZkUxSHFnYkZUOFI0U0tmOXN2M1ZHN3FVMG9UdG56U3ZWNkZ5ZHVHV1NCQ0FWdDhScWthRGphaGd6UFc1Z0UzVU9rSk9qR3hycmV3Y1JQQzRHa19wcFNodWFZaTcxa0d0TjFVZ210VWlBdnZwWlp3SXZXNW5WMGpXeUY4RVYwdkxaSVBRMDh6M21zLXFLTzBrdmtiaDQ4ZDlzRE1fb1FfYmRqN3NuRWxIX0dxYXdGc2NldUE?oc=5",
-      "publishedAt": "2026-09-01T10:52:30.000Z",
-      "summary": "Laurie Whitwell provides a key transfer update on Man Utd striker Joshua Zirkzee &nbsp;&nbsp; United In Focus",
-      "sourceKey": "laurie-whitwell-monitor",
-      "sourceName": "Laurie Whitwell monitor",
-      "status": "업데이트"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94MWJydEpHVGFPUHdZWkw3TTdHNWM5MEVjZG1xdm1nNER0RXRhaGFFamRlcGtsbVh6a1duT2FRU19Pb2pPa0NLNnAxUU9ham5yTGVkdXQ3dzRkYTFnd2FhVmpoZTRrN2Zp?oc=5",
       "title": "🚨💥 El Chadaille Bitshiabu to Galatasaray - DONE DEAL ✔️ Full agreement reached with RB Leipzig for the 21 talented y/o centre-back. Loan with an option to buy agreed. Flight today. Medical within 24 hours. Surprising exclusive News - official soon, pendin - instagram.com",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94MWJydEpHVGFPUHdZWkw3TTdHNWM5MEVjZG1xdm1nNER0RXRhaGFFamRlcGtsbVh6a1duT2FRU19Pb2pPa0NLNnAxUU9ham5yTGVkdXQ3dzRkYTFnd2FhVmpoZTRrN2Zp?oc=5",
@@ -2974,10 +2964,10 @@
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1pamlBdTI5OVJBeWFkTktFR0ZUVnJiajFpVWZyOEl2RXV1blpEOU9CRlZRblhwYV9sR0FyRC1TV2FGMGxhTm5hRmNDVWV3ckRWanRvM1pCMmJVbjAtNllnRXY1NjhVZ1E?oc=5",
-      "title": "Transfer deadline day 2026: Every done deal on deadline day - bbc.com",
+      "title": "Transfer deadline day 2026: Every done deal on deadline day - BBC",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1pamlBdTI5OVJBeWFkTktFR0ZUVnJiajFpVWZyOEl2RXV1blpEOU9CRlZRblhwYV9sR0FyRC1TV2FGMGxhTm5hRmNDVWV3ckRWanRvM1pCMmJVbjAtNllnRXY1NjhVZ1E?oc=5",
       "publishedAt": "2026-09-01T07:00:00.000Z",
-      "summary": "Transfer deadline day 2026: Every done deal on deadline day &nbsp;&nbsp; bbc.com",
+      "summary": "Transfer deadline day 2026: Every done deal on deadline day &nbsp;&nbsp; BBC",
       "sourceKey": "global-transfer-monitor",
       "sourceName": "Global transfer news monitor",
       "status": "업데이트"
@@ -3001,6 +2991,16 @@
       "sourceKey": "global-transfer-monitor",
       "sourceName": "Global transfer news monitor",
       "status": "업데이트"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdk9FSlhndG5ET0lSZXE3RlpnclBfV0xuTC05RXBJa0k3d2R5RGt5MzRXMUh4d1ptRmVuNGZwMS1XbnpZVzNlZG1mekxrQnBmUFFQUUIyNk9UeEk4bnFyNkJESmg3NnZrSXJoSUUzTlhhQVBlcUZ6bF9CZ3ZiNjY2eUV3UzdCSVJx?oc=5",
+      "title": "Liverpool transfer news: LIVE updates, rumours and deals - ESPN",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdk9FSlhndG5ET0lSZXE3RlpnclBfV0xuTC05RXBJa0k3d2R5RGt5MzRXMUh4d1ptRmVuNGZwMS1XbnpZVzNlZG1mekxrQnBmUFFQUUIyNk9UeEk4bnFyNkJESmg3NnZrSXJoSUUzTlhhQVBlcUZ6bF9CZ3ZiNjY2eUV3UzdCSVJx?oc=5",
+      "publishedAt": "2026-09-01T07:00:00.000Z",
+      "summary": "Liverpool transfer news: LIVE updates, rumours and deals &nbsp;&nbsp; ESPN",
+      "sourceKey": "global-transfer-monitor",
+      "sourceName": "Global transfer news monitor",
+      "status": "루머"
     }
   ],
   "sourceHealth": [
@@ -3087,7 +3087,7 @@
     {
       "source": "Kaveh Solhekol Google News",
       "ok": true,
-      "count": 34
+      "count": 33
     },
     {
       "source": "Santi Aouna Google News",
@@ -3097,7 +3097,7 @@
     {
       "source": "Tom Barclay Google News",
       "ok": true,
-      "count": 35
+      "count": 34
     },
     {
       "source": "Sami Mokbel Google News",
@@ -3107,12 +3107,12 @@
     {
       "source": "Mike McGrath Google News",
       "ok": true,
-      "count": 38
+      "count": 37
     },
     {
       "source": "James Pearce Google News",
       "ok": true,
-      "count": 52
+      "count": 50
     },
     {
       "source": "Laurie Whitwell Google News",
@@ -3122,7 +3122,7 @@
     {
       "source": "Simon Stone Google News",
       "ok": true,
-      "count": 48
+      "count": 47
     },
     {
       "source": "Rob Dawson Google News",
@@ -3142,7 +3142,7 @@
     {
       "source": "Paul Joyce Google News",
       "ok": true,
-      "count": 47
+      "count": 46
     },
     {
       "source": "Fabrice Hawkins Google News",
@@ -3232,7 +3232,7 @@
     {
       "source": "Tottenham reporters Google News",
       "ok": true,
-      "count": 50
+      "count": 49
     },
     {
       "source": "Michael Bridge Tottenham monitor",
@@ -3242,7 +3242,7 @@
     {
       "source": "Charlie Eccleshare Tottenham monitor",
       "ok": true,
-      "count": 28
+      "count": 30
     },
     {
       "source": "Jack Pitt-Brooke Tottenham monitor",
@@ -3267,7 +3267,7 @@
     {
       "source": "The Athletic Tottenham monitor",
       "ok": true,
-      "count": 7
+      "count": 8
     },
     {
       "source": "Sky Sports Tottenham monitor",
