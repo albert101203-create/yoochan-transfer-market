@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-12T03:09:48.439Z",
-  "basedOnGeneratedAt": "2026-09-12T03:09:48.433Z",
+  "generatedAt": "2026-09-12T03:23:49.760Z",
+  "basedOnGeneratedAt": "2026-09-12T03:23:49.754Z",
   "itemCount": 30,
   "items": [
     {
@@ -184,17 +184,17 @@
       "sourceType": "자동 추출 초안",
       "sourceReason": "토트넘 공식 발표에서 직접 추출한 완료 카드입니다.",
       "publishedAt": "2026-07-08 07:00",
-      "lastVerifiedAt": "2026-09-12 02:47",
+      "lastVerifiedAt": "2026-09-12 03:23",
       "extractionConfidence": "high",
       "extractionPattern": "joins-headline-shape",
       "needsVerification": false,
-      "headlineTitle": "Dragusin joins Fiorentina - tottenhamhotspur.com",
+      "headlineTitle": "Dragusin joins Fiorentina - Tottenham Hotspur",
       "sourceLinks": [
         {
           "sourceName": "Tottenham official-site monitor",
           "sourceUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5meG5NOHkzOGN4b3NPaU94YzZYcjM0N0E2SXpmSzU1R05reXkwVEloUmtSVFRHamtONXRremtGSUJ6T3RRSExleHhUcFdvSmZCbDAtNGwyb1hYdzg4a0lYam5oTFF4R0JHa1FWNFlpRmhLQnpZV0tUWTE5VQ?oc=5",
           "sourceTier": "high",
-          "headlineTitle": "Dragusin joins Fiorentina - tottenhamhotspur.com",
+          "headlineTitle": "Dragusin joins Fiorentina - Tottenham Hotspur",
           "publishedAt": "2026-07-08 07:00"
         }
       ],
