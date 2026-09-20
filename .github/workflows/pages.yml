@@ -19,6 +19,9 @@ concurrency:
 
 jobs:
   deploy:
+    # A temporary GitHub Pages/action outage must not turn into a red run or
+    # replace the last successfully deployed site.
+    continue-on-error: true
     if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
     environment:

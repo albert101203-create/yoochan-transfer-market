@@ -6,6 +6,7 @@ const PORT = Number(process.env.PORT || 4173);
 const BASE_DIR = __dirname;
 const CACHE_TTL_MS = 90 * 1000;
 const BACKGROUND_REFRESH_MS = 120 * 1000;
+const BACKGROUND_COLLECTION_ENABLED = false;
 const CACHE_DIR = path.join(BASE_DIR, "cache");
 const LIVE_CACHE_FILE = path.join(CACHE_DIR, "live-headlines.json");
 const DRAFT_CACHE_FILE = path.join(CACHE_DIR, "auto-drafts.json");
@@ -1420,7 +1421,9 @@ function normalizeDraftRecord(draft) {
   const title = normalizeWhitespace(normalized.headlineTitle || "");
   if (title && shouldSkipDraftTitle(title)) return null;
   if (normalized.headlineTitle) normalized.headlineTitle = String(normalized.headlineTitle).replace(/\uFFFD/g, "");
-  if (normalized.sourceReason) normalized.sourceReason = String(normalized.sourceReason).replace(/\uFFFD/g, "");
+  if (normalized.sourceReason) {
+    normalized.sourceReason = cleanReviewReason(String(normalized.sourceReason).replace(/\uFFFD/g, ""));
+  }
 
   // Repair recurring headline-parser edge cases before validating assets.
   // Re-check common review-queue headlines on every collection run.
@@ -3227,6 +3230,12 @@ async function fetchReviewSource(url) {
   }
 }
 
+function cleanReviewReason(reason = "") {
+  return normalizeWhitespace(reason)
+    .replace(/\s+[? .,:;!?]{20,}$/g, "")
+    .trim();
+}
+
 async function enrichReviewCandidate(item) {
   const urls = [
     item.sourceUrl,
@@ -3250,6 +3259,7 @@ async function enrichReviewCandidate(item) {
     );
     if (!reparsed) continue;
 
+    const stableReason = cleanReviewReason(reparsed.sourceReason || item.sourceReason || "");
     return {
       ...item,
       ...reparsed,
@@ -3257,9 +3267,7 @@ async function enrichReviewCandidate(item) {
       articleImageUrl: page.image || item.articleImageUrl || "",
       reviewSourceCheckedAt: formatStamp(),
       reviewSourceUrl: page.canonical || page.url,
-      sourceReason: reparsed.needsVerification
-        ? `${reparsed.sourceReason || ""} ?? ??? ?? ???? ????? ?? ?? ??? ?????.`
-        : reparsed.sourceReason,
+      sourceReason: stableReason || item.sourceReason,
     };
   }
 
@@ -3526,10 +3534,14 @@ function startServer() {
   server.listen(PORT, "127.0.0.1", () => {
     console.log(`Transfer app server running at http://127.0.0.1:${PORT}`);
     console.log(
-      `Background collection enabled: every ${Math.round(BACKGROUND_REFRESH_MS / 1000)} seconds`
+      BACKGROUND_COLLECTION_ENABLED
+        ? `Background collection enabled: every ${Math.round(BACKGROUND_REFRESH_MS / 1000)} seconds`
+        : "Transfer collection disabled: retired/frozen mode"
     );
-    refreshAllData("startup").catch(() => {});
-    setInterval(() => refreshAllData("scheduled").catch(() => {}), BACKGROUND_REFRESH_MS);
+    if (BACKGROUND_COLLECTION_ENABLED) {
+      refreshAllData("startup").catch(() => {});
+      setInterval(() => refreshAllData("scheduled").catch(() => {}), BACKGROUND_REFRESH_MS);
+    }
   });
 }
 
